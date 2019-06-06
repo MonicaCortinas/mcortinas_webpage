@@ -5,10 +5,22 @@
     <link>/es/tags/e-commerce/</link>
     <description>Recent content in e-commerce on Mónica Cortiñas. Personal site</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/es/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence in Retailing</title>
+      <link>/es/project/artificial-intelligence/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/artificial-intelligence/</guid>
+      <description>&lt;p&gt;El desarrollo de la inteligencia artificial está teniendo un impacto importantísimo en campos como el mercado laboral, los sistemas de control de suministro energético, los mercados financieros y también la toma de decisiones de consumo y la forma en la que los individuos se relacionan con las empresas.&lt;/p&gt;
+
+&lt;p&gt;En este proyecto estamos trabajando en desarrollar las implicaciones del desarrollo de la inteligencia artificial para el marketing y el retailing, especialmente en el ámbito del e-commerce.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Attention to Online Channels across the Path to Purchase: An Eye-Tracking Study</title>
@@ -35,6 +47,26 @@
       
       <guid>/es/publication/2018_sij/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Visual attention in e-commerce</title>
+      <link>/es/project/eyetracking-visualattention/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/eyetracking-visualattention/</guid>
+      <description>&lt;p&gt;En este proyecto en curso utilizamos técnicas de eye-tracking para analizar los procesos de atención al sitio web en comercio electrónico.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omnichannel behavior</title>
+      <link>/es/project/omnichannel-behavior/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/omnichannel-behavior/</guid>
+      <description>&lt;p&gt;El denominado fenómeno omnicanal ha tenido un crecimiento exponencial en la última década. En este proyecto exploramos cómo podemos caracterizarlo y qué implicaciones tiene para la estrategia en retailing.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

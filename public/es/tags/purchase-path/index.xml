@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>purchase path on Mónica Cortiñas. Personal site</title>
+    <link>/es/tags/purchase-path/</link>
+    <description>Recent content in purchase path on Mónica Cortiñas. Personal site</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/es/tags/purchase-path/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visual attention in e-commerce</title>
+      <link>/es/project/eyetracking-visualattention/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/eyetracking-visualattention/</guid>
+      <description>&lt;p&gt;En este proyecto en curso utilizamos técnicas de eye-tracking para analizar los procesos de atención al sitio web en comercio electrónico.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

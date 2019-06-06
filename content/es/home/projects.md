@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Proyectos en Curso"
+title = "Proyectos"
 subtitle = ""
 
 [content]
@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Todos"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "En curso"
+    tag = "En curso"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Finalizados"
+    tag = "Finalizado"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

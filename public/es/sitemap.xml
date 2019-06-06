@@ -94,6 +94,83 @@
   </url>
   
   <url>
+    <loc>/es/tags/artificial-intelligence/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/project/artificial-intelligence/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/en-curso/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/project/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/recommendation-bots/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/retailing/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/retailing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/e-commerce/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/es/authors/admin/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -152,6 +229,12 @@
   </url>
   
   <url>
+    <loc>/es/tags/customer-journey/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/es/publication/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -190,34 +273,6 @@
   
   <url>
     <loc>/es/authors/raquel-chocarro/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/customer-journey/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/tags/e-commerce/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -290,22 +345,6 @@
     <loc>/es/tags/online-retailing/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/tags/retailing/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/retailing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/retailing/"
-                />
   </url>
   
   <url>
@@ -508,55 +547,37 @@
   </url>
   
   <url>
-    <loc>/es/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/deep-learning/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/es/project/eyetracking-visualattention/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/purchase-path/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/es/project/mobile-games/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/project/omnichannel-behavior/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/es/tags/mobile-gaming/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/project/"
-                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/services-marketing/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/e-sports/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -683,6 +704,23 @@
                 hreflang="es"
                 href="/es/tags/regression/"
                 />
+  </url>
+  
+  <url>
+    <loc>/es/tags/omnichannel-behavior/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/project/omnichannel-behavior/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/online-shopping/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services marketing on Mónica Cortiñas. Personal site</title>
+    <link>/es/tags/services-marketing/</link>
+    <description>Recent content in Services marketing on Mónica Cortiñas. Personal site</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <lastBuildDate>Sat, 27 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/es/tags/services-marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile and traditional games</title>
+      <link>/es/project/mobile-games/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/mobile-games/</guid>
+      <description>&lt;p&gt;En este proyecto en curso, en el que se está desarrollando una tesis doctoral, analizamos la relación y las diferencuas entre el consumo de videojuegos en plataformas móviles y plataformas tradicionales.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

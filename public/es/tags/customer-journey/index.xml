@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>customer journey on Mónica Cortiñas. Personal site</title>
+    <title>Customer journey on Mónica Cortiñas. Personal site</title>
     <link>/es/tags/customer-journey/</link>
-    <description>Recent content in customer journey on Mónica Cortiñas. Personal site</description>
+    <description>Recent content in Customer journey on Mónica Cortiñas. Personal site</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
@@ -17,6 +17,16 @@
       
       <guid>/es/publication/2019_ecra/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel behavior</title>
+      <link>/es/project/omnichannel-behavior/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/es/project/omnichannel-behavior/</guid>
+      <description>&lt;p&gt;El denominado fenómeno omnicanal ha tenido un crecimiento exponencial en la última década. En este proyecto exploramos cómo podemos caracterizarlo y qué implicaciones tiene para la estrategia en retailing.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

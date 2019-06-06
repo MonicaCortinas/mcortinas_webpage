@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/PkauYYJwdTQ)'
   focal_point: ""
   preview_only: false
-projects: []
+projects: [eyetracking-visualattention]
 publication: '*Electronic Commerce Research and Applications*, forthcoming'
 publication_short: "Electronic Commerce Research and Applications"
 publication_types:
