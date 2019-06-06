@@ -1,48 +1,54 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Doctorado en Administración y Dirección de Empresas
+    institution: Universidad Pública de Navarra
+    year: 2003
+  - course: Licenciatura en Administración y Dirección de Empresas
+    institution: Universidad Pública de Navarra
+    year: 1996  
+email: "mcortinas@unavarra.es"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- <i class="fas fa-shopping-cart"></i> Comercio Electrónico 
+- <i class="fas fa-digital-tachograph"></i> Nuevas tecnologías 
+- <i class="fas fa-chalkboard"></i> Innovación docente 
+- <i class="fab fa-r-project"></i> Programadora aficionada
+
+name: Mónica Cortiñas
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Universidad Pública de Navarra
+  url: "http://www.unavarra.es/"
+role: Profesora de Marketing
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:mcortinas@unavarra.es'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MonicaCortinas
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=sbfzOhkAAAAJ&hl=es
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Monica_Cortinas    
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/m%C3%B3nica-corti%C3%B1as-ugalde-82043033/ 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MonicaCortinas
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/mcortinasu/ 
+  
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Profesora de Marketing en la Universidad Pública de Navarra.
