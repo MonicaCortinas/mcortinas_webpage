@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on bla</title>
+    <title>Authors on Mónica Cortiñas</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on bla</description>
+    <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
@@ -17,10 +18,35 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Alberto Ibañez Fernandez</title>
+      <link>/authors/alberto-iba%C3%B1ez-fernandez/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alberto-iba%C3%B1ez-fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gyanendra Singh Sisodia</title>
+      <link>/authors/gyanendra-singh-sisodia/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gyanendra-singh-sisodia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Reinares Lara</title>
+      <link>/authors/pedro-reinares-lara/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pedro-reinares-lara/</guid>
+      <description></description>
     </item>
     
     <item>

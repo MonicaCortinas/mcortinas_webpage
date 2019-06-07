@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: Publicaciones
-view: 6
+view: all
 ---

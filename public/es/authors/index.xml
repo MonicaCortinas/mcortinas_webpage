@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Mónica Cortiñas. Personal site</title>
+    <title>Authors on Mónica Cortiñas</title>
     <link>/es/authors/</link>
-    <description>Recent content in Authors on Mónica Cortiñas. Personal site</description>
+    <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/es/authors/index.xml" rel="self" type="application/rss+xml" />

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Retailing on Mónica Cortiñas. Personal site</title>
+    <title>Retailing on Mónica Cortiñas</title>
     <link>/en/tags/retailing/</link>
-    <description>Recent content in Retailing on Mónica Cortiñas. Personal site</description>
+    <description>Recent content in Retailing on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/en/tags/retailing/index.xml" rel="self" type="application/rss+xml" />

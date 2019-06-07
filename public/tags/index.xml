@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on bla</title>
+    <title>Tags on Mónica Cortiñas</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on bla</description>
+    <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -17,6 +18,33 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distintive Competencies</title>
+      <link>/tags/distintive-competencies/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/distintive-competencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retailing</title>
+      <link>/tags/retailing/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/retailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>/tags/strategy/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/strategy/</guid>
       <description></description>
     </item>
     

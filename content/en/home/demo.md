@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome"
+title = " "
 subtitle = ""
 
 [design]
@@ -29,11 +29,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/joanna.jpg"  # Name of image in `static/img/`.
+  image = "headers/green.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -47,8 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-In this page I gather information about my research interests, publications and talks. The Spanish version of the site also contains teaching materials and hosts my personal blog.
+In this page I gather information about my research interests, publications and talks. The Spanish version of the site also contains teaching materials and hosts my personal blog. Someone once said that the best way to not forget something was to write it and here I try to put it into practice.
 
-Someone once said that the best way to not forget something was to write it and here I try to put it into practice.
-
-The site is created with [Hugo] (https://gohugo.io/), from [Blogdown] (https://bookdown.org/yihui/blogdown/) and [R Studio] (https: //www.rstudio .com /), so that the creation of the site serves as a practice with <i class="fab fa-r-project"></i> and <i class="fas fa-code"></i>.
+The site is created with [<i class="fas fa-code"></i> Hugo](https://gohugo.io/), [Blogdown](https://bookdown.org/yihui/blogdown/) and [<i class="fab fa-r-project"></i>  Studio](https://www.rstudio.com/).

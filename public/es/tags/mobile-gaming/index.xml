@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile gaming on Mónica Cortiñas. Personal site</title>
+    <title>Mobile gaming on Mónica Cortiñas</title>
     <link>/es/tags/mobile-gaming/</link>
-    <description>Recent content in Mobile gaming on Mónica Cortiñas. Personal site</description>
+    <description>Recent content in Mobile gaming on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Sat, 27 May 2017 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/es/tags/mobile-gaming/index.xml" rel="self" type="application/rss+xml" />

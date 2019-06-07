@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/courses/example/example1/"
+                href="/courses/example/example1/"
                 />
   </url>
   
   <url>
-    <loc>/en/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/courses/example/"
+                href="/courses/example/"
                 />
   </url>
   
   <url>
-    <loc>/en/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -43,12 +43,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/courses/example/example2/"
+                href="/courses/example/example2/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -58,12 +58,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/example/"
+                href="/talk/example/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -74,12 +74,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -89,12 +89,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/"
+                href="/talk/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -104,12 +104,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/admin/"
+                href="/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/3/</loc>
+    <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -120,17 +120,17 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/3/"
+                href="/publication_types/3/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/preprint/</loc>
+    <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -141,12 +141,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="/authors/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -157,12 +157,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -172,18 +172,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="/publication/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/source-themes/</loc>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -194,12 +194,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/jupyter/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -209,12 +209,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/jupyter/"
+                href="/post/jupyter/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -224,12 +224,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/"
+                href="/post/"
                 />
   </url>
   
   <url>
-    <loc>/en/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -240,12 +240,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/slides/"
+                href="/slides/"
                 />
   </url>
   
   <url>
-    <loc>/en/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -255,12 +255,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/slides/example/"
+                href="/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>/en/privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -270,12 +270,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/privacy/"
+                href="/privacy/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -286,12 +286,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/2/"
+                href="/publication_types/2/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/alberto-iba%C3%B1ez-fernandez/</loc>
+    <loc>/authors/alberto-iba%C3%B1ez-fernandez/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -302,12 +302,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/alberto-iba%C3%B1ez-fernandez/"
+                href="/authors/alberto-iba%C3%B1ez-fernandez/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2018_jrcs/</loc>
+    <loc>/publication/2018_jrcs/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -317,12 +317,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2018_jrcs/"
+                href="/publication/2018_jrcs/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/distintive-competencies/</loc>
+    <loc>/tags/distintive-competencies/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -333,12 +333,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/distintive-competencies/"
+                href="/tags/distintive-competencies/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/gyanendra-singh-sisodia/</loc>
+    <loc>/authors/gyanendra-singh-sisodia/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -349,12 +349,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/gyanendra-singh-sisodia/"
+                href="/authors/gyanendra-singh-sisodia/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/pedro-reinares-lara/</loc>
+    <loc>/authors/pedro-reinares-lara/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -365,12 +365,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/pedro-reinares-lara/"
+                href="/authors/pedro-reinares-lara/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/retailing/</loc>
+    <loc>/tags/retailing/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -381,12 +381,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/retailing/"
+                href="/tags/retailing/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/strategy/</loc>
+    <loc>/tags/strategy/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -397,34 +397,34 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/strategy/"
+                href="/tags/strategy/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/deep-learning/</loc>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/en/tags/demo/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/en/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -435,12 +435,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/"
+                href="/project/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/academic/</loc>
+    <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -451,12 +451,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/academic/"
+                href="/tags/academic/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -466,23 +466,23 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/getting-started/"
+                href="/post/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/journal-article/</loc>
+    <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/authors/robert-ford/</loc>
+    <loc>/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -493,12 +493,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -508,12 +508,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/2015-07-23-r-rmarkdown/"
+                href="/post/2015-07-23-r-rmarkdown/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -524,12 +524,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/r/"
+                href="/categories/r/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -540,12 +540,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/r-markdown/"
+                href="/tags/r-markdown/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -556,12 +556,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/plot/"
+                href="/tags/plot/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
@@ -572,23 +572,23 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/regression/"
+                href="/tags/regression/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/1/</loc>
+    <loc>/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/en/publication/conference-paper/</loc>
+    <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/courses/</loc>
+    <loc>/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -597,7 +597,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/courses/"
+                href="/courses/"
                 />
   </url>
   

@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Mónica Cortiñas">
 
   
   
@@ -30,6 +30,8 @@
   
   <meta name="description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials.">
 
+  
+  <link rel="alternate" hreflang="es" href="/es/courses/example/">
   
   <link rel="alternate" hreflang="en-us" href="/courses/example/">
 
@@ -41,7 +43,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
   
 
   
@@ -62,8 +64,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
@@ -82,7 +84,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.747d92dc45be93ba6055a623fe5bcc0a.css">
+  <link rel="stylesheet" href="/css/academic.min.86be757f1f4d547e884bf0757b242687.css">
 
   
 
@@ -91,8 +93,8 @@
   
 
   
-  <link rel="alternate" href="/courses/example/index.xml" type="application/rss+xml" title="bla">
-  <link rel="feed" href="/courses/example/index.xml" type="application/rss+xml" title="bla">
+  <link rel="alternate" href="/courses/example/index.xml" type="application/rss+xml" title="Mónica Cortiñas">
+  <link rel="feed" href="/courses/example/index.xml" type="application/rss+xml" title="Mónica Cortiñas">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -110,9 +112,12 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="bla">
+  <meta property="twitter:site" content="@MonicaCortinas">
+  <meta property="twitter:creator" content="@MonicaCortinas">
+  
+  <meta property="og:site_name" content="Mónica Cortiñas">
   <meta property="og:url" content="/courses/example/">
-  <meta property="og:title" content="Overview | bla">
+  <meta property="og:title" content="Overview | Mónica Cortiñas">
   <meta property="og:description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
@@ -128,12 +133,12 @@
 
 
 
-  <title>Overview | bla</title>
+  <title>Overview | Mónica Cortiñas</title>
 
 </head>
 
 
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -172,7 +177,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">bla</a>
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Mónica Cortiñas"></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -185,7 +190,7 @@
 
       
       
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         
 
         
@@ -240,7 +245,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -289,38 +294,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/talk/"><span>Recent Talks</span></a>
         </li>
 
         
@@ -356,9 +332,6 @@
         
 
       
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
 
         
 
@@ -369,11 +342,23 @@
         
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            <i class="fas fa-globe" aria-hidden="true"></i>
+            <span>English</span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/es/courses/example/">
+                <span>Español</span>
+              </a>
+            </li>
+            
+          </ul>
         </li>
+        
+
         
 
       </ul>
@@ -538,7 +523,7 @@
   
 
   <p class="powered-by">
-    
+    Mónica Cortiñas &copy; 2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
