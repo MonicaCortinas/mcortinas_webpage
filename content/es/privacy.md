@@ -8,11 +8,11 @@ share: false
 title: Política de Privacidad
 ---
 
-Ningún contenido en este sitio web requiere que el usuario se identifique. La única información personal que se recopila mientras visita este sitio es información no identificable, como el tipo de navegador y el sistema operativo. 
+Ningún contenido en este sitio web requiere que el usuario se identifique. La única información personal que se recopila en la visita a este sitio es información no atribuible a un único usuario, como el tipo de navegador y el sistema operativo de acceso. 
 
 Google Analytics recopila esta información para medir el tráfico de visitantes a este sitio.
 
-Comor responsable del sitio, no recopilo esta información y no tengo acceso a ella más que como informes agregados. Aquí está la página de privacidad de [Google Analytics](https://support.google.com/analytics/answer/2838718?hl=es). 
+Comor responsable del sitio, no almaceno esta información y no tengo acceso a ella más que como informes agregados. Aquí está la página de privacidad de [Google Analytics](https://support.google.com/analytics/answer/2838718?hl=es). 
 
 Esta información se recoge a través de cookies. La mayoría de los navegadores web le permiten controlar el manejo de las cookies. Puede deshabilitar todas las cookies de este sitio web sin reducir de ninguna manera la funcionalidad para usted.
 
