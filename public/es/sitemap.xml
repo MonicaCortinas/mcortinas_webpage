@@ -97,11 +97,31 @@
     <loc>/es/tags/artificial-intelligence/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/artificial-intelligence/"
+                />
   </url>
   
   <url>
     <loc>/es/project/artificial-intelligence/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/artificial-intelligence/"
+                />
   </url>
   
   <url>
@@ -130,6 +150,16 @@
     <loc>/es/tags/recommendation-bots/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/recommendation-bots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/recommendation-bots/"
+                />
   </url>
   
   <url>
@@ -168,6 +198,16 @@
     <loc>/es/tags/e-commerce/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/e-commerce/"
+                />
   </url>
   
   <url>
@@ -205,11 +245,31 @@
     <loc>/es/authors/arantxa-villanueva/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/arantxa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/arantxa-villanueva/"
+                />
   </url>
   
   <url>
     <loc>/es/publication/2019_ecra/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2019_ecra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2019_ecra/"
+                />
   </url>
   
   <url>
@@ -232,6 +292,16 @@
     <loc>/es/tags/customer-journey/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/customer-journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/customer-journey/"
+                />
   </url>
   
   <url>
@@ -269,36 +339,96 @@
     <loc>/es/authors/rafael-cabeza/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/rafael-cabeza/"
+                />
   </url>
   
   <url>
     <loc>/es/authors/raquel-chocarro/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/raquel-chocarro/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/experimental-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/experimental-design/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/eye-tracking/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/eye-tracking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/eye-tracking/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/omnichannel-strategy/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/omnichannel-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/omnichannel-strategy/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/purchase-task/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/purchase-task/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/purchase-task/"
+                />
   </url>
   
   <url>
@@ -321,41 +451,111 @@
     <loc>/es/tags/channel-policies/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/channel-policies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/channel-policies/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/distribution-services/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/distribution-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/distribution-services/"
+                />
   </url>
   
   <url>
     <loc>/es/authors/margarita-elorz/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/margarita-elorz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/margarita-elorz/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/omnichannel/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/omnichannel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/omnichannel/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/online-retailing/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/online-retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/online-retailing/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/segmentation/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/segmentation/"
+                />
   </url>
   
   <url>
     <loc>/es/publication/2019_ssrn/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2019_ssrn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2019_ssrn/"
+                />
   </url>
   
   <url>
@@ -422,18 +622,48 @@
   <url>
     <loc>/es/publication/2018_sij/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2018_sij/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2018_sij/"
+                />
   </url>
   
   <url>
     <loc>/es/authors/mar%C3%ADa-luisa-villanueva/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mar%C3%ADa-luisa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/mar%C3%ADa-luisa-villanueva/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/service-sector/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/service-sector/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/service-sector/"
+                />
   </url>
   
   <url>
@@ -549,35 +779,95 @@
   <url>
     <loc>/es/project/eyetracking-visualattention/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/eyetracking-visualattention/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/eyetracking-visualattention/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/purchase-path/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/purchase-path/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/purchase-path/"
+                />
   </url>
   
   <url>
     <loc>/es/project/mobile-games/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/mobile-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/mobile-games/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/mobile-gaming/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/mobile-gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/mobile-gaming/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/services-marketing/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/services-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/services-marketing/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/e-sports/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/e-sports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/e-sports/"
+                />
   </url>
   
   <url>
@@ -707,20 +997,71 @@
   </url>
   
   <url>
-    <loc>/es/tags/omnichannel-behavior/</loc>
+    <loc>/es/tags/finalizado/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/es/tags/omnichannel-behavior/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/omnichannel-behavior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/omnichannel-behavior/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/project/omnichannel-behavior/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/omnichannel-behavior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/omnichannel-behavior/"
+                />
   </url>
   
   <url>
     <loc>/es/tags/online-shopping/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/online-shopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/online-shopping/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/project/services-marketing/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/services-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/services-marketing/"
+                />
   </url>
   
   <url>

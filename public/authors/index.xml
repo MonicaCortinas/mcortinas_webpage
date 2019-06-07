@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,56 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Arantxa Villanueva</title>
+      <link>/authors/arantxa-villanueva/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/arantxa-villanueva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Cabeza</title>
+      <link>/authors/rafael-cabeza/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rafael-cabeza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/authors/raquel-chocarro/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/raquel-chocarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margarita Elorz</title>
+      <link>/authors/margarita-elorz/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/margarita-elorz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Luisa Villanueva</title>
+      <link>/authors/mar%C3%ADa-luisa-villanueva/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mar%C3%ADa-luisa-villanueva/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -46,15 +91,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/pedro-reinares-lara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     

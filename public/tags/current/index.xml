@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on Mónica Cortiñas</title>
+    <link>/tags/current/</link>
+    <description>Recent content in Current on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence in Retailing</title>
+      <link>/project/artificial-intelligence/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/artificial-intelligence/</guid>
+      <description>&lt;p&gt;The development of artificial intelligence is impacting heavily in fields such as the labor market, energy supply control systems, financial markets and also consumer decision-making and the way in which individuals relate to companies.&lt;/p&gt;
+
+&lt;p&gt;In this project we are working on the implications of the development of artificial intelligence for marketing and retailing, especially in the field of e-commerce.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual attention in e-commerce</title>
+      <link>/project/eyetracking-visualattention/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/eyetracking-visualattention/</guid>
+      <description>&lt;p&gt;In this ongoing project we use eye-tracking techniques to analyze the processes of attention to the website in electronic commerce.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile and traditional videogames</title>
+      <link>/project/mobile-games/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mobile-games/</guid>
+      <description>&lt;p&gt;In this ongoing project, in which a doctoral thesis is being developed, we analyze the relationship and the differences between the consumption of video games on mobile platforms and traditional platforms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omnichannel behavior</title>
+      <link>/project/omnichannel-behavior/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/omnichannel-behavior/</guid>
+      <description>&lt;p&gt;The so-called omnichannel phenomenon has had an exponential growth in the last decade. In this project we explore how we can characterize it and what implications it has for retailing strategy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

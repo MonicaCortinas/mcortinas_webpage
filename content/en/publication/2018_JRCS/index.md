@@ -7,14 +7,14 @@ authors:
 - Gyanendra Singh Sisodia
 date: "2018-05-01T00:00:00Z"
 doi: "10.1016/j.jretconser.2018.01.007"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/eBW1nlFdZFw)'
   focal_point: ""
   preview_only: false
-projects: []
+projects: [services-marketing]
 publication: '*Journal of Retailing and Consumer Services*, 42(1), 29-36'
-publication_short: "JRCS"
+publication_short: "Journal of Retailing and Consumer Services"
 publication_types:
 - "2"
 publishDate: "2018-05-01T00:00:00Z"
@@ -34,12 +34,4 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

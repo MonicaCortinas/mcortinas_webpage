@@ -7,17 +7,152 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <title>Artificial Intelligence</title>
+      <link>/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current</title>
+      <link>/tags/current/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation bots</title>
+      <link>/tags/recommendation-bots/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recommendation-bots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retailing</title>
+      <link>/tags/retailing/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/retailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>/tags/e-commerce/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer journey</title>
+      <link>/tags/customer-journey/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/customer-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental design</title>
+      <link>/tags/experimental-design/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experimental-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye-tracking</title>
+      <link>/tags/eye-tracking/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel strategy</title>
+      <link>/tags/omnichannel-strategy/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purchase task</title>
+      <link>/tags/purchase-task/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/purchase-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel Policies</title>
+      <link>/tags/channel-policies/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/channel-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution Services</title>
+      <link>/tags/distribution-services/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/distribution-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel</title>
+      <link>/tags/omnichannel/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Retailing</title>
+      <link>/tags/online-retailing/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/online-retailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>/tags/segmentation/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service sector</title>
+      <link>/tags/service-sector/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/service-sector/</guid>
       <description></description>
     </item>
     
@@ -31,15 +166,6 @@
     </item>
     
     <item>
-      <title>Retailing</title>
-      <link>/tags/retailing/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/retailing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Strategy</title>
       <link>/tags/strategy/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -49,20 +175,38 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>purchase path</title>
+      <link>/tags/purchase-path/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/purchase-path/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Mobile gaming</title>
+      <link>/tags/mobile-gaming/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/mobile-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services marketing</title>
+      <link>/tags/services-marketing/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/services-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-sports</title>
+      <link>/tags/e-sports/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/e-sports/</guid>
       <description></description>
     </item>
     
@@ -99,6 +243,33 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel behavior</title>
+      <link>/tags/omnichannel-behavior/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online shopping</title>
+      <link>/tags/online-shopping/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/online-shopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/tags/other/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/other/</guid>
       <description></description>
     </item>
     

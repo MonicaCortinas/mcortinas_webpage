@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eye-tracking on Mónica Cortiñas</title>
+    <link>/tags/eye-tracking/</link>
+    <description>Recent content in eye-tracking on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attention to Online Channels across the Path to Purchase: An Eye-Tracking Study</title>
+      <link>/publication/2019_ecra/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_ecra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual attention in e-commerce</title>
+      <link>/project/eyetracking-visualattention/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/eyetracking-visualattention/</guid>
+      <description>&lt;p&gt;In this ongoing project we use eye-tracking techniques to analyze the processes of attention to the website in electronic commerce.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

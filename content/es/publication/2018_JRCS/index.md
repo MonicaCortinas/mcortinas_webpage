@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/eBW1nlFdZFw)'
   focal_point: ""
   preview_only: false
-projects: []
+projects: [services-marketing]
 publication: '*Journal of Retailing and Consumer Services*, 42(1), 29-36'
 publication_short: "Journal of Retailing and Consumer Services"
 publication_types:
