@@ -19,10 +19,10 @@ copyright = "Mónica Cortiñas &copy; 2019"
   [privacy.disqus]
     disable = false
   [privacy.googleAnalytics]
-    anonymizeIP = false
+    anonymizeIP = true
     disable = false
-    respectDoNotTrack = false
-    useSessionStorage = false
+    respectDoNotTrack = true
+    useSessionStorage = true
   [privacy.instagram]
     disable = false
     simple = false

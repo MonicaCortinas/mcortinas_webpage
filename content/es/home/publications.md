@@ -66,4 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-
+{{% alert note %}}
+También puedes explorar estos contenidos [filtrando publicaciones]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}

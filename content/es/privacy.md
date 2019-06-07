@@ -5,25 +5,19 @@ header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: Política de Privacidad
 ---
 
-This website uses cookies to ensure you get the best experience on our website. ...
+Ningún contenido en este sitio web requiere que el usuario se identifique. La única información personal que se recopila mientras visita este sitio es información no identificable, como el tipo de navegador y el sistema operativo. 
 
+Google Analytics recopila esta información para medir el tráfico de visitantes a este sitio.
 
-Privacy Policy
+Comor responsable del sitio, no recopilo esta información y no tengo acceso a ella más que como informes agregados. Aquí está la página de privacidad de [Google Analytics](https://support.google.com/analytics/answer/2838718?hl=es). 
 
-Nothing on this website requires you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.
+Esta información se recoge a través de cookies. La mayoría de los navegadores web le permiten controlar el manejo de las cookies. Puede deshabilitar todas las cookies de este sitio web sin reducir de ninguna manera la funcionalidad para usted.
 
-I do not collect this information and have no access to it other than as aggregated reports. Here is the Google Analytics privacy page.
+He diseñado este sitio web para que su dirección IP sea anónima dentro de Google Analytics y se respete la solicitud de "No rastrear".
 
-This information is collected via cookies. Most web browsers allow you to control handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you.
+No recopilo su información personal, por lo que no hay nada que pueda compartir con terceras partes.
 
-I have designed this website so that your IP address is anonymised within Google Analytics and the “Do Not Track” request is respected.
-
-I don’t collect your personal information, so there is nothing I can share.
-
-Google Analytics does collect some information about you. See the Google Analytics privacy page.
-
-For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.
-
+Para que cada visitante acceda al sitio, Google Analytics recopila la siguiente información de identificación no personal, que incluye, entre otros, el tipo de navegador, la versión y el idioma, el sistema operativo, las páginas visitadas mientras navega por el sitio, los tiempos de acceso a la página y la dirección del sitio web de referencia. Esta información se me presenta como informes agregados con el fin de evaluar el tráfico y las tendencias de los visitantes.

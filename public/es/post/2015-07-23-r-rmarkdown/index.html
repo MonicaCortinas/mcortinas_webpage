@@ -129,6 +129,32 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
 
   
 
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "hsl(339, 90%, 68%)",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "hsl(339, 90%, 68%)"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Este sitio web utiliza cookies para garantizarle una mejor experiencia.",
+        "dismiss": "Entendido!",
+        "link": "Más información",
+        "href": "/es/privacy/"
+      }
+    })});
+</script>
+
+
 
   
 
@@ -890,7 +916,7 @@ Figure 1: A fancy pie chart.
     <footer class="site-footer">
   
   <p class="powered-by">
-    <a href="/es/privacy/">Privacy Policy</a>
+    <a href="/es/privacy/">Política de Privacidad</a>
   </p>
   
 
