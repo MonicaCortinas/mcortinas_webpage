@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omnichannel on Mónica Cortiñas</title>
+    <title>omnichannel on Mónica Cortiñas</title>
     <link>/es/tags/omnichannel/</link>
-    <description>Recent content in Omnichannel on Mónica Cortiñas</description>
+    <description>Recent content in omnichannel on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/es/tags/omnichannel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
+      <link>/es/publication/2019_earcd/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2019_earcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
+      <link>/es/talk/2019_earcd/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/talk/2019_earcd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Do My Channels Provide to My Customers? Omni-Channel Customers versus Mono-channel Customers and the Impact of Distribution Services</title>
@@ -17,6 +35,15 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/publication/2019_ssrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel Behaviour: Definitions and Covariables</title>
+      <link>/es/talk/2019_imrc/</link>
+      <pubDate>Thu, 28 Mar 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/talk/2019_imrc/</guid>
       <description></description>
     </item>
     

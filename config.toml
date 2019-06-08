@@ -83,7 +83,6 @@ defaultContentLanguageInSubdir = true
   name = "Contact"
   url = "#contact"
   weight = 70
-  
   [languages.es]
     contentDir = "content/es"
     languageName = "Español"
@@ -105,7 +104,7 @@ defaultContentLanguageInSubdir = true
   url = "courses/"
   weight = 40
     [[languages.es.menu.main]]
-  name = "Presentaciones"
+  name = "Conferencias"
   url = "talk/"
   weight = 50
   [[languages.es.menu.main]]
