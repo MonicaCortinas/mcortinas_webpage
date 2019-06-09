@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
@@ -25,9 +25,36 @@
     <item>
       <title>Arantxa Villanueva</title>
       <link>/authors/arantxa-villanueva/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
       <guid>/authors/arantxa-villanueva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/authors/raquel-chocarro/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/raquel-chocarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Cebollada</title>
+      <link>/authors/javier-cebollada/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/javier-cebollada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Cai</title>
+      <link>/authors/xiaowei-cai/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaowei-cai/</guid>
       <description></description>
     </item>
     
@@ -37,15 +64,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/rafael-cabeza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raquel Chocarro</title>
-      <link>/authors/raquel-chocarro/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eyetracking on Mónica Cortiñas</title>
+    <link>/tags/eyetracking/</link>
+    <description>Recent content in eyetracking on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 03 Jul 2019 11:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/eyetracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
+      <link>/talk/2019_earcd/</link>
+      <pubDate>Wed, 03 Jul 2019 11:30:00 +0000</pubDate>
+      
+      <guid>/talk/2019_earcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uso del canal online en función del proceso de compra: Un estudio mediante análisis de fijación de la mirada</title>
+      <link>/talk/2018_aemark/</link>
+      <pubDate>Wed, 05 Sep 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_aemark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

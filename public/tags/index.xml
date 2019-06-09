@@ -7,10 +7,73 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>e-commerce</title>
+      <link>/tags/e-commerce/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye tracking</title>
+      <link>/tags/eye-tracking/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel</title>
+      <link>/tags/omnichannel/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual attention</title>
+      <link>/tags/visual-attention/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/visual-attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eyetracking</title>
+      <link>/tags/eyetracking/</link>
+      <pubDate>Wed, 03 Jul 2019 11:30:00 +0000</pubDate>
+      
+      <guid>/tags/eyetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile games</title>
+      <link>/tags/mobile-games/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/mobile-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videogames</title>
+      <link>/tags/videogames/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/videogames/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Artificial Intelligence</title>
@@ -49,15 +112,6 @@
     </item>
     
     <item>
-      <title>e-commerce</title>
-      <link>/tags/e-commerce/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Customer journey</title>
       <link>/tags/customer-journey/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -72,15 +126,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/experimental-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eye-tracking</title>
-      <link>/tags/eye-tracking/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/eye-tracking/</guid>
       <description></description>
     </item>
     
@@ -121,15 +166,6 @@
     </item>
     
     <item>
-      <title>Omnichannel</title>
-      <link>/tags/omnichannel/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/omnichannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Online Retailing</title>
       <link>/tags/online-retailing/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -148,11 +184,38 @@
     </item>
     
     <item>
+      <title>Omnichannel behavior</title>
+      <link>/tags/omnichannel-behavior/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Service sector</title>
       <link>/tags/service-sector/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/service-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>critocurrency</title>
+      <link>/tags/critocurrency/</link>
+      <pubDate>Fri, 15 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/critocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital economy</title>
+      <link>/tags/digital-economy/</link>
+      <pubDate>Fri, 15 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/digital-economy/</guid>
       <description></description>
     </item>
     
@@ -243,15 +306,6 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Omnichannel behavior</title>
-      <link>/tags/omnichannel-behavior/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/omnichannel-behavior/</guid>
       <description></description>
     </item>
     

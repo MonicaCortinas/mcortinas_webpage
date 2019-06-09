@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -85,27 +85,39 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
+      <link>/publication/2019_earcd/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/2019_earcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
+      <link>/talk/2019_earcd/</link>
+      <pubDate>Wed, 03 Jul 2019 11:30:00 +0000</pubDate>
+      
+      <guid>/talk/2019_earcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image, Brand and Price Info: do they always matter the same? </title>
+      <link>/publication/2019_denver/</link>
+      <pubDate>Thu, 27 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_denver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Are the Factors that Drive Traditional Videogame Players to Play Mobile Games?</title>
+      <link>/publication/2019_mkscience/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_mkscience/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -135,6 +147,24 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/2019_ssrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel Behaviour: Definitions and Covariables</title>
+      <link>/talk/2019_imrc/</link>
+      <pubDate>Thu, 28 Mar 2019 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_imrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel Behaviour: Definitions and Covariables</title>
+      <link>/publication/2019_imrc/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_imrc/</guid>
       <description></description>
     </item>
     
@@ -384,6 +414,24 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Concurso Acceso Cuerpos Docentes Universitarios.</title>
+      <link>/talk/2018_concursoacceso/</link>
+      <pubDate>Thu, 08 Nov 2018 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_concursoacceso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uso del canal online en función del proceso de compra: Un estudio mediante análisis de fijación de la mirada</title>
+      <link>/talk/2018_aemark/</link>
+      <pubDate>Wed, 05 Sep 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_aemark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Different channels for different services: information sources for services with search, experience and credence attributes</title>
       <link>/publication/2018_sij/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -408,6 +456,15 @@ $$&lt;/p&gt;
 
 &lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Monedas digitales; economía digital e IVA</title>
+      <link>/talk/2018_criptocurrencies/</link>
+      <pubDate>Fri, 15 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_criptocurrencies/</guid>
+      <description></description>
     </item>
     
     <item>
