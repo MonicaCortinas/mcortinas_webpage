@@ -1399,6 +1399,85 @@
   </url>
   
   <url>
+    <loc>/publication/2016_jim/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2016_jim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2016_jim/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/channel-choice-and-management/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/channel-choice-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/channel-choice-and-management/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/maximum-service-limits-of-channels/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/maximum-service-limits-of-channels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/maximum-service-limits-of-channels/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/online-vs.-offline-retailing/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/online-vs.-offline-retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/online-vs.-offline-retailing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/separability-across-space-and-time/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/separability-across-space-and-time/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/separability-across-space-and-time/"
+                />
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
