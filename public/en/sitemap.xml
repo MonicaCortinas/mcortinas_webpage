@@ -823,6 +823,21 @@
   </url>
   
   <url>
+    <loc>/talk/2018_uam/</loc>
+    <lastmod>2018-11-28T16:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/talk/2018_uam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/2018_uam/"
+                />
+  </url>
+  
+  <url>
     <loc>/talk/2018_concursoacceso/</loc>
     <lastmod>2018-11-08T15:00:00+00:00</lastmod>
     <xhtml:link
@@ -1088,6 +1103,82 @@
   </url>
   
   <url>
+    <loc>/talk/2017_uv/</loc>
+    <lastmod>2017-10-27T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/talk/2017_uv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/2017_uv/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2017_aemark2/</loc>
+    <lastmod>2017-09-08T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2017_aemark2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2017_aemark2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/services-marketing/</loc>
+    <lastmod>2017-09-08T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/services-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/services-marketing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2017_aemark1/</loc>
+    <lastmod>2017-09-08T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2017_aemark1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2017_aemark1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/2017_aemark/</loc>
+    <lastmod>2017-09-08T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/talk/2017_aemark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/2017_aemark/"
+                />
+  </url>
+  
+  <url>
     <loc>/project/mobile-games/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1119,22 +1210,6 @@
   </url>
   
   <url>
-    <loc>/tags/services-marketing/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/services-marketing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/services-marketing/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/e-sports/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1147,6 +1222,148 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/e-sports/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/customer-satisfaction/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/customer-satisfaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/customer-satisfaction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/intentional-loyalty/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/intentional-loyalty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/intentional-loyalty/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/jos%C3%A9-m.-m%C3%BAgica/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/jos%C3%A9-m.-m%C3%BAgica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jos%C3%A9-m.-m%C3%BAgica/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/online-channels/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/online-channels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/online-channels/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2017_jim/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2017_jim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2017_jim/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/private-sales-clubs/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/private-sales-clubs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/private-sales-clubs/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/quantile-regression/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/quantile-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/quantile-regression/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/roger-r.-betancourt/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/roger-r.-betancourt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/roger-r.-betancourt/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2017_mktrends/</loc>
+    <lastmod>2017-01-26T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2017_mktrends/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2017_mktrends/"
                 />
   </url>
   

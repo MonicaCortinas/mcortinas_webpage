@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>eye tracking</title>
+      <title>eye-tracking</title>
       <link>/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>Distribution Services</title>
+      <title>Distribution services</title>
       <link>/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -247,6 +247,15 @@
     </item>
     
     <item>
+      <title>Services marketing</title>
+      <link>/tags/services-marketing/</link>
+      <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/services-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile gaming</title>
       <link>/tags/mobile-gaming/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
@@ -256,20 +265,56 @@
     </item>
     
     <item>
-      <title>Services marketing</title>
-      <link>/tags/services-marketing/</link>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/services-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>e-sports</title>
       <link>/tags/e-sports/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/e-sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer satisfaction</title>
+      <link>/tags/customer-satisfaction/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/customer-satisfaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intentional loyalty</title>
+      <link>/tags/intentional-loyalty/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/intentional-loyalty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online channels</title>
+      <link>/tags/online-channels/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/online-channels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private sales clubs</title>
+      <link>/tags/private-sales-clubs/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/private-sales-clubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile regression</title>
+      <link>/tags/quantile-regression/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quantile-regression/</guid>
       <description></description>
     </item>
     
