@@ -1378,6 +1378,68 @@
   </url>
   
   <url>
+    <loc>/es/authors/jos%C3%A9-miguel-m%C3%BAgica/</loc>
+    <lastmod>2016-09-09T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/jos%C3%A9-miguel-m%C3%BAgica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/jos%C3%A9-miguel-m%C3%BAgica/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/roger-betancourt/</loc>
+    <lastmod>2016-09-09T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/roger-betancourt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/roger-betancourt/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/2016_aemark/</loc>
+    <lastmod>2016-09-09T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2016_aemark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2016_aemark/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/2016_multichannelmarketing/</loc>
+    <lastmod>2016-05-20T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2016_multichannelmarketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2016_multichannelmarketing/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
