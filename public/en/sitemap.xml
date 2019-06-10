@@ -1540,6 +1540,36 @@
   </url>
   
   <url>
+    <loc>/publication/2015_aemark1/</loc>
+    <lastmod>2015-09-07T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2015_aemark1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2015_aemark1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2015_aemark2/</loc>
+    <lastmod>2015-09-07T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2015_aemark2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2015_aemark2/"
+                />
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -1635,6 +1665,85 @@
   </url>
   
   <url>
+    <loc>/tags/buyer-behaviour/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/buyer-behaviour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/buyer-behaviour/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/channel-management/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/channel-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/channel-management/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2015_jrim/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2015_jrim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2015_jrim/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/e-service-quality/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/e-service-quality/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/e-service-quality/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/maria-luisa-villanueva/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/maria-luisa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/maria-luisa-villanueva/"
+                />
+  </url>
+  
+  <url>
     <loc>/project/omnichannel-behavior/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1683,6 +1792,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/project/services-marketing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2014_ijms/</loc>
+    <lastmod>2014-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2014_ijms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2014_ijms/"
                 />
   </url>
   
