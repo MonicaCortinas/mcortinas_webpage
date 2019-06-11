@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Photo by Geovanni Herrera on Unsplash**](https://unsplash.com/photos/W1B2LpQOBxA)'
   focal_point: ""
   preview_only: false
-projects: [services-marketing]
+projects: [retailers-strategy]
 publication: '*International Journal of Marketing Studies*, 6(1), 45-65'
 publication_short: "International Journal of Marketing Studies"
 publication_types:

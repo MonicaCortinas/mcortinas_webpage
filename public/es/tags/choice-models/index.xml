@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Choice models on Mónica Cortiñas</title>
+    <link>/es/tags/choice-models/</link>
+    <description>Recent content in Choice models on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 Feb 2006 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/es/tags/choice-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Problema De Elección De Marca en una Categoría Compleja: Aplicación de una Red Neuronal Artificial</title>
+      <link>/es/publication/2006_esic/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2006_esic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

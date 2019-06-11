@@ -17,13 +17,13 @@ links:
 - name: 7thIAM
   url: https://www.esan.edu.pe/eventos/2011/12/05/7th-international-meeting-of-the-iberoamerican-academy-of-management/
 projects:
-- agricultural-marketing
+- services-marketing
 publication: In *7th International Meeting Of the Iberoamerican Academy of Management*
 publication_short: In *7th International Meeting Of the Iberoamerican Academy of Management*
 publication_types:
 - "1"
 summary: " "
-tags: [services-marketing]
+tags: [retailers-strategy]
 title: " The Impact of Market Environments on Marketing Relationships"
 ---
 

@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>eye tracking</title>
+      <title>eye-tracking</title>
       <link>/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
@@ -121,7 +121,7 @@
     </item>
     
     <item>
-      <title>experimental design</title>
+      <title>Experimental design</title>
       <link>/tags/experimental-design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>Distribution services</title>
+      <title>Distribution Services</title>
       <link>/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -184,7 +184,7 @@
     </item>
     
     <item>
-      <title>omnichannel behavior</title>
+      <title>Omnichannel behavior</title>
       <link>/tags/omnichannel-behavior/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -526,6 +526,15 @@
     </item>
     
     <item>
+      <title>Agriproducts</title>
+      <link>/tags/agriproducts/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agriproducts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brands</title>
       <link>/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -544,20 +553,254 @@
     </item>
     
     <item>
-      <title>agriproducts</title>
-      <link>/tags/agriproducts/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/agriproducts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>asparragous</title>
       <link>/tags/asparragous/</link>
       <pubDate>Wed, 21 Mar 2012 11:00:00 +0000</pubDate>
       
       <guid>/tags/asparragous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy</title>
+      <link>/tags/entropy/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial services</title>
+      <link>/tags/financial-services/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/financial-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent class regression</title>
+      <link>/tags/latent-class-regression/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latent-class-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent segmentation</title>
+      <link>/tags/latent-segmentation/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/latent-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-channel behavior</title>
+      <link>/tags/multi-channel-behavior/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multi-channel-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satisfaction and loyalty</title>
+      <link>/tags/satisfaction-and-loyalty/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/satisfaction-and-loyalty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural equation models</title>
+      <link>/tags/structural-equation-models/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/structural-equation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brand choice</title>
+      <link>/tags/brand-choice/</link>
+      <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/brand-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purchase frequency</title>
+      <link>/tags/purchase-frequency/</link>
+      <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/purchase-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purchase incidence</title>
+      <link>/tags/purchase-incidence/</link>
+      <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/purchase-incidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularity</title>
+      <link>/tags/regularity/</link>
+      <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finalizado</title>
+      <link>/tags/finalizado/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/finalizado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grocery shopping</title>
+      <link>/tags/grocery-shopping/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/grocery-shopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>/tags/pricing/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choice analysis</title>
+      <link>/tags/choice-analysis/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/choice-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designation of origin</title>
+      <link>/tags/designation-of-origin/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/designation-of-origin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/tags/experience/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objective knowledge</title>
+      <link>/tags/objective-knowledge/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/objective-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brand choice problem</title>
+      <link>/tags/brand-choice-problem/</link>
+      <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/brand-choice-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer databases</title>
+      <link>/tags/customer-databases/</link>
+      <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/customer-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer loyalty programs</title>
+      <link>/tags/customer-loyalty-programs/</link>
+      <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/customer-loyalty-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asparagus</title>
+      <link>/tags/asparagus/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/asparagus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market segmentation</title>
+      <link>/tags/market-segmentation/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/market-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural networks</title>
+      <link>/tags/artificial-neural-networks/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artificial-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choice models</title>
+      <link>/tags/choice-models/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/choice-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multinomial logit</title>
+      <link>/tags/multinomial-logit/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multinomial-logit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scanner data</title>
+      <link>/tags/scanner-data/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scanner-data/</guid>
       <description></description>
     </item>
     

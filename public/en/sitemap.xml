@@ -541,22 +541,6 @@
   </url>
   
   <url>
-    <loc>/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -569,6 +553,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/experimental-design/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/rafael-cabeza/"
                 />
   </url>
   
@@ -2016,6 +2016,22 @@
   </url>
   
   <url>
+    <loc>/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/agriproducts/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2044,22 +2060,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/consumer-experience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/agriproducts/"
                 />
   </url>
   
@@ -2106,6 +2106,589 @@
                 rel="alternate"
                 hreflang="en"
                 href="/publication/2011_iberoamerican/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/entropy/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/entropy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/entropy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/financial-services/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/financial-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/financial-services/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2010_esic/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2010_esic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2010_esic/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/latent-class-regression/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/latent-class-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/latent-class-regression/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/latent-segmentation/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/latent-segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/latent-segmentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/multi-channel-behavior/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/multi-channel-behavior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/multi-channel-behavior/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/satisfaction-and-loyalty/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/satisfaction-and-loyalty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/satisfaction-and-loyalty/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/structural-equation-models/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/structural-equation-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/structural-equation-models/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2010_jbr/</loc>
+    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2010_jbr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2010_jbr/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/brand-choice/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/brand-choice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/brand-choice/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/mariya-andreeva/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/mariya-andreeva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mariya-andreeva/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/purchase-frequency/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/purchase-frequency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/purchase-frequency/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/purchase-incidence/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/purchase-incidence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/purchase-incidence/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/regularity/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/regularity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/regularity/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2010_jmt/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2010_jmt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2010_jmt/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/finalizado/</loc>
+    <lastmod>2010-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/finalizado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/finalizado/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/grocery-shopping/</loc>
+    <lastmod>2010-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/grocery-shopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/grocery-shopping/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/pricing/</loc>
+    <lastmod>2010-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/project/retailers-strategy/</loc>
+    <lastmod>2010-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/project/retailers-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/retailers-strategy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/choice-analysis/</loc>
+    <lastmod>2009-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/choice-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/choice-analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/designation-of-origin/</loc>
+    <lastmod>2009-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/designation-of-origin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/designation-of-origin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/experience/</loc>
+    <lastmod>2009-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/experience/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/objective-knowledge/</loc>
+    <lastmod>2009-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/objective-knowledge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/objective-knowledge/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2009_fqp/</loc>
+    <lastmod>2009-04-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2009_fqp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2009_fqp/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/brand-choice-problem/</loc>
+    <lastmod>2008-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/brand-choice-problem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/brand-choice-problem/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/customer-databases/</loc>
+    <lastmod>2008-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/customer-databases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/customer-databases/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/customer-loyalty-programs/</loc>
+    <lastmod>2008-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/customer-loyalty-programs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/customer-loyalty-programs/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2008_jrcs/</loc>
+    <lastmod>2008-01-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2008_jrcs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2008_jrcs/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2007_qme/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2007_qme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2007_qme/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/asparagus/</loc>
+    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/asparagus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/asparagus/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2007_earn/</loc>
+    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2007_earn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2007_earn/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/market-segmentation/</loc>
+    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/market-segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/market-segmentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-neural-networks/</loc>
+    <lastmod>2006-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/artificial-neural-networks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/artificial-neural-networks/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/choice-models/</loc>
+    <lastmod>2006-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/choice-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/choice-models/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2006_esic/</loc>
+    <lastmod>2006-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2006_esic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2006_esic/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/multinomial-logit/</loc>
+    <lastmod>2006-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/multinomial-logit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/multinomial-logit/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/scanner-data/</loc>
+    <lastmod>2006-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/scanner-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/scanner-data/"
                 />
   </url>
   
