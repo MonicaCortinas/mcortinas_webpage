@@ -541,22 +541,6 @@
   </url>
   
   <url>
-    <loc>/es/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -569,6 +553,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/experimental-design/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/rafael-cabeza/"
                 />
   </url>
   
@@ -758,36 +758,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/omnichannel-behavior/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/jupyter/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
                 />
   </url>
   
@@ -1440,37 +1410,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/academic/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/getting-started/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/publication/2016_jim/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1576,101 +1515,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/2015_aemark2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/2015-07-23-r-rmarkdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/2015-07-23-r-rmarkdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/r/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/r-markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/r-markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/plot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/plot/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/regression/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/regression/"
                 />
   </url>
   
@@ -1813,6 +1657,101 @@
                 hreflang="es"
                 href="/es/project/services-marketing/"
                 />
+  </url>
+  
+  <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/docencia/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/docencia/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/post/muerte-por-power-point/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/powerpoint/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/powerpoint/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/categories/reveal.js/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/reveal.js/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/categories/presentaciones/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/presentaciones/</loc>
+    <lastmod>2015-04-15T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/post/presentacion/2015-04-09-presentacion/</loc>
+    <lastmod>2015-04-09T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/tags/intro/</loc>
+    <lastmod>2015-04-09T08:26:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2699,6 +2638,227 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/scanner-data/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/loyalty-cards/</loc>
+    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/loyalty-cards/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/loyalty-cards/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/2005_erd/</loc>
+    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2005_erd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2005_erd/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/consumer-satisfaction/</loc>
+    <lastmod>2004-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/consumer-satisfaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/consumer-satisfaction/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/productivity/</loc>
+    <lastmod>2004-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/productivity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/productivity/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/2004_irrdcra/</loc>
+    <lastmod>2004-11-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2004_irrdcra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2004_irrdcra/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/retailing-services/</loc>
+    <lastmod>2004-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/retailing-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/retailing-services/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/store-loyalty/</loc>
+    <lastmod>2004-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/store-loyalty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/store-loyalty/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/structural-equation-modelling/</loc>
+    <lastmod>2004-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/structural-equation-modelling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/structural-equation-modelling/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/carmen-bern%C3%A9/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/carmen-bern%C3%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/carmen-bern%C3%A9/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/occasional-shoppers/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/occasional-shoppers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/occasional-shoppers/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/price-elasticity/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/price-elasticity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/price-elasticity/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/promotions/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/promotions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/promotions/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/regular-customers/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/regular-customers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/regular-customers/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/publication/2004_irrdcrb/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/2004_irrdcrb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication/2004_irrdcrb/"
                 />
   </url>
   

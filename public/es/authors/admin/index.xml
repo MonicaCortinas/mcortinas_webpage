@@ -84,69 +84,6 @@
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/es/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/es/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Omnichannel Behaviour: Definitions and Covariables</title>
       <link>/es/talk/2018_uam/</link>
       <pubDate>Wed, 28 Nov 2018 16:00:00 +0000</pubDate>
@@ -296,335 +233,6 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/es/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/es/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/es/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/es/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Channel Choice in the 21st Century: The Hidden Role of Distribution Services</title>
       <link>/es/publication/2016_jim/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
@@ -658,6 +266,116 @@ rm Untitled.md
       
       <guid>/es/publication/2015_jrim/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Muerte por power point</title>
+      <link>/es/post/muerte-por-power-point/</link>
+      <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/muerte-por-power-point/</guid>
+      <description>
+
+
+&lt;p&gt;La utilización de transparencias se ha convertido en un estándar en todo tipo de exposiciones y las clases expositivas en la universidad y otros niveles educativos no son una excepción.&lt;/p&gt;
+&lt;p&gt;El PowerPoint es con mucho la herramienta más utilizada para este fin y tiene tantos amantes como detractores. Dado que muchas presentaciones con PowerPoint son mortalmente aburridas y que en el mercado existen múltiples alternativas, vamos a repasar algunas opciones.&lt;/p&gt;
+&lt;div id=&#34;merece-la-pena-abandonar-el-powerpoint&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;¿Merece la pena abandonar el PowerPoint?&lt;/h2&gt;
+&lt;p&gt;En mi opinión, depende. ¿Por qué fracasa una presentación? El primer motivo de fracaso es considerar las transparencias simplemente como otra forma de exposición de un documento. Transparencias llenas de texto, con interminables listas de viñetas son una receta segura para los bostezos. Si vamos a utilizar transparencias como apoyo a una presentación oral, no deberíamos incluir en pantalla lo que vamos a contar, ya que si la audiencia está leyendo no puede escucharnos al mismo tiempo. Si lo que pretendemos es distribuir material completo, quizás deberíamos proporcionar a los estudiantes un documento en .pdf en lugar de una colección de transparencias.&lt;/p&gt;
+&lt;p&gt;Una primer solución que todos hemos probado para distinguir una presentación de un documento, es la inclusión de imágenes y efectos visuales.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;bad.jpg&#34; alt=&#34;Imágen de http://unlearningtech.blogspot.com.es/&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Imágen de &lt;a href=&#34;http://unlearningtech.blogspot.com.es/&#34; class=&#34;uri&#34;&gt;http://unlearningtech.blogspot.com.es/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Sin embargo, esta solución conlleva peligros aún mayores que el simple copia-pega de un documento de texto. En PowerPoint es increíblemente fácil incluir gráficos, imágenes, animaciones y todo tipo de contrastes visuales. La tentación de usar todo su potencial es, a veces, demasiado grande. Una presentación de este tipo dispersa totalmente la atención de la audiencia y no permite seguir la exposición.&lt;/p&gt;
+&lt;p&gt;Para mejorar el material de exposición, no es necesario cambiar de software sino simplemente ser conscientes de ciertas reglas básicas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El interés de la exposición debe estar en el ponente, no en la pantalla.&lt;/li&gt;
+&lt;li&gt;Las transparencias son un apoyo para el público, no la chuleta del ponente.&lt;/li&gt;
+&lt;li&gt;En general, menos es más. Cada transparencia debe contener solamente una idea.&lt;/li&gt;
+&lt;li&gt;La presentación debe tener siempre una introducción atractiva y un resumen final.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Existen muchísimos recursos en la red para poder desarrollar presentaciones atractivas sea cual sea la plataforma que utilicemos. A mi me gustan especialmente &lt;a href=&#34;http://www.elartedepresentar.com/&#34;&gt;El arte de presentar&lt;/a&gt; y &lt;a href=&#34;http://muerteporpowerpoint.com/&#34;&gt;Muerte por Power Point&lt;/a&gt;. En ambos casos, se tratan en profundidad conceptos de diseño que son básicos para poder hacer una buena presentación.&lt;/p&gt;
+&lt;div id=&#34;entonces-nos-quedamos-con-power-point&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Entonces nos quedamos con Power Point?&lt;/h3&gt;
+&lt;p&gt;No necesariamente.&lt;/p&gt;
+&lt;div id=&#34;plataformas-online&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Plataformas online&lt;/h4&gt;
+&lt;p&gt;Aunque se pueden hacer muy buenas presentaciones .ppt existen alternativas que tienen distinto potencial. En primer lugar, han proliferado las plataformas que permiten desarrollar material directamente en línea. La ventaja de esto es que se puede acceder a la presentación desde cualquier dispositivo con un navegador sin necesidad de instalar software adicional. El problema es que, dependiendo del equipo con el que trabajemos, estas plataformas a veces son algo lentas y que, obviamente, deberemos estar conectados para poder trabajar.&lt;/p&gt;
+&lt;p&gt;Entre estas soluciones, la más conocida es &lt;strong&gt;Prezi&lt;/strong&gt;, que triunfa sobre todo entre los estudiantes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;prezi.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Prezi permite efectos visuales muy interesantes y, en mi opinión, es muy adecuada cuando queremos presentar información que se ajusta bien a una distribución “espacial”. Si desarrollamos una presentación organizada linealmente (e.g.: introducción, desarrollo, conclusiones) en Prezi podemos cambiar la &lt;em&gt;“Muerte por PowerPoint”&lt;/em&gt; por &lt;em&gt;“Serio Mareo por Prezi”&lt;/em&gt;. Aún así, es una opción a tener muy en cuenta, considerando además los planes educativos especiales que permiten acceder a características Premium sin coste adicional.&lt;/p&gt;
+&lt;p&gt;Pero Prezi no es el único editor online interesante. Entre otras opciones online destacan &lt;a href=&#34;http://www.emaze.com/es/&#34;&gt;Emaze&lt;/a&gt; y &lt;a href=&#34;https://www.haikudeck.com/&#34;&gt;Haiku Deck&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;emaze-slides.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Emaze ofrece también una cuenta premium gratuita durante una año para educadores y permite elaborar presentaciones muy limpias y atractivas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;abandonando-el-wysiwyg&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abandonando el WYSIWYG&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What You See Is What You Get&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;El concepto WYSIWYG se refiere al software de edición que se basa en aspectos visuales, donde se pueden modificar los formatos y la posición de los distintos elementos aplicando botones o moviéndolos con el ratón y viendo permanentemente en pantalla el resultado final. Todas las opciones anteriores pertenecen a esta categoría.&lt;/p&gt;
+&lt;p&gt;Frente a esta idea, encontramos otras opciones denominadas por contraposición &lt;strong&gt;WYSIWYM&lt;/strong&gt; (&lt;em&gt;&lt;strong&gt;W&lt;/strong&gt;hat &lt;strong&gt;Y&lt;/strong&gt;ou &lt;strong&gt;S&lt;/strong&gt;ee &lt;strong&gt;I&lt;/strong&gt;s &lt;strong&gt;W&lt;/strong&gt;hat &lt;strong&gt;Y&lt;/strong&gt;ou &lt;strong&gt;M&lt;/strong&gt;ean)&lt;/em&gt;. En este esquema, el contenido está separado de los aspectos de formato, de modo que introducimos por un lado los contenidos y por otro, tenemos que introducir los códigos relativos a los formatos. Por ejemplo, tendríamos que indicar que una determinada frase es un título, que un conjunto de palabras forma parte de una tabla o que una imagen va a una determinada distancia del margen derecho y a otra del margen inferior.&lt;/p&gt;
+&lt;p&gt;Para personas a las que les atrae trabajar con código, este esquema tiene bastantes ventajas. Por ejemplo, no hay posibilidad de que una imagen cambie de sitio dependiendo de la versión del software que usemos ni de que los títulos de un apartado aparezcan distintos que en otros a no ser que lo programemos específicamente. Además, la separación entre contenido y formato permite centrarse mejor en los aspectos centrales de una presentación y pulir después todo lo relativo a la apariencia de una sola vez.&lt;/p&gt;
+&lt;p&gt;Una opción relativamente popular que encaja en este esquema es &lt;a href=&#34;http://es.wikipedia.org/wiki/Beamer&#34;&gt;&lt;strong&gt;Beamer&lt;/strong&gt;&lt;/a&gt;. Beamer es una clase específica para transparencias dentro del lenguaje LaTex que resulta muy cómoda para aquellos ya familiarizados con el lenguaje.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;beamer.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Podemos usar editores online de LaTex o descargar un editor offline. En Beamer, cada transparencia es un “frame”. Como ejemplo, para hacer una nueva transparencia en Beamer, deberíamos escribir algo así:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\begin{frame}{Título de la transparencia}
+
+\begin{enumerate} (para hacer una lista numerada*  *\item Primer elemento
+
+  \ítem Segundo Elemento
+
+  \item Tercer elemento  \end{enumerate}(Fin de la lista)\end{frame}(fin de la transparencia)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Las transparencias de Beamer se pueden exportar a .PDF para la exposición y permiten incluir imagen, video y enlaces. LaTex es un lenguaje muy adecuado para las representaciones matemáticas, así que todo el que necesite incluir muchas ecuaciones o expresiones matemáticas en sus presentaciones debería considerar seriamente usar Beamer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-alternativas-presentaciones-html&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Otras alternativas: Presentaciones HTML&lt;/h4&gt;
+&lt;p&gt;Dentro del esquema &lt;strong&gt;WYSIWYM&lt;/strong&gt;, con las mismas ventajas que Beamer y con algún ventajas adicionales encontramos las presentaciones creadas en lenguaje web. Los navegadores que utilizamos (Internet Explorer, Mozilla, Chrome, Opera, etc…) interpretan código HTML y HTML5, con el que se incluyen imágenes, vídeos, distintas disposiciones de texto y cualquier elemento que encontramos en una página web y que pueden ser igualmente útiles en una presentación. Así pues, ¿por qué no diseñar una presentación como si fuera una página web? Esto tiene ventajas importantes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Podemos exponer en cualquier ordenador que disponga de un navegador sin preocuparnos de la compatibilidad de versiones de PowerPoint por ejemplo&lt;/li&gt;
+&lt;li&gt;Podemos incrustar la presentación en cualquier página web, blog o plataforma de contenidos como Moodle o Sakai&lt;/li&gt;
+&lt;li&gt;Podemos incluir elementos como páginas web incrustadas y presentar sin salir del modo de presentación de PowerPoint o Acrobat Reader para entrar en el navegador.&lt;/li&gt;
+&lt;li&gt;Estas presentaciones se ven igual de bien en un ordenador, una tablet o un móvil, aspecto cada vez más importante.&lt;/li&gt;
+&lt;li&gt;Podemos trabajar en la presentación con cualquier editor de texto (aunque uno pensado para HTML nos facilitará el trabajo ;))&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Existen bastantes opciones para crear presentaciones según este esquema. &lt;a href=&#34;http://www.readerspark.com/top-25-free-html5-css3-presentation-frameworks/&#34;&gt;Aquí&lt;/a&gt; están revisadas la mayoría.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;mi-opcion-reveal.js&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Mi opción: Reveal.js&lt;/h4&gt;
+&lt;p&gt;Tras esta exposición, es obvio que no hay una elección óptima para cada usuario. En mi caso, las ventajas de la última opción superan la ligera curva de aprendizaje necesaria para utilizarla, así que me he decantado por ir adaptando mis materiales a una de las opciones en HTML5: &lt;a href=&#34;http://lab.hakim.se/reveal-js/#/&#34;&gt;reveal.js&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_url(&amp;#39;https://revealjs.com/#/&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe src=&#34;https://revealjs.com/#/&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Como podéis observar, en la parte inferior derecha de la pantalla hay unas flechas que permiten navegar por las diferentes transparencias. Además, hay una serie de controles adicionales interesantes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Si pulsamos la tecla ESC vemos el esquema de la presentación y pulsándola de nuevo volvemos a la diapositiva actual.&lt;/li&gt;
+&lt;li&gt;Si pulsamos la tecla B, la pantalla pasa a negro para poder hacer comentarios sin dispersar la atención de la audiencia.&lt;/li&gt;
+&lt;li&gt;Si pulsamos F, pasamos a vista completa.&lt;/li&gt;
+&lt;li&gt;Si pulsamos alt+click hacemos zoom a distintas partes de la pantalla.&lt;/li&gt;
+&lt;li&gt;También podemos incluir ejemplos de código y utilizar LaTex para escribir ecuaciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¿No está mal, no? En una próxima entrada, hablaré de cómo instalarlo y empezar a utilizarlo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentación</title>
+      <link>/es/post/presentacion/2015-04-09-presentacion/</link>
+      <pubDate>Thu, 09 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/presentacion/2015-04-09-presentacion/</guid>
+      <description>&lt;p&gt;Hace aproximadamente un año que, junto con mis compañeros en el MUDE, abrimos &lt;a href=&#34;http://mudeupna.blogspot.com.es/&#34; target=&#34;_blank&#34;&gt;nuestro primer blog&lt;/a&gt; en Blogger. Durante este tiempo, he podido comprobar la utilidad de los blogs como herramientas docentes de coordinación con los estudiantes y los estoy utilizado con éxito para otras tareas y asignaturas.&lt;/p&gt;
+
+&lt;p&gt;En este proceso, he utilizado infinidad de recursos online: foros de discusión, páginas web y blogs, muchos blogs. Estas fuentes online también me han ayudado muchísimo para introducir cambios docentes tanto en metodología como en herramientas.&lt;/p&gt;
+
+&lt;p&gt;Hasta el momento he sido principalmente &amp;ldquo;consumidora&amp;rdquo; de información pero creo que es hora de contribuir, aunque sea un poquito, con esa gran comunidad de educadores.&lt;/p&gt;
+
+&lt;p&gt;En este blog pretendo compartir recursos útiles para la docencia en general y para la docencia universitaria de marketing en particular. ¡Cualquier &lt;em&gt;feed back&lt;/em&gt; es bienvenido!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -779,6 +497,33 @@ rm Untitled.md
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
       <guid>/es/publication/2006_esic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loyalty cards: Are retailers ignoring non-card-holder behaviour?</title>
+      <link>/es/publication/2005_erd/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2005_erd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail Store Loyalty Management via an Analysis of Heterogeneity of the Service Elements</title>
+      <link>/es/publication/2004_irrdcra/</link>
+      <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2004_irrdcra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of a Retail Store Database for Brand Choice Analysis</title>
+      <link>/es/publication/2004_irrdcrb/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2004_irrdcrb/</guid>
       <description></description>
     </item>
     

@@ -120,7 +120,7 @@
     </item>
     
     <item>
-      <title>experimental design</title>
+      <title>Experimental design</title>
       <link>/es/tags/experimental-design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -156,7 +156,7 @@
     </item>
     
     <item>
-      <title>Distribution services</title>
+      <title>Distribution Services</title>
       <link>/es/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -318,15 +318,6 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/es/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/es/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Channel choice and management</title>
       <link>/es/tags/channel-choice-and-management/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
@@ -359,33 +350,6 @@
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/separability-across-space-and-time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/es/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/es/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/es/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/es/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/es/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/es/tags/regression/</guid>
       <description></description>
     </item>
     
@@ -431,6 +395,51 @@
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/online-shopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docencia</title>
+      <link>/es/tags/docencia/</link>
+      <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/docencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerPoint</title>
+      <link>/es/tags/powerpoint/</link>
+      <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/powerpoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reveal.js</title>
+      <link>/es/tags/reveal.js/</link>
+      <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/reveal.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentaciones</title>
+      <link>/es/tags/presentaciones/</link>
+      <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/presentaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro</title>
+      <link>/es/tags/intro/</link>
+      <pubDate>Thu, 09 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/intro/</guid>
       <description></description>
     </item>
     
@@ -800,6 +809,96 @@
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/scanner-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loyalty cards</title>
+      <link>/es/tags/loyalty-cards/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/loyalty-cards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumer satisfaction</title>
+      <link>/es/tags/consumer-satisfaction/</link>
+      <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/consumer-satisfaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>/es/tags/productivity/</link>
+      <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retailing services</title>
+      <link>/es/tags/retailing-services/</link>
+      <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/retailing-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store loyalty</title>
+      <link>/es/tags/store-loyalty/</link>
+      <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/store-loyalty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural equation modelling</title>
+      <link>/es/tags/structural-equation-modelling/</link>
+      <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/structural-equation-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occasional shoppers</title>
+      <link>/es/tags/occasional-shoppers/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/occasional-shoppers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Price elasticity</title>
+      <link>/es/tags/price-elasticity/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/price-elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotions</title>
+      <link>/es/tags/promotions/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/promotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regular customers</title>
+      <link>/es/tags/regular-customers/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/regular-customers/</guid>
       <description></description>
     </item>
     
