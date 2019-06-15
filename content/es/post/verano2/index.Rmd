@@ -1,0 +1,144 @@
+---
+authors:
+- admin
+categories: [Herramientas 2.0, Investigación, Recursos Educativos]
+date: 2017-08-17T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "Photo by Steve Johnson on Unsplash"
+  focal_point: "Center"
+projects: []
+subtitle:  Verano ¿cuando si no? bis
+title: "Data Science Specialization in Coursera"
+tags: [Herramientas 2.0, Investigación, Recursos Educativos]
+---
+
+## Verano ¿cuando si no?
+
+Hace ya dos años [comentaba](http://mcrecursosdocentes.blogspot.com.es/2015/08/verano-cuando-si-no.html) algunas buenas opciones de formación online para aprovechar el tiempo libre en verano.
+
+Este año no ha sido una excepción y, en lugar de hacer un curso, he aprovechado para iniciar una serie de cursos en la reputada plataforma [Coursera](https://es.coursera.org/).
+
+## Coursera
+
+Coursera es una plataforma que alberga diversos [MOOCs ](https://es.wikipedia.org/wiki/Massive_Open_Online_Course) de universidades prestigiosas de todo el mundo. La mayoría se ofrecen de forma gratuita, aunque algunas especialidades tienen una cuota de suscripción mensual de 43€ mientras dura el curso. En la mayoría de estos MOOCs:
+
+\- el curso consiste en una serie de vídeos y recursos adicionales (presentaciones, documentación...)
+
+\- la duración suele ser cuatro semanas
+
+\- se habilitan foros de discusión para intercambiar opiniones y preguntas con otros estudiantes
+
+\- se califica el curso con distintas herramientas: test de calificación automática y tareas y proyectos a calificar por los compañeros
+
+\- así mismo, se requiere la participación en la calificación de otras personas
+
+## Data Science Especialization in Coursera
+
+La especialización en [Ciencia de Datos](https://es.coursera.org/specializations/jhu-data-science) de Coursera está impartida por profesores de bioestadística de la Universidad John Hopkins y se compone de 10 cursos:
+
+01 Data Scientist Toolbox
+
+02 R Programming
+
+03 Getting Data
+
+04 Exploratory Analysis
+
+05 Reproducible Research
+
+06 Statistical Inference
+
+07 Regression Models
+
+08 Practical Machine Learning
+
+09 Developing Data Products
+
+10 Final Project
+
+¿Por qué me resultaba interesante la especialización? Desde hace dos-tres años llevo utilizando [R](https://cran.r-project.org/) para hacer las estimaciones estadísticas en los artículos de investigación pero, salvo un seminario de unas horas, he ido aprendiendo por mi cuenta. Sin embargo, las posibilidades de R son taaaan enormes que echaba mucho de menos un conocimiento un poco más avanzado que me permita, por un lado, personalizar y adaptar los métodos que usamos y, por otro lado, conocer aplicaciones nuevas que pueden ser útiles. Además, en estos cursos se utiliza también intensivamente el sistema de control de versiones [git](https://git-scm.com/) y [github](https://github.com/) que también tenía mucho interés en conocer.
+
+De momento he completado los cinco primeros cursos que son los que más me interesaban. El resto probablemente los haga a otro ritmo, ya que algunos son mucho más conocidos (el 6 y el 7) y otros tienen menos aplicaciones en mi trabajo (8 y 9). Sin embargo, los cinco primeros han sido todo un descubrimiento:
+
+### - Data Scientist Toolbox: 
+
+Muy cortito y sencillo de seguir para cualquiera, buena introducción al resto de cursos
+
+### - R Programming: 
+
+Este es el que más me ha costado pero también el más gratificante y útil. No recomiendo hacer este curso a nadie que no tenga unos conocimientos previos mínimos de R, a no ser que sea programador. Este curso se centra en R no tanto como software estadístico, sino como lenguaje de programación, en cómo escribir funciones propias y en sus posibilidades. Si ya sabes algo de R y quieres aprender cómo avanzar por tu cuenta, este es tu curso.
+
+### - Getting Data: 
+
+Este curso es uno de los que más me motivaba en la especialización. Se centra en cómo utilizar R para recabar y organizar datos de muy distintas fuentes: bases de datos relacionales, bases de datos en Internet, páginas web, APIs, XML... Muy útil y fundamental para la investigación en marketing hoy en día. Por ejemplo, podemos usar R para buscar en Twitter en un determinado momento y descargar los tweets relacionados:
+
+#### Ejemplo de descarga de datos de Twitter con R
+
+Para descargar desde Twitter, en primer lugar tenemos que cargar librerías adicionales y a continuación identificarnos en Twitter
+
+```
+install.packages(c("devtools", "rjson", "bit64", "httr", "curl", "twitteR"))
+library(c("devtools", "rjson", "bit64", "httr", "curl", "twitteR"))
+
+```
+
+Cargamos las credenciales de acceso a la API de Twitter y establecemos la conexión:
+
+```
+api_key "tusdatos"
+api_secret "tusdatos"
+access_token "tusdatos"
+access_token_secret "tusdatos"
+setup_twitter_oauth(api_key,api_secret, access_token, access_token_secret)
+```
+
+Ahora podemos hacer nuestra búsqueda, de una forma sumamente sencilla. Por ejemplo, mostrando los seis primeros tweets para el término "omnichannel":
+
+```
+omni <- searchTwitter("omnichannel")
+head(omni)
+
+[[1]]
+[1] "Stuart_Harker: RT @bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC's to make a purchase #customerjourney #omnichannel #mo…"
+
+[[2]]
+[1] "EpicRelevance: RT @GoldmanSachs: PODCAST: $GS on what omnichannel retail 
+means for consumers: https://t.co/FGMBmsYz2C https://t.co/DvgxsXUZ07"
+
+[[3]]
+[1] "EpicRelevance: RT @VanRijmenam: Omnichannel uses several strategies 
+to wow your customer - by @v12data https://t.co/3IjR1uJYff #BigData"
+
+[[4]]
+[1] "bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC's to make a purchase #customerjourney… https://t.co/rQ45FiWbt8"
+
+[[5]]
+[1] "L360insider: [Podcast] Omnichannel Loyalty: 
+Connect The Dots For A Better Customer Experience - https://t.co/PpK6uhNK04 @crowdtwist"
+
+[[6]]
+[1] "MintcakeTime: @usehero @Everlane @madedotcom my omnichannel ambition 
+is to fart into my computer and have you taste it in the hero offices"
+```
+
+Una vez que tenemos los datos descargados, podemos utilizar paquetes de análisis de datos cualitativos para procesarlos, establecer frecuencias, mapas o el análisis que consideremos conveniente.
+
+###  - Exploratory Analysis
+
+El curso de análisis exploratorio es interesante porque se centra sobre todo en los paquetes gráficos de R que, aunque son complejos de utilizar tienen unas posibilidades enormes incluidos los mapas o los gráficos interactivos. Hay varias páginas que tienen galerías de gráficos en R y que muestran su potencial como [R Graph Gallery](http://www.r-graph-gallery.com/)  o [the new R graph gallery](https://www.r-bloggers.com/the-new-r-graph-gallery/).
+
+### - Reproducible Research
+
+
+
+![](./tenor.gif)
+
+Este quinto curso en Coursera ha sido el más novedoso para mi y cubre los pasos a seguir para asegurarnos de que la investigación que presentamos puede reproducirse desde el principio, incluyendo cómo aseguramos que el tratamiento que hemos hecho a los datos puede replicarse hasta la presentación de análisis y resultados. 
+
+Este curso es el que hace un uso más intensivo de las herramientas de control de versiones [git](https://git-scm.com/) y [github](https://github.com/) y además, presenta una herramienta que me ha enamorado: [knitr](https://yihui.name/knitr/) que permite integrar en un mismo documento, texto, código de R y resultados (de forma que nos aseguramos de que el proceso sea reproducible) y después exportar este documento de texto plano que se escribe en [Markdown ](https://es.wikipedia.org/wiki/Markdown) al formato deseado: pdf (a través de LaTex), html o Microsoft Word.
+
+¿No es genial?

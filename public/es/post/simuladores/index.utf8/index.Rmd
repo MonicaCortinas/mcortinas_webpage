@@ -1,0 +1,42 @@
+---
+authors:
+- admin
+categories: [Docencia, gamificación, globstrat, Herramientas 2.0, Marketing, marketplace, markstrat, quantum, Recursos Educativos, simuladores]
+date: 2015-04-18T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "Photo by Hermes Rivera on Unsplash"
+  focal_point: "Center"
+projects: []
+subtitle: Gamificar la docencia de marketing
+title: "Gamificación: Simuladores de empresa. ¡3, 2, 1 Fight!"
+tags: [Docencia, gamificación, globstrat, Herramientas 2.0, Marketing, marketplace, markstrat, quantum, Recursos Educativos, simuladores]
+---
+
+### ¿Por qué un blog educativo?
+
+En la mayoría de universidades españolas, los profesores y estudiantes tenemos acceso a distintas plataformas (**Moodle**, **Sakai**...) que nos permiten compartir recursos e información, asignar tareas, enviar correos, corregir exámenes y una infinidad de otras funciones, incluída en muchos casos la creación de blogs. Entonces, ¿por qué utilizar un blog externo para nuestras asignaturas?
+
+En primer lugar, no creo que un blog sea un sustituto de las plataformas de contenidos institucionales sino un complemento. Aunque podríamos encontrar herramientas para organizar toda nuestra docencia en una plataforma de blogs, no tiene sentido desaprovechar las prestaciones que tienen los sistemas específicamente diseñados para la organización de curso.
+
+Aún así, los blogs como herramienta docente resultan muy útiles en la coordinación con los alumnos. Permiten publicar información de forma ágil y rápida y con una apariencia más atractiva que en plataformas tipo Sakai. Además, tienen una dimensión pública y permanente con lo que podemos hacer accesible el material a otros públicos también interesados. Por último, permiten un lenguaje más informal y cercano que en un curso estructurado tradicional, lo que resulta, en general, más atrayente para los estudiantes y los implica más en la docencia.
+
+### ¿Blogger o Wordpress?
+
+Existen plataformas muy distintas sobre las que publicar un blog, algunas gratuitas otras de pago. Entre las más populares está [Blogger ](https://www.blogger.com/)(esta misma) y [Wordpress.com](https://es.wordpress.com/) (o .org). Blogger y Wordpress.com funcionan con un concepto similar. El proceso de creación del blog es muy sencillo (un poco más simple en Blogger) y permiten centrarse puramente en el contenido. 
+
+En el caso de [wordpress.org](https://wordpress.org/), la idea es un poco diferente ya que hablamos de un software de gestión de contenidos que tendremos que instalar en un espacio propio. En este, caso necesitaremos tanto un dominio (dirección web) como un hosting (el espacio). Wordpress.org permite una personalización de blogs mucho mayor y la creación de páginas web completas completamente profesionales pero, como contrapartida, necesitaremos conocimientos sobre gestión de seguridad o contratar ayuda profesional en estos aspectos.
+
+Para elegir Blogger o Wordpress.com recomiendo tener en cuenta la respuesta a estas preguntas:
+
+1. ¿Nos interesa mucho conseguir buenos rankings en los buscadores?: **Wordpress.com** tiene mejores posibilidades para el posicionamiento SEO
+2. ¿Tenemos muy pocos conocimientos informáticos o de lenguaje web?: **Blogger** es sencillísimo de utilizar
+3. ¿Vamos a publicar a menudo desde dispositivos móviles?: **Wordpress.com** tiene mejores aplicaciones móviles
+4. ¿Nos interesa mucho el aspecto estético del blog?: Depende. Wordpress.com tiene plantillas más atractivas para montar un blog "bonito" desde el principio. Blogger, por contra, tiene unas plantillas por defecto menos atractivas, pero con unos mínimos conocimientos de HTML y CSS se pueden descargar plantillas gratuitas y personalizarlas para dejar un blog exactamente como queramos.
+
+En próximas entradas hablaré de cómo personalizar estas plantillas.
+
+## *Actualización Junio 2019
+
+Como puede observarse, en la actualidad he migrado el blog a una alternativa diferente,  [Hugo](<https://gohugo.io/>).  En una nueva entrada comento las razones de este cambio.

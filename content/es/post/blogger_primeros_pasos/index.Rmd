@@ -1,0 +1,28 @@
+---
+authors:
+- admin
+categories: [Blogger, Blogs, Docencia, ]
+date: 2017-01-17T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: "Center"
+projects: [ ]
+subtitle: Recursos 
+title: "Primeros pasos en blogger"
+tags: [Blogger, Blogs, Docencia, ]
+---
+
+Recientemente he tenido el placer de impartir unas clases prácticas para estudiantes del Máster en Formación de Profesorado de Secundaria sobre herramientas TIC en la docencia.
+
+Cada uno de ellos inició su propio blog y, para ayudarles en el proceso, les preparé unos pequeños tutoriales sobre los primeros pasos. Por si pueden resultar útiles a alguien más, os dejo los tutoriales.
+
+<iframe allowfullscreen="true" frameborder="0" height="389" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/10bAf1-mNMEpddZBiGZBZBLrut7MIackzGMv5NCDi3_I/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe>
+
+
+
+<iframe allowfullscreen="true" frameborder="0" height="389" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/10bAf1-mNMEpddZBiGZBZBLrut7MIackzGMv5NCDi3_I/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe>
+
+¡Espero que os sirvan!
+

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dropbox on Mónica Cortiñas</title>
+    <link>/es/tags/dropbox/</link>
+    <description>Recent content in Dropbox on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 03 Jul 2017 08:26:17 +0200</lastBuildDate>
+    
+	    <atom:link href="/es/tags/dropbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Probando el hosting de Amazon S3</title>
+      <link>/es/post/aws/</link>
+      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/aws/</guid>
+      <description>
+
+
+&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
+&lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
+&lt;p&gt;Estoy encantada con el servicio de &lt;a href=&#34;https://www.dropbox.com/es_ES/&#34;&gt;Dropbox&lt;/a&gt;. He probado distintos servicios de almacenamiento en la nube y, en mi opinión, Dropbox además de ser fiable, es el más cómodo con diferencia.&lt;/p&gt;
+&lt;p&gt;Además, una de las características que les diferenciaba de la competencia y que era muy importante para mi, era la posibilidad de alojar páginas web estáticas sin hacer nada más que simplemente dejar los archivos necesarios en una carpeta denominada “Public”. Esta opción era sumamente útil para presentaciones en html como las realizadas con &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt;. Podía trabajar localmente en la presentación y cada pequeño cambio era visible en una url pública.&lt;/p&gt;
+&lt;p&gt;Lamentablemente ya hace un año que Dropbox anunció el cese del servicio, de forma que, aunque los archivos seguirán “en la nube”, ya no será accesibles como web, sino como un simple archivo de texto. Los usuarios gratuitos perdieron esta opción hace un año, y para los usuarios premium, el cambio tendrá efecto el 1 de septiembre.&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos atractivos de hacer una presentación en html es precisamente que esté disponible en la web y no dependa de un pincho para funcionar, así que era necesario buscar alternativas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-web-services&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;En mi caso, necesitaba un servicio:&lt;/p&gt;
+&lt;p&gt;\1. &lt;strong&gt;Múltiple:&lt;/strong&gt; Que permita alojar “muchas” webs diferentes (una para cada presentación)&lt;/p&gt;
+&lt;p&gt;\2. &lt;strong&gt;Barato:&lt;/strong&gt; de momento no me interesa pagar por alojar mis presentaciones&lt;/p&gt;
+&lt;p&gt;\3. &lt;strong&gt;Simple:&lt;/strong&gt; el hecho de alojar la presentación va a ser un trabajo adicional al propio hecho de prepararla y, dado que muchas veces (más de las debidas) suelo ir con el tiempo muy justo, no quiero añadir trabajo adicional.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En el caso de AWS, la opción gratuita es interesante para este tipo de uso, ya que proporciona 5 GB y un número limitado de solicitudes. Como mis presentaciones no suelen tener provocar solicitudes de descargas masivas, la opción inicial es más que suficiente, así que el requisito “barato” está más que cumplido.&lt;/p&gt;
+&lt;p&gt;Con respecto al requisito “múltiple” tampoco es un problema, ya que podemos tener tantas páginas como queramos siempre que se cumpla el requisito de espacio y de solicitudes.&lt;/p&gt;
+&lt;p&gt;Por último, con respecto a lo simple, inicialmente AWS son un poco intimidantes. En la siguiente imagen vemos un subconjunto de los servicios ofrecidos:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;services.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Confieso que términos como “AWS Elastic Beanstalk” me suenan totalmente a chino.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sin embargo, una vez localizado el servicio necesario, Amazon S3, el proceso ha sido sorprendentemente sencillo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon S3&lt;/h2&gt;
+&lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
+&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
+&lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
+&lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
+&lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
+&lt;p&gt;2.- El bucket está configurado como web estática:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;hosting.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para configurar este acceso solo es necesario indicar cuál es el archivo “index.html” que contiene el código inicial del sitio.&lt;/p&gt;
+&lt;p&gt;Amazon S3 nos proporciona un dominio automático del tipo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“&lt;a href=&#34;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&#34; class=&#34;uri&#34;&gt;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&lt;/a&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pero también podemos redireccionar el bucket a otro dominio si disponemos de él.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alojando-presentaciones-html-en-amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Alojando presentaciones html en Amazon S3&lt;/h2&gt;
+&lt;p&gt;Mi primera intención al familiarizarme con el servicio de Amazon S3 fue alojar cada presentación en un “bucket” diferente, ya que parecía la opción lógica para presentaciones completas. Sin embargo, aquí surgió el &lt;strong&gt;primer problema&lt;/strong&gt;: cada presentación contiene una serie de archivos propios (el archivo de texto con la presentación, los recursos asociados como imágenes, video, etc… y, en su caso, un archivo de texto con la hoja de estilos) y además, los archivos necesarios para que se muestre como una presentación: los archivos propios de reveal.js (unos 11 MB) y otros posibles paquetes adicionales, fuentes, etc… si lo consideramos necesario. Resulta poco eficaz duplicar estos archivos comunes para cada presentación y mucho más si contamos con un límite máximo de espacio de 5GB. En Amazon S3, &lt;strong&gt;distintos buckets no pueden compartir archivos&lt;/strong&gt;, por lo que esta opción quedaba descartada.&lt;/p&gt;
+&lt;p&gt;Así que la configuración elegida ha sido &lt;strong&gt;un único bucket&lt;/strong&gt; para todas las presentaciones con una estructura tipo:&lt;/p&gt;
+&lt;p&gt;- FOLDER1: archivos reveal.js&lt;/p&gt;
+&lt;p&gt;- FOLDER 2: otros archivos comunes a todas las presentaciones&lt;/p&gt;
+&lt;p&gt;- FOLDER 3: presentación1&lt;/p&gt;
+&lt;p&gt;- FOLDER 4: presentación 2&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Esta estructura solo ha presentado &lt;strong&gt;un problema adicional:&lt;/strong&gt; al configurar el bucket el archivo index.html no puede estar en una de las subcarpetas, por lo que hay que crear un archivo html simple, que sirva de índice del sitio y que puede tener los enlaces de todas las presentaciones, en mi caso:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://s3.eu-west-2.amazonaws.com/mcortinasslides/index.html&#34;&gt;Index del bucket&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De momento estoy muy contenta con el servicio, pero prometo actualización!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repositorios para material docente</title>
+      <link>/es/post/repositorio/</link>
+      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/repositorio/</guid>
+      <description>
+
+
+&lt;p&gt;En una entrada posterior hablaremos de las distintas opciones de licencias para compartir materiales docentes. En esta entrada quiero repasar las alternativas a la hora de hacer disponibles estos materiales online.&lt;/p&gt;
+&lt;div id=&#34;servicios-de-almacenamiento-en-la-nube&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Servicios de almacenamiento en la nube&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es simplemente que los archivos sean accesibles a través de un vínculo, la opción más sencilla es utilizar algún servicio de almacenamiento como &lt;a href=&#34;http://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/intl/es_es/drive/&#34;&gt;Google Drive&lt;/a&gt; o &lt;a href=&#34;https://onedrive.live.com/&#34;&gt;One Drive&lt;/a&gt;. Los tres servicios ofrecen un espacio gratuíto interesante y una capacidad mayor por suscripción.&lt;/p&gt;
+&lt;p&gt;Compartir archivos en estos servicios es realmente sencillo. En Drobox o en OneDrive no hay más que crear una carpeta que se denomine &lt;strong&gt;“Public”:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo2.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Cualquier documento que depositemos en esta carpeta estará disponible directamente de manera pública. Para saber cuál es el vinculo, pulsamos con el botón derecho del ratón en el archivo y elegimos la opción “Copiar Vínculo Público” .&lt;/p&gt;
+&lt;p&gt;Un aspecto interesante de esta opción, es que nos permite &lt;strong&gt;alojar páginas web completas en Dropbox&lt;/strong&gt;, depositando los archivos necesarios y enlazando al archivo &lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/courseware/index.html&#34;&gt;&lt;strong&gt;index.html&lt;/strong&gt;&lt;/a&gt;. Lo mismo es válido para las transparencias en Reveal.js ](&lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&#34; class=&#34;uri&#34;&gt;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&lt;/a&gt;) (&lt;strong&gt;actualización 2019&lt;/strong&gt;: Esta opción de publicación html en el repositorio Public está desactivada en las versiones actuales de Dropbox )&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogs&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Blogs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cuando lo que pretendemos es que alguien pueda encontrar estos documentos o consultar todo el material, es necesario además hacer disponible de forma sistemática todo el conjunto de enlaces. Para ello, una primera opción es la creación de un blog.&lt;/p&gt;
+&lt;p&gt;Esta opción nos da la mayor flexibilidad posible ya que la podemos configurar exactamente a nuestro gusto, pero tiene la desventaja de tener una visibilidad relativamente reducida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;repositorios-publicos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Repositorios públicos&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es llegar a la mayor audiencia posible, la mejor opción es unirnos a alguna de las plataformas específicamente diseñadas para tal fin. La &lt;strong&gt;más popular&lt;/strong&gt; para el caso de presentaciones es &lt;a href=&#34;http://es.slideshare.net/?ss&#34;&gt;SlideShare&lt;/a&gt; pero no solo podemos subir presentaciones, sino también &lt;strong&gt;videos o cualquier documento en pdf&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Más orientado a documentos y con una larga trayectoria tenemos a &lt;a href=&#34;https://es.scribd.com/upload-document&#34;&gt;Scribd&lt;/a&gt;. En este caso podemos subir incluso libros en formato EPUB y podemos haceros disponibles públicamente o a cambio de un precio que elegimos. &lt;strong&gt;Scribd&lt;/strong&gt; se está transformando en una plataforma de lectura por suscripción mensual, pero sigue siendo una buena plataforma también para contenidos docentes.&lt;/p&gt;
+&lt;p&gt;Por último, tenemos tres opciones interesantes para editar y compartir materiales con formato de “revista digital” a partir de un documento en Word o PDF. &lt;a href=&#34;http://es.calameo.com/&#34;&gt;Calameo&lt;/a&gt;, &lt;a href=&#34;http://www.flipsnack.com/es/&#34;&gt;Flipsnack&lt;/a&gt; e &lt;a href=&#34;http://issuu.com/&#34;&gt;Issuu&lt;/a&gt; tienen opciones básicas gratuitas que, de manera muy sencilla, permiten editar cosas como esta:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.calameo.com/books/003354746324a0d0818ef&#34;&gt;MAI- Economía I 2d4&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

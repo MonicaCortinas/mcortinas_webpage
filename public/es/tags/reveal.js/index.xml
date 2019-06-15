@@ -6,10 +6,237 @@
     <description>Recent content in Reveal.js on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 15 Apr 2015 08:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 01:26:17 +0200</lastBuildDate>
     
 	    <atom:link href="/es/tags/reveal.js/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gráficos Interactivos: dando vida a los números</title>
+      <link>/es/post/plotly/</link>
+      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/plotly/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
+&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen1.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En este panel podemos subir datos desde un formato Excel o csv y a partir de ahí empezar a elaborar nuestro gráfico. Para ello, tenemos que seleccionar el tipo de gráfico, entre 22 opciones distintas. Además, podemos seleccionar distintos gráficos para series diferentes y combinarlos en un mismo gráfico. Por ejemplo, cambiando las opciones para el caso de “otros sectores” podríamos tener algo así:&lt;/p&gt;
+&lt;p&gt;Podéis comprobar que estos gráficos tienen bastantes elementos interactivos, entre otras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aparecen y desparecen los datos al pasar el ratón por encima&lt;/li&gt;
+&lt;li&gt;Podemos ocultar o presentar las series al hacer click sobre ellas y los ejes se ajustan a los datos restantes&lt;/li&gt;
+&lt;li&gt;Podemos hacer zoom en determinada área para ver en detalle algunos datos&lt;/li&gt;
+&lt;li&gt;Podemos descargar una determinada vista en formato png&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En el siguiente marco podemos ver un ejemplo para los resultados de un análisis cluster:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
+&lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
+&lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen5.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si queremos utilizarlo en una presentación, tenemos dos alternativas: incluir en la presentación un link que abra el gráfico en un navegador web o incrustarlo en la propia presentación. En el caso de que utilicemos un software estilo &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/muerte-por-powerpoint.html&#34;&gt;Power Point&lt;/a&gt;siempre tendremos que incluir el link, mientras que si utilizamos software de presentación en &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/presentaciones-en-html-con-revealjs.html&#34;&gt;html&lt;/a&gt; podemos utilizar cualquiera de las dos opciones.&lt;/p&gt;
+&lt;p&gt;Para poder acceder al gráfico desde el navegador, el gráfico debe estar alojado en algún sitio. El propio plot.ly nos ofrece almacenamiento gratuito aunque, eso sí, los gráficos deben configurarse como públicos. Otra opción es descargar el archivo completo en html y subirlo a un espacio web propio.&lt;/p&gt;
+&lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
+&lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
+&lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
+&lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
+&lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probando el hosting de Amazon S3</title>
+      <link>/es/post/aws/</link>
+      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/aws/</guid>
+      <description>
+
+
+&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
+&lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
+&lt;p&gt;Estoy encantada con el servicio de &lt;a href=&#34;https://www.dropbox.com/es_ES/&#34;&gt;Dropbox&lt;/a&gt;. He probado distintos servicios de almacenamiento en la nube y, en mi opinión, Dropbox además de ser fiable, es el más cómodo con diferencia.&lt;/p&gt;
+&lt;p&gt;Además, una de las características que les diferenciaba de la competencia y que era muy importante para mi, era la posibilidad de alojar páginas web estáticas sin hacer nada más que simplemente dejar los archivos necesarios en una carpeta denominada “Public”. Esta opción era sumamente útil para presentaciones en html como las realizadas con &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt;. Podía trabajar localmente en la presentación y cada pequeño cambio era visible en una url pública.&lt;/p&gt;
+&lt;p&gt;Lamentablemente ya hace un año que Dropbox anunció el cese del servicio, de forma que, aunque los archivos seguirán “en la nube”, ya no será accesibles como web, sino como un simple archivo de texto. Los usuarios gratuitos perdieron esta opción hace un año, y para los usuarios premium, el cambio tendrá efecto el 1 de septiembre.&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos atractivos de hacer una presentación en html es precisamente que esté disponible en la web y no dependa de un pincho para funcionar, así que era necesario buscar alternativas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-web-services&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;En mi caso, necesitaba un servicio:&lt;/p&gt;
+&lt;p&gt;\1. &lt;strong&gt;Múltiple:&lt;/strong&gt; Que permita alojar “muchas” webs diferentes (una para cada presentación)&lt;/p&gt;
+&lt;p&gt;\2. &lt;strong&gt;Barato:&lt;/strong&gt; de momento no me interesa pagar por alojar mis presentaciones&lt;/p&gt;
+&lt;p&gt;\3. &lt;strong&gt;Simple:&lt;/strong&gt; el hecho de alojar la presentación va a ser un trabajo adicional al propio hecho de prepararla y, dado que muchas veces (más de las debidas) suelo ir con el tiempo muy justo, no quiero añadir trabajo adicional.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En el caso de AWS, la opción gratuita es interesante para este tipo de uso, ya que proporciona 5 GB y un número limitado de solicitudes. Como mis presentaciones no suelen tener provocar solicitudes de descargas masivas, la opción inicial es más que suficiente, así que el requisito “barato” está más que cumplido.&lt;/p&gt;
+&lt;p&gt;Con respecto al requisito “múltiple” tampoco es un problema, ya que podemos tener tantas páginas como queramos siempre que se cumpla el requisito de espacio y de solicitudes.&lt;/p&gt;
+&lt;p&gt;Por último, con respecto a lo simple, inicialmente AWS son un poco intimidantes. En la siguiente imagen vemos un subconjunto de los servicios ofrecidos:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;services.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Confieso que términos como “AWS Elastic Beanstalk” me suenan totalmente a chino.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sin embargo, una vez localizado el servicio necesario, Amazon S3, el proceso ha sido sorprendentemente sencillo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon S3&lt;/h2&gt;
+&lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
+&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
+&lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
+&lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
+&lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
+&lt;p&gt;2.- El bucket está configurado como web estática:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;hosting.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para configurar este acceso solo es necesario indicar cuál es el archivo “index.html” que contiene el código inicial del sitio.&lt;/p&gt;
+&lt;p&gt;Amazon S3 nos proporciona un dominio automático del tipo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“&lt;a href=&#34;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&#34; class=&#34;uri&#34;&gt;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&lt;/a&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pero también podemos redireccionar el bucket a otro dominio si disponemos de él.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alojando-presentaciones-html-en-amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Alojando presentaciones html en Amazon S3&lt;/h2&gt;
+&lt;p&gt;Mi primera intención al familiarizarme con el servicio de Amazon S3 fue alojar cada presentación en un “bucket” diferente, ya que parecía la opción lógica para presentaciones completas. Sin embargo, aquí surgió el &lt;strong&gt;primer problema&lt;/strong&gt;: cada presentación contiene una serie de archivos propios (el archivo de texto con la presentación, los recursos asociados como imágenes, video, etc… y, en su caso, un archivo de texto con la hoja de estilos) y además, los archivos necesarios para que se muestre como una presentación: los archivos propios de reveal.js (unos 11 MB) y otros posibles paquetes adicionales, fuentes, etc… si lo consideramos necesario. Resulta poco eficaz duplicar estos archivos comunes para cada presentación y mucho más si contamos con un límite máximo de espacio de 5GB. En Amazon S3, &lt;strong&gt;distintos buckets no pueden compartir archivos&lt;/strong&gt;, por lo que esta opción quedaba descartada.&lt;/p&gt;
+&lt;p&gt;Así que la configuración elegida ha sido &lt;strong&gt;un único bucket&lt;/strong&gt; para todas las presentaciones con una estructura tipo:&lt;/p&gt;
+&lt;p&gt;- FOLDER1: archivos reveal.js&lt;/p&gt;
+&lt;p&gt;- FOLDER 2: otros archivos comunes a todas las presentaciones&lt;/p&gt;
+&lt;p&gt;- FOLDER 3: presentación1&lt;/p&gt;
+&lt;p&gt;- FOLDER 4: presentación 2&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Esta estructura solo ha presentado &lt;strong&gt;un problema adicional:&lt;/strong&gt; al configurar el bucket el archivo index.html no puede estar en una de las subcarpetas, por lo que hay que crear un archivo html simple, que sirva de índice del sitio y que puede tener los enlaces de todas las presentaciones, en mi caso:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://s3.eu-west-2.amazonaws.com/mcortinasslides/index.html&#34;&gt;Index del bucket&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De momento estoy muy contenta con el servicio, pero prometo actualización!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentaciones en HTML con Reveal.js</title>
+      <link>/es/post/presentaciones-con-reveal/</link>
+      <pubDate>Sun, 26 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/presentaciones-con-reveal/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy voy a profundizar un poco en esa herramienta para hacer presentaciones en HTML que os presentaba en &lt;a href=&#34;../muerte-por-power-point/index.html&#34;&gt;esta entrada&lt;/a&gt;. Podéis ver un ejemplo de cómo queda una presentación de este estilo:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_url(&amp;#39;https://revealjs.com/#/&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe src=&#34;https://revealjs.com/#/&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Navegamos con las teclas o con el ratón, podemos pulsar la tecla F para pasar a pantalla completa, B para poner la pantalla en negro y ESC para ver el esquema de la presentación.&lt;/p&gt;
+&lt;div id=&#34;como-empezar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Cómo empezar&lt;/h2&gt;
+&lt;div id=&#34;descarga-de-los-archivos-necesarios&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Descarga de los archivos necesarios&lt;/h3&gt;
+&lt;p&gt;Para comenzar a utilizar reveal.js no es necesario instalar ningún software, ya que será el propio navegador que utilicemos (preferentemente Chrome, pero también Safari, Firefox e Internet Explorer) el que interprete los archivos que iremos creando. Vamos por pasos:&lt;/p&gt;
+&lt;p&gt;Lo primero que tenemos que hacer es descargar una carpeta desde &lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34;&gt;Github&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Descomprimimos la carpeta en el directorio que queramos y ya podemos empezar a trabajar.Esta carpeta ya es una presentación. El archivo que contiene el texto de la presentación se llama index.html y tiene que tener siempre ese nombre para poder presentar:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal2.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;creando-la-presentacion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Creando la presentación&lt;/h2&gt;
+&lt;p&gt;Si hacemos dobre click en ese fichero, podemos ver como se abrirá en el navegador y veremos la presentación de ejemplo. El resto de archivos en la carpeta sirven para que el navegador pueda interpretar correctamente el archivo HTML. En general, cuando vamos a hacer una presentación nueva, &lt;strong&gt;debemos copiar toda la carpeta y editar el archivo index.html&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Antes de editar el archivo, es buena idea hacer una copia y renombrarlo por si queremos recuperar el archivo original.&lt;/p&gt;
+&lt;p&gt;Podemos editar el archivo directamente con el bloc de notas, pero resulta un poco incómodo. Cualquier editor de HTML nos servirá, yo tengo instalado &lt;a href=&#34;http://brackets.io/&#34;&gt;Brackets&lt;/a&gt;. Si seleccionamos el archivo index.html y elegimos la opción “abrir con…” veremos algo similar a esto:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;¡Que nadie se asuste! Es más simple de lo que parece.&lt;/p&gt;
+&lt;p&gt;En este documento se distinguen &lt;strong&gt;tres partes&lt;/strong&gt;. La &lt;strong&gt;primera parte&lt;/strong&gt; va desde la primera línea hasta donde pone:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/head&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Esta es la &lt;strong&gt;introducción de la presentación&lt;/strong&gt;, en la que normalmente no debemos tocar nada, salvo los campos correspondientes al título y al autor, que son:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;title&amp;gt;reveal.js - The HTML Presentation Framework&amp;lt;/title&amp;gt;
+
+&amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;A framework for easily creating beautiful presentations using HTML&amp;quot;&amp;gt;
+
+&amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Hakim El Hattab&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Aquí tendríamos que sustituir los valores por defecto por nuestros propios datos.&lt;/p&gt;
+&lt;div id=&#34;creando-transparencias&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Creando transparencias&lt;/h3&gt;
+&lt;p&gt;La presentación como tal empieza exactamente tras estas líneas:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;reveal&amp;quot;&amp;gt; 
+&amp;lt;!-- Any section element inside of this container is displayed as a slide --&amp;gt;
+&amp;lt;div class=&amp;quot;slides&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A partir de ahí, estamos en la &lt;strong&gt;segunda parte del documento&lt;/strong&gt;, la presentación como tal. Vemos una serie de instrucciones separadas por las etiquetas &lt;code&gt;&amp;lt;slide&amp;gt;&amp;lt;/slide&amp;gt;:&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Cada serie &lt;slide&gt;&lt;/slide&gt; es una transparencia. Ahora solo tenemos que sustituir el texto creado por el autor, por nuestro propio texto. Por ejemplo, si cambiamos:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;section&amp;gt;
+
+&amp;lt;h1&amp;gt;Reveal.js&amp;lt;/h1&amp;gt;
+&amp;lt;h3&amp;gt;The HTML Presentation Framework&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+&amp;lt;small&amp;gt;Created by &amp;lt;a href=&amp;quot;http://hakim.se&amp;quot;&amp;gt;Hakim El Hattab&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;quot;http://twitter.com/hakimel&amp;quot;&amp;gt;@hakimel&amp;lt;/a&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/section&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;por:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;section&amp;gt;
+&amp;lt;h1&amp;gt;Aprendiendo Reveal.js&amp;lt;/h1&amp;gt;
+&amp;lt;h3&amp;gt;¡Es sencillo!&amp;lt;/h3&amp;gt;
+&amp;lt;/section&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;guardamos, y abrimos el index.html con el navegador, esto es lo que vemos:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal5.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A partir de ahí, solo tenemos que ir copiando y pegando estas lineas de texto para ir añadiendo transparencias.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tercera-parte&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tercera parte&lt;/h3&gt;
+&lt;p&gt;Nos queda pendiente hablar de la &lt;strong&gt;tercera parte&lt;/strong&gt; del archivo index.html. Esta tercera parte es indispensable para que la presentación funcione y normalmente debemos tocarla con cuidado o dejarla directamente tal cual. Empieza justo después del último &lt;code&gt;&amp;lt;/section&amp;gt;&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal6.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Esta parte del archivo carga los plugins necesarios para el funcionamiento de la presentación.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;presentar&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Presentar&lt;/h3&gt;
+&lt;p&gt;Tras editar todas las transparencias que necesitemos, necesitaríamos guardar &lt;strong&gt;toda la carpeta&lt;/strong&gt; en un pendrive o subirla a un servidor para hacer la presentación.&lt;/p&gt;
+&lt;p&gt;Y hasta aquí la introducción. Otro día hablaremos de transparencias anidadas verticalmente, de imágenes y enlaces y de cambios en el diseño de la plantilla.&lt;/p&gt;
+&lt;p&gt;¿Qué os ha parecido? ¿Os animáis a probar?¿Ya eres un experto?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Muerte por power point</title>

@@ -1,0 +1,23 @@
+---
+authors:
+- admin
+categories: [Blogs, Recursos Educativos, ]
+date: 2015-06-15T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "Photo by Noah Silliman on Unsplash"
+  focal_point: "Center"
+projects: []
+subtitle: Blog para prácticas
+title: "El uso de blogs para materias no presenciales"
+tags: [Blogs, Recursos Educativos, ]
+---
+
+Hoy hemos cerrado el ciclo para el curso 2014-2015 del [blog de coordinación de prácticas y TFE](http://practicascurricularesupna.blogspot.com.es/). Es un blog creado para los estudiantes a los que tutorizo prácticas curriculares externas y los trabajos fin de estudios. Creo interesante hacer balance de su utilidad.
+
+Los blogs son especialmente adecuados para estas materias no presenciales. Los estudiantes que están haciendo prácticas en empresas tienen una inmersión repentina en el mundo laboral . Aunque se les asigne un tutor académico para las prácticas, muchas veces no tienen claro cual es su función y son reacios a recurrir a él. Las entradas del blog **recuerdan la existencia de esta figura y su función** de tutela en el cumplimiento del proyecto formativo del estudiante.
+
+En el caso de los Trabajos Fin de Estudios, la función del blog es distinta, ya que esta figura de tutela está más clara para los estudiantes y se producen también muchos contactos individuales adicionales. El blog cumple en este caso una función de **repositorio de materiales**, con toda la documentación recogida y ordenada, una función de **estímulo** a la organización y cumplimiento de plazos, sobre todo en los primeros meses y, por último, una forma de **homogeneizar** información y criterios para todos los estudiantes.
+
+En ambos casos, la experiencia durante este curso ha sido muy positiva y así lo han manifestado los estudiantes. Como balance, con 18 estudiantes tutorizados, se han publicado 23 entradas que han recibido más de 1.800 visitas durante el semestre. Creo que la experiencia ha merecido la pena, así que la mantendremos en los próximos cursos.

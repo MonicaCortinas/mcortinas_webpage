@@ -1,0 +1,87 @@
+---
+authors:
+- admin
+categories: [Presentaciones, Reveal.js, ]
+date: 2015-04-26T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+projects: []
+subtitle: Cómo empezar
+title: "Presentaciones en HTML con Reveal.js"
+tags: [Presentaciones, Reveal.js, ]
+---
+
+
+
+<p>Hoy voy a profundizar un poco en esa herramienta para hacer presentaciones en HTML que os presentaba en <a href="../muerte-por-power-point/index.html">esta entrada</a>. Podéis ver un ejemplo de cómo queda una presentación de este estilo:</p>
+<pre class="r"><code>knitr::include_url(&#39;https://revealjs.com/#/&#39;)</code></pre>
+<iframe src="https://revealjs.com/#/" width="672" height="400px">
+</iframe>
+<p>Navegamos con las teclas o con el ratón, podemos pulsar la tecla F para pasar a pantalla completa, B para poner la pantalla en negro y ESC para ver el esquema de la presentación.</p>
+<div id="como-empezar" class="section level2">
+<h2>Cómo empezar</h2>
+<div id="descarga-de-los-archivos-necesarios" class="section level3">
+<h3>Descarga de los archivos necesarios</h3>
+<p>Para comenzar a utilizar reveal.js no es necesario instalar ningún software, ya que será el propio navegador que utilicemos (preferentemente Chrome, pero también Safari, Firefox e Internet Explorer) el que interprete los archivos que iremos creando. Vamos por pasos:</p>
+<p>Lo primero que tenemos que hacer es descargar una carpeta desde <a href="https://github.com/hakimel/reveal.js/">Github</a>:</p>
+<p><img src="reveal1.png" /></p>
+<p>Descomprimimos la carpeta en el directorio que queramos y ya podemos empezar a trabajar.Esta carpeta ya es una presentación. El archivo que contiene el texto de la presentación se llama index.html y tiene que tener siempre ese nombre para poder presentar:</p>
+<p><img src="reveal2.png" /></p>
+</div>
+</div>
+<div id="creando-la-presentacion" class="section level2">
+<h2>Creando la presentación</h2>
+<p>Si hacemos dobre click en ese fichero, podemos ver como se abrirá en el navegador y veremos la presentación de ejemplo. El resto de archivos en la carpeta sirven para que el navegador pueda interpretar correctamente el archivo HTML. En general, cuando vamos a hacer una presentación nueva, <strong>debemos copiar toda la carpeta y editar el archivo index.html</strong>.</p>
+<p>Antes de editar el archivo, es buena idea hacer una copia y renombrarlo por si queremos recuperar el archivo original.</p>
+<p>Podemos editar el archivo directamente con el bloc de notas, pero resulta un poco incómodo. Cualquier editor de HTML nos servirá, yo tengo instalado <a href="http://brackets.io/">Brackets</a>. Si seleccionamos el archivo index.html y elegimos la opción “abrir con…” veremos algo similar a esto:</p>
+<p><img src="reveal3.png" /></p>
+<p>¡Que nadie se asuste! Es más simple de lo que parece.</p>
+<p>En este documento se distinguen <strong>tres partes</strong>. La <strong>primera parte</strong> va desde la primera línea hasta donde pone:</p>
+<pre><code>&lt;/head&gt;</code></pre>
+<p>Esta es la <strong>introducción de la presentación</strong>, en la que normalmente no debemos tocar nada, salvo los campos correspondientes al título y al autor, que son:</p>
+<pre><code>&lt;title&gt;reveal.js - The HTML Presentation Framework&lt;/title&gt;
+
+&lt;meta name=&quot;description&quot; content=&quot;A framework for easily creating beautiful presentations using HTML&quot;&gt;
+
+&lt;meta name=&quot;author&quot; content=&quot;Hakim El Hattab&quot;&gt;</code></pre>
+<p>Aquí tendríamos que sustituir los valores por defecto por nuestros propios datos.</p>
+<div id="creando-transparencias" class="section level3">
+<h3>Creando transparencias</h3>
+<p>La presentación como tal empieza exactamente tras estas líneas:</p>
+<pre><code>&lt;div class=&quot;reveal&quot;&gt; 
+&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class=&quot;slides&quot;&gt;</code></pre>
+<p>A partir de ahí, estamos en la <strong>segunda parte del documento</strong>, la presentación como tal. Vemos una serie de instrucciones separadas por las etiquetas <code>&lt;slide&gt;&lt;/slide&gt;:</code></p>
+<p><img src="reveal4.png" /></p>
+<p>Cada serie <slide></slide> es una transparencia. Ahora solo tenemos que sustituir el texto creado por el autor, por nuestro propio texto. Por ejemplo, si cambiamos:</p>
+<pre><code>&lt;section&gt;
+
+&lt;h1&gt;Reveal.js&lt;/h1&gt;
+&lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+&lt;p&gt;
+&lt;small&gt;Created by &lt;a href=&quot;http://hakim.se&quot;&gt;Hakim El Hattab&lt;/a&gt; / &lt;a href=&quot;http://twitter.com/hakimel&quot;&gt;@hakimel&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/section&gt;</code></pre>
+<p>por:</p>
+<pre><code>&lt;section&gt;
+&lt;h1&gt;Aprendiendo Reveal.js&lt;/h1&gt;
+&lt;h3&gt;¡Es sencillo!&lt;/h3&gt;
+&lt;/section&gt;</code></pre>
+<p>guardamos, y abrimos el index.html con el navegador, esto es lo que vemos:</p>
+<p><img src="reveal5.png" /></p>
+<p>A partir de ahí, solo tenemos que ir copiando y pegando estas lineas de texto para ir añadiendo transparencias.</p>
+</div>
+<div id="tercera-parte" class="section level3">
+<h3>Tercera parte</h3>
+<p>Nos queda pendiente hablar de la <strong>tercera parte</strong> del archivo index.html. Esta tercera parte es indispensable para que la presentación funcione y normalmente debemos tocarla con cuidado o dejarla directamente tal cual. Empieza justo después del último <code>&lt;/section&gt;</code>:</p>
+<p><img src="reveal6.png" /></p>
+<p>Esta parte del archivo carga los plugins necesarios para el funcionamiento de la presentación.</p>
+</div>
+<div id="presentar" class="section level3">
+<h3>Presentar</h3>
+<p>Tras editar todas las transparencias que necesitemos, necesitaríamos guardar <strong>toda la carpeta</strong> en un pendrive o subirla a un servidor para hacer la presentación.</p>
+<p>Y hasta aquí la introducción. Otro día hablaremos de transparencias anidadas verticalmente, de imágenes y enlaces y de cambios en el diseño de la plantilla.</p>
+<p>¿Qué os ha parecido? ¿Os animáis a probar?¿Ya eres un experto?</p>
+</div>
+</div>

@@ -1,0 +1,21 @@
+---
+authors:
+- admin
+categories: [e-commerce, Investigación, Marketing]
+date: 2017-02-11T01:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: "Center"
+projects: [omnichannel-behavior]
+subtitle: Nuevo artículo en Journal of Interactive Marketing
+title: "Private Sales Clubs: A 21st Century Distribution Channel"
+tags: [e-commerce, Investigación, Marketing, omnichannel]
+---
+
+El nuevo número del *Journal of Interactive Marketing* incluye [este trabajo: 10.1016/j.intmar.2016.09.001 ](https://doi.org/10.1016/j.intmar.2016.09.001) con mis compañeros Roger Betancourt, Raquel Chocarro José Miguel Múgica y Margarita Elorz.
+
+Es un trabajo empírico, en el que presentamos una aplicación al caso de los clubs privados de ventas, como [Vente Privée](https://secure.es.vente-privee.com/authentication/Portal/ES) o [Privalia](https://es.privalia.com/public/) del marco conceptual desarrollado en [este trabajo](https://doi.org/10.1016/j.intmar.2015.09.002) El análisis de los servicios permite comprobar como, por ejemplo, los consumidores intercambian tiempo de espera por descuentos.
+
+¡Cualquier comentario o sugerencia es bienvenida!

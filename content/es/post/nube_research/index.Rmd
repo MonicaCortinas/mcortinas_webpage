@@ -1,0 +1,23 @@
+---
+authors:
+- admin
+categories: [Herramientas 2.0, Investigación]
+date: 2015-09-01T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: "Center"
+projects: [ ]
+subtitle: Cómo hacer una nube de palabras
+title: "Visualizando los temas de investigación"
+tags: [Herramientas 2.0, Investigación]
+---
+
+### Entretenimiento veraniego:
+
+1. Se copian los abstract de los últimos trabajos y se crea una tabla de frecuencias de palabras con [Text Analyzer](http://www.online-utility.org/text/analyzer.jsp). Otra opción es tomarlos directamente en R Statistics desde Google Scholar, con el paquete *Scholar*
+2. Se eliminan de la tabla de frecuencias pronombres, preposiciones y otras palabras no significativas.
+3. Se pega la tabla de frecuencias en [Word it Out](http://worditout.com/) et voilà!¡
+
+Para mi ha sido una sorpresa, tanto por el peso de algunos términos, como por el poco peso de otros.

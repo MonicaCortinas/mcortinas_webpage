@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>servicios on Mónica Cortiñas</title>
+    <link>/es/tags/servicios/</link>
+    <description>Recent content in servicios on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 15 May 2015 08:26:17 +0200</lastBuildDate>
+    
+	    <atom:link href="/es/tags/servicios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuevos canales para servicios</title>
+      <link>/es/post/new_channels/</link>
+      <pubDate>Fri, 15 May 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/new_channels/</guid>
+      <description>
+
+
+&lt;p&gt;Estamos trabajando en un proyecto sobre relaciones entre canales para la comercialización de servicios. Ya tenemos algunos resultados preliminares que discutiremos la próxima semana en un seminario. Os dejo las transparencias (al final de la entrada) y una pequeña descripción de las primeras implicaciones.&lt;/p&gt;
+&lt;div id=&#34;el-consumidor-omnichannel&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El consumidor Omnichannel&lt;/h3&gt;
+&lt;p&gt;El consumidor omnichannel utiliza todos los canales a su disposición para sus compras, ya sea para buscar información como para realizar finalmente la compra. Para describir este comportamiento surgen términos como &lt;strong&gt;showrooming&lt;/strong&gt; que describe las prácticas por las que un consumidor examina un producto en una tienda física para comprarlo después más barato en Internet, también denominado en ocasiones &lt;strong&gt;&lt;em&gt;free riding&lt;/em&gt;&lt;/strong&gt; o la capacidad &lt;strong&gt;lock-in&lt;/strong&gt; para describir que un canal tiene más capacidad para retener a los clientes que otros, de manera que el consumidor que busca información en ese canal, acabará comprando en él.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;los-servicios-en-e-commerce&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Los servicios en e-commerce&lt;/h3&gt;
+&lt;p&gt;La comercialización de servicios por Internet, no es por supuesto ajena a esta tendencia pero existen menos evidencias sobre cuales son las relaciones que se establecen entre los distintos canales. ¿Las conclusiones que valen para la compra de un televisor son también válidas para la contratación de un viaje?¿Y de un abogado? En nuestro proyecto, clasificamos a los servicios en tres categorías:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Servicios de &lt;strong&gt;búsqueda&lt;/strong&gt;: Podemos saber con anticipación qué es exactamente lo que estamos comprando y tienen por tanto riesgo bajo. Por ejemplo, cuando compramos un ticket de transporte, es poco probable que tengamos sorpresas en cuanto al horario, asiento elegido u origen y destino.&lt;/li&gt;
+&lt;li&gt;Servicios de &lt;strong&gt;experiencia&lt;/strong&gt;: Hay incertidumbre sobre el propio servicio y hasta después de disfrutarlo no podemos evaluarlo por completo. Por ejemplo, cuando elegimos una película, un restaurante o un hotel de vacaciones, no podemos saber previamente si el servicio será exactamente lo que esperamos.&lt;/li&gt;
+&lt;li&gt;Servicios de &lt;strong&gt;creencia&lt;/strong&gt;: El nivel de incertidumbre es el mayor de todos ya que para determinados servicios, la evaluación es difícil &lt;strong&gt;incluso después&lt;/strong&gt; de haber recibido el servicio. ¿La reparación que nos han hecho en el coche era realmente necesaria?¿el asesoramiento legal ha sido óptimo?¿cómo hubiera respondido nuestro seguro si hubiéramos tenido un siniestro? En los servicios de creencia, el cliente no está capacitado para asegurar la calidad del servicio, incluso a posteriori.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;canales-de-informacion-en-servicios-de-experiencia-y-creencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Canales de información en servicios de experiencia y creencia&lt;/h3&gt;
+&lt;p&gt;En el trabajo analizamos con datos empíricos las diferencias en la búsqueda de información en los servicios con más incertidumbre para el consumidor: los de experiencia y creencia. ¿Qué fuentes de información pueden utilizar los consumidores?:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Personales&lt;/th&gt;
+&lt;th&gt;No personales&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Offline&lt;/td&gt;
+&lt;td&gt;Comerciales&lt;/td&gt;
+&lt;td&gt;Tienda&lt;/td&gt;
+&lt;td&gt;Publicidad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;No comerciales&lt;/td&gt;
+&lt;td&gt;Boca oreja&lt;/td&gt;
+&lt;td&gt;Medios&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Online&lt;/td&gt;
+&lt;td&gt;Comerciales&lt;/td&gt;
+&lt;td&gt;e-mail&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;No comerciales&lt;/td&gt;
+&lt;td&gt;Redes sociales&lt;/td&gt;
+&lt;td&gt;Webs externas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Observamos como:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En los servicios de creencia &lt;strong&gt;se usan menos fuentes&lt;/strong&gt; de información: Los consumidores no creen que vayan a poder llegar a conclusiones exactas sobre el resultado esperado, así que no se molestan en invertir demasiado tiempo en una búsqueda intensiva de fuentes. Eso implica que la información contenida en cada tipo de fuente &lt;strong&gt;va a ser crítica&lt;/strong&gt; para la decisión del consumidor. Las empresas que comercializan estos servicios deben cuidar al detalle la información disponible.&lt;/li&gt;
+&lt;li&gt;En los servicios de creencia, &lt;strong&gt;las fuentes personales&lt;/strong&gt; son mucho más importantes que las impersonales. En este contexto de riesgo, se considera más fiable la información proporcionada por las personas que la información estandarizada. Por tanto, se deben &lt;strong&gt;cuidar al máximo las interacciones&lt;/strong&gt; con el cliente, ya sean en contexto físicos como online.&lt;/li&gt;
+&lt;li&gt;En los servicios de creencia, las &lt;strong&gt;fuentes offline&lt;/strong&gt; siguen siendo superiores a las online. La experiencia en la oficina todavía proporciona más información a los consumidores que la experiencia online. Detalles como el aspecto de los muebles o la ropa que lleva un abogado proporcionan una &lt;strong&gt;tangibilización&lt;/strong&gt; del servicio difícil de superar con la elección de colores o tipografías de una página web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;canales-de-contratacion&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Canales de contratación&lt;/h3&gt;
+&lt;p&gt;En cuanto a la compra, la &lt;strong&gt;web&lt;/strong&gt; y el &lt;strong&gt;establecimiento físico&lt;/strong&gt; están prácticamente igualados para la contratación de servicios de experiencia. Los canales personales online (redes sociales, chats e e-mail) suponen casi un 5% de la contratación. En servicios de creencia, sin embargo, &lt;strong&gt;casi el 80% de las compras se producen en el establecimiento&lt;/strong&gt;. El canal offline es el preferido en la contratación, especialmente entre aquellos consumidores que ya habían utilizado este canal en la búsqueda de información.&lt;/p&gt;
+&lt;p&gt;El canal offline tiene &lt;strong&gt;un efecto lock-in&lt;/strong&gt; importante en servicios de experiencia y servicios de creencia. Los consumidores que han visitado el establecimiento para buscar información, tienden a contratar en el mismo lugar. Ahora bien, &lt;strong&gt;¿dónde es este lock-in menor, en servicios de experiencia o de creencia?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los servicios de creencia tienen un &lt;strong&gt;lock-in menor&lt;/strong&gt; que los de experiencia. En general, el proceso de búsqueda de información es más largo y laborioso y se extiende en el tiempo, por lo que la retención del canal físico es menor que experiencia. Si visitamos hoy una agencia de viajes y nos hacen una oferta atractiva, es probable que la contratemos en el mismo momento o al día siguiente. Si nos dan un presupuesto en una correduría de seguros, es probable que esperemos a recibir otros presupuestos y podemos acabar contratando online.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;implicaciones&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Implicaciones&lt;/h3&gt;
+&lt;p&gt;¿Qué implicaciones tienen estos resultados? Debemos tener cuidado cuando analizamos los datos de contrataciones por canal en servicios de creencia. Podemos observar un crecimiento del canal online y dar por supuesto que debemos &lt;strong&gt;desplazar recursos&lt;/strong&gt; del canal físico al e-commerce pero, dados estos resultados, esta estrategia podría ser sumamente perjudicial para los resultados de &lt;strong&gt;ambos canales&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

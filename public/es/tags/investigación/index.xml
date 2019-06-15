@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Investigación on Mónica Cortiñas</title>
+    <link>/es/tags/investigaci%C3%B3n/</link>
+    <description>Recent content in Investigación on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 13 Jun 2018 01:26:17 +0200</lastBuildDate>
+    
+	    <atom:link href="/es/tags/investigaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criptomonedas: ¿milagro tecnológico, inversión financiera o moda pasajera?</title>
+      <link>/es/post/cripto/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/cripto/</guid>
+      <description>
+
+
+&lt;p&gt;Esta semana se celebra en la &lt;a href=&#34;http://www.unavarra.es/&#34;&gt;UPNA&lt;/a&gt; el IX Encuentro del Observación Iberoamericano de Tributación Internacional con la colaboración de &lt;a href=&#34;https://www.unavarra.es/inarbe&#34;&gt;INARBE&lt;/a&gt; y ARPA Abogados y han tenido la amabilidad de invitarme a una mesa redonda sobre criptomonedas, para aportar, no el punto de vista fiscal, sino del mercado. Es un presentación muy breve, pero creo que en el material que voy a usar se resumen bien las distintas motivaciones que se mezclan en este mercado y se presentan algunos ejemplos, así que dejo aquí las transparencias (se usan las flechas para pasar transparencias):&lt;/p&gt;
+&lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://criptomcortinas.updog.co/#1&#34; width=&#34;560&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;También están colgadas &lt;a href=&#34;https://monicacortinas.github.io/criptocurrencies/#1&#34; target=&#34;_blank&#34;&gt;en github&lt;/a&gt;.
+Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si es así, ¡contadme, por favor!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gráficos Interactivos: dando vida a los números</title>
+      <link>/es/post/plotly/</link>
+      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/plotly/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
+&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen1.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En este panel podemos subir datos desde un formato Excel o csv y a partir de ahí empezar a elaborar nuestro gráfico. Para ello, tenemos que seleccionar el tipo de gráfico, entre 22 opciones distintas. Además, podemos seleccionar distintos gráficos para series diferentes y combinarlos en un mismo gráfico. Por ejemplo, cambiando las opciones para el caso de “otros sectores” podríamos tener algo así:&lt;/p&gt;
+&lt;p&gt;Podéis comprobar que estos gráficos tienen bastantes elementos interactivos, entre otras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aparecen y desparecen los datos al pasar el ratón por encima&lt;/li&gt;
+&lt;li&gt;Podemos ocultar o presentar las series al hacer click sobre ellas y los ejes se ajustan a los datos restantes&lt;/li&gt;
+&lt;li&gt;Podemos hacer zoom en determinada área para ver en detalle algunos datos&lt;/li&gt;
+&lt;li&gt;Podemos descargar una determinada vista en formato png&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En el siguiente marco podemos ver un ejemplo para los resultados de un análisis cluster:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
+&lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
+&lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen5.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si queremos utilizarlo en una presentación, tenemos dos alternativas: incluir en la presentación un link que abra el gráfico en un navegador web o incrustarlo en la propia presentación. En el caso de que utilicemos un software estilo &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/muerte-por-powerpoint.html&#34;&gt;Power Point&lt;/a&gt;siempre tendremos que incluir el link, mientras que si utilizamos software de presentación en &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/presentaciones-en-html-con-revealjs.html&#34;&gt;html&lt;/a&gt; podemos utilizar cualquiera de las dos opciones.&lt;/p&gt;
+&lt;p&gt;Para poder acceder al gráfico desde el navegador, el gráfico debe estar alojado en algún sitio. El propio plot.ly nos ofrece almacenamiento gratuito aunque, eso sí, los gráficos deben configurarse como públicos. Otra opción es descargar el archivo completo en html y subirlo a un espacio web propio.&lt;/p&gt;
+&lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
+&lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
+&lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
+&lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
+&lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¿Qué distingue a una farmacia de otra?</title>
+      <link>/es/post/jrcs/</link>
+      <pubDate>Sun, 28 Jan 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/jrcs/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy estamos de enhorabuena, ya que hemos publicado un nuevo artículo en el &lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services&#34;&gt;Journal of Retailing and Consumer Services&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;Este artículo tiene una carga emocional mayor, ya que surge de la tesis doctoral de Alberto Ibáñez, que tuve el placer de dirigir junto con mi colega Pedro Reinares en la Universidad Rey Juan Carlos y el Instituto de Empresa. Tanto la tesis como el trabajo, en el que también colabora Gyanendra Singh Sisodia, de la Ajman University, en Emiratos Árabes Unidos, se centran en el pequeño comercio y los aspectos claves para un pequeño negocio que le permiten diferenciarse de otros.&lt;/p&gt;
+&lt;p&gt;El &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S096969891730560X#!&#34;&gt;trabajo completo&lt;/a&gt; está disponible en acceso libre hasta marzo.&lt;/p&gt;
+&lt;div id=&#34;competencias-distintivas&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Competencias distintivas&lt;/h4&gt;
+&lt;p&gt;¿Qué distingue al comerciante exitoso de aquel que no lo es? En este trabajo se desarrolla el concepto de &lt;strong&gt;competencias distintas&lt;/strong&gt;, aquellas capacidades clave que son la base del éxito de algunos pequeños negocios y que permiten, en el caso de las farmacias, sobrevivir en un sector controlado por grandes cadenas de distribución, con márgenes escasos y con competencia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Qué competencias son las más importantes en este sector?.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Este trabajo presenta un análisis empírico en el que, a partir de un cuestionario en 171 establecimientos, se recoge información sobre un amplio conjunto de competencias y capacidades de las farmacias y también sobre sus resultados. Mediante un modelo de &lt;a href=&#34;https://es.wikipedia.org/wiki/Ecuaciones_estructurales&#34;&gt;Ecuaciones Estructurales&lt;/a&gt; detectamos cuales entre estas competencias tienen un impacto más directo en el desempeño de la farmacia.&lt;/p&gt;
+&lt;p&gt;Entre los resultados, podemos destacar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La &lt;strong&gt;imagen&lt;/strong&gt; de la farmacia es el elemento con mayor efecto en el desempeño y en los resultados. La imagen además, no solo tiene un impacto directo en el desempeño, sino que tiene un efecto indirecto a través de la mayor capacidad para controlar la estrategia de precios y gestionar los costes. Construir, por tanto, una imagen fuerte es prioritario en este negocio.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;gestión del conocimiento&lt;/strong&gt; es la segunda competencia más relacionada con el desempeño. El conocimiento de los clientes, tendencias y segmentos en el mercado posibilita el ajuste de la política de precios con la demanda&lt;/li&gt;
+&lt;li&gt;Por último, el &lt;strong&gt;control en la gestión&lt;/strong&gt; es la tercera competencia más importante.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como puede observarse, son dos aspectos muy relacionados con el &lt;strong&gt;marketing&lt;/strong&gt; y con el &lt;strong&gt;mercado&lt;/strong&gt; las competencias clave en este sector, sin perder de vista el control en todos los aspectos relacionados con este negocio.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Specialization in Coursera</title>
+      <link>/es/post/verano2/</link>
+      <pubDate>Thu, 17 Aug 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/verano2/</guid>
+      <description>
+
+
+&lt;div id=&#34;verano-cuando-si-no&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Verano ¿cuando si no?&lt;/h2&gt;
+&lt;p&gt;Hace ya dos años &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/08/verano-cuando-si-no.html&#34;&gt;comentaba&lt;/a&gt; algunas buenas opciones de formación online para aprovechar el tiempo libre en verano.&lt;/p&gt;
+&lt;p&gt;Este año no ha sido una excepción y, en lugar de hacer un curso, he aprovechado para iniciar una serie de cursos en la reputada plataforma &lt;a href=&#34;https://es.coursera.org/&#34;&gt;Coursera&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;coursera&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Coursera&lt;/h2&gt;
+&lt;p&gt;Coursera es una plataforma que alberga diversos &lt;a href=&#34;https://es.wikipedia.org/wiki/Massive_Open_Online_Course&#34;&gt;MOOCs&lt;/a&gt; de universidades prestigiosas de todo el mundo. La mayoría se ofrecen de forma gratuita, aunque algunas especialidades tienen una cuota de suscripción mensual de 43€ mientras dura el curso. En la mayoría de estos MOOCs:&lt;/p&gt;
+&lt;p&gt;- el curso consiste en una serie de vídeos y recursos adicionales (presentaciones, documentación…)&lt;/p&gt;
+&lt;p&gt;- la duración suele ser cuatro semanas&lt;/p&gt;
+&lt;p&gt;- se habilitan foros de discusión para intercambiar opiniones y preguntas con otros estudiantes&lt;/p&gt;
+&lt;p&gt;- se califica el curso con distintas herramientas: test de calificación automática y tareas y proyectos a calificar por los compañeros&lt;/p&gt;
+&lt;p&gt;- así mismo, se requiere la participación en la calificación de otras personas&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-science-especialization-in-coursera&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Science Especialization in Coursera&lt;/h2&gt;
+&lt;p&gt;La especialización en &lt;a href=&#34;https://es.coursera.org/specializations/jhu-data-science&#34;&gt;Ciencia de Datos&lt;/a&gt; de Coursera está impartida por profesores de bioestadística de la Universidad John Hopkins y se compone de 10 cursos:&lt;/p&gt;
+&lt;p&gt;01 Data Scientist Toolbox&lt;/p&gt;
+&lt;p&gt;02 R Programming&lt;/p&gt;
+&lt;p&gt;03 Getting Data&lt;/p&gt;
+&lt;p&gt;04 Exploratory Analysis&lt;/p&gt;
+&lt;p&gt;05 Reproducible Research&lt;/p&gt;
+&lt;p&gt;06 Statistical Inference&lt;/p&gt;
+&lt;p&gt;07 Regression Models&lt;/p&gt;
+&lt;p&gt;08 Practical Machine Learning&lt;/p&gt;
+&lt;p&gt;09 Developing Data Products&lt;/p&gt;
+&lt;p&gt;10 Final Project&lt;/p&gt;
+&lt;p&gt;¿Por qué me resultaba interesante la especialización? Desde hace dos-tres años llevo utilizando &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R&lt;/a&gt; para hacer las estimaciones estadísticas en los artículos de investigación pero, salvo un seminario de unas horas, he ido aprendiendo por mi cuenta. Sin embargo, las posibilidades de R son taaaan enormes que echaba mucho de menos un conocimiento un poco más avanzado que me permita, por un lado, personalizar y adaptar los métodos que usamos y, por otro lado, conocer aplicaciones nuevas que pueden ser útiles. Además, en estos cursos se utiliza también intensivamente el sistema de control de versiones &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; y &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt; que también tenía mucho interés en conocer.&lt;/p&gt;
+&lt;p&gt;De momento he completado los cinco primeros cursos que son los que más me interesaban. El resto probablemente los haga a otro ritmo, ya que algunos son mucho más conocidos (el 6 y el 7) y otros tienen menos aplicaciones en mi trabajo (8 y 9). Sin embargo, los cinco primeros han sido todo un descubrimiento:&lt;/p&gt;
+&lt;div id=&#34;data-scientist-toolbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Data Scientist Toolbox:&lt;/h3&gt;
+&lt;p&gt;Muy cortito y sencillo de seguir para cualquiera, buena introducción al resto de cursos&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-programming&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- R Programming:&lt;/h3&gt;
+&lt;p&gt;Este es el que más me ha costado pero también el más gratificante y útil. No recomiendo hacer este curso a nadie que no tenga unos conocimientos previos mínimos de R, a no ser que sea programador. Este curso se centra en R no tanto como software estadístico, sino como lenguaje de programación, en cómo escribir funciones propias y en sus posibilidades. Si ya sabes algo de R y quieres aprender cómo avanzar por tu cuenta, este es tu curso.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;getting-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Getting Data:&lt;/h3&gt;
+&lt;p&gt;Este curso es uno de los que más me motivaba en la especialización. Se centra en cómo utilizar R para recabar y organizar datos de muy distintas fuentes: bases de datos relacionales, bases de datos en Internet, páginas web, APIs, XML… Muy útil y fundamental para la investigación en marketing hoy en día. Por ejemplo, podemos usar R para buscar en Twitter en un determinado momento y descargar los tweets relacionados:&lt;/p&gt;
+&lt;div id=&#34;ejemplo-de-descarga-de-datos-de-twitter-con-r&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Ejemplo de descarga de datos de Twitter con R&lt;/h4&gt;
+&lt;p&gt;Para descargar desde Twitter, en primer lugar tenemos que cargar librerías adicionales y a continuación identificarnos en Twitter&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;install.packages(c(&amp;quot;devtools&amp;quot;, &amp;quot;rjson&amp;quot;, &amp;quot;bit64&amp;quot;, &amp;quot;httr&amp;quot;, &amp;quot;curl&amp;quot;, &amp;quot;twitteR&amp;quot;))
+library(c(&amp;quot;devtools&amp;quot;, &amp;quot;rjson&amp;quot;, &amp;quot;bit64&amp;quot;, &amp;quot;httr&amp;quot;, &amp;quot;curl&amp;quot;, &amp;quot;twitteR&amp;quot;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Cargamos las credenciales de acceso a la API de Twitter y establecemos la conexión:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;api_key &amp;quot;tusdatos&amp;quot;
+api_secret &amp;quot;tusdatos&amp;quot;
+access_token &amp;quot;tusdatos&amp;quot;
+access_token_secret &amp;quot;tusdatos&amp;quot;
+setup_twitter_oauth(api_key,api_secret, access_token, access_token_secret)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ahora podemos hacer nuestra búsqueda, de una forma sumamente sencilla. Por ejemplo, mostrando los seis primeros tweets para el término “omnichannel”:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;omni &amp;lt;- searchTwitter(&amp;quot;omnichannel&amp;quot;)
+head(omni)
+
+[[1]]
+[1] &amp;quot;Stuart_Harker: RT @bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC&amp;#39;s to make a purchase #customerjourney #omnichannel #mo…&amp;quot;
+
+[[2]]
+[1] &amp;quot;EpicRelevance: RT @GoldmanSachs: PODCAST: $GS on what omnichannel retail 
+means for consumers: https://t.co/FGMBmsYz2C https://t.co/DvgxsXUZ07&amp;quot;
+
+[[3]]
+[1] &amp;quot;EpicRelevance: RT @VanRijmenam: Omnichannel uses several strategies 
+to wow your customer - by @v12data https://t.co/3IjR1uJYff #BigData&amp;quot;
+
+[[4]]
+[1] &amp;quot;bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC&amp;#39;s to make a purchase #customerjourney… https://t.co/rQ45FiWbt8&amp;quot;
+
+[[5]]
+[1] &amp;quot;L360insider: [Podcast] Omnichannel Loyalty: 
+Connect The Dots For A Better Customer Experience - https://t.co/PpK6uhNK04 @crowdtwist&amp;quot;
+
+[[6]]
+[1] &amp;quot;MintcakeTime: @usehero @Everlane @madedotcom my omnichannel ambition 
+is to fart into my computer and have you taste it in the hero offices&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Una vez que tenemos los datos descargados, podemos utilizar paquetes de análisis de datos cualitativos para procesarlos, establecer frecuencias, mapas o el análisis que consideremos conveniente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;exploratory-analysis&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Exploratory Analysis&lt;/h3&gt;
+&lt;p&gt;El curso de análisis exploratorio es interesante porque se centra sobre todo en los paquetes gráficos de R que, aunque son complejos de utilizar tienen unas posibilidades enormes incluidos los mapas o los gráficos interactivos. Hay varias páginas que tienen galerías de gráficos en R y que muestran su potencial como &lt;a href=&#34;http://www.r-graph-gallery.com/&#34;&gt;R Graph Gallery&lt;/a&gt; o &lt;a href=&#34;https://www.r-bloggers.com/the-new-r-graph-gallery/&#34;&gt;the new R graph gallery&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reproducible-research&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Reproducible Research&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;tenor.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Este quinto curso en Coursera ha sido el más novedoso para mi y cubre los pasos a seguir para asegurarnos de que la investigación que presentamos puede reproducirse desde el principio, incluyendo cómo aseguramos que el tratamiento que hemos hecho a los datos puede replicarse hasta la presentación de análisis y resultados.&lt;/p&gt;
+&lt;p&gt;Este curso es el que hace un uso más intensivo de las herramientas de control de versiones &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; y &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt; y además, presenta una herramienta que me ha enamorado: &lt;a href=&#34;https://yihui.name/knitr/&#34;&gt;knitr&lt;/a&gt; que permite integrar en un mismo documento, texto, código de R y resultados (de forma que nos aseguramos de que el proceso sea reproducible) y después exportar este documento de texto plano que se escribe en &lt;a href=&#34;https://es.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; al formato deseado: pdf (a través de LaTex), html o Microsoft Word.&lt;/p&gt;
+&lt;p&gt;¿No es genial?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probando el hosting de Amazon S3</title>
+      <link>/es/post/aws/</link>
+      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/aws/</guid>
+      <description>
+
+
+&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
+&lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
+&lt;p&gt;Estoy encantada con el servicio de &lt;a href=&#34;https://www.dropbox.com/es_ES/&#34;&gt;Dropbox&lt;/a&gt;. He probado distintos servicios de almacenamiento en la nube y, en mi opinión, Dropbox además de ser fiable, es el más cómodo con diferencia.&lt;/p&gt;
+&lt;p&gt;Además, una de las características que les diferenciaba de la competencia y que era muy importante para mi, era la posibilidad de alojar páginas web estáticas sin hacer nada más que simplemente dejar los archivos necesarios en una carpeta denominada “Public”. Esta opción era sumamente útil para presentaciones en html como las realizadas con &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt;. Podía trabajar localmente en la presentación y cada pequeño cambio era visible en una url pública.&lt;/p&gt;
+&lt;p&gt;Lamentablemente ya hace un año que Dropbox anunció el cese del servicio, de forma que, aunque los archivos seguirán “en la nube”, ya no será accesibles como web, sino como un simple archivo de texto. Los usuarios gratuitos perdieron esta opción hace un año, y para los usuarios premium, el cambio tendrá efecto el 1 de septiembre.&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos atractivos de hacer una presentación en html es precisamente que esté disponible en la web y no dependa de un pincho para funcionar, así que era necesario buscar alternativas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-web-services&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;En mi caso, necesitaba un servicio:&lt;/p&gt;
+&lt;p&gt;\1. &lt;strong&gt;Múltiple:&lt;/strong&gt; Que permita alojar “muchas” webs diferentes (una para cada presentación)&lt;/p&gt;
+&lt;p&gt;\2. &lt;strong&gt;Barato:&lt;/strong&gt; de momento no me interesa pagar por alojar mis presentaciones&lt;/p&gt;
+&lt;p&gt;\3. &lt;strong&gt;Simple:&lt;/strong&gt; el hecho de alojar la presentación va a ser un trabajo adicional al propio hecho de prepararla y, dado que muchas veces (más de las debidas) suelo ir con el tiempo muy justo, no quiero añadir trabajo adicional.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En el caso de AWS, la opción gratuita es interesante para este tipo de uso, ya que proporciona 5 GB y un número limitado de solicitudes. Como mis presentaciones no suelen tener provocar solicitudes de descargas masivas, la opción inicial es más que suficiente, así que el requisito “barato” está más que cumplido.&lt;/p&gt;
+&lt;p&gt;Con respecto al requisito “múltiple” tampoco es un problema, ya que podemos tener tantas páginas como queramos siempre que se cumpla el requisito de espacio y de solicitudes.&lt;/p&gt;
+&lt;p&gt;Por último, con respecto a lo simple, inicialmente AWS son un poco intimidantes. En la siguiente imagen vemos un subconjunto de los servicios ofrecidos:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;services.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Confieso que términos como “AWS Elastic Beanstalk” me suenan totalmente a chino.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sin embargo, una vez localizado el servicio necesario, Amazon S3, el proceso ha sido sorprendentemente sencillo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon S3&lt;/h2&gt;
+&lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
+&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
+&lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
+&lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
+&lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
+&lt;p&gt;2.- El bucket está configurado como web estática:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;hosting.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para configurar este acceso solo es necesario indicar cuál es el archivo “index.html” que contiene el código inicial del sitio.&lt;/p&gt;
+&lt;p&gt;Amazon S3 nos proporciona un dominio automático del tipo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“&lt;a href=&#34;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&#34; class=&#34;uri&#34;&gt;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&lt;/a&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pero también podemos redireccionar el bucket a otro dominio si disponemos de él.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alojando-presentaciones-html-en-amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Alojando presentaciones html en Amazon S3&lt;/h2&gt;
+&lt;p&gt;Mi primera intención al familiarizarme con el servicio de Amazon S3 fue alojar cada presentación en un “bucket” diferente, ya que parecía la opción lógica para presentaciones completas. Sin embargo, aquí surgió el &lt;strong&gt;primer problema&lt;/strong&gt;: cada presentación contiene una serie de archivos propios (el archivo de texto con la presentación, los recursos asociados como imágenes, video, etc… y, en su caso, un archivo de texto con la hoja de estilos) y además, los archivos necesarios para que se muestre como una presentación: los archivos propios de reveal.js (unos 11 MB) y otros posibles paquetes adicionales, fuentes, etc… si lo consideramos necesario. Resulta poco eficaz duplicar estos archivos comunes para cada presentación y mucho más si contamos con un límite máximo de espacio de 5GB. En Amazon S3, &lt;strong&gt;distintos buckets no pueden compartir archivos&lt;/strong&gt;, por lo que esta opción quedaba descartada.&lt;/p&gt;
+&lt;p&gt;Así que la configuración elegida ha sido &lt;strong&gt;un único bucket&lt;/strong&gt; para todas las presentaciones con una estructura tipo:&lt;/p&gt;
+&lt;p&gt;- FOLDER1: archivos reveal.js&lt;/p&gt;
+&lt;p&gt;- FOLDER 2: otros archivos comunes a todas las presentaciones&lt;/p&gt;
+&lt;p&gt;- FOLDER 3: presentación1&lt;/p&gt;
+&lt;p&gt;- FOLDER 4: presentación 2&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Esta estructura solo ha presentado &lt;strong&gt;un problema adicional:&lt;/strong&gt; al configurar el bucket el archivo index.html no puede estar en una de las subcarpetas, por lo que hay que crear un archivo html simple, que sirva de índice del sitio y que puede tener los enlaces de todas las presentaciones, en mi caso:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://s3.eu-west-2.amazonaws.com/mcortinasslides/index.html&#34;&gt;Index del bucket&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De momento estoy muy contenta con el servicio, pero prometo actualización!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Private Sales Clubs: A 21st Century Distribution Channel</title>
+      <link>/es/post/jim2017/</link>
+      <pubDate>Sat, 11 Feb 2017 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/jim2017/</guid>
+      <description>
+
+
+&lt;p&gt;El nuevo número del &lt;em&gt;Journal of Interactive Marketing&lt;/em&gt; incluye &lt;a href=&#34;https://doi.org/10.1016/j.intmar.2016.09.001&#34;&gt;este trabajo: 10.1016/j.intmar.2016.09.001&lt;/a&gt; con mis compañeros Roger Betancourt, Raquel Chocarro José Miguel Múgica y Margarita Elorz.&lt;/p&gt;
+&lt;p&gt;Es un trabajo empírico, en el que presentamos una aplicación al caso de los clubs privados de ventas, como &lt;a href=&#34;https://secure.es.vente-privee.com/authentication/Portal/ES&#34;&gt;Vente Privée&lt;/a&gt; o &lt;a href=&#34;https://es.privalia.com/public/&#34;&gt;Privalia&lt;/a&gt; del marco conceptual desarrollado en &lt;a href=&#34;https://doi.org/10.1016/j.intmar.2015.09.002&#34;&gt;este trabajo&lt;/a&gt; El análisis de los servicios permite comprobar como, por ejemplo, los consumidores intercambian tiempo de espera por descuentos.&lt;/p&gt;
+&lt;p&gt;¡Cualquier comentario o sugerencia es bienvenida!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuevo artículo: Channel Choice in the 21st Century: The Hidden Role of Distribution Services</title>
+      <link>/es/post/jim2016/</link>
+      <pubDate>Sun, 11 Dec 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/jim2016/</guid>
+      <description>
+
+
+&lt;p&gt;El nuevo número del &lt;em&gt;Journal of Interactive Marketing&lt;/em&gt; incluye &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S1094996815000456?via%3Dihub&#34;&gt;este trabajo: 10.1016/j.intmar.2015.09.002&lt;/a&gt; con mis compañeros Roger Betancourt, Raquel Chocarro José Miguel Múgica y Margarita Elorz.&lt;/p&gt;
+&lt;p&gt;Es un trabajo principalmente conceptual, en el que presentamos un marco teórico para reflejar el cambio que han supuesto las tecnologías de información en los canales de distribución y los servicios que estos prestan, principalmente al permitir separar la producción y distribución de los servicios. ¡Cualquier comentario o sugerencia es bienvenida!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Island of Research</title>
+      <link>/es/post/islandofresearch/</link>
+      <pubDate>Thu, 05 May 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/islandofresearch/</guid>
+      <description>
+
+
+&lt;p&gt;Cuando estaba haciendo la tesis, alguien me regaló una fotocopia de esta imagen. Desde entonces, ha estado colgada en mi despacho y siempre que la miro consigue sacarme una sonrisa.&lt;/p&gt;
+&lt;p&gt;Hoy, por casualidad, he encontrado &lt;a href=&#34;http://barbourians.org/2011/04/27/the-island-of-research/&#34;&gt;esta entrada&lt;/a&gt; que repasa su origen, así que es una buena oportunidad para compartirla con vosotros.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cierre Congreso Aemark2015</title>
+      <link>/es/post/aemark2015_cierre/</link>
+      <pubDate>Wed, 30 Sep 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/aemark2015_cierre/</guid>
+      <description>
+
+
+&lt;p&gt;Durante los días 9, 10 y 11 de septiembre hemos podido disfrutar de la presencia de casi 200 colegas de marketing procedentes de universidades españolas y latinoamericanas.&lt;/p&gt;
+&lt;p&gt;El Congreso, organizado por &lt;a href=&#34;http://www.aemark.es/&#34;&gt;AEMARK&lt;/a&gt; junto con el comité local, ha celebrado su XXVII Edición.&lt;/p&gt;
+&lt;p&gt;Tener la oportunidad de participar en el comité local ha supuesto todo un reto este año. Los aspectos administrativos de la organización están alejados de las habilidades que requiere nuestra tarea académica habitual. Sin embargo, podemos valorar muy positivamente la experiencia. Tanto las lecciones aprendidas como, sobre todo, la oportunidad de estar en contacto con tantos compañeros durante el proceso de envío de comunicaciones, revisión, inscripciones y finalmente el congreso han merecido la pena sin duda. Los tres días del congreso han sido la feliz culminación de todo un año de trabajo, así que no me resisto a explicar en esta entrada en qué ha consistido el congreso.&lt;/p&gt;
+&lt;div id=&#34;doctoral-colloquium&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Doctoral Colloquium&lt;/h3&gt;
+&lt;p&gt;El miércoles 9 de septiembre, antes de la inauguración oficial del congreso, se celebró el primer Doctoral Colloquium de Aemark, en el que nueve estudiantes de doctorado pudieron compartir sus propuestas y recibir comentarios de investigadores “senior”. Hasta el momento, en el área de marketing no existía un coloquio de este tipo en España. Los Doctoral Colloquium son una vía estupenda para recibir feed-back muy valioso de investigadores veteranos, además de servir para establecer relaciones con otros doctorandos en la misma situación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aemark1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Tras el colloquium, tuvo lugar la apertura del congreso y una recepción en el &lt;a href=&#34;http://pamplonetario.org/&#34;&gt;Planetario&lt;/a&gt; de Pamplona (Pamplonetario). Parece mentira, pero ha sido la primera vez que he podido conocer las estrellas que se ven el el cielo nocturno de Pamplona.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;jueves-10-de-septiembre&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Jueves, 10 de septiembre&lt;/h3&gt;
+&lt;p&gt;El jueves empezamos el día con mal pie. Pese a las pruebas técnicas previas, en el momento del estreno ¡nada funciona! Pasado el pánico inicial y tras superar los problemas con las versiones del software de los portátiles, conexiones con los cañones etc… tuvimos un primer grupo de sesiones paralelas y, tras la pausa, la &lt;strong&gt;sesión con los editores&lt;/strong&gt;. Este año, los invitados eran Gita V. Johar, editora del &lt;a href=&#34;http://www.ejcr.org/&#34;&gt;&lt;strong&gt;Journal of Consumer Research&lt;/strong&gt;&lt;/a&gt;, Constantine S. Katsikeas, editor del&lt;a href=&#34;https://www.ama.org/publications/JournalOfInternationalMarketing/Pages/current-issue.aspx&#34;&gt;&lt;strong&gt;Journal of International Marketing&lt;/strong&gt;&lt;/a&gt; y Shintaro Okazaki, editor del&lt;a href=&#34;http://www.tandfonline.com/loi/ujoa20#.VfqPoJfNI-o&#34;&gt;&lt;strong&gt;Journal of Advertising&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aemark2.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En las sesiones paralelas presentamos dos trabajos: “Creación de satisfacción y lealtad en nuevos canales : Private sales clubs” y “Fuentes de información y compra en los servicios de experiencia y creencia”.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aemark3.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Por la tarde, dos novedades: una sesión de póster (habitual en otros congresos pero nueva en Aemark) y una sesión profesional en la que &lt;a href=&#34;http://www.esmeraldadiazaroca.com/&#34;&gt;Esmeralda Díaz Aroca&lt;/a&gt; nos habló de &lt;strong&gt;Personal Branding y Carlos Mínguez de GfK&lt;/strong&gt; compartió algunas nuevas tendencias en &lt;strong&gt;Investigación de Mercados&lt;/strong&gt; como el impacto del “Smart Data” tanto en las metodologías de recogida de información como en el análisis.&lt;/p&gt;
+&lt;p&gt;Para terminar la jornada, como no podía ser de otra manera en Pamplona, &lt;strong&gt;Juevintxo&lt;/strong&gt; en el Casco Viejo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;viernes-11-de-septiembre&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Viernes, 11 de septiembre&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;aemark4.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El viernes no podía ser menos intenso: tras una primera tanda de sesiones paralelas, Gita V. Johar ofreción la conferencia invitada, en la que introdujo en concepto de “Caracterización egocéntrica” y describió los&lt;a href=&#34;https://scholar.google.es/scholar?hl=es&amp;amp;q=Johar+egocentric&amp;amp;btnG=&amp;amp;lr=&#34;&gt;experimentos&lt;/a&gt; que han realizado en torno a esta idea. &lt;strong&gt;¿Nos definimos por las cosas que poseemos o las cosas que poseemos nos definen?&lt;/strong&gt; Los conceptos que maneja son realmente provocadores y abren caminos de investigación con un impacto potencial en el marketing B2C importante.&lt;/p&gt;
+&lt;p&gt;Antes de comer, momento importante y emotivo con la entrega del &lt;strong&gt;Premio a la Trayectoria&lt;/strong&gt; a Ignacio Cruz Roche.&lt;/p&gt;
+&lt;p&gt;Y tras otra tanda de sesiones paralelas, llegó la sesión de clausura y la &lt;a href=&#34;http://www.aemarkcongresos.com/congreso2015/es/galeria/fotos/galeria-fotografica-viernes-11-clausura-y-cena&#34;&gt;entrega de premios&lt;/a&gt;. ¡Enhorabuena a todos!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;aemark5.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Para terminar con buen pie, cena en el &lt;a href=&#34;http://www.hreuropa.com/&#34;&gt;Hotel Europa.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En la &lt;a href=&#34;http://www.aemarkcongresos.com/congreso2015/es/&#34;&gt;página del congreso&lt;/a&gt; se pueden consultar los documentos de todas la comunicaciones presentadas, así como muchísimas más fotos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¡Y el año que viene, nos iremos a León!&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizando los temas de investigación</title>
+      <link>/es/post/nube_research/</link>
+      <pubDate>Tue, 01 Sep 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/nube_research/</guid>
+      <description>
+
+
+&lt;div id=&#34;entretenimiento-veraniego&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entretenimiento veraniego:&lt;/h3&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Se copian los abstract de los últimos trabajos y se crea una tabla de frecuencias de palabras con &lt;a href=&#34;http://www.online-utility.org/text/analyzer.jsp&#34;&gt;Text Analyzer&lt;/a&gt;. Otra opción es tomarlos directamente en R Statistics desde Google Scholar, con el paquete &lt;em&gt;Scholar&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Se eliminan de la tabla de frecuencias pronombres, preposiciones y otras palabras no significativas.&lt;/li&gt;
+&lt;li&gt;Se pega la tabla de frecuencias en &lt;a href=&#34;http://worditout.com/&#34;&gt;Word it Out&lt;/a&gt; et voilà!¡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Para mi ha sido una sorpresa, tanto por el peso de algunos términos, como por el poco peso de otros.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customer heterogenity in the development of e-loyalty</title>
+      <link>/es/post/jrim/</link>
+      <pubDate>Sun, 30 Aug 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/jrim/</guid>
+      <description>
+
+
+&lt;p&gt;El nuevo número del &lt;em&gt;Journal of Research in Interactive Marketing&lt;/em&gt; incluye &lt;a href=&#34;http://www.emeraldinsight.com/doi/full/10.1108/JRIM-07-2014-0044&#34;&gt;este trabajo&lt;/a&gt; con mis compañeras Raquel Chocarro y Marisa Villanueva. En este trabajo detectamos segmentos implícitos de clientes en la formación de lealtad a canales electrónicos teniendo en cuenta la heterogeneidad no observada.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verano: ¿Cuándo si no?</title>
+      <link>/es/post/verano/</link>
+      <pubDate>Sat, 15 Aug 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/verano/</guid>
+      <description>
+
+
+&lt;p&gt;La mayoría de los docentes echamos de menos tener más tiempo para &lt;strong&gt;formarnos&lt;/strong&gt;. Durante el curso, la presión de las tareas diarias hace que sea complicado invertir el tiempo necesario en realizar cursos de actualización o formación adicional. Sin embargo, tanto para la docencia como para la investigación, el &lt;strong&gt;Long Life Learning&lt;/strong&gt; son tanto una necesidad como, casi siempre, una vocación.&lt;/p&gt;
+&lt;p&gt;El verano puede ser una gran ocasión para darle un empujón a esos intereses o proyectos que durante el año han quedado postergados.&lt;/p&gt;
+&lt;div id=&#34;formacion-online&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Formación online&lt;/h3&gt;
+&lt;p&gt;La formación online tiene la gran ventaja de que podemos seguirla a nuestro propio ritmo desde cualquier lugar. Las vacaciones son un momento ideal para aprovechar estas posibilidades e introducirnos en temáticas nuevas que nos resulten personalmente atractivas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formacion-en-lenguajes-web&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Formación en lenguajes web&lt;/h3&gt;
+&lt;p&gt;Para aquellos interesados en herramientas TIC, aprender un poco sobre lenguajes de programación en web puede ser una inversión muy útil, ya que nos facilitarán bastante la vida a la hora de mantener un blog o una web, utilizar software como &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt; o incluso componer mensajes de correo electrónico más atractivos. Hoy os dejo algunos enlaces muy interesantes para aquellos que tengáis interés en estos temas.&lt;/p&gt;
+&lt;div id=&#34;lynda.com&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.lynda.com/default.aspx&#34;&gt;lynda.com&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Lynda.com, recientemente adquirida por Linkedin es una auténtica joya para autoformarse. Basándose en videotutoriales propios, permite elegir entre miles de cursos, desde fotografía, herramientas para profesores, desarrollo web o animación 3D. En la mayoría de casos, los cursos van desde el nivel 0 hasta especialización. Los cursos no son gratuitos, pero al registrarse se puede acceder a cursos de ejemplo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;codeacademy&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.codecademy.com/?locale_code=es&#34;&gt;Codeacademy&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Codeacademy es simplemente una maravilla para aquellos profanos que tengan interés en lenguajes de programación. Totalmente gratuita, parte desde cero y con un enfoque totalmente práctico, permite familiarizarse sin darse cuenta con lenguajes como HTML&amp;amp;CSS, Javascript, jQuery, PHP y muchos más. Si tu objetivo es manejar un blog o similar, el curso de HTML&amp;amp;CSS te permitirá alcanzar rápidamente una destreza bastante aceptable.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;edx&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.edx.org/&#34;&gt;edx&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Por último, pero desde luego, no peor, quería destacar las posibilidades de edX. edX es una plataforma de educación online que depende del MIT y Harvard y es totalmente gratuita. Por ejemplo, en este momento está abierta la inscripción de un &lt;a href=&#34;https://www.edx.org/course/introduction-r-programming-microsoft-dat204x&#34;&gt;curso de introducción a R&lt;/a&gt; o &lt;a href=&#34;https://www.edx.org/course/english-grammar-style-uqx-write101x-0&#34;&gt;este curso de gramática inglesa&lt;/a&gt;. No os perdáis la página que merece la pena.&lt;/p&gt;
+&lt;p&gt;¿Y vosotros, qué hacéis en verano? ¿Aprovecháis para aprender cosas nuevas o preferís desconectar?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XXVII Congreso de Marketing Aemark 2015</title>
+      <link>/es/post/congreso-aemark2015/</link>
+      <pubDate>Sat, 23 May 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/congreso-aemark2015/</guid>
+      <description>
+
+
+&lt;p&gt;El área de marketing de la UPNA estamos organizando la &lt;a href=&#34;http://www.aemarkcongresos.com/congreso2015/es/&#34;&gt;XXVII edición del Congreso de Marketing Aemark&lt;/a&gt; que se celebrará en Pamplona los días 9, 10 y 11 de septiembre. Esta está siendo una experiencia completamente nueva y sumamente enriquecedora.&lt;/p&gt;
+&lt;p&gt;Queda una semana para el envío de comunicaciones. Se aceptan propuestas de ponencias, trabajos en curso y propuestas de póster en Comportamiento del Consumidor y Consumo, Marketing Estratégico, Innovación y Decisiones de Producto y Marca, Comunicación y Ventas, TIC, e-marketing y mobile marketing, Distribución Comercial y Gestión Minorista, Marketing Multisectorial, Ética y Responsabilidad Corportiva y, por último, Docencia en Marketing.&lt;/p&gt;
+&lt;p&gt;Como veis, contenidos muy variados para un congreso que promete. Como aperitivo, el miércoles 9 tendremos un Doctoral Colloquium donde estudiantes de doctorado podrán debatir sus propuestas con investigadores con muchísima experiencia. El jueves y viernes, además de las sesiones generales de ponencias, tendremos una sesión especial &lt;em&gt;“Meet the editors”&lt;/em&gt; con dos editores de revistas internacionales de alto impacto y una sesión especial &lt;em&gt;“Casos de Éxito”&lt;/em&gt; donde intercambiaremos experiencias con directivos.&lt;/p&gt;
+&lt;p&gt;El viernes cerraremos con Cena de Clausura en la que, esperamos, la gastronomía navarra sepa estar a la altura.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuevos canales para servicios</title>
+      <link>/es/post/new_channels/</link>
+      <pubDate>Fri, 15 May 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/new_channels/</guid>
+      <description>
+
+
+&lt;p&gt;Estamos trabajando en un proyecto sobre relaciones entre canales para la comercialización de servicios. Ya tenemos algunos resultados preliminares que discutiremos la próxima semana en un seminario. Os dejo las transparencias (al final de la entrada) y una pequeña descripción de las primeras implicaciones.&lt;/p&gt;
+&lt;div id=&#34;el-consumidor-omnichannel&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El consumidor Omnichannel&lt;/h3&gt;
+&lt;p&gt;El consumidor omnichannel utiliza todos los canales a su disposición para sus compras, ya sea para buscar información como para realizar finalmente la compra. Para describir este comportamiento surgen términos como &lt;strong&gt;showrooming&lt;/strong&gt; que describe las prácticas por las que un consumidor examina un producto en una tienda física para comprarlo después más barato en Internet, también denominado en ocasiones &lt;strong&gt;&lt;em&gt;free riding&lt;/em&gt;&lt;/strong&gt; o la capacidad &lt;strong&gt;lock-in&lt;/strong&gt; para describir que un canal tiene más capacidad para retener a los clientes que otros, de manera que el consumidor que busca información en ese canal, acabará comprando en él.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;los-servicios-en-e-commerce&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Los servicios en e-commerce&lt;/h3&gt;
+&lt;p&gt;La comercialización de servicios por Internet, no es por supuesto ajena a esta tendencia pero existen menos evidencias sobre cuales son las relaciones que se establecen entre los distintos canales. ¿Las conclusiones que valen para la compra de un televisor son también válidas para la contratación de un viaje?¿Y de un abogado? En nuestro proyecto, clasificamos a los servicios en tres categorías:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Servicios de &lt;strong&gt;búsqueda&lt;/strong&gt;: Podemos saber con anticipación qué es exactamente lo que estamos comprando y tienen por tanto riesgo bajo. Por ejemplo, cuando compramos un ticket de transporte, es poco probable que tengamos sorpresas en cuanto al horario, asiento elegido u origen y destino.&lt;/li&gt;
+&lt;li&gt;Servicios de &lt;strong&gt;experiencia&lt;/strong&gt;: Hay incertidumbre sobre el propio servicio y hasta después de disfrutarlo no podemos evaluarlo por completo. Por ejemplo, cuando elegimos una película, un restaurante o un hotel de vacaciones, no podemos saber previamente si el servicio será exactamente lo que esperamos.&lt;/li&gt;
+&lt;li&gt;Servicios de &lt;strong&gt;creencia&lt;/strong&gt;: El nivel de incertidumbre es el mayor de todos ya que para determinados servicios, la evaluación es difícil &lt;strong&gt;incluso después&lt;/strong&gt; de haber recibido el servicio. ¿La reparación que nos han hecho en el coche era realmente necesaria?¿el asesoramiento legal ha sido óptimo?¿cómo hubiera respondido nuestro seguro si hubiéramos tenido un siniestro? En los servicios de creencia, el cliente no está capacitado para asegurar la calidad del servicio, incluso a posteriori.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;canales-de-informacion-en-servicios-de-experiencia-y-creencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Canales de información en servicios de experiencia y creencia&lt;/h3&gt;
+&lt;p&gt;En el trabajo analizamos con datos empíricos las diferencias en la búsqueda de información en los servicios con más incertidumbre para el consumidor: los de experiencia y creencia. ¿Qué fuentes de información pueden utilizar los consumidores?:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Personales&lt;/th&gt;
+&lt;th&gt;No personales&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Offline&lt;/td&gt;
+&lt;td&gt;Comerciales&lt;/td&gt;
+&lt;td&gt;Tienda&lt;/td&gt;
+&lt;td&gt;Publicidad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;No comerciales&lt;/td&gt;
+&lt;td&gt;Boca oreja&lt;/td&gt;
+&lt;td&gt;Medios&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Online&lt;/td&gt;
+&lt;td&gt;Comerciales&lt;/td&gt;
+&lt;td&gt;e-mail&lt;/td&gt;
+&lt;td&gt;Web&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;No comerciales&lt;/td&gt;
+&lt;td&gt;Redes sociales&lt;/td&gt;
+&lt;td&gt;Webs externas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Observamos como:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En los servicios de creencia &lt;strong&gt;se usan menos fuentes&lt;/strong&gt; de información: Los consumidores no creen que vayan a poder llegar a conclusiones exactas sobre el resultado esperado, así que no se molestan en invertir demasiado tiempo en una búsqueda intensiva de fuentes. Eso implica que la información contenida en cada tipo de fuente &lt;strong&gt;va a ser crítica&lt;/strong&gt; para la decisión del consumidor. Las empresas que comercializan estos servicios deben cuidar al detalle la información disponible.&lt;/li&gt;
+&lt;li&gt;En los servicios de creencia, &lt;strong&gt;las fuentes personales&lt;/strong&gt; son mucho más importantes que las impersonales. En este contexto de riesgo, se considera más fiable la información proporcionada por las personas que la información estandarizada. Por tanto, se deben &lt;strong&gt;cuidar al máximo las interacciones&lt;/strong&gt; con el cliente, ya sean en contexto físicos como online.&lt;/li&gt;
+&lt;li&gt;En los servicios de creencia, las &lt;strong&gt;fuentes offline&lt;/strong&gt; siguen siendo superiores a las online. La experiencia en la oficina todavía proporciona más información a los consumidores que la experiencia online. Detalles como el aspecto de los muebles o la ropa que lleva un abogado proporcionan una &lt;strong&gt;tangibilización&lt;/strong&gt; del servicio difícil de superar con la elección de colores o tipografías de una página web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;canales-de-contratacion&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Canales de contratación&lt;/h3&gt;
+&lt;p&gt;En cuanto a la compra, la &lt;strong&gt;web&lt;/strong&gt; y el &lt;strong&gt;establecimiento físico&lt;/strong&gt; están prácticamente igualados para la contratación de servicios de experiencia. Los canales personales online (redes sociales, chats e e-mail) suponen casi un 5% de la contratación. En servicios de creencia, sin embargo, &lt;strong&gt;casi el 80% de las compras se producen en el establecimiento&lt;/strong&gt;. El canal offline es el preferido en la contratación, especialmente entre aquellos consumidores que ya habían utilizado este canal en la búsqueda de información.&lt;/p&gt;
+&lt;p&gt;El canal offline tiene &lt;strong&gt;un efecto lock-in&lt;/strong&gt; importante en servicios de experiencia y servicios de creencia. Los consumidores que han visitado el establecimiento para buscar información, tienden a contratar en el mismo lugar. Ahora bien, &lt;strong&gt;¿dónde es este lock-in menor, en servicios de experiencia o de creencia?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los servicios de creencia tienen un &lt;strong&gt;lock-in menor&lt;/strong&gt; que los de experiencia. En general, el proceso de búsqueda de información es más largo y laborioso y se extiende en el tiempo, por lo que la retención del canal físico es menor que experiencia. Si visitamos hoy una agencia de viajes y nos hacen una oferta atractiva, es probable que la contratemos en el mismo momento o al día siguiente. Si nos dan un presupuesto en una correduría de seguros, es probable que esperemos a recibir otros presupuestos y podemos acabar contratando online.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;implicaciones&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Implicaciones&lt;/h3&gt;
+&lt;p&gt;¿Qué implicaciones tienen estos resultados? Debemos tener cuidado cuando analizamos los datos de contrataciones por canal en servicios de creencia. Podemos observar un crecimiento del canal online y dar por supuesto que debemos &lt;strong&gt;desplazar recursos&lt;/strong&gt; del canal físico al e-commerce pero, dados estos resultados, esta estrategia podría ser sumamente perjudicial para los resultados de &lt;strong&gt;ambos canales&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

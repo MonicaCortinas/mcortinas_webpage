@@ -1,0 +1,60 @@
+---
+authors:
+- admin
+categories: [e-commerce, Investigación, Marketing, omnichannel, servicios]
+date: 2015-05-15T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+projects: [omnichannel-behavior]
+subtitle: ¿los mismos para todos?
+title: "Nuevos canales para servicios"
+tags: [e-commerce, Investigación, Marketing, omnichannel, servicios]
+---
+
+Estamos trabajando en un proyecto sobre relaciones entre canales para la comercialización de servicios. Ya tenemos algunos resultados preliminares que discutiremos la próxima semana en un seminario. Os dejo las transparencias (al final de la entrada) y una pequeña descripción de las primeras implicaciones.
+
+### El consumidor Omnichannel
+
+El consumidor omnichannel utiliza todos los canales a su disposición para sus compras, ya sea para buscar información como para realizar finalmente la compra. Para describir este comportamiento surgen términos como **showrooming** que describe las prácticas por las que un consumidor examina un producto en una tienda física para comprarlo después más barato en Internet, también denominado en ocasiones ***free riding*** o la capacidad **lock-in** para describir que un canal tiene más capacidad para retener a los clientes que otros, de manera que el consumidor que busca información en ese canal, acabará comprando en él.
+
+### Los servicios en e-commerce
+
+La comercialización de servicios por Internet, no es por supuesto ajena a esta tendencia pero existen menos evidencias sobre cuales son las relaciones que se establecen entre los distintos canales. ¿Las conclusiones que valen para la compra de un televisor son también válidas para la contratación de un viaje?¿Y de un abogado? En nuestro proyecto, clasificamos a los servicios en tres categorías:
+
+- Servicios de **búsqueda**: Podemos saber con anticipación qué es exactamente lo que estamos comprando y tienen por tanto riesgo bajo. Por ejemplo, cuando compramos un ticket de transporte, es poco probable que tengamos sorpresas en cuanto al horario, asiento elegido u origen y destino.
+- Servicios de **experiencia**: Hay incertidumbre sobre el propio servicio y hasta después de disfrutarlo no podemos evaluarlo por completo. Por ejemplo, cuando elegimos una película, un restaurante o un hotel de vacaciones, no podemos saber previamente si el servicio será exactamente lo que esperamos.
+- Servicios de **creencia**: El nivel de incertidumbre es el mayor de todos ya que para determinados servicios, la evaluación es difícil **incluso después** de haber recibido el servicio. ¿La reparación que nos han hecho en el coche era realmente necesaria?¿el asesoramiento legal ha sido óptimo?¿cómo hubiera respondido nuestro seguro si hubiéramos tenido un siniestro? En los servicios de creencia, el cliente no está capacitado para asegurar la calidad del servicio, incluso a posteriori.
+
+### Canales de información en servicios de experiencia y creencia
+
+En el trabajo analizamos con datos empíricos las diferencias en la búsqueda de información en los servicios con más incertidumbre para el consumidor: los de experiencia y creencia. ¿Qué fuentes de información pueden utilizar los consumidores?:
+
+
+
+|                |     | Personales  |       No personales     |
+| -------------- | -------------- | ------------- | ---------- |
+| Offline        | Comerciales    | Tienda        | Publicidad |
+|  |  No comerciales   |  Boca oreja           |   Medios |
+| Online         | Comerciales    | e-mail        | Web        |
+| | No comerciales |   Redes sociales|    Webs externas        |
+
+Observamos como:
+
+- En los servicios de creencia **se usan menos fuentes** de información: Los consumidores no creen que vayan a poder llegar a conclusiones exactas sobre el resultado esperado, así que no se molestan en invertir demasiado tiempo en una búsqueda intensiva de fuentes. Eso implica que la información contenida en cada tipo de fuente **va a ser crítica** para la decisión del consumidor. Las empresas que comercializan estos servicios deben cuidar al detalle la información disponible.
+- En los servicios de creencia, **las fuentes personales** son mucho más importantes que las impersonales. En este contexto de riesgo, se considera más fiable la información proporcionada por las personas que la información estandarizada. Por tanto, se deben **cuidar al máximo las interacciones** con el cliente, ya sean en contexto físicos como online.
+- En los servicios de creencia, las **fuentes offline** siguen siendo superiores a las online. La experiencia en la oficina todavía proporciona más información a los consumidores que la experiencia online. Detalles como el aspecto de los muebles o la ropa que lleva un abogado proporcionan una **tangibilización** del servicio difícil de superar con la elección de colores o tipografías de una página web.
+
+### Canales de contratación
+
+En cuanto a la compra, la **web** y el **establecimiento físico** están prácticamente igualados para la contratación de servicios de experiencia. Los canales personales online (redes sociales, chats e e-mail) suponen casi un 5% de la contratación. En servicios de creencia, sin embargo, **casi el 80% de las compras se producen en el establecimiento**. El canal offline es el preferido en la contratación, especialmente entre aquellos consumidores que ya habían utilizado este canal en la búsqueda de información. 
+
+El canal offline tiene **un efecto lock-in** importante en servicios de experiencia y servicios de creencia. Los consumidores que han visitado el establecimiento para buscar información, tienden a contratar en el mismo lugar. Ahora bien, **¿dónde es este lock-in menor, en servicios de experiencia o de creencia?**
+
+Los servicios de creencia tienen un **lock-in menor** que los de experiencia. En general, el proceso de búsqueda de información es más largo y laborioso y se extiende en el tiempo, por lo que la retención del canal físico es menor que experiencia. Si visitamos hoy una agencia de viajes y nos hacen una oferta atractiva, es probable que la contratemos en el mismo momento o al día siguiente. Si nos dan un presupuesto en una correduría de seguros, es probable que esperemos a recibir otros presupuestos y podemos acabar contratando online. 
+
+###  Implicaciones
+
+¿Qué implicaciones tienen estos resultados? Debemos tener cuidado cuando analizamos los datos de contrataciones por canal en servicios de creencia. Podemos observar un crecimiento del canal online y dar por supuesto que debemos **desplazar recursos** del canal físico al e-commerce pero, dados estos resultados, esta estrategia podría ser sumamente perjudicial para los resultados de **ambos canales**.

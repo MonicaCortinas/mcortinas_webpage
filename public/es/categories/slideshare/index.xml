@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slideshare on Mónica Cortiñas</title>
+    <link>/es/categories/slideshare/</link>
+    <description>Recent content in Slideshare on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Nov 2015 08:26:17 +0200</lastBuildDate>
+    
+	    <atom:link href="/es/categories/slideshare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Repositorios para material docente</title>
+      <link>/es/post/repositorio/</link>
+      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/repositorio/</guid>
+      <description>
+
+
+&lt;p&gt;En una entrada posterior hablaremos de las distintas opciones de licencias para compartir materiales docentes. En esta entrada quiero repasar las alternativas a la hora de hacer disponibles estos materiales online.&lt;/p&gt;
+&lt;div id=&#34;servicios-de-almacenamiento-en-la-nube&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Servicios de almacenamiento en la nube&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es simplemente que los archivos sean accesibles a través de un vínculo, la opción más sencilla es utilizar algún servicio de almacenamiento como &lt;a href=&#34;http://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/intl/es_es/drive/&#34;&gt;Google Drive&lt;/a&gt; o &lt;a href=&#34;https://onedrive.live.com/&#34;&gt;One Drive&lt;/a&gt;. Los tres servicios ofrecen un espacio gratuíto interesante y una capacidad mayor por suscripción.&lt;/p&gt;
+&lt;p&gt;Compartir archivos en estos servicios es realmente sencillo. En Drobox o en OneDrive no hay más que crear una carpeta que se denomine &lt;strong&gt;“Public”:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo2.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Cualquier documento que depositemos en esta carpeta estará disponible directamente de manera pública. Para saber cuál es el vinculo, pulsamos con el botón derecho del ratón en el archivo y elegimos la opción “Copiar Vínculo Público” .&lt;/p&gt;
+&lt;p&gt;Un aspecto interesante de esta opción, es que nos permite &lt;strong&gt;alojar páginas web completas en Dropbox&lt;/strong&gt;, depositando los archivos necesarios y enlazando al archivo &lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/courseware/index.html&#34;&gt;&lt;strong&gt;index.html&lt;/strong&gt;&lt;/a&gt;. Lo mismo es válido para las transparencias en Reveal.js ](&lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&#34; class=&#34;uri&#34;&gt;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&lt;/a&gt;) (&lt;strong&gt;actualización 2019&lt;/strong&gt;: Esta opción de publicación html en el repositorio Public está desactivada en las versiones actuales de Dropbox )&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogs&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Blogs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cuando lo que pretendemos es que alguien pueda encontrar estos documentos o consultar todo el material, es necesario además hacer disponible de forma sistemática todo el conjunto de enlaces. Para ello, una primera opción es la creación de un blog.&lt;/p&gt;
+&lt;p&gt;Esta opción nos da la mayor flexibilidad posible ya que la podemos configurar exactamente a nuestro gusto, pero tiene la desventaja de tener una visibilidad relativamente reducida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;repositorios-publicos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Repositorios públicos&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es llegar a la mayor audiencia posible, la mejor opción es unirnos a alguna de las plataformas específicamente diseñadas para tal fin. La &lt;strong&gt;más popular&lt;/strong&gt; para el caso de presentaciones es &lt;a href=&#34;http://es.slideshare.net/?ss&#34;&gt;SlideShare&lt;/a&gt; pero no solo podemos subir presentaciones, sino también &lt;strong&gt;videos o cualquier documento en pdf&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Más orientado a documentos y con una larga trayectoria tenemos a &lt;a href=&#34;https://es.scribd.com/upload-document&#34;&gt;Scribd&lt;/a&gt;. En este caso podemos subir incluso libros en formato EPUB y podemos haceros disponibles públicamente o a cambio de un precio que elegimos. &lt;strong&gt;Scribd&lt;/strong&gt; se está transformando en una plataforma de lectura por suscripción mensual, pero sigue siendo una buena plataforma también para contenidos docentes.&lt;/p&gt;
+&lt;p&gt;Por último, tenemos tres opciones interesantes para editar y compartir materiales con formato de “revista digital” a partir de un documento en Word o PDF. &lt;a href=&#34;http://es.calameo.com/&#34;&gt;Calameo&lt;/a&gt;, &lt;a href=&#34;http://www.flipsnack.com/es/&#34;&gt;Flipsnack&lt;/a&gt; e &lt;a href=&#34;http://issuu.com/&#34;&gt;Issuu&lt;/a&gt; tienen opciones básicas gratuitas que, de manera muy sencilla, permiten editar cosas como esta:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.calameo.com/books/003354746324a0d0818ef&#34;&gt;MAI- Economía I 2d4&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

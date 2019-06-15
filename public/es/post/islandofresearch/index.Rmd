@@ -1,0 +1,19 @@
+---
+authors:
+- admin
+categories: [Investigación]
+date: 2016-05-05T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "c) Ernest Harburg vía barbourians"
+  focal_point: "Center"
+projects: [ ]
+subtitle: Do not block the path of inquiry 
+title: "The Island of Research"
+tags: [Investigación]
+---
+
+Cuando estaba haciendo la tesis, alguien me regaló una fotocopia de esta imagen. Desde entonces, ha estado colgada en mi despacho y siempre que la miro consigue sacarme una sonrisa.
+
+Hoy, por casualidad, he encontrado [esta entrada](<http://barbourians.org/2011/04/27/the-island-of-research/>) que repasa su origen, así que es una buena oportunidad para compartirla con vosotros.

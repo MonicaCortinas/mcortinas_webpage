@@ -1,0 +1,83 @@
+---
+authors:
+- admin
+categories: [Docencia, Herramientas 2.0, Recursos Educativos]
+date: 2016-09-16T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "Photo by Roman Kraft on Unsplash"
+  focal_point: "Center"
+projects: []
+subtitle: Publicar o no publicar materiales docentes
+title: "¡Mis apuntes, mi tesoro!"
+tags: [Docencia, Herramientas 2.0, Recursos Educativos]
+---
+
+## Publicar o no publicar materiales docentes
+
+Los docentes tenemos multitud de material creado para utilizar en clase con los estudiantes. La manera de gestionar este material cambia persona a persona en un continuo entre el que tiene pánico a que alguien aproveche lo que ha preparado con tanto esfuerzo y, por tanto, tiene sus apuntes cerrados bajo siete llaves, y el profesor generoso que los ofrece a todo el mundo en un archivo editable y sin firma.
+
+La aparición de Internet hace que el dilema ya no sea compartir o no con el compañero de departamento, sino compartir o no con la comunidad docente en cualquier parte del globo.
+
+En mi opinión, compartir tiene muchas más ventajas que inconvenientes. Por ejemplo, podemos recibir feed-back que hace enriquecer el material, ampliamos la base de conocimiento disponible para cada área, lo que incentiva que se añadan nuevos materiales y además, podemos entrar en contacto con otros docentes y compartir experiencias.
+
+Ahora bien, compartir los materiales no necesariamente implica **ni una pérdida de control** sobre su contenido, **ni la falta de atribución sobre su autor**. Cuando publicamos material online, podemos seleccionar el tipo de licencia que queremos establecer sobre su contenido. En esta entrada, voy a describir brevemente las **opciones de licencia** más populares. En la siguiente entrada, me centraré en las **posibilidades para depositar** el material.
+
+### Tipos de licencia
+
+#### Copyright
+
+![img](./indice.jpg)
+
+Es el tipo de licencia tradicional. El autor retiene todos los derechos sobre el contenido que no se puede, por tanto, copiar, modificar ni reutilizar sin permiso expreso.
+
+En España, no es necesario el registro de una obra para poder establecer un Copyright por lo que **simplemente con indicarlo en el documento estaríamos** estableciendo nuestros derechos sobre la obra. 
+
+#### Copyleft. Licencias Creative Commons
+
+![img](./749px-CC_some_rights_reserved_new.svg.png)
+
+Yo no le veo mucho sentido a compartir apuntes docentes con copyright, ya que se pierden muchas de las ventajas de hacerlo. Establecer un copyright puede ser lo más adecuado para aquellos casos en los que va a haber una explotación comercial del contenido. Si no es así, probablemente tenga más sentido utilizar una licencia menos restrictiva, como son las licencias [Creative Commons](http://creativecommons.org/). Creative Commons es una **organización sin ánimo de lucro** que ha establecido un procedimiento estandarizado para establecer de forma simple los derechos que queramos reservar sobre el contenido creado.
+
+[Para establecer una licencia](http://creativecommons.org/choose/) simplemente tenemos que contestar a una serie de preguntas sobre la protección del material:
+
+- ¿Queremos permitir un uso comercial del contenido?
+- ¿Queremos permitir que otros hagan modificaciones sobre el contenido?
+- Si se hacen esas modificaciones, ¿queremos imponer que se utilice el mismo tipo de licencia para el material?
+
+Según la respuesta a estas preguntas, tenemos seis tipos de licencias:
+
+![img](./88x31.png)
+
+ Siempre que se reconozca al autor de la obra, el material puede ser redistribuído y modificado sin restricciones por finalidad.
+
+![img](./88x31.png)
+
+Se debe reconocer al autor y se puede modificar o adaptar el material pero la licencia de la nueva obra debe ser igual.
+
+![img](./88x31.png)
+
+Se debe reconocer al autor. La obra no puede modificarse y debe reproducirse en su totalidad. 
+
+![img](./88x31.png)
+
+Se debe reconocer al autor. La obra puede modificarse o adaptarse, pero no debe utilizarse para fines comerciales.
+
+![img](./88x31.png)
+
+ Se debe reconocer al autor. La obra no debe utilizarse para fines comerciales y, si se modifica, debe redistribuirse bajo la misma licencia.
+
+![img](./88x31.png)
+
+La más restrictiva. Se debe reconocer al autor. No se permite la adaptación, ni el uso con fines comerciales.
+
+La elección de una licencia puede modificarse en cualquier momento, aunque debemos tener en cuenta que no podremos limitar el acceso al que hubiera accedido al material con una licencia anterior.
+
+### El registro de la licencia
+
+Como decía, en España no es necesaria una inscripción para poder mantener los derechos de autor sobre una obra. Sin embargo, la inscripción tiene una carácter "probatorio" en caso de conflicto legal. La mayor protección la ofrece el [Registro de la Propiedad Intelectual](http://www.mecd.gob.es/cultura-mecd/areas-cultura/propiedadintelectual/registro-de-la-propiedad-intelectual.html) pero también tiene un coste. Otra posible opción para quien le interese proteger en mayor medida su material es la iniciativa [Safe Creative](http://www.safecreative.org/) que provee protección de prueba frente a plagios y usos no autorizados. Es válida en todos los países firmantes del Convenio de Berna (ONU) y básicamente lo que hace es establecer un registro de un determinado contenido que se atribuye a un determinado autor en un momento de tiempo. Además, se pueden registrar automáticamente contenidos desde Dropbox, Google Drive o un feed de un blog:
+
+[Registrado en Safe Creative](http://www.safecreative.org/userfeed/1509270198503)
+
+¿Y vosotros? ¿Qué hacéis con vuestro material?

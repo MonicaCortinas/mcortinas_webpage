@@ -6,10 +6,647 @@
     <description>Recent content in presentaciones on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 15 Apr 2015 08:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 01:26:17 +0200</lastBuildDate>
     
 	    <atom:link href="/es/categories/presentaciones/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Criptomonedas: ¿milagro tecnológico, inversión financiera o moda pasajera?</title>
+      <link>/es/post/cripto/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/cripto/</guid>
+      <description>
+
+
+&lt;p&gt;Esta semana se celebra en la &lt;a href=&#34;http://www.unavarra.es/&#34;&gt;UPNA&lt;/a&gt; el IX Encuentro del Observación Iberoamericano de Tributación Internacional con la colaboración de &lt;a href=&#34;https://www.unavarra.es/inarbe&#34;&gt;INARBE&lt;/a&gt; y ARPA Abogados y han tenido la amabilidad de invitarme a una mesa redonda sobre criptomonedas, para aportar, no el punto de vista fiscal, sino del mercado. Es un presentación muy breve, pero creo que en el material que voy a usar se resumen bien las distintas motivaciones que se mezclan en este mercado y se presentan algunos ejemplos, así que dejo aquí las transparencias (se usan las flechas para pasar transparencias):&lt;/p&gt;
+&lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://criptomcortinas.updog.co/#1&#34; width=&#34;560&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;También están colgadas &lt;a href=&#34;https://monicacortinas.github.io/criptocurrencies/#1&#34; target=&#34;_blank&#34;&gt;en github&lt;/a&gt;.
+Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si es así, ¡contadme, por favor!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gráficos Interactivos: dando vida a los números</title>
+      <link>/es/post/plotly/</link>
+      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/plotly/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
+&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen1.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En este panel podemos subir datos desde un formato Excel o csv y a partir de ahí empezar a elaborar nuestro gráfico. Para ello, tenemos que seleccionar el tipo de gráfico, entre 22 opciones distintas. Además, podemos seleccionar distintos gráficos para series diferentes y combinarlos en un mismo gráfico. Por ejemplo, cambiando las opciones para el caso de “otros sectores” podríamos tener algo así:&lt;/p&gt;
+&lt;p&gt;Podéis comprobar que estos gráficos tienen bastantes elementos interactivos, entre otras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aparecen y desparecen los datos al pasar el ratón por encima&lt;/li&gt;
+&lt;li&gt;Podemos ocultar o presentar las series al hacer click sobre ellas y los ejes se ajustan a los datos restantes&lt;/li&gt;
+&lt;li&gt;Podemos hacer zoom en determinada área para ver en detalle algunos datos&lt;/li&gt;
+&lt;li&gt;Podemos descargar una determinada vista en formato png&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En el siguiente marco podemos ver un ejemplo para los resultados de un análisis cluster:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
+&lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
+&lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen5.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si queremos utilizarlo en una presentación, tenemos dos alternativas: incluir en la presentación un link que abra el gráfico en un navegador web o incrustarlo en la propia presentación. En el caso de que utilicemos un software estilo &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/muerte-por-powerpoint.html&#34;&gt;Power Point&lt;/a&gt;siempre tendremos que incluir el link, mientras que si utilizamos software de presentación en &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/presentaciones-en-html-con-revealjs.html&#34;&gt;html&lt;/a&gt; podemos utilizar cualquiera de las dos opciones.&lt;/p&gt;
+&lt;p&gt;Para poder acceder al gráfico desde el navegador, el gráfico debe estar alojado en algún sitio. El propio plot.ly nos ofrece almacenamiento gratuito aunque, eso sí, los gráficos deben configurarse como públicos. Otra opción es descargar el archivo completo en html y subirlo a un espacio web propio.&lt;/p&gt;
+&lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
+&lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
+&lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
+&lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
+&lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recursos para presentaciones y blogs (II) </title>
+      <link>/es/post/recursosgraficos2/</link>
+      <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/recursosgraficos2/</guid>
+      <description>
+
+
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;propio.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En la &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-para-presentaciones-y-blogs-i.html&#34;&gt;entrada anterior&lt;/a&gt; repasaba fuentes de imágenes que podemos utilizar y algunas herramientas básicas de edición.&lt;/p&gt;
+&lt;p&gt;En esta entrada vamos a ir un paso más allá, viendo cómo podemos crear exactamente el material que necesitamos ya sea incluir &lt;strong&gt;texto e imagen&lt;/strong&gt;, hacer un &lt;strong&gt;gráfico&lt;/strong&gt;, un &lt;strong&gt;infográfico&lt;/strong&gt; o incluso… (bueno, la sorpresa para el final). Empecemos por las composiciones de texto e imagen.&lt;/p&gt;
+&lt;div id=&#34;textoimagen&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;texto+imagen&lt;/h3&gt;
+&lt;p&gt;Cuando queremos incorporar texto rápidamente a una imagen de forma que quede visualmente atractiva, no hay nada tan eficaz como &lt;a href=&#34;https://buffer.com/pablo#&#34;&gt;PABLO&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;pablo.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Sin embargo, si buscamos más potencia, &lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt; es mi herramienta favorita. La imagen que abre esta entrada está editada en Canva. Su utilización es totalmente gratuita si incluimos nuestras propias imágenes o parte de las imágenes de su banco y permite crear desde banners hasta posters con múltiples disposiciones.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.picmonkey.com/&#34;&gt;PicMonkey&lt;/a&gt;, que mencionaba en la entrada anterior también es muy bueno en esto.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;graficos-e-infograficos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos e Infográficos&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://piktochart.com/&#34;&gt;Piktochart&lt;/a&gt; es la primera herramienta para gráficos que quiero mencionar. Piktochart no solo sirve para hacer gráficos, sino que tiene muchas más opciones, pero es especialmente adecuada para esta tarea:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;untitledreport.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Otra opción muy completa es &lt;a href=&#34;https://www.visme.co/&#34;&gt;Visme&lt;/a&gt;. Visme permite además hacer presentaciones completas y la creación de banners y tiene la ventaja con respecto a piktochart de que nos permite generar código para contenido embebido con una cuenta gratuita.&lt;/p&gt;
+&lt;p&gt;Y dejo para el final la herramienta más popular y probablemente la más potente: &lt;a href=&#34;http://infogr.am/&#34;&gt;infogr.am&lt;/a&gt;:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;869&#34; scrolling=&#34;no&#34; src=&#34;//e.infogr.am/graficos-07342957?src=embed&#34; style=&#34;border: none;&#34; width=&#34;550&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bonus-mapas-conceptuales&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bonus: Mapas Conceptuales&lt;/h2&gt;
+&lt;p&gt;Por último, pero no peor, quiero mencionar una herramienta especialmente adecuada para la preparación de materiales docentes. &lt;a href=&#34;https://www.mindomo.com/es/mindmap&#34;&gt;Mindomo&lt;/a&gt; permite crear Mapas Conceptuales interactivos. No es ni mucho menos la única herramienta para elaborar estos mapas, pero tiene características muy atractivas, como el hecho de poder editar simultáneamente los mapas con los estudiantes o el poder incluir todo tipo de material complementario como vídeos, imágenes y enlaces.&lt;/p&gt;
+&lt;p&gt;Pulsa en la imagen para ver el potencial de Mindomo en este resumen de las dos últimas entradas:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34;&gt;&lt;img src=&#34;slide_0.png&#34; alt=&#34;Resumen&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¿Te ha parecido útil este material?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recursos para presentaciones y blogs (I) </title>
+      <link>/es/post/recursosgraficos/</link>
+      <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/recursosgraficos/</guid>
+      <description>
+
+
+&lt;div id=&#34;recursos-graficos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Recursos gráficos&lt;/h3&gt;
+&lt;p&gt;Ya sea para una entrada en un blog, una presentación con transparencias o una página web, la utilización de imágenes es casi imprescindible.&lt;/p&gt;
+&lt;p&gt;Ahora bien, ¿de dónde sacamos estas imágenes? Más allá de una búsqueda en Google Images, en esta entrada quiero repasar fuentes y recursos para &lt;strong&gt;encontrar imágenes&lt;/strong&gt; atractivas y de calidad y algunas &lt;strong&gt;herramientas de edición&lt;/strong&gt;. En la siguiente entrada repasaré opciones para diseñar &lt;strong&gt;nuestros propios recursos&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-de-imagenes-de-uso-libre&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes de imágenes de uso libre&lt;/h3&gt;
+&lt;p&gt;Un aspecto fundamental a la hora de utilizar imágenes ajenas es asegurarnos de no estar incumpliendo los derechos de propiedad intelectual de los autores. Por eso, si vamos a utilizar &lt;strong&gt;Google Imágenes&lt;/strong&gt; como buscador, una buena práctica es acostumbrarse a utilizar la opción “Derechos de Uso” dentro de “Herramientas de Búsqueda”:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;google.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Sin embargo, si necesitamos imágenes atractivas y de calidad, hay otras fuentes que pueden proporcionar recursos de mayor calidad. La primera opción es &lt;a href=&#34;https://www.flickr.com/&#34;&gt;flickr&lt;/a&gt;, donde podemos hacer una búsqueda de imágenes con licencia Creative Commons. Además, existen &lt;strong&gt;bancos de imágenes&lt;/strong&gt; de uso libre donde podemos encontrar fotos impresionantes. A continuación, os dejo los enlaces de los que más utilizo:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jaymantri.com/&#34;&gt;Jay Mantri&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://startupstockphotos.com/&#34;&gt;Start Up Stock Photos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Podemos utilizar también &lt;strong&gt;buscadores de bancos de imágenes&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stocksnap.io/&#34;&gt;Stock Snap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.morguefile.com/&#34;&gt;Morguefile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pexels.com/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sitebuilderreport.com/stock-up&#34;&gt;Stock Up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Como veis, los recursos son infinitos ¡ahora no hay excusas para no usar buenas fotos!&lt;/p&gt;
+&lt;p&gt;Si lo que buscamos, no es una imagen sino un &lt;strong&gt;dibujo o icono&lt;/strong&gt; también tenemos grandes opciones:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flaticon.com/&#34;&gt;flaticon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.freepik.com/free-vectors/icons&#34;&gt;freepic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iconarchive.com/commercialfree.html&#34;&gt;IconArchive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Como podéis ver, podemos encontrar recursos gráficos mucho mejores que, por ejemplo, las imágenes prediseñadas de Office.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;hand-drawn-parisian-elements_23-2147506652.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.freepik.com/free-photos-vectors/love&#34;&gt;Love vector designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;recursos-de-edicion&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Recursos de edición&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vale, ya tengo mi imagen, pero no es exactamente lo que quiero…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Una vez seleccionada una imagen, a veces necesitamos hacer algunas modificaciones. Si vamos a utilizar la imagen en una página web,siempre es recomendable &lt;strong&gt;optimizarla&lt;/strong&gt; para que no ralentice la carga de la página. &lt;a href=&#34;http://webresizer.com/resizer/&#34;&gt;Web Resizer&lt;/a&gt; hace exactamente eso de forma rápida y sencilla.&lt;/p&gt;
+&lt;p&gt;Otras veces, no nos gusta demasiado el fondo de la imagen o queremos destacar una determinada parte, recortar o cambiar el tamaño. Podemos utilizar Adobe Photoshop u otros programas pero también disponemos de herramientas web que permiten esta &lt;strong&gt;edición rápida&lt;/strong&gt; sin necesidad de ninguna instalación y de forma muy sencilla e intuitiva. Entre todas las opciones, a mi me gustan especialmente dos:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pixlr.com/&#34;&gt;pixrl.com&lt;/a&gt; permite hacer todas estas cosas en un tiempo récord. Por ejemplo, utilizando la herramienta focal en la imagen anterior, en menos de treinta segundos, podemos obtener esto:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.picmonkey.com/&#34;&gt;PicMonkey&lt;/a&gt; es otra herramienta muy popular. En este caso hay bastantes opciones que son de pago, pero las funciones gratuitas nos permiten dar rápidamente un aire nuevo a una imagen:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;PicMonkey.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Con estas herramientas será suficiente para la mayoría de los casos. Sin embargo, si queremos ir un paso más allá y diseñar imágenes con nuestros propios textos, gráficos o infogramas, hay otras opciones más adecuadas a las que dedicaré la siguiente entrada.&lt;/p&gt;
+&lt;p&gt;¿Y tú, dónde encuentras las imágenes que utilizas?¿Usas herramientas de edición?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuentes tipográficas</title>
+      <link>/es/post/fuentes/</link>
+      <pubDate>Sun, 13 Mar 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/fuentes/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Elegir la fuente adecuada puede arruinar o realzar cualquier documento&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;En esta entrada quiero repasar algunos aspectos básicos relativos a la elección de fuentes tipográficas.&lt;/p&gt;
+&lt;p&gt;Para elegir una fuente, debemos pensar primero en el tipo de documento que estamos generando: si va a leerse en pantalla o impreso, su extensión y la imagen que queremos transmitir. Por ejemplo, la fuente Comic Sans, inicialmente concebida para su uso en software infantil debería quedar desterrada de cualquier contexto profesional o que implique seriedad si no queremos convertirnos en un &lt;a href=&#34;http://www.comicsanscriminal.com/&#34;&gt;Comic Sans Criminals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fonts1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Así pues vamos a repasar las distintas familias de fuentes y para qué debemos utilizarlas. En primer lugar, ¿qué es una familia de fuentes?&lt;/p&gt;
+&lt;p&gt;Existen cuatro grandes tipos de fuentes: &lt;strong&gt;serif&lt;/strong&gt;, &lt;strong&gt;sans-serif&lt;/strong&gt;, &lt;strong&gt;display&lt;/strong&gt; y &lt;strong&gt;monospace&lt;/strong&gt;.&lt;/p&gt;
+&lt;div id=&#34;fuentes-serif&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes Serif&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;times-y-times-new-roman-son-fuentes-clasicas-serif&#34;&gt;Times y Times New Roman son fuentes clásicas ‘serif’&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Las fuentes serif se denominan así porque tienen “serifa” que son esas pequeñas muescas de terminación de los caracteres. Esas terminaciones ayudan a identificar mejor los caracteres cuando la fuente es pequeña e impresa y facilitan por tanto una lectura más rápida y cómoda. En general, en un documento largo que se va a leer fundamentalmente &lt;strong&gt;impreso&lt;/strong&gt; y en el que vamos a utilizar tamaños de fuente pequeños es preferible utilizar una fuente serif. Por ejemplo, en un &lt;strong&gt;artículo académico&lt;/strong&gt; será siempre preferible utilizar este tipo de fuente.&lt;/p&gt;
+&lt;div id=&#34;ejemplos-de-fuentes-serif&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Ejemplos de fuentes serif:&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Times New Roman&lt;/strong&gt; es todo un clásico, fue la fuente por defecto en muchas versiones de Microsoft Office y es una apuesta segura. Si queremos un documento sobrio y profesional, con esta fuente no nos equivocamos. Sin embargo, podemos optar por muchas otras alternativas: como Garamond, que fue creada en el sigo XVI, Bodoni, Georgia, o Latin Modern Roman. Veamos como quedan:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;garamond.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Garamond&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;bodoni.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Bodoni&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;georgia.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Georgia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;/latinmodernroman.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Latin Modern Roman&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Garamond, Bodoni y Georgia vienen preinstaladas en Microsoft Office, y Latin Modern Roman puede descargarse &lt;a href=&#34;http://www.fontsquirrel.com/fonts/Latin-Modern-Roman&#34;&gt;aquí&lt;/a&gt;. Personalmente prefiero Georgia, aunque Latin Modern Roman da un aspecto muy similar a los documentos generados en &lt;a href=&#34;https://www.latex-project.org/&#34;&gt;LaTeX .&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-sans-serif&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes Sans Serif&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;arial-es-una-de-las-mas-conocidas-fuentes-sans-serif&#34;&gt;Arial es una de las más conocidas fuentes sans serif&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Las fuentes sans serif no tienen el adorno final de las letras y eso las hace “más limpias” y especialmente legibles en &lt;strong&gt;pantalla&lt;/strong&gt;. Son las fuentes a utilizar si estamos preparando una &lt;strong&gt;presentación&lt;/strong&gt; o en cualquier &lt;strong&gt;proyecto web&lt;/strong&gt;. La fuente sans serif más conocida es Arial y también pertenece a esta familia la última fuente por defecto en Microsoft Office: Calibri.&lt;/p&gt;
+&lt;div id=&#34;otras-fuentes-sans-serif&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Otras fuentes sans serif&lt;/h4&gt;
+&lt;p&gt;Las fuentes sans serif son las que más han crecido en los últimos años debido a su adecuación para presentar en pantalla y las opciones son infinitas. Os voy a presentar solamente algunas que me gustan especialmente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-preinstaladas-en-windows&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Fuentes preinstaladas en Windows&lt;/h4&gt;
+&lt;p&gt;Tengo que pedir disculpas a los usuarios de Mac OS pero confieso mi ignorancia en cuanto a las fuentes que se utilizan en su sistema operativo. Con respecto a las fuentes preinstaladas en Windows, me gustan especialmente cinco, incluida la fuente por defecto Calibri:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;calibri.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Calibri&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;CenturyGothic.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Century Gothic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;franklin.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Franklin Gothic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;tahoma.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Tahoma&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;verdana.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Verdana&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Yo, personalmente, me quedo con Franklin Gothic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-fuentes&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Otras fuentes&lt;/h4&gt;
+&lt;p&gt;De entre las muchísimas opciones gratuitas disponibles, algunas que me gustan mucho son:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;DIN.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;DIN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/osp-din&#34;&gt;DIN&lt;/a&gt;es una gran fuente en general pero sobre todo para números. Mi preferida para cifras sin discusión.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;lato.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Lato&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;latolig.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Lato Light&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/lato?q%5Bterm%5D=Lato&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;Lato&lt;/a&gt; es una familia de fuentes amplísima que está disponible con 18 estilos de grosor y cursivas. Es sobria y muy efectiva.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;montserrat.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Montserrat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/montserrat?q%5Bterm%5D=montserrat&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;Montserrat&lt;/a&gt; es una fuente divertida, que queda bien en encabezados o transparencias con poco texto pero que resulta pesada si se utiliza en párrafos más largos.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;opensan.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Open Sans&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/open-sans?q%5Bterm%5D=open+sans&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;Open Sans&lt;/a&gt; es una fuente de libre uso que se utiliza en muchísimas webs. Es clara, sencilla y no cansa. También tiene una versión “condensed” que queda muy bien en mayúsculas:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;opensanscondensed.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Open Sans Condensed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Por último, pero no peor, para transparencias mi preferida es la familia Roboto que también tiene versión condensed y múltiples opciones de grosor. Tres ejemplos:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;Roboto.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Roboto Regular&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;robotocondensed.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Roboto Condensed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;robotolight.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Roboto Light&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Roboto puede descargarse desde &lt;a href=&#34;http://www.fontsquirrel.com/fonts/roboto-2014?q%5Bterm%5D=roboto&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-display-y-monospace&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes display y monospace&lt;/h3&gt;
+&lt;p&gt;Las fuentes &lt;strong&gt;display&lt;/strong&gt;, también llamadas decorativas, de exhibición o de fantasía son fuentes que nunca debemos utilizar como fuentes de texto de párrafo o de encabezado. Estas fuentes están pensadas para su uso en logotipos o grandes titulares, folletos o similares. Por ejemplo, en Windows algunas de estas fuentes son:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;display.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Fuentes decorativas de Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;En &lt;a href=&#34;https://creativemarket.com/&#34;&gt;Creative Market&lt;/a&gt;, por ejemplo, podemos encontrar cientos de fuentes de este tipo.&lt;/p&gt;
+&lt;p&gt;Las fuentes &lt;strong&gt;monospace&lt;/strong&gt; son aquellas en las que todos los carácteres ocupan el mismo espacio. Por ello, son las fuentes más adecuadas cuando necesitamos que el texto en columnas quede perfectamente ordenado por ejemplo, para representar código informático o también para presentar números en tablas. La fuente monospace más conocida es Courier pero hay otras.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, la fuente &lt;a href=&#34;http://www.fontsquirrel.com/fonts/Anonymous-Pro&#34;&gt;Anonymous Pro&lt;/a&gt; o la &lt;a href=&#34;http://www.fontsquirrel.com/fonts/Anonymous-Pro&#34;&gt;Fira Mono&lt;/a&gt;, gratuitas, podrían hacer la misma función:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;anonymous.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Anonymous Pro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;firamono.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Fira Mono&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;como-utilizar-fuentes-que-no-estan-preinstaladas-en-el-sistema&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo utilizar fuentes que no están preinstaladas en el sistema?&lt;/h3&gt;
+&lt;p&gt;Para terminar, vamos a comentar cómo podemos utilizar fuentes distintas a las originalmente instaladas. En primer lugar, es necesario saber para qué vamos a utilizar esa fuente: podemos necesitarlas para utilizarlas en nuestro paquete de office de escritorio, para una página web o un blog, para incrustarlas en documentos pdf que generemos o incluso para utilizarlas en aplicaciones o software. Tendremos que tener en cuenta estos usos para saber el tipo de licencia que necesitamos.&lt;/p&gt;
+&lt;p&gt;En &lt;a href=&#34;http://www.fonts.com/&#34;&gt;fonts.com&lt;/a&gt;tenemos muchísimas fuentes con licencias de 500€ pero, si no somos diseñadores gráficos encontraremos todas las fuentes que necesitemos con licencia de libre uso en &lt;a href=&#34;http://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;uso-de-otras-fuentes-en-programas-de-escritorio&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Uso de otras fuentes en programas de escritorio&lt;/h4&gt;
+&lt;p&gt;Una vez que elegimos la fuente en Font Squirrel, la descargamos y tendremos un archivo comprimido en zip.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://3.bp.blogspot.com/-l1vOr6Ugqxg/VuWbtW_DRvI/AAAAAAAA_T0/QStfFsOPIT8e24ZfLsPzzXqtEFUMm54RQ/s1600/bajar.png&#34;&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-l1vOr6Ugqxg/VuWbtW_DRvI/AAAAAAAA_T0/QStfFsOPIT8e24ZfLsPzzXqtEFUMm54RQ/s320/bajar.png&#34; alt=&#34;img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;archivo.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si descomprimimos el archivo, veremos distintos archivos uno para cada tipo de fuente: regular, negrita (bold), cursiva (italic) y otras posibles opciones en función de las opciones que existan para la familia seleccionada.&lt;/p&gt;
+&lt;p&gt;Hacemos doble click sobre cada uno de ellos y veremos un texto de muestra y una opción para instalar:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;instalar.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Después de usar la función “instalar” tendremos la nueva fuente en el listado que aparece en cualquier programa que utilicemos y podremos utilizarlas como cualquier otra fuente.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANTE&lt;/strong&gt;: Si vamos a compartir estos archivos, tenemos que tener en cuenta que, si el destinatario no tiene las fuentes utilizadas instaladas, estas se sustituiran automáticamente por otras fuentes del sistema. Para que no suceda esto tenemos dos opciones distintas: guardar como pdf o, si queremos edición compartida utilizar la opción: &lt;em&gt;“incrustar fuentes en el documento”&lt;/em&gt;:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;incrustar.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;uso-de-fuentes-en-sitios-web&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Uso de fuentes en sitios web&lt;/h4&gt;
+&lt;p&gt;En el caso de que vayamos a utilizar las fuentes en una web, podemos optar por subir los archivos necesarios a la carpeta raíz del sitio o simplemente enlazar las fuentes desde un servidor.&lt;/p&gt;
+&lt;p&gt;Si vamos a subir los archivos, tenemos que tener en cuenta el formato del archivo. Para asegurarnos de que los usuarios del sitio pueden visualizar correctamente las fuentes, tendríamos que convertir la fuente seleccionada y después subir varias versiones distintas. &lt;a href=&#34;http://www.fontsquirrel.com/tools/webfont-generator&#34;&gt;Font Squirrel&lt;/a&gt; tiene también un generador que nos permite convertir las fuentes.&lt;/p&gt;
+&lt;p&gt;Sin embargo, la opción más simple es enlazarlas directamente desde &lt;a href=&#34;https://www.google.com/fonts&#34;&gt;Google Fonts&lt;/a&gt;. Una vez hemos buscado la fuente y seleccionado los caracteres que nos interesan, si la fuente es de uso libre nos aparecen directamente los códigos que debemos copiar en el sitio web para utilizarla.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;googlefonts.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Espero que esta revisión os haya resultado útil. ¿Y vosotros, utilizáis fuentes por defecto?¿os gusta la comic sans ;) ? ¿Cuál es vuestra fuente preferida?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentaciones en HTML con Reveal.js</title>
+      <link>/es/post/presentaciones-con-reveal/</link>
+      <pubDate>Sun, 26 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/presentaciones-con-reveal/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy voy a profundizar un poco en esa herramienta para hacer presentaciones en HTML que os presentaba en &lt;a href=&#34;../muerte-por-power-point/index.html&#34;&gt;esta entrada&lt;/a&gt;. Podéis ver un ejemplo de cómo queda una presentación de este estilo:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_url(&amp;#39;https://revealjs.com/#/&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe src=&#34;https://revealjs.com/#/&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Navegamos con las teclas o con el ratón, podemos pulsar la tecla F para pasar a pantalla completa, B para poner la pantalla en negro y ESC para ver el esquema de la presentación.&lt;/p&gt;
+&lt;div id=&#34;como-empezar&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Cómo empezar&lt;/h2&gt;
+&lt;div id=&#34;descarga-de-los-archivos-necesarios&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Descarga de los archivos necesarios&lt;/h3&gt;
+&lt;p&gt;Para comenzar a utilizar reveal.js no es necesario instalar ningún software, ya que será el propio navegador que utilicemos (preferentemente Chrome, pero también Safari, Firefox e Internet Explorer) el que interprete los archivos que iremos creando. Vamos por pasos:&lt;/p&gt;
+&lt;p&gt;Lo primero que tenemos que hacer es descargar una carpeta desde &lt;a href=&#34;https://github.com/hakimel/reveal.js/&#34;&gt;Github&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Descomprimimos la carpeta en el directorio que queramos y ya podemos empezar a trabajar.Esta carpeta ya es una presentación. El archivo que contiene el texto de la presentación se llama index.html y tiene que tener siempre ese nombre para poder presentar:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal2.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;creando-la-presentacion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Creando la presentación&lt;/h2&gt;
+&lt;p&gt;Si hacemos dobre click en ese fichero, podemos ver como se abrirá en el navegador y veremos la presentación de ejemplo. El resto de archivos en la carpeta sirven para que el navegador pueda interpretar correctamente el archivo HTML. En general, cuando vamos a hacer una presentación nueva, &lt;strong&gt;debemos copiar toda la carpeta y editar el archivo index.html&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Antes de editar el archivo, es buena idea hacer una copia y renombrarlo por si queremos recuperar el archivo original.&lt;/p&gt;
+&lt;p&gt;Podemos editar el archivo directamente con el bloc de notas, pero resulta un poco incómodo. Cualquier editor de HTML nos servirá, yo tengo instalado &lt;a href=&#34;http://brackets.io/&#34;&gt;Brackets&lt;/a&gt;. Si seleccionamos el archivo index.html y elegimos la opción “abrir con…” veremos algo similar a esto:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;¡Que nadie se asuste! Es más simple de lo que parece.&lt;/p&gt;
+&lt;p&gt;En este documento se distinguen &lt;strong&gt;tres partes&lt;/strong&gt;. La &lt;strong&gt;primera parte&lt;/strong&gt; va desde la primera línea hasta donde pone:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;/head&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Esta es la &lt;strong&gt;introducción de la presentación&lt;/strong&gt;, en la que normalmente no debemos tocar nada, salvo los campos correspondientes al título y al autor, que son:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;title&amp;gt;reveal.js - The HTML Presentation Framework&amp;lt;/title&amp;gt;
+
+&amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;A framework for easily creating beautiful presentations using HTML&amp;quot;&amp;gt;
+
+&amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Hakim El Hattab&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Aquí tendríamos que sustituir los valores por defecto por nuestros propios datos.&lt;/p&gt;
+&lt;div id=&#34;creando-transparencias&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Creando transparencias&lt;/h3&gt;
+&lt;p&gt;La presentación como tal empieza exactamente tras estas líneas:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;reveal&amp;quot;&amp;gt; 
+&amp;lt;!-- Any section element inside of this container is displayed as a slide --&amp;gt;
+&amp;lt;div class=&amp;quot;slides&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A partir de ahí, estamos en la &lt;strong&gt;segunda parte del documento&lt;/strong&gt;, la presentación como tal. Vemos una serie de instrucciones separadas por las etiquetas &lt;code&gt;&amp;lt;slide&amp;gt;&amp;lt;/slide&amp;gt;:&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Cada serie &lt;slide&gt;&lt;/slide&gt; es una transparencia. Ahora solo tenemos que sustituir el texto creado por el autor, por nuestro propio texto. Por ejemplo, si cambiamos:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;section&amp;gt;
+
+&amp;lt;h1&amp;gt;Reveal.js&amp;lt;/h1&amp;gt;
+&amp;lt;h3&amp;gt;The HTML Presentation Framework&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+&amp;lt;small&amp;gt;Created by &amp;lt;a href=&amp;quot;http://hakim.se&amp;quot;&amp;gt;Hakim El Hattab&amp;lt;/a&amp;gt; / &amp;lt;a href=&amp;quot;http://twitter.com/hakimel&amp;quot;&amp;gt;@hakimel&amp;lt;/a&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/section&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;por:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;section&amp;gt;
+&amp;lt;h1&amp;gt;Aprendiendo Reveal.js&amp;lt;/h1&amp;gt;
+&amp;lt;h3&amp;gt;¡Es sencillo!&amp;lt;/h3&amp;gt;
+&amp;lt;/section&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;guardamos, y abrimos el index.html con el navegador, esto es lo que vemos:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal5.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A partir de ahí, solo tenemos que ir copiando y pegando estas lineas de texto para ir añadiendo transparencias.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tercera-parte&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tercera parte&lt;/h3&gt;
+&lt;p&gt;Nos queda pendiente hablar de la &lt;strong&gt;tercera parte&lt;/strong&gt; del archivo index.html. Esta tercera parte es indispensable para que la presentación funcione y normalmente debemos tocarla con cuidado o dejarla directamente tal cual. Empieza justo después del último &lt;code&gt;&amp;lt;/section&amp;gt;&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;reveal6.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Esta parte del archivo carga los plugins necesarios para el funcionamiento de la presentación.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;presentar&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Presentar&lt;/h3&gt;
+&lt;p&gt;Tras editar todas las transparencias que necesitemos, necesitaríamos guardar &lt;strong&gt;toda la carpeta&lt;/strong&gt; en un pendrive o subirla a un servidor para hacer la presentación.&lt;/p&gt;
+&lt;p&gt;Y hasta aquí la introducción. Otro día hablaremos de transparencias anidadas verticalmente, de imágenes y enlaces y de cambios en el diseño de la plantilla.&lt;/p&gt;
+&lt;p&gt;¿Qué os ha parecido? ¿Os animáis a probar?¿Ya eres un experto?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Muerte por power point</title>
