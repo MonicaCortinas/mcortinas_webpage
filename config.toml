@@ -38,7 +38,7 @@ copyright = "Mónica Cortiñas &copy; 2019"
     privacyEnhanced = false
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-59823480-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
