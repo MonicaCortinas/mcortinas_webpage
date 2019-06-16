@@ -59,30 +59,6 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = true
 
 [languages]
-  [languages.en]
-    contentDir = "content/en"
-    languageName = "English"
-    weight = 10
-    [[languages.en.menu.main]]
-      name   = "Home"
-      url = "#about"
-       weight = 10
-    [[languages.en.menu.main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 20
-  [[languages.en.menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-    [[languages.en.menu.main]]
-  name = "Recent Talks"
-  url = "talk/"
-  weight = 40
-    [[languages.en.menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
   [languages.es]
     contentDir = "content/es"
     languageName = "Español"
@@ -115,6 +91,31 @@ defaultContentLanguageInSubdir = true
   name = "Contacto"
   url = "#contact"
   weight = 70
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 10
+    [[languages.en.menu.main]]
+      name   = "Home"
+      url = "#about"
+       weight = 10
+    [[languages.en.menu.main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 20
+  [[languages.en.menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
+    [[languages.en.menu.main]]
+  name = "Recent Talks"
+  url = "talk/"
+  weight = 40
+    [[languages.en.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 70
+  
   
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true

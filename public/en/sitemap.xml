@@ -5,46 +5,16 @@
   <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/courses/example/example1/"
-                />
   </url>
   
   <url>
     <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/courses/example/"
-                />
   </url>
   
   <url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/courses/example/example2/"
-                />
   </url>
   
   <url>

@@ -3,48 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/courses/example/</loc>
+    <loc>/es/courses/marketing/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/"
-                />
   </url>
   
   <url>
-    <loc>/es/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example2/"
-                />
+    <loc>/es/courses/sistemas/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1029,6 +994,18 @@
   </url>
   
   <url>
+    <loc>/es/categories/presentaciones/</loc>
+    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/presentaciones/</loc>
+    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/es/categories/criptomonedas/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1042,18 +1019,6 @@
   
   <url>
     <loc>/es/categories/e-commerce/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/categories/presentaciones/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/tags/presentaciones/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
