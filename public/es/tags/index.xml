@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>eye tracking</title>
+      <title>eye-tracking</title>
       <link>/es/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
@@ -75,6 +75,42 @@
     </item>
     
     <item>
+      <title>Docencia</title>
+      <link>/es/tags/docencia/</link>
+      <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/docencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigación</title>
+      <link>/es/tags/investigaci%C3%B3n/</link>
+      <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/investigaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>/es/tags/marketing/</link>
+      <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>/es/tags/web/</link>
+      <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/es/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence</title>
       <link>/es/tags/artificial-intelligence/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
@@ -111,20 +147,20 @@
     </item>
     
     <item>
-      <title>Experimental design</title>
-      <link>/es/tags/experimental-design/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/es/tags/experimental-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>customer journey</title>
+      <title>Customer journey</title>
       <link>/es/tags/customer-journey/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/customer-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental design</title>
+      <link>/es/tags/experimental-design/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/experimental-design/</guid>
       <description></description>
     </item>
     
@@ -156,7 +192,7 @@
     </item>
     
     <item>
-      <title>Distribution services</title>
+      <title>Distribution Services</title>
       <link>/es/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -183,7 +219,7 @@
     </item>
     
     <item>
-      <title>omnichannel behavior</title>
+      <title>Omnichannel behavior</title>
       <link>/es/tags/omnichannel-behavior/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -224,24 +260,6 @@
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
       
       <guid>/es/tags/herramientas-2.0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigación</title>
-      <link>/es/tags/investigaci%C3%B3n/</link>
-      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/es/tags/investigaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>/es/tags/marketing/</link>
-      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/es/tags/marketing/</guid>
       <description></description>
     </item>
     
@@ -309,20 +327,11 @@
     </item>
     
     <item>
-      <title>services marketing</title>
+      <title>Services marketing</title>
       <link>/es/tags/services-marketing/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
       <guid>/es/tags/services-marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docencia</title>
-      <link>/es/tags/docencia/</link>
-      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
-      
-      <guid>/es/tags/docencia/</guid>
       <description></description>
     </item>
     
@@ -408,7 +417,7 @@
     </item>
     
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>/es/tags/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
@@ -723,6 +732,15 @@
     </item>
     
     <item>
+      <title>Agriproducts</title>
+      <link>/es/tags/agriproducts/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/es/tags/agriproducts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brands</title>
       <link>/es/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -737,15 +755,6 @@
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>/es/tags/consumer-experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agriproducts</title>
-      <link>/es/tags/agriproducts/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/es/tags/agriproducts/</guid>
       <description></description>
     </item>
     

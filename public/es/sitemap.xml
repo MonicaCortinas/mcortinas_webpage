@@ -374,6 +374,78 @@
   </url>
   
   <url>
+    <loc>/es/categories/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/docencia/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/investigaci%C3%B3n/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/marketing/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/post/new-site/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/post/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/categories/recursos-tic/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/categories/web/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/tags/web/</loc>
+    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/es/tags/artificial-intelligence/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -490,18 +562,18 @@
   </url>
   
   <url>
-    <loc>/es/tags/experimental-design/</loc>
+    <loc>/es/tags/customer-journey/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/experimental-design/"
+                href="/tags/customer-journey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/experimental-design/"
+                href="/es/tags/customer-journey/"
                 />
   </url>
   
@@ -522,18 +594,18 @@
   </url>
   
   <url>
-    <loc>/es/tags/customer-journey/</loc>
+    <loc>/es/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/customer-journey/"
+                href="/tags/experimental-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/customer-journey/"
+                href="/es/tags/experimental-design/"
                 />
   </url>
   
@@ -922,22 +994,6 @@
   </url>
   
   <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/post/cripto/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
   </url>
@@ -961,36 +1017,9 @@
   </url>
   
   <url>
-    <loc>/es/tags/investigaci%C3%B3n/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/es/categories/marketing/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/tags/marketing/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/es/post/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
-                />
   </url>
   
   <url>
@@ -1271,12 +1300,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/docencia/</loc>
-    <lastmod>2017-07-03T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/es/categories/dropbox/</loc>
     <lastmod>2017-07-03T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1510,11 +1533,6 @@
   </url>
   
   <url>
-    <loc>/es/post/blogger_primeros_pasos/</loc>
-    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/es/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1524,6 +1542,11 @@
     <loc>/es/tags/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/es/post/blogger_primeros_pasos/</loc>
+    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
   </url>
   
   <url>
@@ -2339,6 +2362,22 @@
   </url>
   
   <url>
+    <loc>/es/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/agriproducts/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2367,22 +2406,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/consumer-experience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/agriproducts/"
                 />
   </url>
   

@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Omnichannel</title>
-      <link>/tags/omnichannel/</link>
-      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
-      
-      <guid>/tags/omnichannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>e-commerce</title>
       <link>/tags/e-commerce/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
@@ -31,11 +22,20 @@
     </item>
     
     <item>
-      <title>eye tracking</title>
+      <title>eye-tracking</title>
       <link>/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
       <guid>/tags/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel</title>
+      <link>/tags/omnichannel/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel/</guid>
       <description></description>
     </item>
     
@@ -112,20 +112,20 @@
     </item>
     
     <item>
-      <title>Experimental design</title>
-      <link>/tags/experimental-design/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/experimental-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>customer journey</title>
+      <title>Customer journey</title>
       <link>/tags/customer-journey/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/customer-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental design</title>
+      <link>/tags/experimental-design/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experimental-design/</guid>
       <description></description>
     </item>
     
@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>Distribution services</title>
+      <title>Distribution Services</title>
       <link>/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -184,7 +184,7 @@
     </item>
     
     <item>
-      <title>omnichannel behavior</title>
+      <title>Omnichannel behavior</title>
       <link>/tags/omnichannel-behavior/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -247,7 +247,7 @@
     </item>
     
     <item>
-      <title>services-marketing</title>
+      <title>Services marketing</title>
       <link>/tags/services-marketing/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
@@ -526,6 +526,15 @@
     </item>
     
     <item>
+      <title>Agriproducts</title>
+      <link>/tags/agriproducts/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agriproducts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brands</title>
       <link>/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -540,15 +549,6 @@
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>/tags/consumer-experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agriproducts</title>
-      <link>/tags/agriproducts/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/agriproducts/</guid>
       <description></description>
     </item>
     

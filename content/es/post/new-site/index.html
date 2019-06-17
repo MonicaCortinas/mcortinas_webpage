@@ -1,0 +1,38 @@
+---
+authors:
+- admin
+categories: [web, recursos TIC]
+date: 2019-06-17T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+projects: []
+subtitle: Creando un sitio con Blogdown y Hugo
+title: "Nueva web"
+tags: [Investigación, Marketing, Docencia, web]
+---
+
+
+
+<p>Esta semana estreno el proyecto web en el que he estado trabajando últimamente. Esta página culmina la mudanza desde el blog original alojado en Blogger a una página, en mi opinión, más completa para las distintas necesidades que tenemos los académicos. En mi caso, considero importante:</p>
+<ul>
+<li>Poder alojar tanto contenidos de <strong>investigación</strong> como el blog de divulgación y <strong>recursos educativos</strong></li>
+<li>Soporte <strong>multilingüe</strong>, para tener versión en castellano y en inglés.</li>
+<li>Poder mantener un <strong>repositorio</strong> de material de congresos y de docencia.</li>
+</ul>
+<p>Además, era crítico que todo esto pudiera implementarse:</p>
+<ul>
+<li>en una herramienta que pudiera gestionar por <strong>mí misma </strong> de manera sencilla.</li>
+<li>en una herramienta que no requiera conocimientos avanzados sobre <strong>seguridad</strong> ni me requiera un tiempo excesivo en configuración de pluggins, add-ins etc y me permita centrarme en el <strong>contenido</strong>.</li>
+</ul>
+<p>Desde que, hace un año, empecé a oír hablar del paquete <a href="https://bookdown.org/yihui/blogdown/">blogdown</a> para crear sitios web desde R Studio empecé a barajar la posibilidad del cambio. Ya he tenido la posibilidad de implementar proyectos relativamente ambiciosos en el paquete hermano <a href="https://bookdown.org/">bookdown</a> que permite la edición de libros y me parece una herramienta fantástica, por lo que tenía ganas de probar si yo misma era capaz de crear una página web personal desde cero en R Studio.</p>
+<p>La principal diferencia de este enfoque, basado en páginas estáticas, con respecto a editores como <a href="https://wordpress.org/">Wordpress</a>, <a href="https://www.joomla.org/">Joomla</a> o <a href="https://www.drupal.org/">Drupal</a>, es que permite editar los contenidos en <strong>texto plano localmente</strong> y generar una única carpeta que contiene el contenido <code>html</code>, <code>css</code> y <code>js</code> necesario para montar el sitio, de manera que, alojando esos archivos, podemos tener un sitio web operativo con las menores complicaciones posibles. El sitio además es <strong>muy rápido</strong>, ya que no se genera de forma dinámica cuando se producen visitas. Otra ventaja muy importante es que son sitios <strong>totalmente seguros</strong>, ya que no hay ninguna base de datos a la que acceder, ni hay sistemas de login, ni necesidad de actualización. Por último, permiten una <strong>gran autonomía</strong>, ya que el sitio es básicamente una carpeta de archivos, lo que permite alojarlo en prácticamente cualquier servicio, incluidos muchos servicios gratuitos como <a href="https://pages.github.com/">Github Pages</a> o <a href="https://www.netlify.com/">Netlify</a>.</p>
+<p>Crear esta página web ha sido una experiencia divertida, sencilla y mucho más rápida de lo que esperaba. Si trabajáis habitualmente con R y R Studio, os animo a probar este enfoque, las herramientas básicas que he utilizado son:</p>
+<ul>
+<li><a href="https://cran.r-project.org/">R</a>, <a href="https://www.rstudio.com/">R Studio</a> y el paquete <a href="https://bookdown.org/yihui/blogdown/">blogdown</a></li>
+<li>Tema <a href="https://themes.gohugo.io/academic/">Académico</a> de Hugo</li>
+<li>La página está alojada de forma gratuita en <a href="https://www.netlify.com/">Netlify</a></li>
+<li>El dominio personalizado ya lo tenía anteriormente, cuesta unos 12$ anuales</li>
+</ul>
