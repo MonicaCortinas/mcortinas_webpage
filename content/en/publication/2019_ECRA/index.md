@@ -11,14 +11,14 @@ authors:
 - Raquel Chocarro
 - Arantxa Villanueva
 date: "2019"
-doi: " "
+doi: "10.1016/j.elerap.2019.100864"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/PkauYYJwdTQ)'
   focal_point: ""
   preview_only: false
 projects: [eyetracking-visualattention]
-publication: '*Electronic Commerce Research and Applications*, forthcoming'
+publication: '*Electronic Commerce Research and Applications*, 36, 1-19.'
 publication_short: "Electronic Commerce Research and Applications"
 publication_types:
 - "2"
@@ -41,7 +41,7 @@ tags:
 title: "Attention to Online Channels across the Path to Purchase: An Eye-Tracking Study"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S1567422319300419/pdfft?md5=64aaffd9d2dd69f4bfee83cb8279362d&pid=1-s2.0-S1567422319300419-main.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
