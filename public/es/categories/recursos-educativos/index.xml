@@ -186,41 +186,44 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Mapas Conceptuales</title>
-      <link>/es/post/mapas_conceptuales/index.knit/</link>
+      <link>/es/post/mapas_conceptuales/</link>
       <pubDate>Sun, 16 Oct 2016 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/mapas_conceptuales/index.knit/</guid>
+      <guid>/es/post/mapas_conceptuales/</guid>
       <description>
 
-&lt;h3 id=&#34;los-mapas-conceptuales-como-herramienta-docente&#34;&gt;Los mapas conceptuales como herramienta docente&lt;/h3&gt;
 
+&lt;div id=&#34;los-mapas-conceptuales-como-herramienta-docente&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Los mapas conceptuales como herramienta docente&lt;/h3&gt;
 &lt;p&gt;Los mapas conceptuales son una herramienta útil para mostrar a los estudiantes la interrelación entre distintos términos. Podemos, por supuesto, elaborar el mapa en la pizarra pero existen algunas aplicaciones que nos permiten hacerlo directamente en la web de forma colaborativa.&lt;/p&gt;
-
 &lt;p&gt;Vamos a repasar algunas de ellas.&lt;/p&gt;
-
-&lt;h3 id=&#34;editores-orientados-a-la-creación-de-imágenes&#34;&gt;Editores orientados a la creación de imágenes&lt;/h3&gt;
-
-&lt;h4 id=&#34;text2mindmap&#34;&gt;Text2Mindmap&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;./indice.png&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.text2mindmap.com/&#34; target=&#34;_blank&#34;&gt;Text2mindmap&lt;/a&gt; es una aplicación muy muy sencilla que permite crear mapas de manera muy rápida. Solo con pegar una lista de palabras indentada, nos mostrará automáticamente el mapa que podremos después retocar. Como contrapartida, en su versión gratuita, no se puede interactuar con los mapas y está pensado simplemente para descargarlos posteriormente como imagen.&lt;/p&gt;
-
-&lt;h4 id=&#34;gliffy&#34;&gt;Gliffy&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.gliffy.com/&#34; target=&#34;_blank&#34;&gt;Gliffy&lt;/a&gt;  es una herramienta muy potente para dibujar mapas mentales así como para hacer gráficos de todo tipo. Es totalmente gratuita y está orientada (al igual que Text2Mindmap) a la creación de imágenes, pero es mucho más potente que la primera y permite la inclusión de imágenes y enlaces. Como contrapartida, es más compleja de utilizar y, por tanto, exige dedicarle más tiempo.&lt;/p&gt;
-
-&lt;h3 id=&#34;editores-orientados-a-la-creación-de-mapas-interactivos&#34;&gt;Editores orientados a la creación de mapas interactivos&lt;/h3&gt;
-
-&lt;p&gt;Existen otras herramientas cuyo objetivo específico es crear mapas en los que se puede colaborar en tiempo real, por lo que profesor y estudiantes pueden elaborar y modificar los mapas de forma colaborativa. ¿Genial, no? Entre ellas, destacan &lt;a href=&#34;https://www.mindomo.com/&#34; target=&#34;_blank&#34;&gt;Mindomo&lt;/a&gt;, &lt;a href=&#34;https://bubbl.us/&#34; target=&#34;_blank&#34;&gt;Bubbl.us&lt;/a&gt; o &lt;a href=&#34;https://www.mindmeister.com/&#34; target=&#34;_blank&#34;&gt;Mindmeister&lt;/a&gt;. La mala noticia es que en su modalidad gratuita solo permiten guardar tres mapas. La buena es que tienen planes educativos bastante asequibles.&lt;/p&gt;
-
-&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; width=&#34;400&#34;&gt;Your browser does not support frames. View this &lt;a href=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; target=&#34;_blank&#34;&gt;mind map&lt;/a&gt; on its original site. It was created using &lt;a href=&#34;https://www.mindomo.com&#34; target=&#34;_blank&#34;&gt;Mindomo&lt;/a&gt; mind mapping software.&lt;/iframe&gt;
-
-&lt;p&gt;Una muy buena alternativa es &lt;a href=&#34;http://www.wisemapping.com/&#34; target=&#34;_blank&#34;&gt;Wisemapping&lt;/a&gt;. En este caso hablamos de una herramienta totalmente gratuita, con casi todas las prestaciones de las anteriores, salvo la posibilidad de incluir imágenes.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://app.wisemapping.com/c/maps/311767/embed?zoom=1&#34; style=&#34;border: 1px solid black; height: 400px; width: 600px;&#34;&gt; &lt;/iframe&gt;
-
+&lt;/div&gt;
+&lt;div id=&#34;editores-orientados-a-la-creacion-de-imagenes&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editores orientados a la creación de imágenes&lt;/h3&gt;
+&lt;div id=&#34;text2mindmap&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Text2Mindmap&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;indice.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.text2mindmap.com/&#34;&gt;Text2mindmap&lt;/a&gt; es una aplicación muy muy sencilla que permite crear mapas de manera muy rápida. Solo con pegar una lista de palabras indentada, nos mostrará automáticamente el mapa que podremos después retocar. Como contrapartida, en su versión gratuita, no se puede interactuar con los mapas y está pensado simplemente para descargarlos posteriormente como imagen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;gliffy&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Gliffy&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gliffy.com/&#34;&gt;Gliffy&lt;/a&gt; es una herramienta muy potente para dibujar mapas mentales así como para hacer gráficos de todo tipo. Es totalmente gratuita y está orientada (al igual que Text2Mindmap) a la creación de imágenes, pero es mucho más potente que la primera y permite la inclusión de imágenes y enlaces. Como contrapartida, es más compleja de utilizar y, por tanto, exige dedicarle más tiempo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editores-orientados-a-la-creacion-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editores orientados a la creación de mapas interactivos&lt;/h3&gt;
+&lt;p&gt;Existen otras herramientas cuyo objetivo específico es crear mapas en los que se puede colaborar en tiempo real, por lo que profesor y estudiantes pueden elaborar y modificar los mapas de forma colaborativa. ¿Genial, no? Entre ellas, destacan &lt;a href=&#34;https://www.mindomo.com/&#34;&gt;Mindomo&lt;/a&gt;, &lt;a href=&#34;https://bubbl.us/&#34;&gt;Bubbl.us&lt;/a&gt; o &lt;a href=&#34;https://www.mindmeister.com/&#34;&gt;Mindmeister&lt;/a&gt;. La mala noticia es que en su modalidad gratuita solo permiten guardar tres mapas. La buena es que tienen planes educativos bastante asequibles.&lt;/p&gt;
+&lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; width=&#34;400&#34;&gt;
+Your browser does not support frames. View this &lt;a href=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; target=&#34;_blank&#34;&gt;mind map&lt;/a&gt; on its original site. It was created using &lt;a href=&#34;https://www.mindomo.com&#34; target=&#34;_blank&#34;&gt;Mindomo&lt;/a&gt; mind mapping software.
+&lt;/iframe&gt;
+&lt;p&gt;Una muy buena alternativa es &lt;a href=&#34;http://www.wisemapping.com/&#34;&gt;Wisemapping&lt;/a&gt;. En este caso hablamos de una herramienta totalmente gratuita, con casi todas las prestaciones de las anteriores, salvo la posibilidad de incluir imágenes.&lt;/p&gt;
+&lt;iframe src=&#34;https://app.wisemapping.com/c/maps/311767/embed?zoom=1&#34; style=&#34;border: 1px solid black; height: 400px; width: 600px;&#34;&gt;
+&lt;/iframe&gt;
 &lt;p&gt;¡Espero que la información os haya resultado útil!&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

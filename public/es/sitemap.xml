@@ -92,6 +92,22 @@
   </url>
   
   <url>
+    <loc>/es/tags/omnichannel/</loc>
+    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/omnichannel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/omnichannel/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/publication/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -198,22 +214,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/eye-tracking/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/omnichannel/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/omnichannel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/omnichannel/"
                 />
   </url>
   
@@ -562,22 +562,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/customer-journey/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/customer-journey/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/customer-journey/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -606,6 +590,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/rafael-cabeza/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/customer-journey/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/customer-journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/customer-journey/"
                 />
   </url>
   
@@ -1533,6 +1533,11 @@
   </url>
   
   <url>
+    <loc>/es/post/blogger_primeros_pasos/</loc>
+    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/es/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1545,17 +1550,12 @@
   </url>
   
   <url>
-    <loc>/es/post/blogger_primeros_pasos/</loc>
-    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/es/post/jim2016/</loc>
     <lastmod>2016-12-11T08:26:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/post/mapas_conceptuales/index.knit/</loc>
+    <loc>/es/post/mapas_conceptuales/</loc>
     <lastmod>2016-10-16T08:26:17+02:00</lastmod>
   </url>
   
@@ -2362,22 +2362,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/agriproducts/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2406,6 +2390,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/consumer-experience/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/agriproducts/"
                 />
   </url>
   
