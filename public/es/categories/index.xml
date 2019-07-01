@@ -57,15 +57,6 @@
     </item>
     
     <item>
-      <title>Presentaciones</title>
-      <link>/es/categories/presentaciones/</link>
-      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/es/categories/presentaciones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>criptomonedas</title>
       <link>/es/categories/criptomonedas/</link>
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
@@ -80,6 +71,15 @@
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
       
       <guid>/es/categories/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentaciones</title>
+      <link>/es/categories/presentaciones/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/categories/presentaciones/</guid>
       <description></description>
     </item>
     
@@ -129,7 +129,7 @@
     </item>
     
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>/es/categories/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
