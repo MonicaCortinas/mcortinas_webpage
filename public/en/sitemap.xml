@@ -495,6 +495,22 @@
   </url>
   
   <url>
+    <loc>/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/rafael-cabeza/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/customer-journey/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -523,22 +539,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/experimental-design/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/rafael-cabeza/"
                 />
   </url>
   
@@ -1906,22 +1906,6 @@
   </url>
   
   <url>
-    <loc>/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/agriproducts/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1950,6 +1934,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/consumer-experience/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/agriproducts/"
                 />
   </url>
   
