@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/es/courses/direccioncomercial/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/es/courses/sistemas/_index3/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url>
@@ -629,22 +634,6 @@
   </url>
   
   <url>
-    <loc>/es/tags/experimental-design/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/experimental-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/experimental-design/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/authors/rafael-cabeza/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -657,6 +646,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/authors/rafael-cabeza/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/tags/experimental-design/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/experimental-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/experimental-design/"
                 />
   </url>
   
