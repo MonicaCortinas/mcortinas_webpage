@@ -1,0 +1,40 @@
+---
+authors:
+- admin
+categories: [Herramientas 2.0, Investigación, Docencia, Recursos Educativos]
+date: 2019-07-17T08:26:17+02:00
+draft: true
+featured: false
+image:
+  caption: "Photo by Carl Heyerdahl on Unsplash"
+  focal_point: "Center"
+projects: []
+subtitle:  Getting things done y otros métodos 
+title: "Salsa de tomate y productividad personal"
+tags: [Herramientas 2.0, Investigación, Recursos Educativos]
+---
+
+## Productividad personal
+
+
+
+## Getting things done
+
+
+
+
+
+## El método pomodoro
+
+
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/cPZxJtQxjxvcnmvpMO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mutti-official-tomato-pomodoro-mutti-cPZxJtQxjxvcnmvpMO">via GIPHY</a></p>
+
+
+
+## Mi propia combinación
+
+
+
+
+
