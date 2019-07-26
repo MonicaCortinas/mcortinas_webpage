@@ -6,10 +6,59 @@
     <description>Recent content in Posts on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 17 Jul 2019 08:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 08:26:17 +0200</lastBuildDate>
     
 	    <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hoja de estilos web y power point</title>
+      <link>/es/post/style-guide/</link>
+      <pubDate>Fri, 26 Jul 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/style-guide/</guid>
+      <description>
+
+
+&lt;p&gt;Este verano me he decidido a preparar una hoja de estilos general para mis proyectos y presentaciones. Tener esta hoja de estilos actualizada hace más rápido poner en marcha un nuevo proyecto y elimina la necesidad de seleccionar plantilla, fuentes y colores cada vez que se empieza a trabajar en una nueva presentación.&lt;/p&gt;
+&lt;p&gt;En mi caso, he preparado la plantilla general en &lt;code&gt;html&lt;/code&gt; y está disponible &lt;a href=&#34;http://mcortinas_styles_cheatsheet.updog.co/&#34;&gt;en este enlace&lt;/a&gt;. A partir de esta plantilla en &lt;code&gt;html&lt;/code&gt; puedo preparar el documento que corresponda ya sea una presentación &lt;code&gt;xaringan&lt;/code&gt; o en Power Point.&lt;/p&gt;
+&lt;div id=&#34;fuentes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Fuentes&lt;/h2&gt;
+&lt;p&gt;He seleccionado solamente dos tipos generales de fuentes, una para los títulos y otra para el texto de párrafos. La fuente de los títulos es &lt;a href=&#34;https://fonts.google.com/specimen/Yanone+Kaffeesatz&#34;&gt;Yanone Kaffeesatz&lt;/a&gt;, una fuente sans serif que es la fuente por defecto en las presentaciones html en el paquete &lt;code&gt;xaringan&lt;/code&gt; de &lt;a href=&#34;https://slides.yihui.name/xaringan/&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;yanone.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Durante este último año he utilizado esta tipografía en los títulos y tiene muy buena legibilidad en tamaño grande además de tener un toque decorativo que funciona bien en presentaciones sobrias en el diseño de fondos.&lt;/p&gt;
+&lt;p&gt;Para el texto del documento es importante elegir una fuente que se lea bien en tamaño más reducido y que tenga variedades de peso (cursiva, negrita, light…). He elegido también una fuente sans serif ya que el uso principal va a ser en presentaciones. Dos buenas candidatas aquí pueden ser Open Sans y Roboto, de gran utilización en todo tipo de proyectos web. En mi caso, he optado por &lt;a href=&#34;https://fonts.google.com/specimen/Fira+Sans&#34;&gt;Fira Sans&lt;/a&gt; que tiene también buena legibilidad pero con un poco más de fantasía en algunos caracteres como la &lt;strong&gt;g&lt;/strong&gt; que van bien con la fuente de los títulos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fira.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;parrafos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Párrafos&lt;/h2&gt;
+&lt;p&gt;Además de seleccionar las fuentes, es importante definir de forma consistente el estilo de los distintos párrafos, ya que es la uniformidad en los estilos la que hace un documento se perciba como armonioso y profesional. En este caso, he definido cuatro niveles de títulos, combinando distintos pesos y tamaños de la fuente de títulos y dos colores distintos de párrafos para texto de más o menos importancia.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;paragraphs.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;colores&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Colores&lt;/h2&gt;
+&lt;p&gt;La cuestión más complicada ha sido la relativa a los colores. No podría calcular el tiempo que he perdido en total eligiendo paletas de colores para un determinado gráfico, un documento, presentaciones… Me cuesta mucho elegirlos porque me gustan todos y siempre me parece llegar a una decisión “óptima” que pasa a ser subóptima en los siguientes 10 minutos. Tratando de prevenir este efecto, he buscado tener una paleta lo más amplia posible, que puede utilizar en distintas combinaciones para distintos proyectos (un tema de investigación, una asignatura…). Además, me parece interesante que estuviese suficientemente contrastada como para asegurarse de que se ve bien en todo tipo de pantallas (¡y que sea yo la única persona a la que le parece atractiva!) y, sobre todo, que sea accesible en la medida de lo posible para personas con algún tipo de discapacidad visual. Mi idea es tener una paleta de colores amplia que pueda usar en combinaciones de dos o tres para una determinada presentación y con combinaciones más amplias para los elementos gráficos e infográficos .&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;paleta.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;La paleta elegida han sido los colores del denominado &lt;a href=&#34;https://material.io/design/&#34;&gt;Material Design&lt;/a&gt;, la guía de estilo que presentó Google en 2014 para el desarrollo de aplicaciones y proyectos web. En esta guía de estilo se definen las fuentes, la disposición de elementos en la pantalla, colores, botones, etc… La paleta de colores está disponible en &lt;a href=&#34;https://www.materialpalette.com/&#34;&gt;https://www.materialpalette.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Con esos colores básicos, ya podemos desarrollar una rueda completa, utilizando combinaciones más oscuras y claras. Para ello, es importante seleccionar nombres para cada color, que después podamos usar en combinación con sus descriptivos como “granada”, “granada lighter”, “granada darker”. En este proceso me ha resultado muy útil la información en la página &lt;a href=&#34;%5Bhttps://www.viget.com%5D(https://www.viget.com/)&#34;&gt;viget.com&lt;/a&gt;, más específicamente en los post sobre [adding colors][&lt;a href=&#34;https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing/&#34; class=&#34;uri&#34;&gt;https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing/&lt;/a&gt;], &lt;a href=&#34;https://www.viget.com/articles/add-colors-to-your-palette-with-color-mixing/&#34;&gt;naming colors&lt;/a&gt;, &lt;a href=&#34;https://www.viget.com/articles/tints-tones-shades/&#34;&gt;tints, tones and shades&lt;/a&gt; y &lt;a href=&#34;https://www.viget.com/articles/color-contrast/&#34;&gt;contraste de color&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La paleta completa queda así:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;paletacompleta.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;plantilla-en-power-point&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Plantilla en power point&lt;/h2&gt;
+&lt;p&gt;Una vez que tenemos la plantilla web, es bueno también tener una “traducción” de esa plantilla en power point para poder utilizarla en estos proyectos. Por ejemplo, yo suelo utilizar RStudio para mis presentaciones, pero para los elementos infográficos muchas veces creo las imágenes en power point, las guardo en formato &lt;code&gt;.png&lt;/code&gt; o &lt;code&gt;.jpg&lt;/code&gt; y las incluyo en la presentación.&lt;/p&gt;
+&lt;p&gt;Para incorporar la plantilla anterior en una plantilla en power point es necesario seguir los siguientes pasos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Descargar las fuentes desde la página de Google Fonts para poder utilizarlas en el propio equipo&lt;/li&gt;
+&lt;li&gt;Crear una nueva presentación de PowerPoint y, utilizando la vista “Patrón de Dispositivas”, establecer esas fuentes por defecto.&lt;/li&gt;
+&lt;li&gt;Para los colores, dado que en las paletas que he utilizado se definen en formato hexadecimal, primero hay que “traducirlos” a formato &lt;code&gt;rgb()&lt;/code&gt; que es el que se utiliza en PowerPoint. Para ello, existen multitud de páginas, por ejemplo &lt;a href=&#34;https://www.colorhexa.com/f44336&#34;&gt;https://www.colorhexa.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Crear la paleta con las formas para que podamos copiar el formato y pegarlo rápidamente aplicado a la forma que nos interese.&lt;/li&gt;
+&lt;li&gt;Opcionalmente, en el menú de diseño podemos introducir los colores para crear la paleta personalizada, aunque el proceso es lento porque de nuevo tenemos que introducir los tres valores &lt;code&gt;rgb&lt;/code&gt; para cada color.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por si a alguien le puede resultar útil, os dejo mi &lt;a href=&#34;https://drive.google.com/file/d/1AjVbCoBDSCuFPwHZRgDaV6bdzTfTzbUY/view?usp=sharing&#34;&gt;plantilla en Google Drive&lt;/a&gt;. La plantilla &lt;code&gt;html&lt;/code&gt; se puede copiar con la opción &lt;code&gt;ver código fuente&lt;/code&gt; que aparece en con el botón derecho del ratón desde el navegador.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Salsa de tomate y productividad personal</title>
