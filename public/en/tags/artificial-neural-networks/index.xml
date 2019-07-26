@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial neural networks on Mónica Cortiñas</title>
-    <link>/es/en/tags/artificial-neural-networks/</link>
+    <link>/en/tags/artificial-neural-networks/</link>
     <description>Recent content in Artificial neural networks on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 01 Feb 2006 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/es/en/tags/artificial-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/en/tags/artificial-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>El Problema De Elección De Marca en una Categoría Compleja: Aplicación de una Red Neuronal Artificial</title>
-      <link>/es/en/publication/2006_esic/</link>
+      <link>/en/publication/2006_esic/</link>
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/es/en/publication/2006_esic/</guid>
+      <guid>/en/publication/2006_esic/</guid>
       <description></description>
     </item>
     

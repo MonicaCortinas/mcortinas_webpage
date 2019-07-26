@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Mónica Cortiñas</title>
-    <link>/es/tags/blogs/</link>
+    <link>/tags/blogs/</link>
     <description>Recent content in Blogs on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 15 May 2017 08:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/es/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recursos para presentaciones y blogs (II) </title>
-      <link>/es/post/recursosgraficos2/</link>
+      <link>/post/recursosgraficos2/</link>
       <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/recursosgraficos2/</guid>
+      <guid>/post/recursosgraficos2/</guid>
       <description>
 
 
@@ -61,10 +61,10 @@
     
     <item>
       <title>Recursos para presentaciones y blogs (I) </title>
-      <link>/es/post/recursosgraficos/</link>
+      <link>/post/recursosgraficos/</link>
       <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/recursosgraficos/</guid>
+      <guid>/post/recursosgraficos/</guid>
       <description>
 
 
@@ -127,10 +127,10 @@
     
     <item>
       <title>Primeros pasos en blogger</title>
-      <link>/es/post/blogger_primeros_pasos/</link>
+      <link>/post/blogger_primeros_pasos/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/blogger_primeros_pasos/</guid>
+      <guid>/post/blogger_primeros_pasos/</guid>
       <description>
 
 
@@ -146,10 +146,10 @@
     
     <item>
       <title>Repositorios para material docente</title>
-      <link>/es/post/repositorio/</link>
+      <link>/post/repositorio/</link>
       <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/repositorio/</guid>
+      <guid>/post/repositorio/</guid>
       <description>
 
 
@@ -180,10 +180,10 @@
     
     <item>
       <title>El uso de blogs para materias no presenciales</title>
-      <link>/es/post/blogs_nopresenciales/</link>
+      <link>/post/blogs_nopresenciales/</link>
       <pubDate>Mon, 15 Jun 2015 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/blogs_nopresenciales/</guid>
+      <guid>/post/blogs_nopresenciales/</guid>
       <description>
 
 

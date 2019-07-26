@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro on Mónica Cortiñas</title>
-    <link>/es/courses/sistemas/</link>
+    <link>/courses/sistemas/</link>
     <description>Recent content in Intro on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/es/courses/sistemas/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/courses/sistemas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Manual Online</title>
-      <link>/es/courses/sistemas/_index2/</link>
+      <link>/courses/sistemas/_index2/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/es/courses/sistemas/_index2/</guid>
+      <guid>/courses/sistemas/_index2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://manualsistemasinfo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Manual (en construccción) de la asignatura&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Colección de Transparencias</title>
-      <link>/es/courses/sistemas/_index3/</link>
+      <link>/courses/sistemas/_index3/</link>
       <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/es/courses/sistemas/_index3/</guid>
+      <guid>/courses/sistemas/_index3/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ade_si_t1.updog.co/#1&#34; target=&#34;_blank&#34;&gt;Tema 1: Introducción a los sistemas de información&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

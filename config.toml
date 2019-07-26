@@ -9,7 +9,7 @@ title = "Mónica Cortiñas"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/es/"
+baseurl = "/"
 
 
 # Default language to use (if you setup multilingual support)

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finalizado on Mónica Cortiñas</title>
-    <link>/es/tags/finalizado/</link>
+    <link>/tags/finalizado/</link>
     <description>Recent content in Finalizado on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/es/tags/finalizado/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/finalizado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Services Marketing</title>
-      <link>/es/project/services-marketing/</link>
+      <link>/project/services-marketing/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/services-marketing/</guid>
+      <guid>/project/services-marketing/</guid>
       <description>&lt;p&gt;En este proyecto exploramos las características distintivas de los servicios y los retos de su comercialización.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Agricultural Marketing</title>
-      <link>/es/project/agricultural-marketing/</link>
+      <link>/project/agricultural-marketing/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/agricultural-marketing/</guid>
+      <guid>/project/agricultural-marketing/</guid>
       <description>&lt;p&gt;En este proyecto exploramos las características distintivas de los productos agroalimentarios y los retos de su comercialización.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Retailing strategy</title>
-      <link>/es/project/retailers-strategy/</link>
+      <link>/project/retailers-strategy/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/retailers-strategy/</guid>
+      <guid>/project/retailers-strategy/</guid>
       <description>&lt;p&gt;En este proyecto exploramos aspectos relevantes para la gestión de servicios, precios, surtido y promociones en distribución minorista.&lt;/p&gt;
 </description>
     </item>

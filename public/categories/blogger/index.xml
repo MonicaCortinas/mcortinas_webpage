@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogger on Mónica Cortiñas</title>
-    <link>/es/categories/blogger/</link>
-    <description>Recent content in Blogger on Mónica Cortiñas</description>
+    <title>blogger on Mónica Cortiñas</title>
+    <link>/categories/blogger/</link>
+    <description>Recent content in blogger on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 17 Jan 2017 08:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/es/categories/blogger/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/blogger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primeros pasos en blogger</title>
-      <link>/es/post/blogger_primeros_pasos/</link>
+      <link>/post/blogger_primeros_pasos/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/blogger_primeros_pasos/</guid>
+      <guid>/post/blogger_primeros_pasos/</guid>
       <description>
 
 
@@ -32,10 +32,10 @@
     
     <item>
       <title>Blogs educativos: Blogger o Wordpress</title>
-      <link>/es/post/blogger-o-wordpress/</link>
+      <link>/post/blogger-o-wordpress/</link>
       <pubDate>Wed, 13 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/blogger-o-wordpress/</guid>
+      <guid>/post/blogger-o-wordpress/</guid>
       <description>
 
 

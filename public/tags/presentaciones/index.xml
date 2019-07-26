@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentaciones on Mónica Cortiñas</title>
-    <link>/es/tags/presentaciones/</link>
+    <link>/tags/presentaciones/</link>
     <description>Recent content in Presentaciones on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 26 Jul 2019 08:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/es/tags/presentaciones/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/presentaciones/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hoja de estilos web y power point</title>
-      <link>/es/post/style-guide/</link>
+      <link>/post/style-guide/</link>
       <pubDate>Fri, 26 Jul 2019 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/style-guide/</guid>
+      <guid>/post/style-guide/</guid>
       <description>
 
 
@@ -63,10 +63,10 @@
     
     <item>
       <title>Criptomonedas: ¿milagro tecnológico, inversión financiera o moda pasajera?</title>
-      <link>/es/post/cripto/</link>
+      <link>/post/cripto/</link>
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
       
-      <guid>/es/post/cripto/</guid>
+      <guid>/post/cripto/</guid>
       <description>
 
 
@@ -80,10 +80,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Gráficos Interactivos: dando vida a los números</title>
-      <link>/es/post/plotly/</link>
+      <link>/post/plotly/</link>
       <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
       
-      <guid>/es/post/plotly/</guid>
+      <guid>/post/plotly/</guid>
       <description>
 
 
@@ -147,10 +147,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Recursos para presentaciones y blogs (II) </title>
-      <link>/es/post/recursosgraficos2/</link>
+      <link>/post/recursosgraficos2/</link>
       <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/recursosgraficos2/</guid>
+      <guid>/post/recursosgraficos2/</guid>
       <description>
 
 
@@ -195,10 +195,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Recursos para presentaciones y blogs (I) </title>
-      <link>/es/post/recursosgraficos/</link>
+      <link>/post/recursosgraficos/</link>
       <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/recursosgraficos/</guid>
+      <guid>/post/recursosgraficos/</guid>
       <description>
 
 
@@ -261,10 +261,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Fuentes tipográficas</title>
-      <link>/es/post/fuentes/</link>
+      <link>/post/fuentes/</link>
       <pubDate>Sun, 13 Mar 2016 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/fuentes/</guid>
+      <guid>/post/fuentes/</guid>
       <description>
 
 
@@ -324,7 +324,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th&gt;&lt;img src=&#34;/es/latinmodernroman.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;/latinmodernroman.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -619,10 +619,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Presentaciones en HTML con Reveal.js</title>
-      <link>/es/post/presentaciones-con-reveal/</link>
+      <link>/post/presentaciones-con-reveal/</link>
       <pubDate>Sun, 26 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/presentaciones-con-reveal/</guid>
+      <guid>/post/presentaciones-con-reveal/</guid>
       <description>
 
 
@@ -700,10 +700,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Muerte por power point</title>
-      <link>/es/post/muerte-por-power-point/</link>
+      <link>/post/muerte-por-power-point/</link>
       <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/es/post/muerte-por-power-point/</guid>
+      <guid>/post/muerte-por-power-point/</guid>
       <description>
 
 
