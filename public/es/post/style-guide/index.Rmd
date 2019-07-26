@@ -62,5 +62,7 @@ Para incorporar la plantilla anterior en una plantilla en power point es necesar
 - Crear la paleta con las formas para que podamos copiar el formato y pegarlo rápidamente aplicado a la forma que nos interese.
 - Opcionalmente, en el menú de diseño podemos introducir los colores para crear la paleta personalizada, aunque el proceso es lento porque de nuevo tenemos que introducir los tres valores `rgb` para cada color.
 
-Por si a alguien le puede resultar útil, os dejo mi [plantilla en Google Drive](https://drive.google.com/file/d/1AjVbCoBDSCuFPwHZRgDaV6bdzTfTzbUY/view?usp=sharing). La plantilla `html` se puede copiar con la opción `ver código fuente` que aparece en con el botón derecho del ratón desde el navegador.
+Por si a alguien le puede resultar útil, os dejo mi [plantilla en Google Drive](https://drive.google.com/file/d/1AjVbCoBDSCuFPwHZRgDaV6bdzTfTzbUY/view?usp=sharing). La plantilla `html` se puede copiar con la opción `ver código fuente` que aparece en con el botón derecho del ratón desde el navegador. 
+
+¿Y tú, utilizas plantillas de estilo en tus proyectos? ¡Deja tu comentario!
 
