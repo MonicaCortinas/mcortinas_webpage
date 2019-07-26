@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursos Educativos on Mónica Cortiñas</title>
+    <link>/es/tags/recursos-educativos/</link>
+    <description>Recent content in Recursos Educativos on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 28 Mar 2018 01:26:17 +0200</lastBuildDate>
+    
+	    <atom:link href="/es/tags/recursos-educativos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gráficos Interactivos: dando vida a los números</title>
+      <link>/es/post/plotly/</link>
+      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/plotly/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
+&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen1.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En este panel podemos subir datos desde un formato Excel o csv y a partir de ahí empezar a elaborar nuestro gráfico. Para ello, tenemos que seleccionar el tipo de gráfico, entre 22 opciones distintas. Además, podemos seleccionar distintos gráficos para series diferentes y combinarlos en un mismo gráfico. Por ejemplo, cambiando las opciones para el caso de “otros sectores” podríamos tener algo así:&lt;/p&gt;
+&lt;p&gt;Podéis comprobar que estos gráficos tienen bastantes elementos interactivos, entre otras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aparecen y desparecen los datos al pasar el ratón por encima&lt;/li&gt;
+&lt;li&gt;Podemos ocultar o presentar las series al hacer click sobre ellas y los ejes se ajustan a los datos restantes&lt;/li&gt;
+&lt;li&gt;Podemos hacer zoom en determinada área para ver en detalle algunos datos&lt;/li&gt;
+&lt;li&gt;Podemos descargar una determinada vista en formato png&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En el siguiente marco podemos ver un ejemplo para los resultados de un análisis cluster:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
+&lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
+&lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen5.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si queremos utilizarlo en una presentación, tenemos dos alternativas: incluir en la presentación un link que abra el gráfico en un navegador web o incrustarlo en la propia presentación. En el caso de que utilicemos un software estilo &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/muerte-por-powerpoint.html&#34;&gt;Power Point&lt;/a&gt;siempre tendremos que incluir el link, mientras que si utilizamos software de presentación en &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/presentaciones-en-html-con-revealjs.html&#34;&gt;html&lt;/a&gt; podemos utilizar cualquiera de las dos opciones.&lt;/p&gt;
+&lt;p&gt;Para poder acceder al gráfico desde el navegador, el gráfico debe estar alojado en algún sitio. El propio plot.ly nos ofrece almacenamiento gratuito aunque, eso sí, los gráficos deben configurarse como públicos. Otra opción es descargar el archivo completo en html y subirlo a un espacio web propio.&lt;/p&gt;
+&lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
+&lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
+&lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
+&lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
+&lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Specialization in Coursera</title>
+      <link>/es/post/verano2/</link>
+      <pubDate>Thu, 17 Aug 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/verano2/</guid>
+      <description>
+
+
+&lt;div id=&#34;verano-cuando-si-no&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Verano ¿cuando si no?&lt;/h2&gt;
+&lt;p&gt;Hace ya dos años &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/08/verano-cuando-si-no.html&#34;&gt;comentaba&lt;/a&gt; algunas buenas opciones de formación online para aprovechar el tiempo libre en verano.&lt;/p&gt;
+&lt;p&gt;Este año no ha sido una excepción y, en lugar de hacer un curso, he aprovechado para iniciar una serie de cursos en la reputada plataforma &lt;a href=&#34;https://es.coursera.org/&#34;&gt;Coursera&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;coursera&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Coursera&lt;/h2&gt;
+&lt;p&gt;Coursera es una plataforma que alberga diversos &lt;a href=&#34;https://es.wikipedia.org/wiki/Massive_Open_Online_Course&#34;&gt;MOOCs&lt;/a&gt; de universidades prestigiosas de todo el mundo. La mayoría se ofrecen de forma gratuita, aunque algunas especialidades tienen una cuota de suscripción mensual de 43€ mientras dura el curso. En la mayoría de estos MOOCs:&lt;/p&gt;
+&lt;p&gt;- el curso consiste en una serie de vídeos y recursos adicionales (presentaciones, documentación…)&lt;/p&gt;
+&lt;p&gt;- la duración suele ser cuatro semanas&lt;/p&gt;
+&lt;p&gt;- se habilitan foros de discusión para intercambiar opiniones y preguntas con otros estudiantes&lt;/p&gt;
+&lt;p&gt;- se califica el curso con distintas herramientas: test de calificación automática y tareas y proyectos a calificar por los compañeros&lt;/p&gt;
+&lt;p&gt;- así mismo, se requiere la participación en la calificación de otras personas&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-science-especialization-in-coursera&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Science Especialization in Coursera&lt;/h2&gt;
+&lt;p&gt;La especialización en &lt;a href=&#34;https://es.coursera.org/specializations/jhu-data-science&#34;&gt;Ciencia de Datos&lt;/a&gt; de Coursera está impartida por profesores de bioestadística de la Universidad John Hopkins y se compone de 10 cursos:&lt;/p&gt;
+&lt;p&gt;01 Data Scientist Toolbox&lt;/p&gt;
+&lt;p&gt;02 R Programming&lt;/p&gt;
+&lt;p&gt;03 Getting Data&lt;/p&gt;
+&lt;p&gt;04 Exploratory Analysis&lt;/p&gt;
+&lt;p&gt;05 Reproducible Research&lt;/p&gt;
+&lt;p&gt;06 Statistical Inference&lt;/p&gt;
+&lt;p&gt;07 Regression Models&lt;/p&gt;
+&lt;p&gt;08 Practical Machine Learning&lt;/p&gt;
+&lt;p&gt;09 Developing Data Products&lt;/p&gt;
+&lt;p&gt;10 Final Project&lt;/p&gt;
+&lt;p&gt;¿Por qué me resultaba interesante la especialización? Desde hace dos-tres años llevo utilizando &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R&lt;/a&gt; para hacer las estimaciones estadísticas en los artículos de investigación pero, salvo un seminario de unas horas, he ido aprendiendo por mi cuenta. Sin embargo, las posibilidades de R son taaaan enormes que echaba mucho de menos un conocimiento un poco más avanzado que me permita, por un lado, personalizar y adaptar los métodos que usamos y, por otro lado, conocer aplicaciones nuevas que pueden ser útiles. Además, en estos cursos se utiliza también intensivamente el sistema de control de versiones &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; y &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt; que también tenía mucho interés en conocer.&lt;/p&gt;
+&lt;p&gt;De momento he completado los cinco primeros cursos que son los que más me interesaban. El resto probablemente los haga a otro ritmo, ya que algunos son mucho más conocidos (el 6 y el 7) y otros tienen menos aplicaciones en mi trabajo (8 y 9). Sin embargo, los cinco primeros han sido todo un descubrimiento:&lt;/p&gt;
+&lt;div id=&#34;data-scientist-toolbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Data Scientist Toolbox:&lt;/h3&gt;
+&lt;p&gt;Muy cortito y sencillo de seguir para cualquiera, buena introducción al resto de cursos&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-programming&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- R Programming:&lt;/h3&gt;
+&lt;p&gt;Este es el que más me ha costado pero también el más gratificante y útil. No recomiendo hacer este curso a nadie que no tenga unos conocimientos previos mínimos de R, a no ser que sea programador. Este curso se centra en R no tanto como software estadístico, sino como lenguaje de programación, en cómo escribir funciones propias y en sus posibilidades. Si ya sabes algo de R y quieres aprender cómo avanzar por tu cuenta, este es tu curso.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;getting-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Getting Data:&lt;/h3&gt;
+&lt;p&gt;Este curso es uno de los que más me motivaba en la especialización. Se centra en cómo utilizar R para recabar y organizar datos de muy distintas fuentes: bases de datos relacionales, bases de datos en Internet, páginas web, APIs, XML… Muy útil y fundamental para la investigación en marketing hoy en día. Por ejemplo, podemos usar R para buscar en Twitter en un determinado momento y descargar los tweets relacionados:&lt;/p&gt;
+&lt;div id=&#34;ejemplo-de-descarga-de-datos-de-twitter-con-r&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Ejemplo de descarga de datos de Twitter con R&lt;/h4&gt;
+&lt;p&gt;Para descargar desde Twitter, en primer lugar tenemos que cargar librerías adicionales y a continuación identificarnos en Twitter&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;install.packages(c(&amp;quot;devtools&amp;quot;, &amp;quot;rjson&amp;quot;, &amp;quot;bit64&amp;quot;, &amp;quot;httr&amp;quot;, &amp;quot;curl&amp;quot;, &amp;quot;twitteR&amp;quot;))
+library(c(&amp;quot;devtools&amp;quot;, &amp;quot;rjson&amp;quot;, &amp;quot;bit64&amp;quot;, &amp;quot;httr&amp;quot;, &amp;quot;curl&amp;quot;, &amp;quot;twitteR&amp;quot;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Cargamos las credenciales de acceso a la API de Twitter y establecemos la conexión:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;api_key &amp;quot;tusdatos&amp;quot;
+api_secret &amp;quot;tusdatos&amp;quot;
+access_token &amp;quot;tusdatos&amp;quot;
+access_token_secret &amp;quot;tusdatos&amp;quot;
+setup_twitter_oauth(api_key,api_secret, access_token, access_token_secret)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ahora podemos hacer nuestra búsqueda, de una forma sumamente sencilla. Por ejemplo, mostrando los seis primeros tweets para el término “omnichannel”:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;omni &amp;lt;- searchTwitter(&amp;quot;omnichannel&amp;quot;)
+head(omni)
+
+[[1]]
+[1] &amp;quot;Stuart_Harker: RT @bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC&amp;#39;s to make a purchase #customerjourney #omnichannel #mo…&amp;quot;
+
+[[2]]
+[1] &amp;quot;EpicRelevance: RT @GoldmanSachs: PODCAST: $GS on what omnichannel retail 
+means for consumers: https://t.co/FGMBmsYz2C https://t.co/DvgxsXUZ07&amp;quot;
+
+[[3]]
+[1] &amp;quot;EpicRelevance: RT @VanRijmenam: Omnichannel uses several strategies 
+to wow your customer - by @v12data https://t.co/3IjR1uJYff #BigData&amp;quot;
+
+[[4]]
+[1] &amp;quot;bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC&amp;#39;s to make a purchase #customerjourney… https://t.co/rQ45FiWbt8&amp;quot;
+
+[[5]]
+[1] &amp;quot;L360insider: [Podcast] Omnichannel Loyalty: 
+Connect The Dots For A Better Customer Experience - https://t.co/PpK6uhNK04 @crowdtwist&amp;quot;
+
+[[6]]
+[1] &amp;quot;MintcakeTime: @usehero @Everlane @madedotcom my omnichannel ambition 
+is to fart into my computer and have you taste it in the hero offices&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Una vez que tenemos los datos descargados, podemos utilizar paquetes de análisis de datos cualitativos para procesarlos, establecer frecuencias, mapas o el análisis que consideremos conveniente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;exploratory-analysis&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Exploratory Analysis&lt;/h3&gt;
+&lt;p&gt;El curso de análisis exploratorio es interesante porque se centra sobre todo en los paquetes gráficos de R que, aunque son complejos de utilizar tienen unas posibilidades enormes incluidos los mapas o los gráficos interactivos. Hay varias páginas que tienen galerías de gráficos en R y que muestran su potencial como &lt;a href=&#34;http://www.r-graph-gallery.com/&#34;&gt;R Graph Gallery&lt;/a&gt; o &lt;a href=&#34;https://www.r-bloggers.com/the-new-r-graph-gallery/&#34;&gt;the new R graph gallery&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reproducible-research&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Reproducible Research&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;tenor.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Este quinto curso en Coursera ha sido el más novedoso para mi y cubre los pasos a seguir para asegurarnos de que la investigación que presentamos puede reproducirse desde el principio, incluyendo cómo aseguramos que el tratamiento que hemos hecho a los datos puede replicarse hasta la presentación de análisis y resultados.&lt;/p&gt;
+&lt;p&gt;Este curso es el que hace un uso más intensivo de las herramientas de control de versiones &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; y &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt; y además, presenta una herramienta que me ha enamorado: &lt;a href=&#34;https://yihui.name/knitr/&#34;&gt;knitr&lt;/a&gt; que permite integrar en un mismo documento, texto, código de R y resultados (de forma que nos aseguramos de que el proceso sea reproducible) y después exportar este documento de texto plano que se escribe en &lt;a href=&#34;https://es.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; al formato deseado: pdf (a través de LaTex), html o Microsoft Word.&lt;/p&gt;
+&lt;p&gt;¿No es genial?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapas Conceptuales</title>
+      <link>/es/post/mapas_conceptuales/</link>
+      <pubDate>Sun, 16 Oct 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/mapas_conceptuales/</guid>
+      <description>
+
+
+&lt;div id=&#34;los-mapas-conceptuales-como-herramienta-docente&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Los mapas conceptuales como herramienta docente&lt;/h3&gt;
+&lt;p&gt;Los mapas conceptuales son una herramienta útil para mostrar a los estudiantes la interrelación entre distintos términos. Podemos, por supuesto, elaborar el mapa en la pizarra pero existen algunas aplicaciones que nos permiten hacerlo directamente en la web de forma colaborativa.&lt;/p&gt;
+&lt;p&gt;Vamos a repasar algunas de ellas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editores-orientados-a-la-creacion-de-imagenes&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editores orientados a la creación de imágenes&lt;/h3&gt;
+&lt;div id=&#34;text2mindmap&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Text2Mindmap&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;indice.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.text2mindmap.com/&#34;&gt;Text2mindmap&lt;/a&gt; es una aplicación muy muy sencilla que permite crear mapas de manera muy rápida. Solo con pegar una lista de palabras indentada, nos mostrará automáticamente el mapa que podremos después retocar. Como contrapartida, en su versión gratuita, no se puede interactuar con los mapas y está pensado simplemente para descargarlos posteriormente como imagen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;gliffy&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Gliffy&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gliffy.com/&#34;&gt;Gliffy&lt;/a&gt; es una herramienta muy potente para dibujar mapas mentales así como para hacer gráficos de todo tipo. Es totalmente gratuita y está orientada (al igual que Text2Mindmap) a la creación de imágenes, pero es mucho más potente que la primera y permite la inclusión de imágenes y enlaces. Como contrapartida, es más compleja de utilizar y, por tanto, exige dedicarle más tiempo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editores-orientados-a-la-creacion-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editores orientados a la creación de mapas interactivos&lt;/h3&gt;
+&lt;p&gt;Existen otras herramientas cuyo objetivo específico es crear mapas en los que se puede colaborar en tiempo real, por lo que profesor y estudiantes pueden elaborar y modificar los mapas de forma colaborativa. ¿Genial, no? Entre ellas, destacan &lt;a href=&#34;https://www.mindomo.com/&#34;&gt;Mindomo&lt;/a&gt;, &lt;a href=&#34;https://bubbl.us/&#34;&gt;Bubbl.us&lt;/a&gt; o &lt;a href=&#34;https://www.mindmeister.com/&#34;&gt;Mindmeister&lt;/a&gt;. La mala noticia es que en su modalidad gratuita solo permiten guardar tres mapas. La buena es que tienen planes educativos bastante asequibles.&lt;/p&gt;
+&lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; width=&#34;400&#34;&gt;
+Your browser does not support frames. View this &lt;a href=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; target=&#34;_blank&#34;&gt;mind map&lt;/a&gt; on its original site. It was created using &lt;a href=&#34;https://www.mindomo.com&#34; target=&#34;_blank&#34;&gt;Mindomo&lt;/a&gt; mind mapping software.
+&lt;/iframe&gt;
+&lt;p&gt;Una muy buena alternativa es &lt;a href=&#34;http://www.wisemapping.com/&#34;&gt;Wisemapping&lt;/a&gt;. En este caso hablamos de una herramienta totalmente gratuita, con casi todas las prestaciones de las anteriores, salvo la posibilidad de incluir imágenes.&lt;/p&gt;
+&lt;iframe src=&#34;https://app.wisemapping.com/c/maps/311767/embed?zoom=1&#34; style=&#34;border: 1px solid black; height: 400px; width: 600px;&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;¡Espero que la información os haya resultado útil!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¡Mis apuntes, mi tesoro!</title>
+      <link>/es/post/treasure/</link>
+      <pubDate>Fri, 16 Sep 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/treasure/</guid>
+      <description>
+
+
+&lt;div id=&#34;publicar-o-no-publicar-materiales-docentes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Publicar o no publicar materiales docentes&lt;/h2&gt;
+&lt;p&gt;Los docentes tenemos multitud de material creado para utilizar en clase con los estudiantes. La manera de gestionar este material cambia persona a persona en un continuo entre el que tiene pánico a que alguien aproveche lo que ha preparado con tanto esfuerzo y, por tanto, tiene sus apuntes cerrados bajo siete llaves, y el profesor generoso que los ofrece a todo el mundo en un archivo editable y sin firma.&lt;/p&gt;
+&lt;p&gt;La aparición de Internet hace que el dilema ya no sea compartir o no con el compañero de departamento, sino compartir o no con la comunidad docente en cualquier parte del globo.&lt;/p&gt;
+&lt;p&gt;En mi opinión, compartir tiene muchas más ventajas que inconvenientes. Por ejemplo, podemos recibir feed-back que hace enriquecer el material, ampliamos la base de conocimiento disponible para cada área, lo que incentiva que se añadan nuevos materiales y además, podemos entrar en contacto con otros docentes y compartir experiencias.&lt;/p&gt;
+&lt;p&gt;Ahora bien, compartir los materiales no necesariamente implica &lt;strong&gt;ni una pérdida de control&lt;/strong&gt; sobre su contenido, &lt;strong&gt;ni la falta de atribución sobre su autor&lt;/strong&gt;. Cuando publicamos material online, podemos seleccionar el tipo de licencia que queremos establecer sobre su contenido. En esta entrada, voy a describir brevemente las &lt;strong&gt;opciones de licencia&lt;/strong&gt; más populares. En la siguiente entrada, me centraré en las &lt;strong&gt;posibilidades para depositar&lt;/strong&gt; el material.&lt;/p&gt;
+&lt;div id=&#34;tipos-de-licencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tipos de licencia&lt;/h3&gt;
+&lt;div id=&#34;copyright&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Copyright&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;indice.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Es el tipo de licencia tradicional. El autor retiene todos los derechos sobre el contenido que no se puede, por tanto, copiar, modificar ni reutilizar sin permiso expreso.&lt;/p&gt;
+&lt;p&gt;En España, no es necesario el registro de una obra para poder establecer un Copyright por lo que &lt;strong&gt;simplemente con indicarlo en el documento estaríamos&lt;/strong&gt; estableciendo nuestros derechos sobre la obra.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;copyleft.-licencias-creative-commons&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Copyleft. Licencias Creative Commons&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;749px-CC_some_rights_reserved_new.svg.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Yo no le veo mucho sentido a compartir apuntes docentes con copyright, ya que se pierden muchas de las ventajas de hacerlo. Establecer un copyright puede ser lo más adecuado para aquellos casos en los que va a haber una explotación comercial del contenido. Si no es así, probablemente tenga más sentido utilizar una licencia menos restrictiva, como son las licencias &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;. Creative Commons es una &lt;strong&gt;organización sin ánimo de lucro&lt;/strong&gt; que ha establecido un procedimiento estandarizado para establecer de forma simple los derechos que queramos reservar sobre el contenido creado.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://creativecommons.org/choose/&#34;&gt;Para establecer una licencia&lt;/a&gt; simplemente tenemos que contestar a una serie de preguntas sobre la protección del material:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Queremos permitir un uso comercial del contenido?&lt;/li&gt;
+&lt;li&gt;¿Queremos permitir que otros hagan modificaciones sobre el contenido?&lt;/li&gt;
+&lt;li&gt;Si se hacen esas modificaciones, ¿queremos imponer que se utilice el mismo tipo de licencia para el material?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Según la respuesta a estas preguntas, tenemos seis tipos de licencias:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Siempre que se reconozca al autor de la obra, el material puede ser redistribuído y modificado sin restricciones por finalidad.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor y se puede modificar o adaptar el material pero la licencia de la nueva obra debe ser igual.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor. La obra no puede modificarse y debe reproducirse en su totalidad.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor. La obra puede modificarse o adaptarse, pero no debe utilizarse para fines comerciales.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor. La obra no debe utilizarse para fines comerciales y, si se modifica, debe redistribuirse bajo la misma licencia.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;La más restrictiva. Se debe reconocer al autor. No se permite la adaptación, ni el uso con fines comerciales.&lt;/p&gt;
+&lt;p&gt;La elección de una licencia puede modificarse en cualquier momento, aunque debemos tener en cuenta que no podremos limitar el acceso al que hubiera accedido al material con una licencia anterior.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;el-registro-de-la-licencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El registro de la licencia&lt;/h3&gt;
+&lt;p&gt;Como decía, en España no es necesaria una inscripción para poder mantener los derechos de autor sobre una obra. Sin embargo, la inscripción tiene una carácter “probatorio” en caso de conflicto legal. La mayor protección la ofrece el &lt;a href=&#34;http://www.mecd.gob.es/cultura-mecd/areas-cultura/propiedadintelectual/registro-de-la-propiedad-intelectual.html&#34;&gt;Registro de la Propiedad Intelectual&lt;/a&gt; pero también tiene un coste. Otra posible opción para quien le interese proteger en mayor medida su material es la iniciativa &lt;a href=&#34;http://www.safecreative.org/&#34;&gt;Safe Creative&lt;/a&gt; que provee protección de prueba frente a plagios y usos no autorizados. Es válida en todos los países firmantes del Convenio de Berna (ONU) y básicamente lo que hace es establecer un registro de un determinado contenido que se atribuye a un determinado autor en un momento de tiempo. Además, se pueden registrar automáticamente contenidos desde Dropbox, Google Drive o un feed de un blog:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.safecreative.org/userfeed/1509270198503&#34;&gt;Registrado en Safe Creative&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¿Y vosotros? ¿Qué hacéis con vuestro material?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuentes tipográficas</title>
+      <link>/es/post/fuentes/</link>
+      <pubDate>Sun, 13 Mar 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/fuentes/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Elegir la fuente adecuada puede arruinar o realzar cualquier documento&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;En esta entrada quiero repasar algunos aspectos básicos relativos a la elección de fuentes tipográficas.&lt;/p&gt;
+&lt;p&gt;Para elegir una fuente, debemos pensar primero en el tipo de documento que estamos generando: si va a leerse en pantalla o impreso, su extensión y la imagen que queremos transmitir. Por ejemplo, la fuente Comic Sans, inicialmente concebida para su uso en software infantil debería quedar desterrada de cualquier contexto profesional o que implique seriedad si no queremos convertirnos en un &lt;a href=&#34;http://www.comicsanscriminal.com/&#34;&gt;Comic Sans Criminals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fonts1.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Así pues vamos a repasar las distintas familias de fuentes y para qué debemos utilizarlas. En primer lugar, ¿qué es una familia de fuentes?&lt;/p&gt;
+&lt;p&gt;Existen cuatro grandes tipos de fuentes: &lt;strong&gt;serif&lt;/strong&gt;, &lt;strong&gt;sans-serif&lt;/strong&gt;, &lt;strong&gt;display&lt;/strong&gt; y &lt;strong&gt;monospace&lt;/strong&gt;.&lt;/p&gt;
+&lt;div id=&#34;fuentes-serif&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes Serif&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;times-y-times-new-roman-son-fuentes-clasicas-serif&#34;&gt;Times y Times New Roman son fuentes clásicas ‘serif’&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Las fuentes serif se denominan así porque tienen “serifa” que son esas pequeñas muescas de terminación de los caracteres. Esas terminaciones ayudan a identificar mejor los caracteres cuando la fuente es pequeña e impresa y facilitan por tanto una lectura más rápida y cómoda. En general, en un documento largo que se va a leer fundamentalmente &lt;strong&gt;impreso&lt;/strong&gt; y en el que vamos a utilizar tamaños de fuente pequeños es preferible utilizar una fuente serif. Por ejemplo, en un &lt;strong&gt;artículo académico&lt;/strong&gt; será siempre preferible utilizar este tipo de fuente.&lt;/p&gt;
+&lt;div id=&#34;ejemplos-de-fuentes-serif&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Ejemplos de fuentes serif:&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Times New Roman&lt;/strong&gt; es todo un clásico, fue la fuente por defecto en muchas versiones de Microsoft Office y es una apuesta segura. Si queremos un documento sobrio y profesional, con esta fuente no nos equivocamos. Sin embargo, podemos optar por muchas otras alternativas: como Garamond, que fue creada en el sigo XVI, Bodoni, Georgia, o Latin Modern Roman. Veamos como quedan:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;garamond.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Garamond&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;bodoni.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Bodoni&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;georgia.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Georgia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;/es/latinmodernroman.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Latin Modern Roman&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Garamond, Bodoni y Georgia vienen preinstaladas en Microsoft Office, y Latin Modern Roman puede descargarse &lt;a href=&#34;http://www.fontsquirrel.com/fonts/Latin-Modern-Roman&#34;&gt;aquí&lt;/a&gt;. Personalmente prefiero Georgia, aunque Latin Modern Roman da un aspecto muy similar a los documentos generados en &lt;a href=&#34;https://www.latex-project.org/&#34;&gt;LaTeX .&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-sans-serif&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes Sans Serif&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;arial-es-una-de-las-mas-conocidas-fuentes-sans-serif&#34;&gt;Arial es una de las más conocidas fuentes sans serif&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Las fuentes sans serif no tienen el adorno final de las letras y eso las hace “más limpias” y especialmente legibles en &lt;strong&gt;pantalla&lt;/strong&gt;. Son las fuentes a utilizar si estamos preparando una &lt;strong&gt;presentación&lt;/strong&gt; o en cualquier &lt;strong&gt;proyecto web&lt;/strong&gt;. La fuente sans serif más conocida es Arial y también pertenece a esta familia la última fuente por defecto en Microsoft Office: Calibri.&lt;/p&gt;
+&lt;div id=&#34;otras-fuentes-sans-serif&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Otras fuentes sans serif&lt;/h4&gt;
+&lt;p&gt;Las fuentes sans serif son las que más han crecido en los últimos años debido a su adecuación para presentar en pantalla y las opciones son infinitas. Os voy a presentar solamente algunas que me gustan especialmente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-preinstaladas-en-windows&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Fuentes preinstaladas en Windows&lt;/h4&gt;
+&lt;p&gt;Tengo que pedir disculpas a los usuarios de Mac OS pero confieso mi ignorancia en cuanto a las fuentes que se utilizan en su sistema operativo. Con respecto a las fuentes preinstaladas en Windows, me gustan especialmente cinco, incluida la fuente por defecto Calibri:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;calibri.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Calibri&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;CenturyGothic.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Century Gothic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;franklin.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Franklin Gothic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;tahoma.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Tahoma&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;verdana.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Verdana&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Yo, personalmente, me quedo con Franklin Gothic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-fuentes&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Otras fuentes&lt;/h4&gt;
+&lt;p&gt;De entre las muchísimas opciones gratuitas disponibles, algunas que me gustan mucho son:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;DIN.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;DIN&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/osp-din&#34;&gt;DIN&lt;/a&gt;es una gran fuente en general pero sobre todo para números. Mi preferida para cifras sin discusión.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;lato.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Lato&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;latolig.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Lato Light&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/lato?q%5Bterm%5D=Lato&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;Lato&lt;/a&gt; es una familia de fuentes amplísima que está disponible con 18 estilos de grosor y cursivas. Es sobria y muy efectiva.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;montserrat.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Montserrat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/montserrat?q%5Bterm%5D=montserrat&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;Montserrat&lt;/a&gt; es una fuente divertida, que queda bien en encabezados o transparencias con poco texto pero que resulta pesada si se utiliza en párrafos más largos.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;opensan.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Open Sans&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fontsquirrel.com/fonts/open-sans?q%5Bterm%5D=open+sans&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;Open Sans&lt;/a&gt; es una fuente de libre uso que se utiliza en muchísimas webs. Es clara, sencilla y no cansa. También tiene una versión “condensed” que queda muy bien en mayúsculas:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;opensanscondensed.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Open Sans Condensed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Por último, pero no peor, para transparencias mi preferida es la familia Roboto que también tiene versión condensed y múltiples opciones de grosor. Tres ejemplos:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;Roboto.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Roboto Regular&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;robotocondensed.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Roboto Condensed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;robotolight.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Roboto Light&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Roboto puede descargarse desde &lt;a href=&#34;http://www.fontsquirrel.com/fonts/roboto-2014?q%5Bterm%5D=roboto&amp;amp;q%5Bsearch_check%5D=Y&#34;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-display-y-monospace&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes display y monospace&lt;/h3&gt;
+&lt;p&gt;Las fuentes &lt;strong&gt;display&lt;/strong&gt;, también llamadas decorativas, de exhibición o de fantasía son fuentes que nunca debemos utilizar como fuentes de texto de párrafo o de encabezado. Estas fuentes están pensadas para su uso en logotipos o grandes titulares, folletos o similares. Por ejemplo, en Windows algunas de estas fuentes son:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;display.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Fuentes decorativas de Windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;En &lt;a href=&#34;https://creativemarket.com/&#34;&gt;Creative Market&lt;/a&gt;, por ejemplo, podemos encontrar cientos de fuentes de este tipo.&lt;/p&gt;
+&lt;p&gt;Las fuentes &lt;strong&gt;monospace&lt;/strong&gt; son aquellas en las que todos los carácteres ocupan el mismo espacio. Por ello, son las fuentes más adecuadas cuando necesitamos que el texto en columnas quede perfectamente ordenado por ejemplo, para representar código informático o también para presentar números en tablas. La fuente monospace más conocida es Courier pero hay otras.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, la fuente &lt;a href=&#34;http://www.fontsquirrel.com/fonts/Anonymous-Pro&#34;&gt;Anonymous Pro&lt;/a&gt; o la &lt;a href=&#34;http://www.fontsquirrel.com/fonts/Anonymous-Pro&#34;&gt;Fira Mono&lt;/a&gt;, gratuitas, podrían hacer la misma función:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;anonymous.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Anonymous Pro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;&lt;img src=&#34;firamono.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Fira Mono&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;como-utilizar-fuentes-que-no-estan-preinstaladas-en-el-sistema&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo utilizar fuentes que no están preinstaladas en el sistema?&lt;/h3&gt;
+&lt;p&gt;Para terminar, vamos a comentar cómo podemos utilizar fuentes distintas a las originalmente instaladas. En primer lugar, es necesario saber para qué vamos a utilizar esa fuente: podemos necesitarlas para utilizarlas en nuestro paquete de office de escritorio, para una página web o un blog, para incrustarlas en documentos pdf que generemos o incluso para utilizarlas en aplicaciones o software. Tendremos que tener en cuenta estos usos para saber el tipo de licencia que necesitamos.&lt;/p&gt;
+&lt;p&gt;En &lt;a href=&#34;http://www.fonts.com/&#34;&gt;fonts.com&lt;/a&gt;tenemos muchísimas fuentes con licencias de 500€ pero, si no somos diseñadores gráficos encontraremos todas las fuentes que necesitemos con licencia de libre uso en &lt;a href=&#34;http://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;uso-de-otras-fuentes-en-programas-de-escritorio&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Uso de otras fuentes en programas de escritorio&lt;/h4&gt;
+&lt;p&gt;Una vez que elegimos la fuente en Font Squirrel, la descargamos y tendremos un archivo comprimido en zip.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://3.bp.blogspot.com/-l1vOr6Ugqxg/VuWbtW_DRvI/AAAAAAAA_T0/QStfFsOPIT8e24ZfLsPzzXqtEFUMm54RQ/s1600/bajar.png&#34;&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-l1vOr6Ugqxg/VuWbtW_DRvI/AAAAAAAA_T0/QStfFsOPIT8e24ZfLsPzzXqtEFUMm54RQ/s320/bajar.png&#34; alt=&#34;img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;archivo.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si descomprimimos el archivo, veremos distintos archivos uno para cada tipo de fuente: regular, negrita (bold), cursiva (italic) y otras posibles opciones en función de las opciones que existan para la familia seleccionada.&lt;/p&gt;
+&lt;p&gt;Hacemos doble click sobre cada uno de ellos y veremos un texto de muestra y una opción para instalar:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;instalar.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Después de usar la función “instalar” tendremos la nueva fuente en el listado que aparece en cualquier programa que utilicemos y podremos utilizarlas como cualquier otra fuente.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANTE&lt;/strong&gt;: Si vamos a compartir estos archivos, tenemos que tener en cuenta que, si el destinatario no tiene las fuentes utilizadas instaladas, estas se sustituiran automáticamente por otras fuentes del sistema. Para que no suceda esto tenemos dos opciones distintas: guardar como pdf o, si queremos edición compartida utilizar la opción: &lt;em&gt;“incrustar fuentes en el documento”&lt;/em&gt;:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;incrustar.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;uso-de-fuentes-en-sitios-web&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Uso de fuentes en sitios web&lt;/h4&gt;
+&lt;p&gt;En el caso de que vayamos a utilizar las fuentes en una web, podemos optar por subir los archivos necesarios a la carpeta raíz del sitio o simplemente enlazar las fuentes desde un servidor.&lt;/p&gt;
+&lt;p&gt;Si vamos a subir los archivos, tenemos que tener en cuenta el formato del archivo. Para asegurarnos de que los usuarios del sitio pueden visualizar correctamente las fuentes, tendríamos que convertir la fuente seleccionada y después subir varias versiones distintas. &lt;a href=&#34;http://www.fontsquirrel.com/tools/webfont-generator&#34;&gt;Font Squirrel&lt;/a&gt; tiene también un generador que nos permite convertir las fuentes.&lt;/p&gt;
+&lt;p&gt;Sin embargo, la opción más simple es enlazarlas directamente desde &lt;a href=&#34;https://www.google.com/fonts&#34;&gt;Google Fonts&lt;/a&gt;. Una vez hemos buscado la fuente y seleccionado los caracteres que nos interesan, si la fuente es de uso libre nos aparecen directamente los códigos que debemos copiar en el sitio web para utilizarla.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;googlefonts.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Espero que esta revisión os haya resultado útil. ¿Y vosotros, utilizáis fuentes por defecto?¿os gusta la comic sans ;) ? ¿Cuál es vuestra fuente preferida?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repositorios para material docente</title>
+      <link>/es/post/repositorio/</link>
+      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/repositorio/</guid>
+      <description>
+
+
+&lt;p&gt;En una entrada posterior hablaremos de las distintas opciones de licencias para compartir materiales docentes. En esta entrada quiero repasar las alternativas a la hora de hacer disponibles estos materiales online.&lt;/p&gt;
+&lt;div id=&#34;servicios-de-almacenamiento-en-la-nube&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Servicios de almacenamiento en la nube&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es simplemente que los archivos sean accesibles a través de un vínculo, la opción más sencilla es utilizar algún servicio de almacenamiento como &lt;a href=&#34;http://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/intl/es_es/drive/&#34;&gt;Google Drive&lt;/a&gt; o &lt;a href=&#34;https://onedrive.live.com/&#34;&gt;One Drive&lt;/a&gt;. Los tres servicios ofrecen un espacio gratuíto interesante y una capacidad mayor por suscripción.&lt;/p&gt;
+&lt;p&gt;Compartir archivos en estos servicios es realmente sencillo. En Drobox o en OneDrive no hay más que crear una carpeta que se denomine &lt;strong&gt;“Public”:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo2.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Cualquier documento que depositemos en esta carpeta estará disponible directamente de manera pública. Para saber cuál es el vinculo, pulsamos con el botón derecho del ratón en el archivo y elegimos la opción “Copiar Vínculo Público” .&lt;/p&gt;
+&lt;p&gt;Un aspecto interesante de esta opción, es que nos permite &lt;strong&gt;alojar páginas web completas en Dropbox&lt;/strong&gt;, depositando los archivos necesarios y enlazando al archivo &lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/courseware/index.html&#34;&gt;&lt;strong&gt;index.html&lt;/strong&gt;&lt;/a&gt;. Lo mismo es válido para las transparencias en Reveal.js ](&lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&#34; class=&#34;uri&#34;&gt;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&lt;/a&gt;) (&lt;strong&gt;actualización 2019&lt;/strong&gt;: Esta opción de publicación html en el repositorio Public está desactivada en las versiones actuales de Dropbox )&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogs&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Blogs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cuando lo que pretendemos es que alguien pueda encontrar estos documentos o consultar todo el material, es necesario además hacer disponible de forma sistemática todo el conjunto de enlaces. Para ello, una primera opción es la creación de un blog.&lt;/p&gt;
+&lt;p&gt;Esta opción nos da la mayor flexibilidad posible ya que la podemos configurar exactamente a nuestro gusto, pero tiene la desventaja de tener una visibilidad relativamente reducida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;repositorios-publicos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Repositorios públicos&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es llegar a la mayor audiencia posible, la mejor opción es unirnos a alguna de las plataformas específicamente diseñadas para tal fin. La &lt;strong&gt;más popular&lt;/strong&gt; para el caso de presentaciones es &lt;a href=&#34;http://es.slideshare.net/?ss&#34;&gt;SlideShare&lt;/a&gt; pero no solo podemos subir presentaciones, sino también &lt;strong&gt;videos o cualquier documento en pdf&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Más orientado a documentos y con una larga trayectoria tenemos a &lt;a href=&#34;https://es.scribd.com/upload-document&#34;&gt;Scribd&lt;/a&gt;. En este caso podemos subir incluso libros en formato EPUB y podemos haceros disponibles públicamente o a cambio de un precio que elegimos. &lt;strong&gt;Scribd&lt;/strong&gt; se está transformando en una plataforma de lectura por suscripción mensual, pero sigue siendo una buena plataforma también para contenidos docentes.&lt;/p&gt;
+&lt;p&gt;Por último, tenemos tres opciones interesantes para editar y compartir materiales con formato de “revista digital” a partir de un documento en Word o PDF. &lt;a href=&#34;http://es.calameo.com/&#34;&gt;Calameo&lt;/a&gt;, &lt;a href=&#34;http://www.flipsnack.com/es/&#34;&gt;Flipsnack&lt;/a&gt; e &lt;a href=&#34;http://issuu.com/&#34;&gt;Issuu&lt;/a&gt; tienen opciones básicas gratuitas que, de manera muy sencilla, permiten editar cosas como esta:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.calameo.com/books/003354746324a0d0818ef&#34;&gt;MAI- Economía I 2d4&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El uso de blogs para materias no presenciales</title>
+      <link>/es/post/blogs_nopresenciales/</link>
+      <pubDate>Mon, 15 Jun 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/blogs_nopresenciales/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy hemos cerrado el ciclo para el curso 2014-2015 del &lt;a href=&#34;http://practicascurricularesupna.blogspot.com.es/&#34;&gt;blog de coordinación de prácticas y TFE&lt;/a&gt;. Es un blog creado para los estudiantes a los que tutorizo prácticas curriculares externas y los trabajos fin de estudios. Creo interesante hacer balance de su utilidad.&lt;/p&gt;
+&lt;p&gt;Los blogs son especialmente adecuados para estas materias no presenciales. Los estudiantes que están haciendo prácticas en empresas tienen una inmersión repentina en el mundo laboral . Aunque se les asigne un tutor académico para las prácticas, muchas veces no tienen claro cual es su función y son reacios a recurrir a él. Las entradas del blog &lt;strong&gt;recuerdan la existencia de esta figura y su función&lt;/strong&gt; de tutela en el cumplimiento del proyecto formativo del estudiante.&lt;/p&gt;
+&lt;p&gt;En el caso de los Trabajos Fin de Estudios, la función del blog es distinta, ya que esta figura de tutela está más clara para los estudiantes y se producen también muchos contactos individuales adicionales. El blog cumple en este caso una función de &lt;strong&gt;repositorio de materiales&lt;/strong&gt;, con toda la documentación recogida y ordenada, una función de &lt;strong&gt;estímulo&lt;/strong&gt; a la organización y cumplimiento de plazos, sobre todo en los primeros meses y, por último, una forma de &lt;strong&gt;homogeneizar&lt;/strong&gt; información y criterios para todos los estudiantes.&lt;/p&gt;
+&lt;p&gt;En ambos casos, la experiencia durante este curso ha sido muy positiva y así lo han manifestado los estudiantes. Como balance, con 18 estudiantes tutorizados, se han publicado 23 entradas que han recibido más de 1.800 visitas durante el semestre. Creo que la experiencia ha merecido la pena, así que la mantendremos en los próximos cursos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamificación (2). Recursos para dinamizar la clase</title>
+      <link>/es/post/gaming2/</link>
+      <pubDate>Sat, 30 May 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/gaming2/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy quiero repasar dos herramientas estupendas para comprobar en tiempo real el progreso en la comprensión de los estudiantes y, al mismo tiempo, animar la participación en clase: &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; y &lt;a href=&#34;https://kahoot.it/#/&#34;&gt;Kahoot&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;si-no-puedes-con-tu-enemigo-unete-a-el-dispositivos-moviles-en-clase&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Si no puedes con tu enemigo, únete a él: dispositivos móviles en clase&lt;/h3&gt;
+&lt;p&gt;Un comentario común entre mis compañeros es la omnipresencia de los smartphones durante las clases. Los estudiantes son incapaces de permanecer desconectados del “Whatsapp” durante una hora y retuercen el cuello para echarle un vistazo furtivo al teléfono escondido debajo de la mesa o en el bolsillo del abrigo. El uso de estas herramientas u otras como la incorporación de &lt;a href=&#34;https://twitter.com/&#34;&gt;Twitter&lt;/a&gt; permite dar un uso más productivo al teléfono y aumenta la implicación de los estudiantes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alguien-tiene-algun-ejemplo&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Alguien tiene algún ejemplo?…&lt;/h3&gt;
+&lt;p&gt;Otro problema común en mi facultad es la falta de participación de los estudiantes en las clases. Aunque los grupos se han reducido, salvo en asignaturas de cursos avanzados, la participación en clase suele ser muy baja y las preguntas abiertas suelen quedar sin respuesta. Normalmente, esta dinámica es muy difícil de cambiar y se retroalimenta así que, pasada la primera semana de clase, estimular la participación es cada vez más complicado. Las respuestas a través del móvil resultan menos comprometidas para los estudiantes y se animan más. Normalmente, al visualizar en pantalla los resultados de las votaciones es más fácil que después se produzca una discusión oral y la participación en los grupos en los que los he utilizado aumenta muchísimo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;habeis-entendido-esto&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Habéis entendido esto?&lt;/h3&gt;
+&lt;p&gt;En mi opinión, el mayor potencial de estas herramientas está en su capacidad de monitorizar en tiempo real el aprendizaje de los estudiantes. Con un test en vivo, podemos detectar rápidamente qué conceptos se han comprendido bien y cuales no, de manera que podemos pasar rápidamente sobre los primeros y profundizar en los otros. Nuestra experiencia como docentes nos hace poder tener un diagnóstico previo sobre qué aspectos son más complicados para los estudiantes pero la práctica me ha demostrado que no en todos los grupos los contenidos conflictivos son los mismos. Poder obviar una explicación adicional que sobra para un grupo de estudiantes reduce el aburrimiento y, a la inversa, repasar en el momento una explicación errónea ahorra mucho trabajo posterior.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;socrative-y-kahoot&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Socrative y Kahoot&lt;/h3&gt;
+&lt;p&gt;Las dos plataformas tienen muchos puntos en común. Son totalmente &lt;strong&gt;gratuitas&lt;/strong&gt; y &lt;strong&gt;multidispositivo&lt;/strong&gt;, de manera que son accesibles a través de móviles, tablets o cualquier navegador web. El profesor se registra como educador, mientras que en el caso de los estudiantes no es necesario registrarse. Con la cuenta del profesor se crean los quiz, en los que podemos incluir preguntas de &lt;strong&gt;respuesta múltiple&lt;/strong&gt;, preguntas de &lt;strong&gt;verdadero o falso&lt;/strong&gt; o incluso &lt;strong&gt;respuestas abiertas&lt;/strong&gt;. En el caso de &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; podemos descargar una &lt;strong&gt;plantilla&lt;/strong&gt; en Excel, de manera que resulta cómodo crear los test y subirlos más tarde. En ambos casos podemos incluir &lt;strong&gt;imágenes&lt;/strong&gt; en las preguntas. En &lt;a href=&#34;https://kahoot.it/#/&#34;&gt;Kahoot&lt;/a&gt; cada test tiene un PIN que proporcionaremos a los estudiantes en el momento de realizarlo. En &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; cada profesor tiene un “room number” en el que se inscriben los estudiantes.&lt;/p&gt;
+&lt;p&gt;Con Socrative, podemos activar los test de manera que los estudiantes puedan hacerlos a su ritmo (pasando las preguntas adelante y atrás), al ritmo que marquemos nosotros como profesores o en el modo “carrera espacial”, especialmente apreciado por los estudiantes, en el que los equipos van acumulando puntos en función de las respuestas correctas y el tiempo:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;socrative.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En Kahoot, el texto de las respuestas se muestra solamente en pantalla y se marca el tiempo de manera que los estudiantes se centran más en la proyección , lo que y se introduce un elemento de “tensión” adicional:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kahoot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En ambos casos, los estudiantes reciben feedback inmediato sobre si han respondido o no correctamente. Socrative permite, según el caso, desactivar este feedback o incluir explicaciones adicionales sobre la respuesta correcta e incorrectas.&lt;/p&gt;
+&lt;p&gt;Aunque he utilizado ambas herramientas de forma esporádica en distintas clases, el semestre pasado utilicé Socrative de forma continua en una asignatura de primero de grado. Al final de curso, les pasé a los estudiantes una pequeña encuesta sobre la herramienta con escalas de 5 puntos desde “totalmente de acuerdo” hasta “totalmente en desacuerdo”. Estos fueron los resultados:&lt;/p&gt;
+&lt;div class=&#34;infogram-embed&#34; data-id=&#34;uso_de_socrative_en_el_aula&#34; data-type=&#34;interactive&#34; data-title=&#34;Uso de Socrative en el aula&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;!function(e,t,s,i){var n=&#34;InfogramEmbeds&#34;,o=e.getElementsByTagName(&#34;script&#34;)[0],d=/^http:/.test(e.location)?&#34;http:&#34;:&#34;https:&#34;;if(/^\/{2}/.test(i)&amp;&amp;(i=d+i),window[n]&amp;&amp;window[n].initialized)window[n].process&amp;&amp;window[n].process();else if(!e.getElementById(s)){var r=e.createElement(&#34;script&#34;);r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,&#34;infogram-async&#34;,&#34;https://e.infogram.com/js/dist/embed-loader-min.js&#34;);&lt;/script&gt;
+&lt;div style=&#34;padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px&#34;&gt;
+&lt;a href=&#34;https://infogram.com/uso_de_socrative_en_el_aula&#34; style=&#34;color:#989898!important;text-decoration:none!important;&#34; target=&#34;_blank&#34;&gt;Uso de Socrative en el aula&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://infogram.com&#34; style=&#34;color:#989898!important;text-decoration:none!important;&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Infogram&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Como podéis ver, los resultados fueron bastante unánimes, lo que era previsible en el área de “entretenimiento” pero no tanto en la “utilidad”. Mi intención es seguir incorporando ambas herramientas en los distintos cursos que imparto.&lt;/p&gt;
+&lt;p&gt;¿Y tú? ¿Utilizas estas herramientas u otras diferentes?¿Estarías dispuesto a usarlas en clase?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamificación: Simuladores de empresa. ¡3, 2, 1 Fight!</title>
+      <link>/es/post/simuladores/</link>
+      <pubDate>Sat, 18 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/simuladores/</guid>
+      <description>
+
+
+&lt;div id=&#34;gamificacion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gamificación&lt;/h2&gt;
+&lt;p&gt;En los últimos tiempos se está imponiendo un nuevo “palabro”: gamificación, entendida como la utilización de técnicas propias del juego lúdico para el aprendizaje en entornos profesionales.&lt;/p&gt;
+&lt;p&gt;Las ventajas de la gamificación tienen que ver con la mayor motivación de los participantes, al aumentar el interés en una actividad a priori aburrida.&lt;/p&gt;
+&lt;p&gt;El objetivo de esta entrada no es discutir en detalle las ventajas e inconvenientes de esta aproximación al aprendizaje, sino describir una de las herramientas más populares en las Facultades de Economía y Empresa que pueden enmarcarse en esta tendencia. los simuladores de empresa y de marketing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;simuladores-empresariales&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Simuladores empresariales&lt;/h2&gt;
+&lt;p&gt;Los simuladores de empresa tienen muchos años de vida. En mi facultad, se vienen utilizando con éxito desde hace 20 años y durante este tiempo hemos podido contrastar su utilidad.&lt;/p&gt;
+&lt;p&gt;En este tipo de simuladores, se presenta a los estudiantes un mercado o industria determinado en el que existen varias empresas. Los estudiantes gestionan una de estas empresas y toman decisiones sobre distintos aspectos del negocio pudiendo observar los resultados de estas decisiones a lo largo de varios periodos.&lt;/p&gt;
+&lt;div id=&#34;ventajas-de-la-utilizacion-de-simuladores&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Ventajas de la utilización de simuladores&lt;/h3&gt;
+&lt;p&gt;La introducción de estas técnicas en el aula proporciona distintas ventajas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La utilización de herramientas informáticas &lt;strong&gt;similares a los videojuegos&lt;/strong&gt; siempre resulta atractiva para los estudiantes por lo que se muestran predispuestos a participar con mayor motivación.&lt;/li&gt;
+&lt;li&gt;Los simuladores son &lt;strong&gt;competitivos&lt;/strong&gt; por definición. Los estudiantes pueden competir con máquinas, con estudiantes de otros centros o con los propios compañeros de clase. Especialmente en el último caso, este elemento competitivo multiplica la motivación y hace que se muestren mucho más involucrados.&lt;/li&gt;
+&lt;li&gt;Dejando a un lado la motivación, introducen en el aula aspectos relativos al &lt;strong&gt;riesgo&lt;/strong&gt; y la &lt;strong&gt;incertidumbre&lt;/strong&gt; que son difíciles de transmitir en otros formatos. Como decía en el &lt;a href=&#34;http://mudeupna.blogspot.com.es/2015/02/simuladores.html&#34;&gt;blog del MUDE&lt;/a&gt;, en las materias tradicionales, hay relativamente poca incertidumbre. Los estudiantes saben que si estudian mucho y preparan bien un examen es muy probable que saquen una nota alta. Además, en un examen normalmente hay respuestas claramente correctas y respuestas incorrectas. En un simulador, al igual que en la vida real, los resultados que se obtienen dependen, no solo de las acciones propias, sino también las de los demás. Los estudiantes se ven forzados a trabajar bajo escenarios de previsiones distintos y a prever las posibilidades de ocurrencia de cada uno.&lt;/li&gt;
+&lt;li&gt;Específicamente en el campo del marketing y la empresa, los simuladores son especialmente útiles para mostrar la &lt;strong&gt;interrelación entre las distintas áreas de negocio&lt;/strong&gt;. El diseño de los planes de estudios hace que, muchas veces los estudiantes perciban las materias como parcelas cerradas autoconclusivas. Las simulaciones hacen que comprendan mejor que, por ejemplo, es imposible tomar decisiones de marketing sin controlar sus implicaciones financieras.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;que-simulador&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;¿Qué simulador?&lt;/h2&gt;
+&lt;p&gt;Existen multitud de simuladores que podemos utilizar. No es mi propósito en esta entrada describir todos ellos, sino solamente destacar algunas características que, en mi opinión, destacan en aquellos con los que personalmente he tenido experiencia docente. En los últimos años, he utilizado en distintas clases cuatro simuladores: &lt;a href=&#34;http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/&#34;&gt;Markstrat&lt;/a&gt;, &lt;a href=&#34;http://globstrat-academy.com/&#34;&gt;Globstrat&lt;/a&gt;, &lt;a href=&#34;http://ilsworld.com/&#34;&gt;MarketPlace&lt;/a&gt;y &lt;a href=&#34;http://quantrack.net/simuladorquantum.htm&#34;&gt;Quantum&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dos de ellos, Globstrat y Marketplace, tienen un enfoque de estrategia general, mientras que Markstrat y Quantum de centran más en la estrategia de marketing.&lt;/p&gt;
+&lt;p&gt;Veamos algunos detalles más:&lt;/p&gt;
+&lt;div id=&#34;markstrat&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Markstrat&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;markstrat.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/&#34;&gt;Markstrat&lt;/a&gt; es uno de los simuladores con más solera. Nacido en INSEAD hace más de treinta años, durante este tiempo ha evolucionado incorporando todas las capacidades que permite la web sin cambiar su esencia inicial. Es sencillo pero potente, especialmente adecuado para cursos de marketing estratégico y para tratar los conceptos de segmentación y posicionamiento.&lt;/p&gt;
+&lt;p&gt;En los últimos años, han desarrollado una herramienta Live, que permite el acceso a los estudiantes a través de un navegador web de forma muy atractiva y además es útil para el profesorado, ya que no es necesario ocuparse de ningún aspecto relativo a la simulación como tal, sino ocuparse del diagnóstico del desempeño de los estudiantes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;marketplace&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Marketplace&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;marketplace.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ilsworld.com/&#34;&gt;MarketPlace&lt;/a&gt; es una simulación de Interactive Learning Solutions que destaca por ser sumamente flexible a la hora de acomodarse a distintos cursos y enfoques. Es muy personalizable en cuanto a las decisiones a incluir. Esto permite que pueda ser útil en cursos básicos de empresa y cursos avanzados de estrategia. También destaca por ser una de las más detalladas en aspectos relativos a Comercio Internacional y Dirección de Operaciones. Al igual que Markstrat, funciona completamente en entorno web, con claves de acceso distintas para estudiantes e instructores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;globstrat&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Globstrat&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;globstrat.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://globstrat-academy.com/&#34;&gt;Globstrat&lt;/a&gt; es otro simulador web, enfocado a cursos de dirección estratégica muy adecuado para tratar temas de Cuadro de Mando Integral y Triple Línea de Base. Tiene un atractivo visual menor que los dos anteriores, pero sin embargo, permite es especialmente adecuada para tratar los aspectos de riesgo e incertidumbre que mencionaba al principio de la entrada. La información que se proporciona a los participantes es aparentemente sencilla, pero pronto, estos participantes descubren que tiene implicaciones mayores de las esperadas. Las herramientas de diagnóstico para el intructor también están muy bien desarrolladas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;quantum&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Quantum&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;Quantum.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En nuestras clases de grado, actualmente estamos utilizando &lt;a href=&#34;http://quantrack.net/simuladorquantum.htm&#34;&gt;Quantum&lt;/a&gt;, creado en España por compañeros de la &lt;a href=&#34;http://www.uc3m.es/Inicio&#34;&gt;UC3M&lt;/a&gt;. Quantum funciona con instalación de software, de manera que instructores y participantes acceden a la simulación desde sus respectivos programas. En Quantum, distintos equipos compiten por hacerse un hueco en un mercado de emergente para un nuevo producto tecnológico. Entre los puntos fuertes del simulador, están los aspectos referidos al marketing estratégico y la profundidad de la información que se proporciona a los participantes, por lo que también es útil para repasar aspectos relativos a Investigación de Mercados. Además, a diferencia de las demás opciones, que cobran licencias individuales por participante, Quantum tiene un esquema de licencias fijas para un curso o semestre, por lo que es mucho más económico en el caso de grupos de estudiantes numerosos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

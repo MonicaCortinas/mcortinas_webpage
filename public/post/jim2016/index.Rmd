@@ -1,0 +1,19 @@
+---
+authors:
+- admin
+categories: [e-commerce, Investigación, Marketing]
+date: 2016-12-11T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: "Center"
+projects: [omnichannel-behavior]
+subtitle: Nuevo artículo en Journal of Interactive Marketing
+title: "Nuevo artículo: Channel Choice in the 21st Century: The Hidden Role of Distribution Services"
+tags: [e-commerce, Investigación, Marketing, omnichannel]
+---
+
+El nuevo número del *Journal of Interactive Marketing* incluye [este trabajo: 10.1016/j.intmar.2015.09.002 ](http://www.sciencedirect.com/science/article/pii/S1094996815000456?via%3Dihub) con mis compañeros Roger Betancourt, Raquel Chocarro José Miguel Múgica y Margarita Elorz.
+
+Es un trabajo principalmente conceptual, en el que presentamos un marco teórico para reflejar el cambio que han supuesto las tecnologías de información en los canales de distribución y los servicios que estos prestan, principalmente al permitir separar la producción y distribución de los servicios. ¡Cualquier comentario o sugerencia es bienvenida!

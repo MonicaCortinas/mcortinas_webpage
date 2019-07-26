@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herramientas 2.0 on Mónica Cortiñas</title>
+    <link>/es/tags/herramientas-2.0/</link>
+    <description>Recent content in Herramientas 2.0 on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 13 Jun 2018 01:26:17 +0200</lastBuildDate>
+    
+	    <atom:link href="/es/tags/herramientas-2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criptomonedas: ¿milagro tecnológico, inversión financiera o moda pasajera?</title>
+      <link>/es/post/cripto/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/cripto/</guid>
+      <description>
+
+
+&lt;p&gt;Esta semana se celebra en la &lt;a href=&#34;http://www.unavarra.es/&#34;&gt;UPNA&lt;/a&gt; el IX Encuentro del Observación Iberoamericano de Tributación Internacional con la colaboración de &lt;a href=&#34;https://www.unavarra.es/inarbe&#34;&gt;INARBE&lt;/a&gt; y ARPA Abogados y han tenido la amabilidad de invitarme a una mesa redonda sobre criptomonedas, para aportar, no el punto de vista fiscal, sino del mercado. Es un presentación muy breve, pero creo que en el material que voy a usar se resumen bien las distintas motivaciones que se mezclan en este mercado y se presentan algunos ejemplos, así que dejo aquí las transparencias (se usan las flechas para pasar transparencias):&lt;/p&gt;
+&lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://criptomcortinas.updog.co/#1&#34; width=&#34;560&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;También están colgadas &lt;a href=&#34;https://monicacortinas.github.io/criptocurrencies/#1&#34; target=&#34;_blank&#34;&gt;en github&lt;/a&gt;.
+Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si es así, ¡contadme, por favor!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gráficos Interactivos: dando vida a los números</title>
+      <link>/es/post/plotly/</link>
+      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/post/plotly/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
+&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen1.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En este panel podemos subir datos desde un formato Excel o csv y a partir de ahí empezar a elaborar nuestro gráfico. Para ello, tenemos que seleccionar el tipo de gráfico, entre 22 opciones distintas. Además, podemos seleccionar distintos gráficos para series diferentes y combinarlos en un mismo gráfico. Por ejemplo, cambiando las opciones para el caso de “otros sectores” podríamos tener algo así:&lt;/p&gt;
+&lt;p&gt;Podéis comprobar que estos gráficos tienen bastantes elementos interactivos, entre otras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aparecen y desparecen los datos al pasar el ratón por encima&lt;/li&gt;
+&lt;li&gt;Podemos ocultar o presentar las series al hacer click sobre ellas y los ejes se ajustan a los datos restantes&lt;/li&gt;
+&lt;li&gt;Podemos hacer zoom en determinada área para ver en detalle algunos datos&lt;/li&gt;
+&lt;li&gt;Podemos descargar una determinada vista en formato png&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En el siguiente marco podemos ver un ejemplo para los resultados de un análisis cluster:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
+&lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
+&lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen5.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Si queremos utilizarlo en una presentación, tenemos dos alternativas: incluir en la presentación un link que abra el gráfico en un navegador web o incrustarlo en la propia presentación. En el caso de que utilicemos un software estilo &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/muerte-por-powerpoint.html&#34;&gt;Power Point&lt;/a&gt;siempre tendremos que incluir el link, mientras que si utilizamos software de presentación en &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/presentaciones-en-html-con-revealjs.html&#34;&gt;html&lt;/a&gt; podemos utilizar cualquiera de las dos opciones.&lt;/p&gt;
+&lt;p&gt;Para poder acceder al gráfico desde el navegador, el gráfico debe estar alojado en algún sitio. El propio plot.ly nos ofrece almacenamiento gratuito aunque, eso sí, los gráficos deben configurarse como públicos. Otra opción es descargar el archivo completo en html y subirlo a un espacio web propio.&lt;/p&gt;
+&lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
+&lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
+&lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;Imagen2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Imagen4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
+&lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
+&lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Specialization in Coursera</title>
+      <link>/es/post/verano2/</link>
+      <pubDate>Thu, 17 Aug 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/verano2/</guid>
+      <description>
+
+
+&lt;div id=&#34;verano-cuando-si-no&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Verano ¿cuando si no?&lt;/h2&gt;
+&lt;p&gt;Hace ya dos años &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/08/verano-cuando-si-no.html&#34;&gt;comentaba&lt;/a&gt; algunas buenas opciones de formación online para aprovechar el tiempo libre en verano.&lt;/p&gt;
+&lt;p&gt;Este año no ha sido una excepción y, en lugar de hacer un curso, he aprovechado para iniciar una serie de cursos en la reputada plataforma &lt;a href=&#34;https://es.coursera.org/&#34;&gt;Coursera&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;coursera&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Coursera&lt;/h2&gt;
+&lt;p&gt;Coursera es una plataforma que alberga diversos &lt;a href=&#34;https://es.wikipedia.org/wiki/Massive_Open_Online_Course&#34;&gt;MOOCs&lt;/a&gt; de universidades prestigiosas de todo el mundo. La mayoría se ofrecen de forma gratuita, aunque algunas especialidades tienen una cuota de suscripción mensual de 43€ mientras dura el curso. En la mayoría de estos MOOCs:&lt;/p&gt;
+&lt;p&gt;- el curso consiste en una serie de vídeos y recursos adicionales (presentaciones, documentación…)&lt;/p&gt;
+&lt;p&gt;- la duración suele ser cuatro semanas&lt;/p&gt;
+&lt;p&gt;- se habilitan foros de discusión para intercambiar opiniones y preguntas con otros estudiantes&lt;/p&gt;
+&lt;p&gt;- se califica el curso con distintas herramientas: test de calificación automática y tareas y proyectos a calificar por los compañeros&lt;/p&gt;
+&lt;p&gt;- así mismo, se requiere la participación en la calificación de otras personas&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-science-especialization-in-coursera&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Science Especialization in Coursera&lt;/h2&gt;
+&lt;p&gt;La especialización en &lt;a href=&#34;https://es.coursera.org/specializations/jhu-data-science&#34;&gt;Ciencia de Datos&lt;/a&gt; de Coursera está impartida por profesores de bioestadística de la Universidad John Hopkins y se compone de 10 cursos:&lt;/p&gt;
+&lt;p&gt;01 Data Scientist Toolbox&lt;/p&gt;
+&lt;p&gt;02 R Programming&lt;/p&gt;
+&lt;p&gt;03 Getting Data&lt;/p&gt;
+&lt;p&gt;04 Exploratory Analysis&lt;/p&gt;
+&lt;p&gt;05 Reproducible Research&lt;/p&gt;
+&lt;p&gt;06 Statistical Inference&lt;/p&gt;
+&lt;p&gt;07 Regression Models&lt;/p&gt;
+&lt;p&gt;08 Practical Machine Learning&lt;/p&gt;
+&lt;p&gt;09 Developing Data Products&lt;/p&gt;
+&lt;p&gt;10 Final Project&lt;/p&gt;
+&lt;p&gt;¿Por qué me resultaba interesante la especialización? Desde hace dos-tres años llevo utilizando &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R&lt;/a&gt; para hacer las estimaciones estadísticas en los artículos de investigación pero, salvo un seminario de unas horas, he ido aprendiendo por mi cuenta. Sin embargo, las posibilidades de R son taaaan enormes que echaba mucho de menos un conocimiento un poco más avanzado que me permita, por un lado, personalizar y adaptar los métodos que usamos y, por otro lado, conocer aplicaciones nuevas que pueden ser útiles. Además, en estos cursos se utiliza también intensivamente el sistema de control de versiones &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; y &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt; que también tenía mucho interés en conocer.&lt;/p&gt;
+&lt;p&gt;De momento he completado los cinco primeros cursos que son los que más me interesaban. El resto probablemente los haga a otro ritmo, ya que algunos son mucho más conocidos (el 6 y el 7) y otros tienen menos aplicaciones en mi trabajo (8 y 9). Sin embargo, los cinco primeros han sido todo un descubrimiento:&lt;/p&gt;
+&lt;div id=&#34;data-scientist-toolbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Data Scientist Toolbox:&lt;/h3&gt;
+&lt;p&gt;Muy cortito y sencillo de seguir para cualquiera, buena introducción al resto de cursos&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-programming&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- R Programming:&lt;/h3&gt;
+&lt;p&gt;Este es el que más me ha costado pero también el más gratificante y útil. No recomiendo hacer este curso a nadie que no tenga unos conocimientos previos mínimos de R, a no ser que sea programador. Este curso se centra en R no tanto como software estadístico, sino como lenguaje de programación, en cómo escribir funciones propias y en sus posibilidades. Si ya sabes algo de R y quieres aprender cómo avanzar por tu cuenta, este es tu curso.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;getting-data&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Getting Data:&lt;/h3&gt;
+&lt;p&gt;Este curso es uno de los que más me motivaba en la especialización. Se centra en cómo utilizar R para recabar y organizar datos de muy distintas fuentes: bases de datos relacionales, bases de datos en Internet, páginas web, APIs, XML… Muy útil y fundamental para la investigación en marketing hoy en día. Por ejemplo, podemos usar R para buscar en Twitter en un determinado momento y descargar los tweets relacionados:&lt;/p&gt;
+&lt;div id=&#34;ejemplo-de-descarga-de-datos-de-twitter-con-r&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Ejemplo de descarga de datos de Twitter con R&lt;/h4&gt;
+&lt;p&gt;Para descargar desde Twitter, en primer lugar tenemos que cargar librerías adicionales y a continuación identificarnos en Twitter&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;install.packages(c(&amp;quot;devtools&amp;quot;, &amp;quot;rjson&amp;quot;, &amp;quot;bit64&amp;quot;, &amp;quot;httr&amp;quot;, &amp;quot;curl&amp;quot;, &amp;quot;twitteR&amp;quot;))
+library(c(&amp;quot;devtools&amp;quot;, &amp;quot;rjson&amp;quot;, &amp;quot;bit64&amp;quot;, &amp;quot;httr&amp;quot;, &amp;quot;curl&amp;quot;, &amp;quot;twitteR&amp;quot;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Cargamos las credenciales de acceso a la API de Twitter y establecemos la conexión:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;api_key &amp;quot;tusdatos&amp;quot;
+api_secret &amp;quot;tusdatos&amp;quot;
+access_token &amp;quot;tusdatos&amp;quot;
+access_token_secret &amp;quot;tusdatos&amp;quot;
+setup_twitter_oauth(api_key,api_secret, access_token, access_token_secret)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ahora podemos hacer nuestra búsqueda, de una forma sumamente sencilla. Por ejemplo, mostrando los seis primeros tweets para el término “omnichannel”:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;omni &amp;lt;- searchTwitter(&amp;quot;omnichannel&amp;quot;)
+head(omni)
+
+[[1]]
+[1] &amp;quot;Stuart_Harker: RT @bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC&amp;#39;s to make a purchase #customerjourney #omnichannel #mo…&amp;quot;
+
+[[2]]
+[1] &amp;quot;EpicRelevance: RT @GoldmanSachs: PODCAST: $GS on what omnichannel retail 
+means for consumers: https://t.co/FGMBmsYz2C https://t.co/DvgxsXUZ07&amp;quot;
+
+[[3]]
+[1] &amp;quot;EpicRelevance: RT @VanRijmenam: Omnichannel uses several strategies 
+to wow your customer - by @v12data https://t.co/3IjR1uJYff #BigData&amp;quot;
+
+[[4]]
+[1] &amp;quot;bbscentral: 99.5% of individuals consume content via mobile, 
+61% then move to PC&amp;#39;s to make a purchase #customerjourney… https://t.co/rQ45FiWbt8&amp;quot;
+
+[[5]]
+[1] &amp;quot;L360insider: [Podcast] Omnichannel Loyalty: 
+Connect The Dots For A Better Customer Experience - https://t.co/PpK6uhNK04 @crowdtwist&amp;quot;
+
+[[6]]
+[1] &amp;quot;MintcakeTime: @usehero @Everlane @madedotcom my omnichannel ambition 
+is to fart into my computer and have you taste it in the hero offices&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Una vez que tenemos los datos descargados, podemos utilizar paquetes de análisis de datos cualitativos para procesarlos, establecer frecuencias, mapas o el análisis que consideremos conveniente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;exploratory-analysis&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Exploratory Analysis&lt;/h3&gt;
+&lt;p&gt;El curso de análisis exploratorio es interesante porque se centra sobre todo en los paquetes gráficos de R que, aunque son complejos de utilizar tienen unas posibilidades enormes incluidos los mapas o los gráficos interactivos. Hay varias páginas que tienen galerías de gráficos en R y que muestran su potencial como &lt;a href=&#34;http://www.r-graph-gallery.com/&#34;&gt;R Graph Gallery&lt;/a&gt; o &lt;a href=&#34;https://www.r-bloggers.com/the-new-r-graph-gallery/&#34;&gt;the new R graph gallery&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reproducible-research&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;- Reproducible Research&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;tenor.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Este quinto curso en Coursera ha sido el más novedoso para mi y cubre los pasos a seguir para asegurarnos de que la investigación que presentamos puede reproducirse desde el principio, incluyendo cómo aseguramos que el tratamiento que hemos hecho a los datos puede replicarse hasta la presentación de análisis y resultados.&lt;/p&gt;
+&lt;p&gt;Este curso es el que hace un uso más intensivo de las herramientas de control de versiones &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt; y &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt; y además, presenta una herramienta que me ha enamorado: &lt;a href=&#34;https://yihui.name/knitr/&#34;&gt;knitr&lt;/a&gt; que permite integrar en un mismo documento, texto, código de R y resultados (de forma que nos aseguramos de que el proceso sea reproducible) y después exportar este documento de texto plano que se escribe en &lt;a href=&#34;https://es.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt; al formato deseado: pdf (a través de LaTex), html o Microsoft Word.&lt;/p&gt;
+&lt;p&gt;¿No es genial?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probando el hosting de Amazon S3</title>
+      <link>/es/post/aws/</link>
+      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/aws/</guid>
+      <description>
+
+
+&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
+&lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
+&lt;p&gt;Estoy encantada con el servicio de &lt;a href=&#34;https://www.dropbox.com/es_ES/&#34;&gt;Dropbox&lt;/a&gt;. He probado distintos servicios de almacenamiento en la nube y, en mi opinión, Dropbox además de ser fiable, es el más cómodo con diferencia.&lt;/p&gt;
+&lt;p&gt;Además, una de las características que les diferenciaba de la competencia y que era muy importante para mi, era la posibilidad de alojar páginas web estáticas sin hacer nada más que simplemente dejar los archivos necesarios en una carpeta denominada “Public”. Esta opción era sumamente útil para presentaciones en html como las realizadas con &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt;. Podía trabajar localmente en la presentación y cada pequeño cambio era visible en una url pública.&lt;/p&gt;
+&lt;p&gt;Lamentablemente ya hace un año que Dropbox anunció el cese del servicio, de forma que, aunque los archivos seguirán “en la nube”, ya no será accesibles como web, sino como un simple archivo de texto. Los usuarios gratuitos perdieron esta opción hace un año, y para los usuarios premium, el cambio tendrá efecto el 1 de septiembre.&lt;/p&gt;
+&lt;p&gt;Uno de los aspectos atractivos de hacer una presentación en html es precisamente que esté disponible en la web y no dependa de un pincho para funcionar, así que era necesario buscar alternativas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-web-services&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon Web Services&lt;/h2&gt;
+&lt;p&gt;En mi caso, necesitaba un servicio:&lt;/p&gt;
+&lt;p&gt;\1. &lt;strong&gt;Múltiple:&lt;/strong&gt; Que permita alojar “muchas” webs diferentes (una para cada presentación)&lt;/p&gt;
+&lt;p&gt;\2. &lt;strong&gt;Barato:&lt;/strong&gt; de momento no me interesa pagar por alojar mis presentaciones&lt;/p&gt;
+&lt;p&gt;\3. &lt;strong&gt;Simple:&lt;/strong&gt; el hecho de alojar la presentación va a ser un trabajo adicional al propio hecho de prepararla y, dado que muchas veces (más de las debidas) suelo ir con el tiempo muy justo, no quiero añadir trabajo adicional.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En el caso de AWS, la opción gratuita es interesante para este tipo de uso, ya que proporciona 5 GB y un número limitado de solicitudes. Como mis presentaciones no suelen tener provocar solicitudes de descargas masivas, la opción inicial es más que suficiente, así que el requisito “barato” está más que cumplido.&lt;/p&gt;
+&lt;p&gt;Con respecto al requisito “múltiple” tampoco es un problema, ya que podemos tener tantas páginas como queramos siempre que se cumpla el requisito de espacio y de solicitudes.&lt;/p&gt;
+&lt;p&gt;Por último, con respecto a lo simple, inicialmente AWS son un poco intimidantes. En la siguiente imagen vemos un subconjunto de los servicios ofrecidos:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;services.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Confieso que términos como “AWS Elastic Beanstalk” me suenan totalmente a chino.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sin embargo, una vez localizado el servicio necesario, Amazon S3, el proceso ha sido sorprendentemente sencillo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Amazon S3&lt;/h2&gt;
+&lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
+&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
+&lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
+&lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
+&lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
+&lt;p&gt;2.- El bucket está configurado como web estática:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;hosting.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Para configurar este acceso solo es necesario indicar cuál es el archivo “index.html” que contiene el código inicial del sitio.&lt;/p&gt;
+&lt;p&gt;Amazon S3 nos proporciona un dominio automático del tipo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“&lt;a href=&#34;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&#34; class=&#34;uri&#34;&gt;https://s3.REGION-2.amazonaws.com/NOMBREBUCKET/index.html&lt;/a&gt;”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pero también podemos redireccionar el bucket a otro dominio si disponemos de él.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alojando-presentaciones-html-en-amazon-s3&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Alojando presentaciones html en Amazon S3&lt;/h2&gt;
+&lt;p&gt;Mi primera intención al familiarizarme con el servicio de Amazon S3 fue alojar cada presentación en un “bucket” diferente, ya que parecía la opción lógica para presentaciones completas. Sin embargo, aquí surgió el &lt;strong&gt;primer problema&lt;/strong&gt;: cada presentación contiene una serie de archivos propios (el archivo de texto con la presentación, los recursos asociados como imágenes, video, etc… y, en su caso, un archivo de texto con la hoja de estilos) y además, los archivos necesarios para que se muestre como una presentación: los archivos propios de reveal.js (unos 11 MB) y otros posibles paquetes adicionales, fuentes, etc… si lo consideramos necesario. Resulta poco eficaz duplicar estos archivos comunes para cada presentación y mucho más si contamos con un límite máximo de espacio de 5GB. En Amazon S3, &lt;strong&gt;distintos buckets no pueden compartir archivos&lt;/strong&gt;, por lo que esta opción quedaba descartada.&lt;/p&gt;
+&lt;p&gt;Así que la configuración elegida ha sido &lt;strong&gt;un único bucket&lt;/strong&gt; para todas las presentaciones con una estructura tipo:&lt;/p&gt;
+&lt;p&gt;- FOLDER1: archivos reveal.js&lt;/p&gt;
+&lt;p&gt;- FOLDER 2: otros archivos comunes a todas las presentaciones&lt;/p&gt;
+&lt;p&gt;- FOLDER 3: presentación1&lt;/p&gt;
+&lt;p&gt;- FOLDER 4: presentación 2&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Esta estructura solo ha presentado &lt;strong&gt;un problema adicional:&lt;/strong&gt; al configurar el bucket el archivo index.html no puede estar en una de las subcarpetas, por lo que hay que crear un archivo html simple, que sirva de índice del sitio y que puede tener los enlaces de todas las presentaciones, en mi caso:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://s3.eu-west-2.amazonaws.com/mcortinasslides/index.html&#34;&gt;Index del bucket&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De momento estoy muy contenta con el servicio, pero prometo actualización!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recursos para presentaciones y blogs (II) </title>
+      <link>/es/post/recursosgraficos2/</link>
+      <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/recursosgraficos2/</guid>
+      <description>
+
+
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;propio.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En la &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-para-presentaciones-y-blogs-i.html&#34;&gt;entrada anterior&lt;/a&gt; repasaba fuentes de imágenes que podemos utilizar y algunas herramientas básicas de edición.&lt;/p&gt;
+&lt;p&gt;En esta entrada vamos a ir un paso más allá, viendo cómo podemos crear exactamente el material que necesitamos ya sea incluir &lt;strong&gt;texto e imagen&lt;/strong&gt;, hacer un &lt;strong&gt;gráfico&lt;/strong&gt;, un &lt;strong&gt;infográfico&lt;/strong&gt; o incluso… (bueno, la sorpresa para el final). Empecemos por las composiciones de texto e imagen.&lt;/p&gt;
+&lt;div id=&#34;textoimagen&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;texto+imagen&lt;/h3&gt;
+&lt;p&gt;Cuando queremos incorporar texto rápidamente a una imagen de forma que quede visualmente atractiva, no hay nada tan eficaz como &lt;a href=&#34;https://buffer.com/pablo#&#34;&gt;PABLO&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;pablo.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Sin embargo, si buscamos más potencia, &lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt; es mi herramienta favorita. La imagen que abre esta entrada está editada en Canva. Su utilización es totalmente gratuita si incluimos nuestras propias imágenes o parte de las imágenes de su banco y permite crear desde banners hasta posters con múltiples disposiciones.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.picmonkey.com/&#34;&gt;PicMonkey&lt;/a&gt;, que mencionaba en la entrada anterior también es muy bueno en esto.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;graficos-e-infograficos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Gráficos e Infográficos&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://piktochart.com/&#34;&gt;Piktochart&lt;/a&gt; es la primera herramienta para gráficos que quiero mencionar. Piktochart no solo sirve para hacer gráficos, sino que tiene muchas más opciones, pero es especialmente adecuada para esta tarea:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;untitledreport.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Otra opción muy completa es &lt;a href=&#34;https://www.visme.co/&#34;&gt;Visme&lt;/a&gt;. Visme permite además hacer presentaciones completas y la creación de banners y tiene la ventaja con respecto a piktochart de que nos permite generar código para contenido embebido con una cuenta gratuita.&lt;/p&gt;
+&lt;p&gt;Y dejo para el final la herramienta más popular y probablemente la más potente: &lt;a href=&#34;http://infogr.am/&#34;&gt;infogr.am&lt;/a&gt;:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; height=&#34;869&#34; scrolling=&#34;no&#34; src=&#34;//e.infogr.am/graficos-07342957?src=embed&#34; style=&#34;border: none;&#34; width=&#34;550&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bonus-mapas-conceptuales&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bonus: Mapas Conceptuales&lt;/h2&gt;
+&lt;p&gt;Por último, pero no peor, quiero mencionar una herramienta especialmente adecuada para la preparación de materiales docentes. &lt;a href=&#34;https://www.mindomo.com/es/mindmap&#34;&gt;Mindomo&lt;/a&gt; permite crear Mapas Conceptuales interactivos. No es ni mucho menos la única herramienta para elaborar estos mapas, pero tiene características muy atractivas, como el hecho de poder editar simultáneamente los mapas con los estudiantes o el poder incluir todo tipo de material complementario como vídeos, imágenes y enlaces.&lt;/p&gt;
+&lt;p&gt;Pulsa en la imagen para ver el potencial de Mindomo en este resumen de las dos últimas entradas:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34;&gt;&lt;img src=&#34;slide_0.png&#34; alt=&#34;Resumen&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¿Te ha parecido útil este material?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recursos para presentaciones y blogs (I) </title>
+      <link>/es/post/recursosgraficos/</link>
+      <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/recursosgraficos/</guid>
+      <description>
+
+
+&lt;div id=&#34;recursos-graficos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Recursos gráficos&lt;/h3&gt;
+&lt;p&gt;Ya sea para una entrada en un blog, una presentación con transparencias o una página web, la utilización de imágenes es casi imprescindible.&lt;/p&gt;
+&lt;p&gt;Ahora bien, ¿de dónde sacamos estas imágenes? Más allá de una búsqueda en Google Images, en esta entrada quiero repasar fuentes y recursos para &lt;strong&gt;encontrar imágenes&lt;/strong&gt; atractivas y de calidad y algunas &lt;strong&gt;herramientas de edición&lt;/strong&gt;. En la siguiente entrada repasaré opciones para diseñar &lt;strong&gt;nuestros propios recursos&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fuentes-de-imagenes-de-uso-libre&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Fuentes de imágenes de uso libre&lt;/h3&gt;
+&lt;p&gt;Un aspecto fundamental a la hora de utilizar imágenes ajenas es asegurarnos de no estar incumpliendo los derechos de propiedad intelectual de los autores. Por eso, si vamos a utilizar &lt;strong&gt;Google Imágenes&lt;/strong&gt; como buscador, una buena práctica es acostumbrarse a utilizar la opción “Derechos de Uso” dentro de “Herramientas de Búsqueda”:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;google.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Sin embargo, si necesitamos imágenes atractivas y de calidad, hay otras fuentes que pueden proporcionar recursos de mayor calidad. La primera opción es &lt;a href=&#34;https://www.flickr.com/&#34;&gt;flickr&lt;/a&gt;, donde podemos hacer una búsqueda de imágenes con licencia Creative Commons. Además, existen &lt;strong&gt;bancos de imágenes&lt;/strong&gt; de uso libre donde podemos encontrar fotos impresionantes. A continuación, os dejo los enlaces de los que más utilizo:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jaymantri.com/&#34;&gt;Jay Mantri&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://startupstockphotos.com/&#34;&gt;Start Up Stock Photos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Podemos utilizar también &lt;strong&gt;buscadores de bancos de imágenes&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stocksnap.io/&#34;&gt;Stock Snap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.morguefile.com/&#34;&gt;Morguefile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pexels.com/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sitebuilderreport.com/stock-up&#34;&gt;Stock Up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Como veis, los recursos son infinitos ¡ahora no hay excusas para no usar buenas fotos!&lt;/p&gt;
+&lt;p&gt;Si lo que buscamos, no es una imagen sino un &lt;strong&gt;dibujo o icono&lt;/strong&gt; también tenemos grandes opciones:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flaticon.com/&#34;&gt;flaticon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.freepik.com/free-vectors/icons&#34;&gt;freepic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iconarchive.com/commercialfree.html&#34;&gt;IconArchive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Como podéis ver, podemos encontrar recursos gráficos mucho mejores que, por ejemplo, las imágenes prediseñadas de Office.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;hand-drawn-parisian-elements_23-2147506652.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.freepik.com/free-photos-vectors/love&#34;&gt;Love vector designed by Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;recursos-de-edicion&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Recursos de edición&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vale, ya tengo mi imagen, pero no es exactamente lo que quiero…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Una vez seleccionada una imagen, a veces necesitamos hacer algunas modificaciones. Si vamos a utilizar la imagen en una página web,siempre es recomendable &lt;strong&gt;optimizarla&lt;/strong&gt; para que no ralentice la carga de la página. &lt;a href=&#34;http://webresizer.com/resizer/&#34;&gt;Web Resizer&lt;/a&gt; hace exactamente eso de forma rápida y sencilla.&lt;/p&gt;
+&lt;p&gt;Otras veces, no nos gusta demasiado el fondo de la imagen o queremos destacar una determinada parte, recortar o cambiar el tamaño. Podemos utilizar Adobe Photoshop u otros programas pero también disponemos de herramientas web que permiten esta &lt;strong&gt;edición rápida&lt;/strong&gt; sin necesidad de ninguna instalación y de forma muy sencilla e intuitiva. Entre todas las opciones, a mi me gustan especialmente dos:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pixlr.com/&#34;&gt;pixrl.com&lt;/a&gt; permite hacer todas estas cosas en un tiempo récord. Por ejemplo, utilizando la herramienta focal en la imagen anterior, en menos de treinta segundos, podemos obtener esto:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.picmonkey.com/&#34;&gt;PicMonkey&lt;/a&gt; es otra herramienta muy popular. En este caso hay bastantes opciones que son de pago, pero las funciones gratuitas nos permiten dar rápidamente un aire nuevo a una imagen:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;PicMonkey.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Con estas herramientas será suficiente para la mayoría de los casos. Sin embargo, si queremos ir un paso más allá y diseñar imágenes con nuestros propios textos, gráficos o infogramas, hay otras opciones más adecuadas a las que dedicaré la siguiente entrada.&lt;/p&gt;
+&lt;p&gt;¿Y tú, dónde encuentras las imágenes que utilizas?¿Usas herramientas de edición?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mapas Conceptuales</title>
+      <link>/es/post/mapas_conceptuales/</link>
+      <pubDate>Sun, 16 Oct 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/mapas_conceptuales/</guid>
+      <description>
+
+
+&lt;div id=&#34;los-mapas-conceptuales-como-herramienta-docente&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Los mapas conceptuales como herramienta docente&lt;/h3&gt;
+&lt;p&gt;Los mapas conceptuales son una herramienta útil para mostrar a los estudiantes la interrelación entre distintos términos. Podemos, por supuesto, elaborar el mapa en la pizarra pero existen algunas aplicaciones que nos permiten hacerlo directamente en la web de forma colaborativa.&lt;/p&gt;
+&lt;p&gt;Vamos a repasar algunas de ellas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editores-orientados-a-la-creacion-de-imagenes&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editores orientados a la creación de imágenes&lt;/h3&gt;
+&lt;div id=&#34;text2mindmap&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Text2Mindmap&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;indice.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.text2mindmap.com/&#34;&gt;Text2mindmap&lt;/a&gt; es una aplicación muy muy sencilla que permite crear mapas de manera muy rápida. Solo con pegar una lista de palabras indentada, nos mostrará automáticamente el mapa que podremos después retocar. Como contrapartida, en su versión gratuita, no se puede interactuar con los mapas y está pensado simplemente para descargarlos posteriormente como imagen.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;gliffy&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Gliffy&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gliffy.com/&#34;&gt;Gliffy&lt;/a&gt; es una herramienta muy potente para dibujar mapas mentales así como para hacer gráficos de todo tipo. Es totalmente gratuita y está orientada (al igual que Text2Mindmap) a la creación de imágenes, pero es mucho más potente que la primera y permite la inclusión de imágenes y enlaces. Como contrapartida, es más compleja de utilizar y, por tanto, exige dedicarle más tiempo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;editores-orientados-a-la-creacion-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Editores orientados a la creación de mapas interactivos&lt;/h3&gt;
+&lt;p&gt;Existen otras herramientas cuyo objetivo específico es crear mapas en los que se puede colaborar en tiempo real, por lo que profesor y estudiantes pueden elaborar y modificar los mapas de forma colaborativa. ¿Genial, no? Entre ellas, destacan &lt;a href=&#34;https://www.mindomo.com/&#34;&gt;Mindomo&lt;/a&gt;, &lt;a href=&#34;https://bubbl.us/&#34;&gt;Bubbl.us&lt;/a&gt; o &lt;a href=&#34;https://www.mindmeister.com/&#34;&gt;Mindmeister&lt;/a&gt;. La mala noticia es que en su modalidad gratuita solo permiten guardar tres mapas. La buena es que tienen planes educativos bastante asequibles.&lt;/p&gt;
+&lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; width=&#34;400&#34;&gt;
+Your browser does not support frames. View this &lt;a href=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; target=&#34;_blank&#34;&gt;mind map&lt;/a&gt; on its original site. It was created using &lt;a href=&#34;https://www.mindomo.com&#34; target=&#34;_blank&#34;&gt;Mindomo&lt;/a&gt; mind mapping software.
+&lt;/iframe&gt;
+&lt;p&gt;Una muy buena alternativa es &lt;a href=&#34;http://www.wisemapping.com/&#34;&gt;Wisemapping&lt;/a&gt;. En este caso hablamos de una herramienta totalmente gratuita, con casi todas las prestaciones de las anteriores, salvo la posibilidad de incluir imágenes.&lt;/p&gt;
+&lt;iframe src=&#34;https://app.wisemapping.com/c/maps/311767/embed?zoom=1&#34; style=&#34;border: 1px solid black; height: 400px; width: 600px;&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;¡Espero que la información os haya resultado útil!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¡Mis apuntes, mi tesoro!</title>
+      <link>/es/post/treasure/</link>
+      <pubDate>Fri, 16 Sep 2016 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/treasure/</guid>
+      <description>
+
+
+&lt;div id=&#34;publicar-o-no-publicar-materiales-docentes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Publicar o no publicar materiales docentes&lt;/h2&gt;
+&lt;p&gt;Los docentes tenemos multitud de material creado para utilizar en clase con los estudiantes. La manera de gestionar este material cambia persona a persona en un continuo entre el que tiene pánico a que alguien aproveche lo que ha preparado con tanto esfuerzo y, por tanto, tiene sus apuntes cerrados bajo siete llaves, y el profesor generoso que los ofrece a todo el mundo en un archivo editable y sin firma.&lt;/p&gt;
+&lt;p&gt;La aparición de Internet hace que el dilema ya no sea compartir o no con el compañero de departamento, sino compartir o no con la comunidad docente en cualquier parte del globo.&lt;/p&gt;
+&lt;p&gt;En mi opinión, compartir tiene muchas más ventajas que inconvenientes. Por ejemplo, podemos recibir feed-back que hace enriquecer el material, ampliamos la base de conocimiento disponible para cada área, lo que incentiva que se añadan nuevos materiales y además, podemos entrar en contacto con otros docentes y compartir experiencias.&lt;/p&gt;
+&lt;p&gt;Ahora bien, compartir los materiales no necesariamente implica &lt;strong&gt;ni una pérdida de control&lt;/strong&gt; sobre su contenido, &lt;strong&gt;ni la falta de atribución sobre su autor&lt;/strong&gt;. Cuando publicamos material online, podemos seleccionar el tipo de licencia que queremos establecer sobre su contenido. En esta entrada, voy a describir brevemente las &lt;strong&gt;opciones de licencia&lt;/strong&gt; más populares. En la siguiente entrada, me centraré en las &lt;strong&gt;posibilidades para depositar&lt;/strong&gt; el material.&lt;/p&gt;
+&lt;div id=&#34;tipos-de-licencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tipos de licencia&lt;/h3&gt;
+&lt;div id=&#34;copyright&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Copyright&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;indice.jpg&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Es el tipo de licencia tradicional. El autor retiene todos los derechos sobre el contenido que no se puede, por tanto, copiar, modificar ni reutilizar sin permiso expreso.&lt;/p&gt;
+&lt;p&gt;En España, no es necesario el registro de una obra para poder establecer un Copyright por lo que &lt;strong&gt;simplemente con indicarlo en el documento estaríamos&lt;/strong&gt; estableciendo nuestros derechos sobre la obra.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;copyleft.-licencias-creative-commons&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Copyleft. Licencias Creative Commons&lt;/h4&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;749px-CC_some_rights_reserved_new.svg.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Yo no le veo mucho sentido a compartir apuntes docentes con copyright, ya que se pierden muchas de las ventajas de hacerlo. Establecer un copyright puede ser lo más adecuado para aquellos casos en los que va a haber una explotación comercial del contenido. Si no es así, probablemente tenga más sentido utilizar una licencia menos restrictiva, como son las licencias &lt;a href=&#34;http://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;. Creative Commons es una &lt;strong&gt;organización sin ánimo de lucro&lt;/strong&gt; que ha establecido un procedimiento estandarizado para establecer de forma simple los derechos que queramos reservar sobre el contenido creado.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://creativecommons.org/choose/&#34;&gt;Para establecer una licencia&lt;/a&gt; simplemente tenemos que contestar a una serie de preguntas sobre la protección del material:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Queremos permitir un uso comercial del contenido?&lt;/li&gt;
+&lt;li&gt;¿Queremos permitir que otros hagan modificaciones sobre el contenido?&lt;/li&gt;
+&lt;li&gt;Si se hacen esas modificaciones, ¿queremos imponer que se utilice el mismo tipo de licencia para el material?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Según la respuesta a estas preguntas, tenemos seis tipos de licencias:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Siempre que se reconozca al autor de la obra, el material puede ser redistribuído y modificado sin restricciones por finalidad.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor y se puede modificar o adaptar el material pero la licencia de la nueva obra debe ser igual.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor. La obra no puede modificarse y debe reproducirse en su totalidad.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor. La obra puede modificarse o adaptarse, pero no debe utilizarse para fines comerciales.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Se debe reconocer al autor. La obra no debe utilizarse para fines comerciales y, si se modifica, debe redistribuirse bajo la misma licencia.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;88x31.png&#34; alt=&#34;img&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;La más restrictiva. Se debe reconocer al autor. No se permite la adaptación, ni el uso con fines comerciales.&lt;/p&gt;
+&lt;p&gt;La elección de una licencia puede modificarse en cualquier momento, aunque debemos tener en cuenta que no podremos limitar el acceso al que hubiera accedido al material con una licencia anterior.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;el-registro-de-la-licencia&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;El registro de la licencia&lt;/h3&gt;
+&lt;p&gt;Como decía, en España no es necesaria una inscripción para poder mantener los derechos de autor sobre una obra. Sin embargo, la inscripción tiene una carácter “probatorio” en caso de conflicto legal. La mayor protección la ofrece el &lt;a href=&#34;http://www.mecd.gob.es/cultura-mecd/areas-cultura/propiedadintelectual/registro-de-la-propiedad-intelectual.html&#34;&gt;Registro de la Propiedad Intelectual&lt;/a&gt; pero también tiene un coste. Otra posible opción para quien le interese proteger en mayor medida su material es la iniciativa &lt;a href=&#34;http://www.safecreative.org/&#34;&gt;Safe Creative&lt;/a&gt; que provee protección de prueba frente a plagios y usos no autorizados. Es válida en todos los países firmantes del Convenio de Berna (ONU) y básicamente lo que hace es establecer un registro de un determinado contenido que se atribuye a un determinado autor en un momento de tiempo. Además, se pueden registrar automáticamente contenidos desde Dropbox, Google Drive o un feed de un blog:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.safecreative.org/userfeed/1509270198503&#34;&gt;Registrado en Safe Creative&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;¿Y vosotros? ¿Qué hacéis con vuestro material?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repositorios para material docente</title>
+      <link>/es/post/repositorio/</link>
+      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/repositorio/</guid>
+      <description>
+
+
+&lt;p&gt;En una entrada posterior hablaremos de las distintas opciones de licencias para compartir materiales docentes. En esta entrada quiero repasar las alternativas a la hora de hacer disponibles estos materiales online.&lt;/p&gt;
+&lt;div id=&#34;servicios-de-almacenamiento-en-la-nube&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Servicios de almacenamiento en la nube&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es simplemente que los archivos sean accesibles a través de un vínculo, la opción más sencilla es utilizar algún servicio de almacenamiento como &lt;a href=&#34;http://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/intl/es_es/drive/&#34;&gt;Google Drive&lt;/a&gt; o &lt;a href=&#34;https://onedrive.live.com/&#34;&gt;One Drive&lt;/a&gt;. Los tres servicios ofrecen un espacio gratuíto interesante y una capacidad mayor por suscripción.&lt;/p&gt;
+&lt;p&gt;Compartir archivos en estos servicios es realmente sencillo. En Drobox o en OneDrive no hay más que crear una carpeta que se denomine &lt;strong&gt;“Public”:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo1.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repo2.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Cualquier documento que depositemos en esta carpeta estará disponible directamente de manera pública. Para saber cuál es el vinculo, pulsamos con el botón derecho del ratón en el archivo y elegimos la opción “Copiar Vínculo Público” .&lt;/p&gt;
+&lt;p&gt;Un aspecto interesante de esta opción, es que nos permite &lt;strong&gt;alojar páginas web completas en Dropbox&lt;/strong&gt;, depositando los archivos necesarios y enlazando al archivo &lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/courseware/index.html&#34;&gt;&lt;strong&gt;index.html&lt;/strong&gt;&lt;/a&gt;. Lo mismo es válido para las transparencias en Reveal.js ](&lt;a href=&#34;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&#34; class=&#34;uri&#34;&gt;https://dl.dropboxusercontent.com/u/28980390/marketingMII/tema1/index.html&lt;/a&gt;) (&lt;strong&gt;actualización 2019&lt;/strong&gt;: Esta opción de publicación html en el repositorio Public está desactivada en las versiones actuales de Dropbox )&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;blogs&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Blogs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Cuando lo que pretendemos es que alguien pueda encontrar estos documentos o consultar todo el material, es necesario además hacer disponible de forma sistemática todo el conjunto de enlaces. Para ello, una primera opción es la creación de un blog.&lt;/p&gt;
+&lt;p&gt;Esta opción nos da la mayor flexibilidad posible ya que la podemos configurar exactamente a nuestro gusto, pero tiene la desventaja de tener una visibilidad relativamente reducida.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;repositorios-publicos&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Repositorios públicos&lt;/h3&gt;
+&lt;p&gt;Si lo que nos interesa es llegar a la mayor audiencia posible, la mejor opción es unirnos a alguna de las plataformas específicamente diseñadas para tal fin. La &lt;strong&gt;más popular&lt;/strong&gt; para el caso de presentaciones es &lt;a href=&#34;http://es.slideshare.net/?ss&#34;&gt;SlideShare&lt;/a&gt; pero no solo podemos subir presentaciones, sino también &lt;strong&gt;videos o cualquier documento en pdf&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Más orientado a documentos y con una larga trayectoria tenemos a &lt;a href=&#34;https://es.scribd.com/upload-document&#34;&gt;Scribd&lt;/a&gt;. En este caso podemos subir incluso libros en formato EPUB y podemos haceros disponibles públicamente o a cambio de un precio que elegimos. &lt;strong&gt;Scribd&lt;/strong&gt; se está transformando en una plataforma de lectura por suscripción mensual, pero sigue siendo una buena plataforma también para contenidos docentes.&lt;/p&gt;
+&lt;p&gt;Por último, tenemos tres opciones interesantes para editar y compartir materiales con formato de “revista digital” a partir de un documento en Word o PDF. &lt;a href=&#34;http://es.calameo.com/&#34;&gt;Calameo&lt;/a&gt;, &lt;a href=&#34;http://www.flipsnack.com/es/&#34;&gt;Flipsnack&lt;/a&gt; e &lt;a href=&#34;http://issuu.com/&#34;&gt;Issuu&lt;/a&gt; tienen opciones básicas gratuitas que, de manera muy sencilla, permiten editar cosas como esta:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.calameo.com/books/003354746324a0d0818ef&#34;&gt;MAI- Economía I 2d4&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizando los temas de investigación</title>
+      <link>/es/post/nube_research/</link>
+      <pubDate>Tue, 01 Sep 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/nube_research/</guid>
+      <description>
+
+
+&lt;div id=&#34;entretenimiento-veraniego&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Entretenimiento veraniego:&lt;/h3&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Se copian los abstract de los últimos trabajos y se crea una tabla de frecuencias de palabras con &lt;a href=&#34;http://www.online-utility.org/text/analyzer.jsp&#34;&gt;Text Analyzer&lt;/a&gt;. Otra opción es tomarlos directamente en R Statistics desde Google Scholar, con el paquete &lt;em&gt;Scholar&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Se eliminan de la tabla de frecuencias pronombres, preposiciones y otras palabras no significativas.&lt;/li&gt;
+&lt;li&gt;Se pega la tabla de frecuencias en &lt;a href=&#34;http://worditout.com/&#34;&gt;Word it Out&lt;/a&gt; et voilà!¡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Para mi ha sido una sorpresa, tanto por el peso de algunos términos, como por el poco peso de otros.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verano: ¿Cuándo si no?</title>
+      <link>/es/post/verano/</link>
+      <pubDate>Sat, 15 Aug 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/verano/</guid>
+      <description>
+
+
+&lt;p&gt;La mayoría de los docentes echamos de menos tener más tiempo para &lt;strong&gt;formarnos&lt;/strong&gt;. Durante el curso, la presión de las tareas diarias hace que sea complicado invertir el tiempo necesario en realizar cursos de actualización o formación adicional. Sin embargo, tanto para la docencia como para la investigación, el &lt;strong&gt;Long Life Learning&lt;/strong&gt; son tanto una necesidad como, casi siempre, una vocación.&lt;/p&gt;
+&lt;p&gt;El verano puede ser una gran ocasión para darle un empujón a esos intereses o proyectos que durante el año han quedado postergados.&lt;/p&gt;
+&lt;div id=&#34;formacion-online&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Formación online&lt;/h3&gt;
+&lt;p&gt;La formación online tiene la gran ventaja de que podemos seguirla a nuestro propio ritmo desde cualquier lugar. Las vacaciones son un momento ideal para aprovechar estas posibilidades e introducirnos en temáticas nuevas que nos resulten personalmente atractivas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formacion-en-lenguajes-web&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Formación en lenguajes web&lt;/h3&gt;
+&lt;p&gt;Para aquellos interesados en herramientas TIC, aprender un poco sobre lenguajes de programación en web puede ser una inversión muy útil, ya que nos facilitarán bastante la vida a la hora de mantener un blog o una web, utilizar software como &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt; o incluso componer mensajes de correo electrónico más atractivos. Hoy os dejo algunos enlaces muy interesantes para aquellos que tengáis interés en estos temas.&lt;/p&gt;
+&lt;div id=&#34;lynda.com&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;http://www.lynda.com/default.aspx&#34;&gt;lynda.com&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Lynda.com, recientemente adquirida por Linkedin es una auténtica joya para autoformarse. Basándose en videotutoriales propios, permite elegir entre miles de cursos, desde fotografía, herramientas para profesores, desarrollo web o animación 3D. En la mayoría de casos, los cursos van desde el nivel 0 hasta especialización. Los cursos no son gratuitos, pero al registrarse se puede acceder a cursos de ejemplo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;codeacademy&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.codecademy.com/?locale_code=es&#34;&gt;Codeacademy&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Codeacademy es simplemente una maravilla para aquellos profanos que tengan interés en lenguajes de programación. Totalmente gratuita, parte desde cero y con un enfoque totalmente práctico, permite familiarizarse sin darse cuenta con lenguajes como HTML&amp;amp;CSS, Javascript, jQuery, PHP y muchos más. Si tu objetivo es manejar un blog o similar, el curso de HTML&amp;amp;CSS te permitirá alcanzar rápidamente una destreza bastante aceptable.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;edx&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;&lt;a href=&#34;https://www.edx.org/&#34;&gt;edx&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Por último, pero desde luego, no peor, quería destacar las posibilidades de edX. edX es una plataforma de educación online que depende del MIT y Harvard y es totalmente gratuita. Por ejemplo, en este momento está abierta la inscripción de un &lt;a href=&#34;https://www.edx.org/course/introduction-r-programming-microsoft-dat204x&#34;&gt;curso de introducción a R&lt;/a&gt; o &lt;a href=&#34;https://www.edx.org/course/english-grammar-style-uqx-write101x-0&#34;&gt;este curso de gramática inglesa&lt;/a&gt;. No os perdáis la página que merece la pena.&lt;/p&gt;
+&lt;p&gt;¿Y vosotros, qué hacéis en verano? ¿Aprovecháis para aprender cosas nuevas o preferís desconectar?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamificación (2). Recursos para dinamizar la clase</title>
+      <link>/es/post/gaming2/</link>
+      <pubDate>Sat, 30 May 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/gaming2/</guid>
+      <description>
+
+
+&lt;p&gt;Hoy quiero repasar dos herramientas estupendas para comprobar en tiempo real el progreso en la comprensión de los estudiantes y, al mismo tiempo, animar la participación en clase: &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; y &lt;a href=&#34;https://kahoot.it/#/&#34;&gt;Kahoot&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;si-no-puedes-con-tu-enemigo-unete-a-el-dispositivos-moviles-en-clase&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Si no puedes con tu enemigo, únete a él: dispositivos móviles en clase&lt;/h3&gt;
+&lt;p&gt;Un comentario común entre mis compañeros es la omnipresencia de los smartphones durante las clases. Los estudiantes son incapaces de permanecer desconectados del “Whatsapp” durante una hora y retuercen el cuello para echarle un vistazo furtivo al teléfono escondido debajo de la mesa o en el bolsillo del abrigo. El uso de estas herramientas u otras como la incorporación de &lt;a href=&#34;https://twitter.com/&#34;&gt;Twitter&lt;/a&gt; permite dar un uso más productivo al teléfono y aumenta la implicación de los estudiantes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;alguien-tiene-algun-ejemplo&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Alguien tiene algún ejemplo?…&lt;/h3&gt;
+&lt;p&gt;Otro problema común en mi facultad es la falta de participación de los estudiantes en las clases. Aunque los grupos se han reducido, salvo en asignaturas de cursos avanzados, la participación en clase suele ser muy baja y las preguntas abiertas suelen quedar sin respuesta. Normalmente, esta dinámica es muy difícil de cambiar y se retroalimenta así que, pasada la primera semana de clase, estimular la participación es cada vez más complicado. Las respuestas a través del móvil resultan menos comprometidas para los estudiantes y se animan más. Normalmente, al visualizar en pantalla los resultados de las votaciones es más fácil que después se produzca una discusión oral y la participación en los grupos en los que los he utilizado aumenta muchísimo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;habeis-entendido-esto&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;¿Habéis entendido esto?&lt;/h3&gt;
+&lt;p&gt;En mi opinión, el mayor potencial de estas herramientas está en su capacidad de monitorizar en tiempo real el aprendizaje de los estudiantes. Con un test en vivo, podemos detectar rápidamente qué conceptos se han comprendido bien y cuales no, de manera que podemos pasar rápidamente sobre los primeros y profundizar en los otros. Nuestra experiencia como docentes nos hace poder tener un diagnóstico previo sobre qué aspectos son más complicados para los estudiantes pero la práctica me ha demostrado que no en todos los grupos los contenidos conflictivos son los mismos. Poder obviar una explicación adicional que sobra para un grupo de estudiantes reduce el aburrimiento y, a la inversa, repasar en el momento una explicación errónea ahorra mucho trabajo posterior.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;socrative-y-kahoot&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Socrative y Kahoot&lt;/h3&gt;
+&lt;p&gt;Las dos plataformas tienen muchos puntos en común. Son totalmente &lt;strong&gt;gratuitas&lt;/strong&gt; y &lt;strong&gt;multidispositivo&lt;/strong&gt;, de manera que son accesibles a través de móviles, tablets o cualquier navegador web. El profesor se registra como educador, mientras que en el caso de los estudiantes no es necesario registrarse. Con la cuenta del profesor se crean los quiz, en los que podemos incluir preguntas de &lt;strong&gt;respuesta múltiple&lt;/strong&gt;, preguntas de &lt;strong&gt;verdadero o falso&lt;/strong&gt; o incluso &lt;strong&gt;respuestas abiertas&lt;/strong&gt;. En el caso de &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; podemos descargar una &lt;strong&gt;plantilla&lt;/strong&gt; en Excel, de manera que resulta cómodo crear los test y subirlos más tarde. En ambos casos podemos incluir &lt;strong&gt;imágenes&lt;/strong&gt; en las preguntas. En &lt;a href=&#34;https://kahoot.it/#/&#34;&gt;Kahoot&lt;/a&gt; cada test tiene un PIN que proporcionaremos a los estudiantes en el momento de realizarlo. En &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; cada profesor tiene un “room number” en el que se inscriben los estudiantes.&lt;/p&gt;
+&lt;p&gt;Con Socrative, podemos activar los test de manera que los estudiantes puedan hacerlos a su ritmo (pasando las preguntas adelante y atrás), al ritmo que marquemos nosotros como profesores o en el modo “carrera espacial”, especialmente apreciado por los estudiantes, en el que los equipos van acumulando puntos en función de las respuestas correctas y el tiempo:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;socrative.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En Kahoot, el texto de las respuestas se muestra solamente en pantalla y se marca el tiempo de manera que los estudiantes se centran más en la proyección , lo que y se introduce un elemento de “tensión” adicional:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kahoot.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En ambos casos, los estudiantes reciben feedback inmediato sobre si han respondido o no correctamente. Socrative permite, según el caso, desactivar este feedback o incluir explicaciones adicionales sobre la respuesta correcta e incorrectas.&lt;/p&gt;
+&lt;p&gt;Aunque he utilizado ambas herramientas de forma esporádica en distintas clases, el semestre pasado utilicé Socrative de forma continua en una asignatura de primero de grado. Al final de curso, les pasé a los estudiantes una pequeña encuesta sobre la herramienta con escalas de 5 puntos desde “totalmente de acuerdo” hasta “totalmente en desacuerdo”. Estos fueron los resultados:&lt;/p&gt;
+&lt;div class=&#34;infogram-embed&#34; data-id=&#34;uso_de_socrative_en_el_aula&#34; data-type=&#34;interactive&#34; data-title=&#34;Uso de Socrative en el aula&#34;&gt;
+
+&lt;/div&gt;
+&lt;script&gt;!function(e,t,s,i){var n=&#34;InfogramEmbeds&#34;,o=e.getElementsByTagName(&#34;script&#34;)[0],d=/^http:/.test(e.location)?&#34;http:&#34;:&#34;https:&#34;;if(/^\/{2}/.test(i)&amp;&amp;(i=d+i),window[n]&amp;&amp;window[n].initialized)window[n].process&amp;&amp;window[n].process();else if(!e.getElementById(s)){var r=e.createElement(&#34;script&#34;);r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,&#34;infogram-async&#34;,&#34;https://e.infogram.com/js/dist/embed-loader-min.js&#34;);&lt;/script&gt;
+&lt;div style=&#34;padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px&#34;&gt;
+&lt;a href=&#34;https://infogram.com/uso_de_socrative_en_el_aula&#34; style=&#34;color:#989898!important;text-decoration:none!important;&#34; target=&#34;_blank&#34;&gt;Uso de Socrative en el aula&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://infogram.com&#34; style=&#34;color:#989898!important;text-decoration:none!important;&#34; target=&#34;_blank&#34; rel=&#34;nofollow&#34;&gt;Infogram&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Como podéis ver, los resultados fueron bastante unánimes, lo que era previsible en el área de “entretenimiento” pero no tanto en la “utilidad”. Mi intención es seguir incorporando ambas herramientas en los distintos cursos que imparto.&lt;/p&gt;
+&lt;p&gt;¿Y tú? ¿Utilizas estas herramientas u otras diferentes?¿Estarías dispuesto a usarlas en clase?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamificación: Simuladores de empresa. ¡3, 2, 1 Fight!</title>
+      <link>/es/post/simuladores/</link>
+      <pubDate>Sat, 18 Apr 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/es/post/simuladores/</guid>
+      <description>
+
+
+&lt;div id=&#34;gamificacion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gamificación&lt;/h2&gt;
+&lt;p&gt;En los últimos tiempos se está imponiendo un nuevo “palabro”: gamificación, entendida como la utilización de técnicas propias del juego lúdico para el aprendizaje en entornos profesionales.&lt;/p&gt;
+&lt;p&gt;Las ventajas de la gamificación tienen que ver con la mayor motivación de los participantes, al aumentar el interés en una actividad a priori aburrida.&lt;/p&gt;
+&lt;p&gt;El objetivo de esta entrada no es discutir en detalle las ventajas e inconvenientes de esta aproximación al aprendizaje, sino describir una de las herramientas más populares en las Facultades de Economía y Empresa que pueden enmarcarse en esta tendencia. los simuladores de empresa y de marketing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;simuladores-empresariales&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Simuladores empresariales&lt;/h2&gt;
+&lt;p&gt;Los simuladores de empresa tienen muchos años de vida. En mi facultad, se vienen utilizando con éxito desde hace 20 años y durante este tiempo hemos podido contrastar su utilidad.&lt;/p&gt;
+&lt;p&gt;En este tipo de simuladores, se presenta a los estudiantes un mercado o industria determinado en el que existen varias empresas. Los estudiantes gestionan una de estas empresas y toman decisiones sobre distintos aspectos del negocio pudiendo observar los resultados de estas decisiones a lo largo de varios periodos.&lt;/p&gt;
+&lt;div id=&#34;ventajas-de-la-utilizacion-de-simuladores&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Ventajas de la utilización de simuladores&lt;/h3&gt;
+&lt;p&gt;La introducción de estas técnicas en el aula proporciona distintas ventajas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La utilización de herramientas informáticas &lt;strong&gt;similares a los videojuegos&lt;/strong&gt; siempre resulta atractiva para los estudiantes por lo que se muestran predispuestos a participar con mayor motivación.&lt;/li&gt;
+&lt;li&gt;Los simuladores son &lt;strong&gt;competitivos&lt;/strong&gt; por definición. Los estudiantes pueden competir con máquinas, con estudiantes de otros centros o con los propios compañeros de clase. Especialmente en el último caso, este elemento competitivo multiplica la motivación y hace que se muestren mucho más involucrados.&lt;/li&gt;
+&lt;li&gt;Dejando a un lado la motivación, introducen en el aula aspectos relativos al &lt;strong&gt;riesgo&lt;/strong&gt; y la &lt;strong&gt;incertidumbre&lt;/strong&gt; que son difíciles de transmitir en otros formatos. Como decía en el &lt;a href=&#34;http://mudeupna.blogspot.com.es/2015/02/simuladores.html&#34;&gt;blog del MUDE&lt;/a&gt;, en las materias tradicionales, hay relativamente poca incertidumbre. Los estudiantes saben que si estudian mucho y preparan bien un examen es muy probable que saquen una nota alta. Además, en un examen normalmente hay respuestas claramente correctas y respuestas incorrectas. En un simulador, al igual que en la vida real, los resultados que se obtienen dependen, no solo de las acciones propias, sino también las de los demás. Los estudiantes se ven forzados a trabajar bajo escenarios de previsiones distintos y a prever las posibilidades de ocurrencia de cada uno.&lt;/li&gt;
+&lt;li&gt;Específicamente en el campo del marketing y la empresa, los simuladores son especialmente útiles para mostrar la &lt;strong&gt;interrelación entre las distintas áreas de negocio&lt;/strong&gt;. El diseño de los planes de estudios hace que, muchas veces los estudiantes perciban las materias como parcelas cerradas autoconclusivas. Las simulaciones hacen que comprendan mejor que, por ejemplo, es imposible tomar decisiones de marketing sin controlar sus implicaciones financieras.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;que-simulador&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;¿Qué simulador?&lt;/h2&gt;
+&lt;p&gt;Existen multitud de simuladores que podemos utilizar. No es mi propósito en esta entrada describir todos ellos, sino solamente destacar algunas características que, en mi opinión, destacan en aquellos con los que personalmente he tenido experiencia docente. En los últimos años, he utilizado en distintas clases cuatro simuladores: &lt;a href=&#34;http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/&#34;&gt;Markstrat&lt;/a&gt;, &lt;a href=&#34;http://globstrat-academy.com/&#34;&gt;Globstrat&lt;/a&gt;, &lt;a href=&#34;http://ilsworld.com/&#34;&gt;MarketPlace&lt;/a&gt;y &lt;a href=&#34;http://quantrack.net/simuladorquantum.htm&#34;&gt;Quantum&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dos de ellos, Globstrat y Marketplace, tienen un enfoque de estrategia general, mientras que Markstrat y Quantum de centran más en la estrategia de marketing.&lt;/p&gt;
+&lt;p&gt;Veamos algunos detalles más:&lt;/p&gt;
+&lt;div id=&#34;markstrat&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Markstrat&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;markstrat.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/&#34;&gt;Markstrat&lt;/a&gt; es uno de los simuladores con más solera. Nacido en INSEAD hace más de treinta años, durante este tiempo ha evolucionado incorporando todas las capacidades que permite la web sin cambiar su esencia inicial. Es sencillo pero potente, especialmente adecuado para cursos de marketing estratégico y para tratar los conceptos de segmentación y posicionamiento.&lt;/p&gt;
+&lt;p&gt;En los últimos años, han desarrollado una herramienta Live, que permite el acceso a los estudiantes a través de un navegador web de forma muy atractiva y además es útil para el profesorado, ya que no es necesario ocuparse de ningún aspecto relativo a la simulación como tal, sino ocuparse del diagnóstico del desempeño de los estudiantes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;marketplace&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Marketplace&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;marketplace.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ilsworld.com/&#34;&gt;MarketPlace&lt;/a&gt; es una simulación de Interactive Learning Solutions que destaca por ser sumamente flexible a la hora de acomodarse a distintos cursos y enfoques. Es muy personalizable en cuanto a las decisiones a incluir. Esto permite que pueda ser útil en cursos básicos de empresa y cursos avanzados de estrategia. También destaca por ser una de las más detalladas en aspectos relativos a Comercio Internacional y Dirección de Operaciones. Al igual que Markstrat, funciona completamente en entorno web, con claves de acceso distintas para estudiantes e instructores.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;globstrat&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Globstrat&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;globstrat.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://globstrat-academy.com/&#34;&gt;Globstrat&lt;/a&gt; es otro simulador web, enfocado a cursos de dirección estratégica muy adecuado para tratar temas de Cuadro de Mando Integral y Triple Línea de Base. Tiene un atractivo visual menor que los dos anteriores, pero sin embargo, permite es especialmente adecuada para tratar los aspectos de riesgo e incertidumbre que mencionaba al principio de la entrada. La información que se proporciona a los participantes es aparentemente sencilla, pero pronto, estos participantes descubren que tiene implicaciones mayores de las esperadas. Las herramientas de diagnóstico para el intructor también están muy bien desarrolladas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;quantum&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Quantum&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;Quantum.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;En nuestras clases de grado, actualmente estamos utilizando &lt;a href=&#34;http://quantrack.net/simuladorquantum.htm&#34;&gt;Quantum&lt;/a&gt;, creado en España por compañeros de la &lt;a href=&#34;http://www.uc3m.es/Inicio&#34;&gt;UC3M&lt;/a&gt;. Quantum funciona con instalación de software, de manera que instructores y participantes acceden a la simulación desde sus respectivos programas. En Quantum, distintos equipos compiten por hacerse un hueco en un mercado de emergente para un nuevo producto tecnológico. Entre los puntos fuertes del simulador, están los aspectos referidos al marketing estratégico y la profundidad de la información que se proporciona a los participantes, por lo que también es útil para repasar aspectos relativos a Investigación de Mercados. Además, a diferencia de las demás opciones, que cobran licencias individuales por participante, Quantum tiene un esquema de licencias fijas para un curso o semestre, por lo que es mucho más económico en el caso de grupos de estudiantes numerosos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

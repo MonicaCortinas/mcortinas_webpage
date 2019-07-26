@@ -11,6 +11,10 @@ title = "Mónica Cortiñas"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/es/"
 
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "es"
+
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-59823480-1"
 
@@ -54,8 +58,6 @@ theme = "hugo-academic"
 # Get last modified date for content from Git?
 enableGitInfo = false
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "es"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = true
 

@@ -1,0 +1,38 @@
+---
+authors:
+- admin
+categories: [e-commerce, Investigación, Marketing]
+date: 2018-01-28T01:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: "Center"
+projects: [omnichannel-behavior]
+subtitle: Nuevo artículo de investigación
+title: "¿Qué distingue a una farmacia de otra?"
+tags: [e-commerce, Investigación, Marketing, omnichannel]
+---
+
+Hoy estamos de enhorabuena, ya que hemos publicado un nuevo artículo en el [Journal of Retailing and Consumer Services](https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services) .
+
+Este artículo tiene una carga emocional mayor, ya que surge de la tesis doctoral de Alberto Ibáñez, que tuve el placer de dirigir junto con mi colega Pedro Reinares en la Universidad Rey Juan Carlos y el Instituto de Empresa. Tanto la tesis como el trabajo, en el que también colabora Gyanendra Singh Sisodia, de la Ajman University, en Emiratos Árabes Unidos, se centran en el pequeño comercio y los aspectos claves para un pequeño negocio que le permiten diferenciarse de otros.
+
+El [trabajo completo](https://www.sciencedirect.com/science/article/pii/S096969891730560X#!) está disponible en acceso libre hasta marzo.
+
+#### Competencias distintivas
+
+¿Qué distingue al comerciante exitoso de aquel que no lo es? En este trabajo se desarrolla el concepto de **competencias distintas**, aquellas capacidades clave que son la base del éxito de algunos pequeños negocios y que permiten, en el caso de las farmacias, sobrevivir en un sector controlado por grandes cadenas de distribución, con márgenes escasos y con competencia.
+
+**¿Qué competencias son las más importantes en este sector?.**
+
+Este trabajo presenta un análisis empírico en el que, a partir de un cuestionario en 171 establecimientos, se recoge información sobre un amplio conjunto de competencias y capacidades de las farmacias y también sobre sus resultados. Mediante un modelo de [Ecuaciones Estructurales](https://es.wikipedia.org/wiki/Ecuaciones_estructurales) detectamos cuales entre estas competencias tienen un impacto más directo en el desempeño de la farmacia.
+
+Entre los resultados, podemos destacar:
+
+- La **imagen** de la farmacia es el elemento con mayor efecto en el desempeño y en los resultados. La imagen además, no solo tiene un impacto directo en el desempeño, sino que tiene un efecto indirecto a través de la mayor capacidad para controlar la estrategia de precios y gestionar los costes. Construir, por tanto, una imagen fuerte es prioritario en este negocio.
+- La **gestión del conocimiento** es la segunda competencia más relacionada con el desempeño.  El conocimiento de los clientes, tendencias y segmentos en el mercado posibilita el ajuste de la política de precios con la demanda
+- Por último, el **control en la gestión** es la tercera competencia más importante. 
+
+Como puede observarse, son dos aspectos muy relacionados con el **marketing** y con el **mercado** las competencias clave en este sector, sin perder de vista el control en todos los aspectos relacionados con este negocio.
+

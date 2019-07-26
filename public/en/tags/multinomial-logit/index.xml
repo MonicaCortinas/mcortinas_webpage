@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multinomial logit on Mónica Cortiñas</title>
+    <link>/es/en/tags/multinomial-logit/</link>
+    <description>Recent content in Multinomial logit on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 01 Feb 2006 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/es/en/tags/multinomial-logit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Problema De Elección De Marca en una Categoría Compleja: Aplicación de una Red Neuronal Artificial</title>
+      <link>/es/en/publication/2006_esic/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/publication/2006_esic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loyalty cards: Are retailers ignoring non-card-holder behaviour?</title>
+      <link>/es/en/publication/2005_erd/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/publication/2005_erd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

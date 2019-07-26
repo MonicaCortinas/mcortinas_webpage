@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Mónica Cortiñas</title>
+    <title>Publicaciones on Mónica Cortiñas</title>
     <link>/es/publication/</link>
-    <description>Recent content in Publications on Mónica Cortiñas</description>
+    <description>Recent content in Publicaciones on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
     
@@ -63,6 +62,24 @@
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/es/publication/2019_imrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Are the Factors that Drive Traditional Videogame Players to Play Mobile Games?</title>
+      <link>/es/publication/2018_aemark2/</link>
+      <pubDate>Sat, 22 Sep 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2018_aemark2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uso del canal online en función del proceso de compra: Un estudio mediante análisis de fijación de la mirada</title>
+      <link>/es/publication/2018_aemark1/</link>
+      <pubDate>Wed, 05 Sep 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/es/publication/2018_aemark1/</guid>
       <description></description>
     </item>
     

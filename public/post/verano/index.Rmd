@@ -1,0 +1,43 @@
+---
+authors:
+- admin
+categories: [Docencia, Herramientas 2.0, Investigación, ]
+date: 2015-08-15T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "Photo by Ethan Robertson on Unsplash"
+  focal_point: "Center"
+projects: []
+subtitle: Tener tiempo
+title: "Verano: ¿Cuándo si no?"
+tags: [Docencia, Herramientas 2.0, Investigación, ]
+---
+
+La mayoría de los docentes echamos de menos tener más tiempo para **formarnos**. Durante el curso, la presión de las tareas diarias hace que sea complicado invertir el tiempo necesario en realizar cursos de actualización o formación adicional. Sin embargo, tanto para la docencia como para la investigación, el **Long Life Learning** son tanto una necesidad como, casi siempre, una vocación.
+
+El verano puede ser una gran ocasión para darle un empujón a esos intereses o proyectos que durante el año han quedado postergados.
+
+### Formación online
+
+ La formación online tiene la gran ventaja de que podemos seguirla a nuestro propio ritmo desde cualquier lugar. Las vacaciones son un momento ideal para aprovechar estas posibilidades e introducirnos en temáticas nuevas que nos resulten personalmente atractivas.
+
+### Formación en lenguajes web
+
+Para aquellos interesados en herramientas TIC, aprender un poco sobre lenguajes de programación en web puede ser una inversión muy útil, ya que nos facilitarán bastante la vida a la hora de mantener un blog o una web, utilizar software como [reveal.js](http://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js) o incluso componer mensajes de correo electrónico más atractivos. Hoy os dejo algunos enlaces muy interesantes para aquellos que tengáis interés en estos temas.
+
+#### [lynda.com](http://www.lynda.com/default.aspx)
+
+Lynda.com, recientemente adquirida por Linkedin es una auténtica joya para autoformarse. Basándose en videotutoriales propios, permite elegir entre miles de cursos, desde fotografía, herramientas para profesores, desarrollo web o animación 3D. En la mayoría de casos, los cursos van desde el nivel 0 hasta especialización. Los cursos no son gratuitos, pero al registrarse se puede acceder a cursos de ejemplo.
+
+#### [Codeacademy](https://www.codecademy.com/?locale_code=es)
+
+Codeacademy es simplemente una maravilla para aquellos profanos que tengan interés en lenguajes de programación. Totalmente gratuita, parte desde cero y con un enfoque totalmente práctico, permite familiarizarse sin darse cuenta con lenguajes como HTML&CSS, Javascript, jQuery, PHP y muchos más. Si tu objetivo es manejar un blog o similar, el curso de HTML&CSS te permitirá alcanzar rápidamente una destreza bastante aceptable.
+
+#### [edx](https://www.edx.org/)
+
+Por último, pero desde luego, no peor, quería destacar las posibilidades de edX. edX es una plataforma de educación online que depende del MIT y Harvard y es totalmente gratuita. Por ejemplo, en este momento está abierta la inscripción de un [curso de introducción a R](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x) o [este curso de gramática inglesa](https://www.edx.org/course/english-grammar-style-uqx-write101x-0). No os perdáis la página que merece la pena.
+
+
+
+¿Y vosotros, qué hacéis en verano? ¿Aprovecháis para  aprender cosas nuevas o preferís desconectar? 

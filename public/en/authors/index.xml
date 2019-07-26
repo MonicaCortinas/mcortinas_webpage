@@ -2,59 +2,176 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Mónica Cortiñas</title>
-    <link>/en/authors/</link>
+    <link>/es/en/authors/</link>
     <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/es/en/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/en/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <link>/es/en/authors/admin/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
-      <guid>/en/authors/admin/</guid>
+      <guid>/es/en/authors/admin/</guid>
       <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Arantxa Villanueva</title>
+      <link>/es/en/authors/arantxa-villanueva/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/arantxa-villanueva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/es/en/authors/raquel-chocarro/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/raquel-chocarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Cebollada</title>
+      <link>/es/en/authors/javier-cebollada/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/javier-cebollada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Cai</title>
+      <link>/es/en/authors/xiaowei-cai/</link>
+      <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/xiaowei-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Cabeza</title>
+      <link>/es/en/authors/rafael-cabeza/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/rafael-cabeza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margarita Elorz</title>
+      <link>/es/en/authors/margarita-elorz/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/margarita-elorz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Luisa Villanueva</title>
+      <link>/es/en/authors/mar%C3%ADa-luisa-villanueva/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/mar%C3%ADa-luisa-villanueva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alberto Ibañez Fernandez</title>
-      <link>/en/authors/alberto-iba%C3%B1ez-fernandez/</link>
+      <link>/es/en/authors/alberto-iba%C3%B1ez-fernandez/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/alberto-iba%C3%B1ez-fernandez/</guid>
+      <guid>/es/en/authors/alberto-iba%C3%B1ez-fernandez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gyanendra Singh Sisodia</title>
-      <link>/en/authors/gyanendra-singh-sisodia/</link>
+      <link>/es/en/authors/gyanendra-singh-sisodia/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/gyanendra-singh-sisodia/</guid>
+      <guid>/es/en/authors/gyanendra-singh-sisodia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedro Reinares Lara</title>
-      <link>/en/authors/pedro-reinares-lara/</link>
+      <link>/es/en/authors/pedro-reinares-lara/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/pedro-reinares-lara/</guid>
+      <guid>/es/en/authors/pedro-reinares-lara/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/en/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>José M. Múgica</title>
+      <link>/es/en/authors/jos%C3%A9-m.-m%C3%BAgica/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/robert-ford/</guid>
+      <guid>/es/en/authors/jos%C3%A9-m.-m%C3%BAgica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roger R. Betancourt</title>
+      <link>/es/en/authors/roger-r.-betancourt/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/roger-r.-betancourt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Miguel Múgica</title>
+      <link>/es/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</link>
+      <pubDate>Fri, 09 Sep 2016 11:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roger Betancourt</title>
+      <link>/es/en/authors/roger-betancourt/</link>
+      <pubDate>Fri, 09 Sep 2016 11:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/roger-betancourt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Luisa Villanueva</title>
+      <link>/es/en/authors/maria-luisa-villanueva/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/maria-luisa-villanueva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariya Andreeva</title>
+      <link>/es/en/authors/mariya-andreeva/</link>
+      <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/mariya-andreeva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen Berné</title>
+      <link>/es/en/authors/carmen-bern%C3%A9/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/es/en/authors/carmen-bern%C3%A9/</guid>
       <description></description>
     </item>
     
