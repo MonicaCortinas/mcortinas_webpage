@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finalizado on Mónica Cortiñas</title>
-    <link>/tags/finalizado/</link>
+    <link>/es/tags/finalizado/</link>
     <description>Recent content in Finalizado on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 27 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/finalizado/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/es/tags/finalizado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Retailing strategy</title>
-      <link>/project/retailers-strategy/</link>
+      <link>/es/project/retailers-strategy/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/project/retailers-strategy/</guid>
+      <guid>/es/project/retailers-strategy/</guid>
       <description>&lt;p&gt;In this project we explore relevant aspects for the management of services, prices, assortment and promotions in retail distribution.&lt;/p&gt;
 </description>
     </item>

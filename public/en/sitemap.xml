@@ -3,2817 +3,2817 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>/es/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>/es/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>/es/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/es/authors/admin/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/admin/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/admin/"
-                />
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/es/publication_types/1/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication_types/1/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/1/"
-                />
   </url>
   
   <url>
-    <loc>/authors/arantxa-villanueva/</loc>
+    <loc>/es/authors/arantxa-villanueva/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/arantxa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/arantxa-villanueva/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/arantxa-villanueva/"
-                />
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/es/authors/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/es/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/es/publication_types/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication_types/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/es/publication/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/"
-                />
   </url>
   
   <url>
-    <loc>/authors/raquel-chocarro/</loc>
+    <loc>/es/authors/raquel-chocarro/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/raquel-chocarro/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/raquel-chocarro/"
-                />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/es/tags/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2019_earcd/</loc>
+    <loc>/es/publication/2019_earcd/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2019_earcd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2019_earcd/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2019_earcd/"
-                />
   </url>
   
   <url>
-    <loc>/tags/e-commerce/</loc>
+    <loc>/es/tags/e-commerce/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/e-commerce/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/e-commerce/"
-                />
   </url>
   
   <url>
-    <loc>/tags/eye-tracking/</loc>
+    <loc>/es/tags/eye-tracking/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/eye-tracking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/eye-tracking/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/eye-tracking/"
-                />
   </url>
   
   <url>
-    <loc>/tags/omnichannel/</loc>
+    <loc>/es/tags/omnichannel/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/omnichannel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/omnichannel/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/omnichannel/"
-                />
   </url>
   
   <url>
-    <loc>/tags/visual-attention/</loc>
+    <loc>/es/tags/visual-attention/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/visual-attention/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/visual-attention/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/visual-attention/"
-                />
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/es/talk/</loc>
     <lastmod>2019-07-03T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/talk/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/talk/"
-                />
   </url>
   
   <url>
-    <loc>/talk/2019_earcd/</loc>
+    <loc>/es/talk/2019_earcd/</loc>
     <lastmod>2019-07-03T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/talk/2019_earcd/"
+                href="/es/es/talk/2019_earcd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/2019_earcd/"
+                href="/es/talk/2019_earcd/"
                 />
   </url>
   
   <url>
-    <loc>/tags/eyetracking/</loc>
+    <loc>/es/tags/eyetracking/</loc>
     <lastmod>2019-07-03T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/eyetracking/"
+                href="/es/es/tags/eyetracking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/eyetracking/"
+                href="/es/tags/eyetracking/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2019_denver/</loc>
+    <loc>/es/publication/2019_denver/</loc>
     <lastmod>2019-06-27T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2019_denver/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2019_denver/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2019_denver/"
-                />
   </url>
   
   <url>
-    <loc>/authors/javier-cebollada/</loc>
+    <loc>/es/authors/javier-cebollada/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/javier-cebollada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/javier-cebollada/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/javier-cebollada/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2019_mkscience/</loc>
+    <loc>/es/publication/2019_mkscience/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2019_mkscience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2019_mkscience/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2019_mkscience/"
-                />
   </url>
   
   <url>
-    <loc>/authors/xiaowei-cai/</loc>
+    <loc>/es/authors/xiaowei-cai/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/xiaowei-cai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/xiaowei-cai/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/xiaowei-cai/"
-                />
   </url>
   
   <url>
-    <loc>/tags/mobile-games/</loc>
+    <loc>/es/tags/mobile-games/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/mobile-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/mobile-games/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/mobile-games/"
-                />
   </url>
   
   <url>
-    <loc>/tags/videogames/</loc>
+    <loc>/es/tags/videogames/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/videogames/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/videogames/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/videogames/"
-                />
   </url>
   
   <url>
-    <loc>/tags/artificial-intelligence/</loc>
+    <loc>/es/tags/artificial-intelligence/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/artificial-intelligence/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/artificial-intelligence/"
-                />
   </url>
   
   <url>
-    <loc>/project/artificial-intelligence/</loc>
+    <loc>/es/project/artificial-intelligence/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/project/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/project/artificial-intelligence/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/artificial-intelligence/"
-                />
   </url>
   
   <url>
-    <loc>/tags/current/</loc>
+    <loc>/es/tags/current/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/es/project/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/project/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
   </url>
   
   <url>
-    <loc>/tags/recommendation-bots/</loc>
+    <loc>/es/tags/recommendation-bots/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/recommendation-bots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/recommendation-bots/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/recommendation-bots/"
-                />
   </url>
   
   <url>
-    <loc>/tags/retailing/</loc>
+    <loc>/es/tags/retailing/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/retailing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/retailing/"
-                />
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/es/publication_types/2/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication_types/2/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/2/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2019_ecra/</loc>
+    <loc>/es/publication/2019_ecra/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2019_ecra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2019_ecra/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2019_ecra/"
-                />
   </url>
   
   <url>
-    <loc>/tags/customer-journey/</loc>
+    <loc>/es/tags/customer-journey/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/customer-journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/customer-journey/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/customer-journey/"
-                />
   </url>
   
   <url>
-    <loc>/tags/experimental-design/</loc>
+    <loc>/es/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/experimental-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/experimental-design/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/experimental-design/"
-                />
   </url>
   
   <url>
-    <loc>/authors/rafael-cabeza/</loc>
+    <loc>/es/authors/rafael-cabeza/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/rafael-cabeza/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/rafael-cabeza/"
-                />
   </url>
   
   <url>
-    <loc>/tags/omnichannel-strategy/</loc>
+    <loc>/es/tags/omnichannel-strategy/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/omnichannel-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/omnichannel-strategy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/omnichannel-strategy/"
-                />
   </url>
   
   <url>
-    <loc>/tags/purchase-task/</loc>
+    <loc>/es/tags/purchase-task/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/purchase-task/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/purchase-task/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/purchase-task/"
-                />
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/es/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication_types/3/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/3/"
-                />
   </url>
   
   <url>
-    <loc>/tags/channel-policies/</loc>
+    <loc>/es/tags/channel-policies/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/channel-policies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/channel-policies/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/channel-policies/"
-                />
   </url>
   
   <url>
-    <loc>/tags/distribution-services/</loc>
+    <loc>/es/tags/distribution-services/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/distribution-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/distribution-services/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/distribution-services/"
-                />
   </url>
   
   <url>
-    <loc>/authors/margarita-elorz/</loc>
+    <loc>/es/authors/margarita-elorz/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/margarita-elorz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/margarita-elorz/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/margarita-elorz/"
-                />
   </url>
   
   <url>
-    <loc>/tags/online-retailing/</loc>
+    <loc>/es/tags/online-retailing/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/online-retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/online-retailing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/online-retailing/"
-                />
   </url>
   
   <url>
-    <loc>/tags/segmentation/</loc>
+    <loc>/es/tags/segmentation/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/segmentation/"
+                href="/es/es/tags/segmentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/segmentation/"
+                href="/es/tags/segmentation/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2019_ssrn/</loc>
+    <loc>/es/publication/2019_ssrn/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/2019_ssrn/"
+                href="/es/es/publication/2019_ssrn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/2019_ssrn/"
+                href="/es/publication/2019_ssrn/"
                 />
   </url>
   
   <url>
-    <loc>/talk/2019_imrc/</loc>
+    <loc>/es/talk/2019_imrc/</loc>
     <lastmod>2019-03-28T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/talk/2019_imrc/"
+                href="/es/es/talk/2019_imrc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/2019_imrc/"
+                href="/es/talk/2019_imrc/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2019_imrc/</loc>
+    <loc>/es/publication/2019_imrc/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/2019_imrc/"
+                href="/es/es/publication/2019_imrc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/2019_imrc/"
+                href="/es/publication/2019_imrc/"
                 />
   </url>
   
   <url>
-    <loc>/tags/omnichannel-behavior/</loc>
+    <loc>/es/tags/omnichannel-behavior/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/omnichannel-behavior/"
+                href="/es/es/tags/omnichannel-behavior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/omnichannel-behavior/"
+                href="/es/tags/omnichannel-behavior/"
                 />
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/es/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/es/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/post/"
+                href="/es/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="/es/post/"
                 />
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>/es/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/slides/"
+                href="/es/es/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/slides/"
+                href="/es/slides/"
                 />
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>/es/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/slides/example/"
+                href="/es/es/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/slides/example/"
+                href="/es/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>/talk/2018_uam/</loc>
+    <loc>/es/talk/2018_uam/</loc>
     <lastmod>2018-11-28T16:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/talk/2018_uam/"
+                href="/es/es/talk/2018_uam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/2018_uam/"
+                href="/es/talk/2018_uam/"
                 />
   </url>
   
   <url>
-    <loc>/talk/2018_concursoacceso/</loc>
+    <loc>/es/talk/2018_concursoacceso/</loc>
     <lastmod>2018-11-08T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/talk/2018_concursoacceso/"
+                href="/es/es/talk/2018_concursoacceso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/2018_concursoacceso/"
+                href="/es/talk/2018_concursoacceso/"
                 />
   </url>
   
   <url>
-    <loc>/talk/2018_aemark/</loc>
+    <loc>/es/talk/2018_aemark/</loc>
     <lastmod>2018-09-05T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/talk/2018_aemark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/talk/2018_aemark/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/talk/2018_aemark/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2018_sij/</loc>
+    <loc>/es/publication/2018_sij/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2018_sij/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2018_sij/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2018_sij/"
-                />
   </url>
   
   <url>
-    <loc>/authors/mar%C3%ADa-luisa-villanueva/</loc>
+    <loc>/es/authors/mar%C3%ADa-luisa-villanueva/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/mar%C3%ADa-luisa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/mar%C3%ADa-luisa-villanueva/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/mar%C3%ADa-luisa-villanueva/"
-                />
   </url>
   
   <url>
-    <loc>/tags/service-sector/</loc>
+    <loc>/es/tags/service-sector/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/service-sector/"
+                href="/es/es/tags/service-sector/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/service-sector/"
+                href="/es/tags/service-sector/"
                 />
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>/es/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/privacy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/privacy/"
-                />
   </url>
   
   <url>
-    <loc>/talk/2018_criptocurrencies/</loc>
+    <loc>/es/talk/2018_criptocurrencies/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/talk/2018_criptocurrencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/talk/2018_criptocurrencies/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/talk/2018_criptocurrencies/"
-                />
   </url>
   
   <url>
-    <loc>/tags/critocurrency/</loc>
+    <loc>/es/tags/critocurrency/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/critocurrency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/critocurrency/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/critocurrency/"
-                />
   </url>
   
   <url>
-    <loc>/tags/digital-economy/</loc>
+    <loc>/es/tags/digital-economy/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/digital-economy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/digital-economy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/digital-economy/"
-                />
   </url>
   
   <url>
-    <loc>/authors/alberto-iba%C3%B1ez-fernandez/</loc>
+    <loc>/es/authors/alberto-iba%C3%B1ez-fernandez/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/alberto-iba%C3%B1ez-fernandez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/alberto-iba%C3%B1ez-fernandez/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/alberto-iba%C3%B1ez-fernandez/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2018_jrcs/</loc>
+    <loc>/es/publication/2018_jrcs/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2018_jrcs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2018_jrcs/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2018_jrcs/"
-                />
   </url>
   
   <url>
-    <loc>/tags/distintive-competencies/</loc>
+    <loc>/es/tags/distintive-competencies/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/distintive-competencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/distintive-competencies/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/distintive-competencies/"
-                />
   </url>
   
   <url>
-    <loc>/authors/gyanendra-singh-sisodia/</loc>
+    <loc>/es/authors/gyanendra-singh-sisodia/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/gyanendra-singh-sisodia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/gyanendra-singh-sisodia/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/gyanendra-singh-sisodia/"
-                />
   </url>
   
   <url>
-    <loc>/authors/pedro-reinares-lara/</loc>
+    <loc>/es/authors/pedro-reinares-lara/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/pedro-reinares-lara/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/pedro-reinares-lara/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/pedro-reinares-lara/"
-                />
   </url>
   
   <url>
-    <loc>/tags/strategy/</loc>
+    <loc>/es/tags/strategy/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/strategy/"
+                href="/es/es/tags/strategy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/strategy/"
+                href="/es/tags/strategy/"
                 />
   </url>
   
   <url>
-    <loc>/project/eyetracking-visualattention/</loc>
+    <loc>/es/project/eyetracking-visualattention/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/eyetracking-visualattention/"
+                href="/es/es/project/eyetracking-visualattention/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/eyetracking-visualattention/"
+                href="/es/project/eyetracking-visualattention/"
                 />
   </url>
   
   <url>
-    <loc>/tags/purchase-path/</loc>
+    <loc>/es/tags/purchase-path/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/purchase-path/"
+                href="/es/es/tags/purchase-path/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/purchase-path/"
+                href="/es/tags/purchase-path/"
                 />
   </url>
   
   <url>
-    <loc>/talk/2017_uv/</loc>
+    <loc>/es/talk/2017_uv/</loc>
     <lastmod>2017-10-27T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/talk/2017_uv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/talk/2017_uv/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/talk/2017_uv/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2017_aemark2/</loc>
+    <loc>/es/publication/2017_aemark2/</loc>
     <lastmod>2017-09-08T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2017_aemark2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2017_aemark2/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2017_aemark2/"
-                />
   </url>
   
   <url>
-    <loc>/tags/services-marketing/</loc>
+    <loc>/es/tags/services-marketing/</loc>
     <lastmod>2017-09-08T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/services-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/services-marketing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/services-marketing/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2017_aemark1/</loc>
+    <loc>/es/publication/2017_aemark1/</loc>
     <lastmod>2017-09-08T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2017_aemark1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2017_aemark1/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2017_aemark1/"
-                />
   </url>
   
   <url>
-    <loc>/talk/2017_aemark/</loc>
+    <loc>/es/talk/2017_aemark/</loc>
     <lastmod>2017-09-08T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/talk/2017_aemark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/talk/2017_aemark/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/talk/2017_aemark/"
-                />
   </url>
   
   <url>
-    <loc>/project/mobile-games/</loc>
+    <loc>/es/project/mobile-games/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/project/mobile-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/project/mobile-games/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/mobile-games/"
-                />
   </url>
   
   <url>
-    <loc>/tags/mobile-gaming/</loc>
+    <loc>/es/tags/mobile-gaming/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/mobile-gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/mobile-gaming/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/mobile-gaming/"
-                />
   </url>
   
   <url>
-    <loc>/tags/e-sports/</loc>
+    <loc>/es/tags/e-sports/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/e-sports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/e-sports/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/e-sports/"
-                />
   </url>
   
   <url>
-    <loc>/tags/customer-satisfaction/</loc>
+    <loc>/es/tags/customer-satisfaction/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/customer-satisfaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/customer-satisfaction/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/customer-satisfaction/"
-                />
   </url>
   
   <url>
-    <loc>/tags/intentional-loyalty/</loc>
+    <loc>/es/tags/intentional-loyalty/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/intentional-loyalty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/intentional-loyalty/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/intentional-loyalty/"
-                />
   </url>
   
   <url>
-    <loc>/authors/jos%C3%A9-m.-m%C3%BAgica/</loc>
+    <loc>/es/authors/jos%C3%A9-m.-m%C3%BAgica/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/jos%C3%A9-m.-m%C3%BAgica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/jos%C3%A9-m.-m%C3%BAgica/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/jos%C3%A9-m.-m%C3%BAgica/"
-                />
   </url>
   
   <url>
-    <loc>/tags/online-channels/</loc>
+    <loc>/es/tags/online-channels/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/online-channels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/online-channels/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/online-channels/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2017_jim/</loc>
+    <loc>/es/publication/2017_jim/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2017_jim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2017_jim/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2017_jim/"
-                />
   </url>
   
   <url>
-    <loc>/tags/private-sales-clubs/</loc>
+    <loc>/es/tags/private-sales-clubs/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/private-sales-clubs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/private-sales-clubs/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/private-sales-clubs/"
-                />
   </url>
   
   <url>
-    <loc>/tags/quantile-regression/</loc>
+    <loc>/es/tags/quantile-regression/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/quantile-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/quantile-regression/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/quantile-regression/"
-                />
   </url>
   
   <url>
-    <loc>/authors/roger-r.-betancourt/</loc>
+    <loc>/es/authors/roger-r.-betancourt/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/roger-r.-betancourt/"
+                href="/es/es/authors/roger-r.-betancourt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/roger-r.-betancourt/"
+                href="/es/authors/roger-r.-betancourt/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2017_mktrends/</loc>
+    <loc>/es/publication/2017_mktrends/</loc>
     <lastmod>2017-01-26T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2017_mktrends/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2017_mktrends/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2017_mktrends/"
-                />
   </url>
   
   <url>
-    <loc>/authors/jos%C3%A9-miguel-m%C3%BAgica/</loc>
+    <loc>/es/authors/jos%C3%A9-miguel-m%C3%BAgica/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/jos%C3%A9-miguel-m%C3%BAgica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/jos%C3%A9-miguel-m%C3%BAgica/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/jos%C3%A9-miguel-m%C3%BAgica/"
-                />
   </url>
   
   <url>
-    <loc>/authors/roger-betancourt/</loc>
+    <loc>/es/authors/roger-betancourt/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/roger-betancourt/"
+                href="/es/es/authors/roger-betancourt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/roger-betancourt/"
+                href="/es/authors/roger-betancourt/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2016_aemark/</loc>
+    <loc>/es/publication/2016_aemark/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/2016_aemark/"
+                href="/es/es/publication/2016_aemark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/2016_aemark/"
+                href="/es/publication/2016_aemark/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2016_multichannelmarketing/</loc>
+    <loc>/es/publication/2016_multichannelmarketing/</loc>
     <lastmod>2016-05-20T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2016_multichannelmarketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2016_multichannelmarketing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2016_multichannelmarketing/"
-                />
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>/es/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/es/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2016_jim/</loc>
+    <loc>/es/publication/2016_jim/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2016_jim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2016_jim/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2016_jim/"
-                />
   </url>
   
   <url>
-    <loc>/tags/channel-choice-and-management/</loc>
+    <loc>/es/tags/channel-choice-and-management/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/channel-choice-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/channel-choice-and-management/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/channel-choice-and-management/"
-                />
   </url>
   
   <url>
-    <loc>/tags/maximum-service-limits-of-channels/</loc>
+    <loc>/es/tags/maximum-service-limits-of-channels/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/maximum-service-limits-of-channels/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/maximum-service-limits-of-channels/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/maximum-service-limits-of-channels/"
-                />
   </url>
   
   <url>
-    <loc>/tags/online-vs.-offline-retailing/</loc>
+    <loc>/es/tags/online-vs.-offline-retailing/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/online-vs.-offline-retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/online-vs.-offline-retailing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/online-vs.-offline-retailing/"
-                />
   </url>
   
   <url>
-    <loc>/tags/separability-across-space-and-time/</loc>
+    <loc>/es/tags/separability-across-space-and-time/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/separability-across-space-and-time/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/separability-across-space-and-time/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/separability-across-space-and-time/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2015_aemark1/</loc>
+    <loc>/es/publication/2015_aemark1/</loc>
     <lastmod>2015-09-07T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2015_aemark1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2015_aemark1/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2015_aemark1/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2015_aemark2/</loc>
+    <loc>/es/publication/2015_aemark2/</loc>
     <lastmod>2015-09-07T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2015_aemark2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2015_aemark2/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2015_aemark2/"
-                />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/es/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/es/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/es/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/es/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>/es/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/es/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/buyer-behaviour/</loc>
+    <loc>/es/tags/buyer-behaviour/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/buyer-behaviour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/buyer-behaviour/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/buyer-behaviour/"
-                />
   </url>
   
   <url>
-    <loc>/tags/channel-management/</loc>
+    <loc>/es/tags/channel-management/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/channel-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/channel-management/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/channel-management/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2015_jrim/</loc>
+    <loc>/es/publication/2015_jrim/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2015_jrim/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2015_jrim/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2015_jrim/"
-                />
   </url>
   
   <url>
-    <loc>/tags/e-service-quality/</loc>
+    <loc>/es/tags/e-service-quality/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/e-service-quality/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/e-service-quality/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/e-service-quality/"
-                />
   </url>
   
   <url>
-    <loc>/authors/maria-luisa-villanueva/</loc>
+    <loc>/es/authors/maria-luisa-villanueva/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/maria-luisa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/maria-luisa-villanueva/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/maria-luisa-villanueva/"
-                />
   </url>
   
   <url>
-    <loc>/project/omnichannel-behavior/</loc>
+    <loc>/es/project/omnichannel-behavior/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/project/omnichannel-behavior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/project/omnichannel-behavior/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/omnichannel-behavior/"
-                />
   </url>
   
   <url>
-    <loc>/tags/online-shopping/</loc>
+    <loc>/es/tags/online-shopping/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/online-shopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/online-shopping/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/online-shopping/"
-                />
   </url>
   
   <url>
-    <loc>/tags/other/</loc>
+    <loc>/es/tags/other/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/services-marketing/</loc>
+    <loc>/es/project/services-marketing/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/services-marketing/"
+                href="/es/es/project/services-marketing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/services-marketing/"
+                href="/es/project/services-marketing/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2014_ijms/</loc>
+    <loc>/es/publication/2014_ijms/</loc>
     <lastmod>2014-01-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2014_ijms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2014_ijms/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2014_ijms/"
-                />
   </url>
   
   <url>
-    <loc>/tags/channel-choice/</loc>
+    <loc>/es/tags/channel-choice/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/channel-choice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/channel-choice/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/channel-choice/"
-                />
   </url>
   
   <url>
-    <loc>/tags/experimentation/</loc>
+    <loc>/es/tags/experimentation/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/experimentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/experimentation/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/experimentation/"
-                />
   </url>
   
   <url>
-    <loc>/tags/internet/</loc>
+    <loc>/es/tags/internet/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/internet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/internet/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/internet/"
-                />
   </url>
   
   <url>
-    <loc>/tags/situational-variables/</loc>
+    <loc>/es/tags/situational-variables/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/situational-variables/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/situational-variables/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/situational-variables/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2013_ecra/</loc>
+    <loc>/es/publication/2013_ecra/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2013_ecra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2013_ecra/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2013_ecra/"
-                />
   </url>
   
   <url>
-    <loc>/tags/consensus/</loc>
+    <loc>/es/tags/consensus/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/consensus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/consensus/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/consensus/"
-                />
   </url>
   
   <url>
-    <loc>/tags/consumer-response/</loc>
+    <loc>/es/tags/consumer-response/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/consumer-response/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/consumer-response/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/consumer-response/"
-                />
   </url>
   
   <url>
-    <loc>/tags/experts-influence/</loc>
+    <loc>/es/tags/experts-influence/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/experts-influence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/experts-influence/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/experts-influence/"
-                />
   </url>
   
   <url>
-    <loc>/tags/information-complexity/</loc>
+    <loc>/es/tags/information-complexity/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/information-complexity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/information-complexity/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/information-complexity/"
-                />
   </url>
   
   <url>
-    <loc>/tags/recommendations/</loc>
+    <loc>/es/tags/recommendations/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/recommendations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/recommendations/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/recommendations/"
-                />
   </url>
   
   <url>
-    <loc>/tags/red-wines/</loc>
+    <loc>/es/tags/red-wines/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/red-wines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/red-wines/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/red-wines/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2013_ijwbr/</loc>
+    <loc>/es/publication/2013_ijwbr/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2013_ijwbr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2013_ijwbr/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2013_ijwbr/"
-                />
   </url>
   
   <url>
-    <loc>/project/agricultural-marketing/</loc>
+    <loc>/es/project/agricultural-marketing/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/project/agricultural-marketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/project/agricultural-marketing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/agricultural-marketing/"
-                />
   </url>
   
   <url>
-    <loc>/tags/agriproducts/</loc>
+    <loc>/es/tags/agriproducts/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/agriproducts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/agriproducts/"
-                />
   </url>
   
   <url>
-    <loc>/tags/brands/</loc>
+    <loc>/es/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/brands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/brands/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/brands/"
-                />
   </url>
   
   <url>
-    <loc>/tags/consumer-experience/</loc>
+    <loc>/es/tags/consumer-experience/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/consumer-experience/"
+                href="/es/es/tags/consumer-experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/consumer-experience/"
+                href="/es/tags/consumer-experience/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2012_granada/</loc>
+    <loc>/es/publication/2012_granada/</loc>
     <lastmod>2012-03-21T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/2012_granada/"
+                href="/es/es/publication/2012_granada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/2012_granada/"
+                href="/es/publication/2012_granada/"
                 />
   </url>
   
   <url>
-    <loc>/tags/asparragous/</loc>
+    <loc>/es/tags/asparragous/</loc>
     <lastmod>2012-03-21T11:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/asparragous/"
+                href="/es/es/tags/asparragous/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/asparragous/"
+                href="/es/tags/asparragous/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2011_iberoamerican/</loc>
+    <loc>/es/publication/2011_iberoamerican/</loc>
     <lastmod>2011-12-05T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2011_iberoamerican/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2011_iberoamerican/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2011_iberoamerican/"
-                />
   </url>
   
   <url>
-    <loc>/tags/entropy/</loc>
+    <loc>/es/tags/entropy/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/entropy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/entropy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/entropy/"
-                />
   </url>
   
   <url>
-    <loc>/tags/financial-services/</loc>
+    <loc>/es/tags/financial-services/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/financial-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/financial-services/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/financial-services/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2010_esic/</loc>
+    <loc>/es/publication/2010_esic/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2010_esic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2010_esic/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2010_esic/"
-                />
   </url>
   
   <url>
-    <loc>/tags/latent-class-regression/</loc>
+    <loc>/es/tags/latent-class-regression/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/latent-class-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/latent-class-regression/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/latent-class-regression/"
-                />
   </url>
   
   <url>
-    <loc>/tags/latent-segmentation/</loc>
+    <loc>/es/tags/latent-segmentation/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/latent-segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/latent-segmentation/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/latent-segmentation/"
-                />
   </url>
   
   <url>
-    <loc>/tags/multi-channel-behavior/</loc>
+    <loc>/es/tags/multi-channel-behavior/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/multi-channel-behavior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/multi-channel-behavior/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/multi-channel-behavior/"
-                />
   </url>
   
   <url>
-    <loc>/tags/satisfaction-and-loyalty/</loc>
+    <loc>/es/tags/satisfaction-and-loyalty/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/satisfaction-and-loyalty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/satisfaction-and-loyalty/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/satisfaction-and-loyalty/"
-                />
   </url>
   
   <url>
-    <loc>/tags/structural-equation-models/</loc>
+    <loc>/es/tags/structural-equation-models/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/structural-equation-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/structural-equation-models/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/structural-equation-models/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2010_jbr/</loc>
+    <loc>/es/publication/2010_jbr/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2010_jbr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2010_jbr/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2010_jbr/"
-                />
   </url>
   
   <url>
-    <loc>/tags/brand-choice/</loc>
+    <loc>/es/tags/brand-choice/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/brand-choice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/brand-choice/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/brand-choice/"
-                />
   </url>
   
   <url>
-    <loc>/authors/mariya-andreeva/</loc>
+    <loc>/es/authors/mariya-andreeva/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/mariya-andreeva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/mariya-andreeva/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/mariya-andreeva/"
-                />
   </url>
   
   <url>
-    <loc>/tags/purchase-frequency/</loc>
+    <loc>/es/tags/purchase-frequency/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/purchase-frequency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/purchase-frequency/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/purchase-frequency/"
-                />
   </url>
   
   <url>
-    <loc>/tags/purchase-incidence/</loc>
+    <loc>/es/tags/purchase-incidence/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/purchase-incidence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/purchase-incidence/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/purchase-incidence/"
-                />
   </url>
   
   <url>
-    <loc>/tags/regularity/</loc>
+    <loc>/es/tags/regularity/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/regularity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/regularity/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/regularity/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2010_jmt/</loc>
+    <loc>/es/publication/2010_jmt/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2010_jmt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2010_jmt/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2010_jmt/"
-                />
   </url>
   
   <url>
-    <loc>/tags/finalizado/</loc>
+    <loc>/es/tags/finalizado/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/finalizado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/finalizado/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/finalizado/"
-                />
   </url>
   
   <url>
-    <loc>/tags/grocery-shopping/</loc>
+    <loc>/es/tags/grocery-shopping/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/grocery-shopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/grocery-shopping/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/grocery-shopping/"
-                />
   </url>
   
   <url>
-    <loc>/tags/pricing/</loc>
+    <loc>/es/tags/pricing/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/pricing/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/pricing/"
-                />
   </url>
   
   <url>
-    <loc>/project/retailers-strategy/</loc>
+    <loc>/es/project/retailers-strategy/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/project/retailers-strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/project/retailers-strategy/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/retailers-strategy/"
-                />
   </url>
   
   <url>
-    <loc>/tags/choice-analysis/</loc>
+    <loc>/es/tags/choice-analysis/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/choice-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/choice-analysis/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/choice-analysis/"
-                />
   </url>
   
   <url>
-    <loc>/tags/designation-of-origin/</loc>
+    <loc>/es/tags/designation-of-origin/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/designation-of-origin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/designation-of-origin/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/designation-of-origin/"
-                />
   </url>
   
   <url>
-    <loc>/tags/experience/</loc>
+    <loc>/es/tags/experience/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/experience/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/experience/"
-                />
   </url>
   
   <url>
-    <loc>/tags/objective-knowledge/</loc>
+    <loc>/es/tags/objective-knowledge/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/objective-knowledge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/objective-knowledge/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/objective-knowledge/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2009_fqp/</loc>
+    <loc>/es/publication/2009_fqp/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2009_fqp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2009_fqp/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2009_fqp/"
-                />
   </url>
   
   <url>
-    <loc>/tags/brand-choice-problem/</loc>
+    <loc>/es/tags/brand-choice-problem/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/brand-choice-problem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/brand-choice-problem/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/brand-choice-problem/"
-                />
   </url>
   
   <url>
-    <loc>/tags/customer-databases/</loc>
+    <loc>/es/tags/customer-databases/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/customer-databases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/customer-databases/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/customer-databases/"
-                />
   </url>
   
   <url>
-    <loc>/tags/customer-loyalty-programs/</loc>
+    <loc>/es/tags/customer-loyalty-programs/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/customer-loyalty-programs/"
+                href="/es/es/tags/customer-loyalty-programs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/customer-loyalty-programs/"
+                href="/es/tags/customer-loyalty-programs/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2008_jrcs/</loc>
+    <loc>/es/publication/2008_jrcs/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/2008_jrcs/"
+                href="/es/es/publication/2008_jrcs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/2008_jrcs/"
+                href="/es/publication/2008_jrcs/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2007_qme/</loc>
+    <loc>/es/publication/2007_qme/</loc>
     <lastmod>2007-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2007_qme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2007_qme/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2007_qme/"
-                />
   </url>
   
   <url>
-    <loc>/tags/asparagus/</loc>
+    <loc>/es/tags/asparagus/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/asparagus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/asparagus/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/asparagus/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2007_earn/</loc>
+    <loc>/es/publication/2007_earn/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2007_earn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2007_earn/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2007_earn/"
-                />
   </url>
   
   <url>
-    <loc>/tags/market-segmentation/</loc>
+    <loc>/es/tags/market-segmentation/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/market-segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/market-segmentation/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/market-segmentation/"
-                />
   </url>
   
   <url>
-    <loc>/tags/artificial-neural-networks/</loc>
+    <loc>/es/tags/artificial-neural-networks/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/artificial-neural-networks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/artificial-neural-networks/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/artificial-neural-networks/"
-                />
   </url>
   
   <url>
-    <loc>/tags/choice-models/</loc>
+    <loc>/es/tags/choice-models/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/choice-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/choice-models/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/choice-models/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2006_esic/</loc>
+    <loc>/es/publication/2006_esic/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2006_esic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2006_esic/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2006_esic/"
-                />
   </url>
   
   <url>
-    <loc>/tags/multinomial-logit/</loc>
+    <loc>/es/tags/multinomial-logit/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/multinomial-logit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/multinomial-logit/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/multinomial-logit/"
-                />
   </url>
   
   <url>
-    <loc>/tags/scanner-data/</loc>
+    <loc>/es/tags/scanner-data/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/scanner-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/scanner-data/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/scanner-data/"
-                />
   </url>
   
   <url>
-    <loc>/tags/loyalty-cards/</loc>
+    <loc>/es/tags/loyalty-cards/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/loyalty-cards/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/loyalty-cards/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/loyalty-cards/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2005_erd/</loc>
+    <loc>/es/publication/2005_erd/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2005_erd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2005_erd/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2005_erd/"
-                />
   </url>
   
   <url>
-    <loc>/tags/consumer-satisfaction/</loc>
+    <loc>/es/tags/consumer-satisfaction/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/consumer-satisfaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/consumer-satisfaction/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/consumer-satisfaction/"
-                />
   </url>
   
   <url>
-    <loc>/tags/productivity/</loc>
+    <loc>/es/tags/productivity/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/productivity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/productivity/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/productivity/"
-                />
   </url>
   
   <url>
-    <loc>/publication/2004_irrdcra/</loc>
+    <loc>/es/publication/2004_irrdcra/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/publication/2004_irrdcra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/publication/2004_irrdcra/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/2004_irrdcra/"
-                />
   </url>
   
   <url>
-    <loc>/tags/retailing-services/</loc>
+    <loc>/es/tags/retailing-services/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/retailing-services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/retailing-services/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/retailing-services/"
-                />
   </url>
   
   <url>
-    <loc>/tags/store-loyalty/</loc>
+    <loc>/es/tags/store-loyalty/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/store-loyalty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/store-loyalty/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/store-loyalty/"
-                />
   </url>
   
   <url>
-    <loc>/tags/structural-equation-modelling/</loc>
+    <loc>/es/tags/structural-equation-modelling/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/structural-equation-modelling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/structural-equation-modelling/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/structural-equation-modelling/"
-                />
   </url>
   
   <url>
-    <loc>/authors/carmen-bern%C3%A9/</loc>
+    <loc>/es/authors/carmen-bern%C3%A9/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/authors/carmen-bern%C3%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/authors/carmen-bern%C3%A9/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/carmen-bern%C3%A9/"
-                />
   </url>
   
   <url>
-    <loc>/tags/occasional-shoppers/</loc>
+    <loc>/es/tags/occasional-shoppers/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/occasional-shoppers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/occasional-shoppers/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/occasional-shoppers/"
-                />
   </url>
   
   <url>
-    <loc>/tags/price-elasticity/</loc>
+    <loc>/es/tags/price-elasticity/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/price-elasticity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/price-elasticity/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/price-elasticity/"
-                />
   </url>
   
   <url>
-    <loc>/tags/promotions/</loc>
+    <loc>/es/tags/promotions/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+                href="/es/es/tags/promotions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/es/tags/promotions/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/promotions/"
-                />
   </url>
   
   <url>
-    <loc>/tags/regular-customers/</loc>
+    <loc>/es/tags/regular-customers/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/regular-customers/"
+                href="/es/es/tags/regular-customers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/regular-customers/"
+                href="/es/tags/regular-customers/"
                 />
   </url>
   
   <url>
-    <loc>/publication/2004_irrdcrb/</loc>
+    <loc>/es/publication/2004_irrdcrb/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/2004_irrdcrb/"
+                href="/es/es/publication/2004_irrdcrb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/2004_irrdcrb/"
+                href="/es/publication/2004_irrdcrb/"
                 />
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/es/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/courses/"
+                href="/es/es/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/"
+                href="/es/courses/"
                 />
   </url>
   

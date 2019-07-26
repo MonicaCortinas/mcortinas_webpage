@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online shopping on Mónica Cortiñas</title>
-    <link>/tags/online-shopping/</link>
+    <link>/es/tags/online-shopping/</link>
     <description>Recent content in Online shopping on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/online-shopping/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/es/tags/online-shopping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Omnichannel behavior</title>
-      <link>/project/omnichannel-behavior/</link>
+      <link>/es/project/omnichannel-behavior/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/omnichannel-behavior/</guid>
+      <guid>/es/project/omnichannel-behavior/</guid>
       <description>&lt;p&gt;The so-called omnichannel phenomenon has had an exponential growth in the last decade. In this project we explore how we can characterize it and what implications it has for retailing strategy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Services Marketing</title>
-      <link>/project/services-marketing/</link>
+      <link>/es/project/services-marketing/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/services-marketing/</guid>
+      <guid>/es/project/services-marketing/</guid>
       <description>&lt;p&gt;In this project we explore the distinctive features of the services and the challenges of their commercialization.&lt;/p&gt;
 </description>
     </item>

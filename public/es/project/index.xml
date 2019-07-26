@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mónica Cortiñas</title>
-    <link>/es/project/</link>
+    <link>/es/es/project/</link>
     <description>Recent content in Projects on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/es/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/es/es/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence in Retailing</title>
-      <link>/es/project/artificial-intelligence/</link>
+      <link>/es/es/project/artificial-intelligence/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/artificial-intelligence/</guid>
+      <guid>/es/es/project/artificial-intelligence/</guid>
       <description>&lt;p&gt;El desarrollo de la inteligencia artificial está teniendo un impacto importantísimo en campos como el mercado laboral, los sistemas de control de suministro energético, los mercados financieros y también la toma de decisiones de consumo y la forma en la que los individuos se relacionan con las empresas.&lt;/p&gt;
 
 &lt;p&gt;En este proyecto estamos trabajando en desarrollar las implicaciones del desarrollo de la inteligencia artificial para el marketing y el retailing, especialmente en el ámbito del e-commerce.&lt;/p&gt;
@@ -25,60 +25,60 @@
     
     <item>
       <title>Visual attention in e-commerce</title>
-      <link>/es/project/eyetracking-visualattention/</link>
+      <link>/es/es/project/eyetracking-visualattention/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/eyetracking-visualattention/</guid>
+      <guid>/es/es/project/eyetracking-visualattention/</guid>
       <description>&lt;p&gt;En este proyecto en curso utilizamos técnicas de eye-tracking para analizar los procesos de atención al sitio web en comercio electrónico.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile and traditional games</title>
-      <link>/es/project/mobile-games/</link>
+      <link>/es/es/project/mobile-games/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/mobile-games/</guid>
+      <guid>/es/es/project/mobile-games/</guid>
       <description>&lt;p&gt;En este proyecto en curso, en el que se está desarrollando una tesis doctoral, analizamos la relación y las diferencuas entre el consumo de videojuegos en plataformas móviles y plataformas tradicionales.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Omnichannel behavior</title>
-      <link>/es/project/omnichannel-behavior/</link>
+      <link>/es/es/project/omnichannel-behavior/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/omnichannel-behavior/</guid>
+      <guid>/es/es/project/omnichannel-behavior/</guid>
       <description>&lt;p&gt;El denominado fenómeno omnicanal ha tenido un crecimiento exponencial en la última década. En este proyecto exploramos cómo podemos caracterizarlo y qué implicaciones tiene para la estrategia en retailing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Services Marketing</title>
-      <link>/es/project/services-marketing/</link>
+      <link>/es/es/project/services-marketing/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/services-marketing/</guid>
+      <guid>/es/es/project/services-marketing/</guid>
       <description>&lt;p&gt;En este proyecto exploramos las características distintivas de los servicios y los retos de su comercialización.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Agricultural Marketing</title>
-      <link>/es/project/agricultural-marketing/</link>
+      <link>/es/es/project/agricultural-marketing/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/agricultural-marketing/</guid>
+      <guid>/es/es/project/agricultural-marketing/</guid>
       <description>&lt;p&gt;En este proyecto exploramos las características distintivas de los productos agroalimentarios y los retos de su comercialización.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Retailing strategy</title>
-      <link>/es/project/retailers-strategy/</link>
+      <link>/es/es/project/retailers-strategy/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/es/project/retailers-strategy/</guid>
+      <guid>/es/es/project/retailers-strategy/</guid>
       <description>&lt;p&gt;En este proyecto exploramos aspectos relevantes para la gestión de servicios, precios, surtido y promociones en distribución minorista.&lt;/p&gt;
 </description>
     </item>

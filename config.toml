@@ -9,7 +9,7 @@ title = "Mónica Cortiñas"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "/es/"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-59823480-1"

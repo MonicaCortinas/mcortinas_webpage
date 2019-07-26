@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence on Mónica Cortiñas</title>
-    <link>/tags/artificial-intelligence/</link>
+    <link>/es/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/es/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence in Retailing</title>
-      <link>/project/artificial-intelligence/</link>
+      <link>/es/project/artificial-intelligence/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/artificial-intelligence/</guid>
+      <guid>/es/project/artificial-intelligence/</guid>
       <description>&lt;p&gt;The development of artificial intelligence is impacting heavily in fields such as the labor market, energy supply control systems, financial markets and also consumer decision-making and the way in which individuals relate to companies.&lt;/p&gt;
 
 &lt;p&gt;In this project we are working on the implications of the development of artificial intelligence for marketing and retailing, especially in the field of e-commerce.&lt;/p&gt;
