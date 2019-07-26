@@ -30,33 +30,6 @@
     </item>
     
     <item>
-      <title>Docencia</title>
-      <link>/es/categories/docencia/</link>
-      <pubDate>Wed, 17 Jul 2019 08:26:17 +0200</pubDate>
-      
-      <guid>/es/categories/docencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herramientas 2.0</title>
-      <link>/es/categories/herramientas-2.0/</link>
-      <pubDate>Wed, 17 Jul 2019 08:26:17 +0200</pubDate>
-      
-      <guid>/es/categories/herramientas-2.0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recursos Educativos</title>
-      <link>/es/categories/recursos-educativos/</link>
-      <pubDate>Wed, 17 Jul 2019 08:26:17 +0200</pubDate>
-      
-      <guid>/es/categories/recursos-educativos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>recursos TIC</title>
       <link>/es/categories/recursos-tic/</link>
       <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
@@ -71,6 +44,15 @@
       <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
       
       <guid>/es/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramientas 2.0</title>
+      <link>/es/categories/herramientas-2.0/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/categories/herramientas-2.0/</guid>
       <description></description>
     </item>
     
@@ -102,11 +84,29 @@
     </item>
     
     <item>
+      <title>Recursos Educativos</title>
+      <link>/es/categories/recursos-educativos/</link>
+      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/es/categories/recursos-educativos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reveal.js</title>
       <link>/es/categories/reveal.js/</link>
       <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
       
       <guid>/es/categories/reveal.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docencia</title>
+      <link>/es/categories/docencia/</link>
+      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
+      
+      <guid>/es/categories/docencia/</guid>
       <description></description>
     </item>
     
