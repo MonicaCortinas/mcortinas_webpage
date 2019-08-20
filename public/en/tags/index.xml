@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 11:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,27 +15,36 @@
     <item>
       <title>e-commerce</title>
       <link>/en/tags/e-commerce/</link>
-      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
       <guid>/en/tags/e-commerce/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>eye tracking</title>
-      <link>/en/tags/eye-tracking/</link>
-      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      <title>eyetracking</title>
+      <link>/en/tags/eyetracking/</link>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
-      <guid>/en/tags/eye-tracking/</guid>
+      <guid>/en/tags/eyetracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>omnichannel</title>
       <link>/en/tags/omnichannel/</link>
-      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
       <guid>/en/tags/omnichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye-tracking</title>
+      <link>/en/tags/eye-tracking/</link>
+      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/eye-tracking/</guid>
       <description></description>
     </item>
     
@@ -45,15 +54,6 @@
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
       <guid>/en/tags/visual-attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eyetracking</title>
-      <link>/en/tags/eyetracking/</link>
-      <pubDate>Wed, 03 Jul 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/en/tags/eyetracking/</guid>
       <description></description>
     </item>
     
@@ -112,20 +112,20 @@
     </item>
     
     <item>
-      <title>Experimental design</title>
-      <link>/en/tags/experimental-design/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/experimental-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>customer journey</title>
+      <title>Customer journey</title>
       <link>/en/tags/customer-journey/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/customer-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental design</title>
+      <link>/en/tags/experimental-design/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/experimental-design/</guid>
       <description></description>
     </item>
     
@@ -184,7 +184,7 @@
     </item>
     
     <item>
-      <title>omnichannel behavior</title>
+      <title>Omnichannel behavior</title>
       <link>/en/tags/omnichannel-behavior/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -247,7 +247,7 @@
     </item>
     
     <item>
-      <title>services-marketing</title>
+      <title>Services marketing</title>
       <link>/en/tags/services-marketing/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
@@ -526,6 +526,15 @@
     </item>
     
     <item>
+      <title>Agriproducts</title>
+      <link>/en/tags/agriproducts/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/agriproducts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brands</title>
       <link>/en/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -540,15 +549,6 @@
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/consumer-experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agriproducts</title>
-      <link>/en/tags/agriproducts/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/agriproducts/</guid>
       <description></description>
     </item>
     

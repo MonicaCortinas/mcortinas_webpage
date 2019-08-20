@@ -19,7 +19,7 @@
   
   <url>
     <loc>/en/authors/admin/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -29,6 +29,164 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/arantxa-villanueva/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/arantxa-villanueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/arantxa-villanueva/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/raquel-chocarro/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/raquel-chocarro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/talk/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/e-commerce/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/e-commerce/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/eyetracking/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/eyetracking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/eyetracking/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/omnichannel/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/omnichannel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/omnichannel/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/talk/2019_aemark/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/2019_aemark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/2019_aemark/"
                 />
   </url>
   
@@ -45,54 +203,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication_types/1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/arantxa-villanueva/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/arantxa-villanueva/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/arantxa-villanueva/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
                 />
   </url>
   
@@ -128,38 +238,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/raquel-chocarro/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/raquel-chocarro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/publication/2019_earcd/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -171,22 +249,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/2019_earcd/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/e-commerce/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/e-commerce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/e-commerce/"
                 />
   </url>
   
@@ -207,22 +269,6 @@
   </url>
   
   <url>
-    <loc>/en/tags/omnichannel/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/omnichannel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/omnichannel/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/visual-attention/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -239,21 +285,6 @@
   </url>
   
   <url>
-    <loc>/en/talk/</loc>
-    <lastmod>2019-07-03T11:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/talk/2019_earcd/</loc>
     <lastmod>2019-07-03T11:30:00+00:00</lastmod>
     <xhtml:link
@@ -265,22 +296,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/talk/2019_earcd/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/eyetracking/</loc>
-    <lastmod>2019-07-03T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/eyetracking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/eyetracking/"
                 />
   </url>
   
@@ -495,18 +510,18 @@
   </url>
   
   <url>
-    <loc>/en/tags/experimental-design/</loc>
+    <loc>/en/tags/customer-journey/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/experimental-design/"
+                href="/tags/customer-journey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/experimental-design/"
+                href="/en/tags/customer-journey/"
                 />
   </url>
   
@@ -527,18 +542,18 @@
   </url>
   
   <url>
-    <loc>/en/tags/customer-journey/</loc>
+    <loc>/en/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/customer-journey/"
+                href="/tags/experimental-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/customer-journey/"
+                href="/en/tags/experimental-design/"
                 />
   </url>
   
@@ -1906,6 +1921,22 @@
   </url>
   
   <url>
+    <loc>/en/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/agriproducts/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1934,22 +1965,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/consumer-experience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/agriproducts/"
                 />
   </url>
   
