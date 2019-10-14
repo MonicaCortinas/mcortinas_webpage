@@ -6,10 +6,82 @@
     <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 08:26:17 +0200</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogs</title>
+      <link>/tags/blogs/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docencia</title>
+      <link>/tags/docencia/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/docencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropbox</title>
+      <link>/tags/dropbox/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/dropbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramientas 2.0</title>
+      <link>/tags/herramientas-2.0/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/herramientas-2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursos Educativos</title>
+      <link>/tags/recursos-educativos/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/recursos-educativos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scribd</title>
+      <link>/tags/scribd/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/scribd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slideshare</title>
+      <link>/tags/slideshare/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/slideshare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repositorios</title>
+      <link>/tags/repositorios/</link>
+      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
+      
+      <guid>/tags/repositorios/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>e-commerce</title>
@@ -98,15 +170,6 @@
       <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
       
       <guid>/tags/videogames/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docencia</title>
-      <link>/tags/docencia/</link>
-      <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
-      
-      <guid>/tags/docencia/</guid>
       <description></description>
     </item>
     
@@ -273,15 +336,6 @@
     </item>
     
     <item>
-      <title>Herramientas 2.0</title>
-      <link>/tags/herramientas-2.0/</link>
-      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/tags/herramientas-2.0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>criptomonedas</title>
       <link>/tags/criptomonedas/</link>
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
@@ -318,15 +372,6 @@
     </item>
     
     <item>
-      <title>Recursos Educativos</title>
-      <link>/tags/recursos-educativos/</link>
-      <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/tags/recursos-educativos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reveal.js</title>
       <link>/tags/reveal.js/</link>
       <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
@@ -345,15 +390,6 @@
     </item>
     
     <item>
-      <title>Dropbox</title>
-      <link>/tags/dropbox/</link>
-      <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
-      
-      <guid>/tags/dropbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mobile gaming</title>
       <link>/tags/mobile-gaming/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
@@ -368,15 +404,6 @@
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/e-sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blogs</title>
-      <link>/tags/blogs/</link>
-      <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
-      
-      <guid>/tags/blogs/</guid>
       <description></description>
     </item>
     
@@ -426,7 +453,7 @@
     </item>
     
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>/tags/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
@@ -476,33 +503,6 @@
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/separability-across-space-and-time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scribd</title>
-      <link>/tags/scribd/</link>
-      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
-      
-      <guid>/tags/scribd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slideshare</title>
-      <link>/tags/slideshare/</link>
-      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
-      
-      <guid>/tags/slideshare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>repositorios</title>
-      <link>/tags/repositorios/</link>
-      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
-      
-      <guid>/tags/repositorios/</guid>
       <description></description>
     </item>
     

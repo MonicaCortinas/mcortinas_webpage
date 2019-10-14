@@ -526,22 +526,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -554,6 +538,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/experimental-design/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/rafael-cabeza/"
                 />
   </url>
   

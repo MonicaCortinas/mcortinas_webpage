@@ -29,7 +29,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,168 @@
                 hreflang="es"
                 href="/authors/admin/"
                 />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/blogs/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/docencia/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dropbox/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/escuela-de-doctorado/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/herramientas-2.0/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/inarbe/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/inteligencia-artificial/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/investigaci%C3%B3n/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/seminarioai/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/recursos-educativos/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scribd/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/seminario/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/slideshare/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/repositorios/</loc>
+    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -55,38 +217,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/arantxa-villanueva/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
                 />
   </url>
   
@@ -118,22 +248,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
                 />
   </url>
   
@@ -201,30 +315,8 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-07-26T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/style-guide/</loc>
     <lastmod>2019-07-26T08:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/investigaci%C3%B3n/</loc>
-    <lastmod>2019-07-26T08:26:17+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -234,34 +326,19 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-26T08:26:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/post/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/power-point/</loc>
     <lastmod>2019-07-26T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/presentaciones/</loc>
+    <loc>/categories/presentaciones/</loc>
     <lastmod>2019-07-26T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/presentaciones/</loc>
+    <loc>/tags/presentaciones/</loc>
     <lastmod>2019-07-26T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -470,12 +547,6 @@
   </url>
   
   <url>
-    <loc>/tags/docencia/</loc>
-    <lastmod>2019-06-17T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/investigaci%C3%B3n/</loc>
     <lastmod>2019-06-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -493,13 +564,13 @@
   </url>
   
   <url>
-    <loc>/tags/web/</loc>
+    <loc>/categories/web/</loc>
     <lastmod>2019-06-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2019-06-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1058,12 +1129,6 @@
   </url>
   
   <url>
-    <loc>/tags/herramientas-2.0/</loc>
-    <lastmod>2018-06-13T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/herramientas-2.0/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1076,13 +1141,13 @@
   </url>
   
   <url>
-    <loc>/tags/criptomonedas/</loc>
+    <loc>/categories/criptomonedas/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/criptomonedas/</loc>
+    <loc>/tags/criptomonedas/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1225,25 +1290,19 @@
   </url>
   
   <url>
-    <loc>/tags/recursos-educativos/</loc>
-    <lastmod>2018-03-28T01:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/recursos-educativos/</loc>
     <lastmod>2018-03-28T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/reveal.js/</loc>
+    <loc>/categories/reveal.js/</loc>
     <lastmod>2018-03-28T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/reveal.js/</loc>
+    <loc>/tags/reveal.js/</loc>
     <lastmod>2018-03-28T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1341,12 +1400,6 @@
   </url>
   
   <url>
-    <loc>/tags/dropbox/</loc>
-    <lastmod>2017-07-03T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/dropbox/</loc>
     <lastmod>2017-07-03T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1402,12 +1455,6 @@
                 hreflang="es"
                 href="/tags/e-sports/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tags/blogs/</loc>
-    <lastmod>2017-05-15T08:26:17+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1574,8 +1621,9 @@
   </url>
   
   <url>
-    <loc>/post/blogger_primeros_pasos/</loc>
+    <loc>/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1585,9 +1633,8 @@
   </url>
   
   <url>
-    <loc>/categories/blogger/</loc>
+    <loc>/post/blogger_primeros_pasos/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1678,13 +1725,13 @@
   </url>
   
   <url>
-    <loc>/tags/fuentes/</loc>
+    <loc>/categories/fuentes/</loc>
     <lastmod>2016-03-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/fuentes/</loc>
+    <loc>/tags/fuentes/</loc>
     <lastmod>2016-03-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1774,31 +1821,13 @@
   </url>
   
   <url>
-    <loc>/tags/scribd/</loc>
-    <lastmod>2015-11-15T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/scribd/</loc>
     <lastmod>2015-11-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/slideshare/</loc>
-    <lastmod>2015-11-15T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/slideshare/</loc>
-    <lastmod>2015-11-15T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/repositorios/</loc>
     <lastmod>2015-11-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1870,13 +1899,13 @@
   </url>
   
   <url>
-    <loc>/tags/aemark-2015/</loc>
+    <loc>/categories/aemark-2015/</loc>
     <lastmod>2015-05-23T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/aemark-2015/</loc>
+    <loc>/tags/aemark-2015/</loc>
     <lastmod>2015-05-23T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1903,13 +1932,13 @@
   </url>
   
   <url>
-    <loc>/tags/servicios/</loc>
+    <loc>/categories/servicios/</loc>
     <lastmod>2015-05-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/servicios/</loc>
+    <loc>/tags/servicios/</loc>
     <lastmod>2015-05-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1920,13 +1949,13 @@
   </url>
   
   <url>
-    <loc>/tags/blogging/</loc>
+    <loc>/categories/blogging/</loc>
     <lastmod>2015-05-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/blogging/</loc>
+    <loc>/tags/blogging/</loc>
     <lastmod>2015-05-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2083,19 +2112,13 @@
   </url>
   
   <url>
-    <loc>/tags/gamificaci%C3%B3n/</loc>
-    <lastmod>2015-04-18T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/gamificaci%C3%B3n/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/globstrat/</loc>
+    <loc>/tags/gamificaci%C3%B3n/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2107,7 +2130,7 @@
   </url>
   
   <url>
-    <loc>/tags/marketplace/</loc>
+    <loc>/tags/globstrat/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2119,7 +2142,7 @@
   </url>
   
   <url>
-    <loc>/tags/markstrat/</loc>
+    <loc>/tags/marketplace/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2131,7 +2154,7 @@
   </url>
   
   <url>
-    <loc>/tags/quantum/</loc>
+    <loc>/tags/markstrat/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2143,7 +2166,7 @@
   </url>
   
   <url>
-    <loc>/tags/simuladores/</loc>
+    <loc>/tags/quantum/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2155,18 +2178,24 @@
   </url>
   
   <url>
+    <loc>/tags/simuladores/</loc>
+    <lastmod>2015-04-18T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/muerte-por-power-point/</loc>
     <lastmod>2015-04-15T08:26:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/powerpoint/</loc>
+    <loc>/categories/powerpoint/</loc>
     <lastmod>2015-04-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/powerpoint/</loc>
+    <loc>/tags/powerpoint/</loc>
     <lastmod>2015-04-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
