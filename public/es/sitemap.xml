@@ -29,7 +29,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,8 +43,24 @@
   </url>
   
   <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +71,84 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/2019_mundo/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/2019_mundo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/2019_mundo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/e-commerce/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/e-commerce/"
                 />
   </url>
   
@@ -128,22 +222,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-10-14T08:26:17+02:00</lastmod>
     <xhtml:link
@@ -183,22 +261,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-14T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/repositorios/</loc>
     <lastmod>2019-10-14T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -221,21 +283,6 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/raquel-chocarro/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <priority>0</priority>
@@ -248,22 +295,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/e-commerce/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/e-commerce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/e-commerce/"
                 />
   </url>
   
@@ -573,22 +604,6 @@
     <loc>/tags/web/</loc>
     <lastmod>2019-06-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/artificial-intelligence/"
-                />
   </url>
   
   <url>
@@ -1621,6 +1636,11 @@
   </url>
   
   <url>
+    <loc>/post/blogger_primeros_pasos/</loc>
+    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1630,11 +1650,6 @@
     <loc>/tags/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/blogger_primeros_pasos/</loc>
-    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
   </url>
   
   <url>
