@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Artificial Intelligence</title>
+      <title>artificial intelligence</title>
       <link>/tags/artificial-intelligence/</link>
       <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
       
@@ -102,20 +102,20 @@
     </item>
     
     <item>
-      <title>Omnichannel</title>
-      <link>/tags/omnichannel/</link>
-      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/tags/omnichannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>eyetracking</title>
       <link>/tags/eyetracking/</link>
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
       <guid>/tags/eyetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel</title>
+      <link>/tags/omnichannel/</link>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel/</guid>
       <description></description>
     </item>
     
@@ -147,7 +147,7 @@
     </item>
     
     <item>
-      <title>eye-tracking</title>
+      <title>eye tracking</title>
       <link>/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
@@ -228,7 +228,7 @@
     </item>
     
     <item>
-      <title>Customer journey</title>
+      <title>customer journey</title>
       <link>/tags/customer-journey/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -237,7 +237,7 @@
     </item>
     
     <item>
-      <title>Experimental design</title>
+      <title>experimental design</title>
       <link>/tags/experimental-design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -381,7 +381,7 @@
     </item>
     
     <item>
-      <title>Services marketing</title>
+      <title>services marketing</title>
       <link>/tags/services-marketing/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
@@ -453,7 +453,7 @@
     </item>
     
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>/tags/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
@@ -741,15 +741,6 @@
     </item>
     
     <item>
-      <title>Agriproducts</title>
-      <link>/tags/agriproducts/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/agriproducts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Brands</title>
       <link>/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -764,6 +755,15 @@
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>/tags/consumer-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agriproducts</title>
+      <link>/tags/agriproducts/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/agriproducts/</guid>
       <description></description>
     </item>
     

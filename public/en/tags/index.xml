@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Artificial Intelligence</title>
+      <title>artificial intelligence</title>
       <link>/en/tags/artificial-intelligence/</link>
       <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
       
@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Omnichannel</title>
-      <link>/en/tags/omnichannel/</link>
-      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/en/tags/omnichannel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>eyetracking</title>
       <link>/en/tags/eyetracking/</link>
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
@@ -49,7 +40,16 @@
     </item>
     
     <item>
-      <title>eye-tracking</title>
+      <title>omnichannel</title>
+      <link>/en/tags/omnichannel/</link>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
+      
+      <guid>/en/tags/omnichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye tracking</title>
       <link>/en/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
@@ -112,7 +112,7 @@
     </item>
     
     <item>
-      <title>Customer journey</title>
+      <title>customer journey</title>
       <link>/en/tags/customer-journey/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -121,7 +121,7 @@
     </item>
     
     <item>
-      <title>Experimental design</title>
+      <title>experimental design</title>
       <link>/en/tags/experimental-design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>Distribution Services</title>
+      <title>Distribution services</title>
       <link>/en/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -247,7 +247,7 @@
     </item>
     
     <item>
-      <title>Services marketing</title>
+      <title>services marketing</title>
       <link>/en/tags/services-marketing/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
@@ -526,15 +526,6 @@
     </item>
     
     <item>
-      <title>Agriproducts</title>
-      <link>/en/tags/agriproducts/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/agriproducts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Brands</title>
       <link>/en/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
@@ -549,6 +540,15 @@
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/consumer-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agriproducts</title>
+      <link>/en/tags/agriproducts/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/agriproducts/</guid>
       <description></description>
     </item>
     
