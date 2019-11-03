@@ -283,6 +283,22 @@
   </url>
   
   <url>
+    <loc>/tags/omnichannel/</loc>
+    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/omnichannel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/omnichannel/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/raquel-chocarro/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <priority>0</priority>
@@ -311,22 +327,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/eyetracking/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/omnichannel/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/omnichannel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/omnichannel/"
                 />
   </url>
   
