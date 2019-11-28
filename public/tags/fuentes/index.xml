@@ -31,7 +31,7 @@
 &lt;div id=&#34;fuentes-serif&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fuentes Serif&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;h3 id=&#34;times-y-times-new-roman-son-fuentes-clasicas-serif&#34;&gt;Times y Times New Roman son fuentes clásicas ‘serif’&lt;/h3&gt;
+&lt;h3 id=&#34;times-y-times-new-roman-son-fuentes-clásicas-serif&#34;&gt;Times y Times New Roman son fuentes clásicas ‘serif’&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Las fuentes serif se denominan así porque tienen “serifa” que son esas pequeñas muescas de terminación de los caracteres. Esas terminaciones ayudan a identificar mejor los caracteres cuando la fuente es pequeña e impresa y facilitan por tanto una lectura más rápida y cómoda. En general, en un documento largo que se va a leer fundamentalmente &lt;strong&gt;impreso&lt;/strong&gt; y en el que vamos a utilizar tamaños de fuente pequeños es preferible utilizar una fuente serif. Por ejemplo, en un &lt;strong&gt;artículo académico&lt;/strong&gt; será siempre preferible utilizar este tipo de fuente.&lt;/p&gt;
 &lt;div id=&#34;ejemplos-de-fuentes-serif&#34; class=&#34;section level4&#34;&gt;
@@ -91,7 +91,7 @@
 &lt;div id=&#34;fuentes-sans-serif&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fuentes Sans Serif&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;h3 id=&#34;arial-es-una-de-las-mas-conocidas-fuentes-sans-serif&#34;&gt;Arial es una de las más conocidas fuentes sans serif&lt;/h3&gt;
+&lt;h3 id=&#34;arial-es-una-de-las-más-conocidas-fuentes-sans-serif&#34;&gt;Arial es una de las más conocidas fuentes sans serif&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Las fuentes sans serif no tienen el adorno final de las letras y eso las hace “más limpias” y especialmente legibles en &lt;strong&gt;pantalla&lt;/strong&gt;. Son las fuentes a utilizar si estamos preparando una &lt;strong&gt;presentación&lt;/strong&gt; o en cualquier &lt;strong&gt;proyecto web&lt;/strong&gt;. La fuente sans serif más conocida es Arial y también pertenece a esta familia la última fuente por defecto en Microsoft Office: Calibri.&lt;/p&gt;
 &lt;div id=&#34;otras-fuentes-sans-serif&#34; class=&#34;section level4&#34;&gt;
@@ -327,7 +327,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;como-utilizar-fuentes-que-no-estan-preinstaladas-en-el-sistema&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-utilizar-fuentes-que-no-están-preinstaladas-en-el-sistema&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo utilizar fuentes que no están preinstaladas en el sistema?&lt;/h3&gt;
 &lt;p&gt;Para terminar, vamos a comentar cómo podemos utilizar fuentes distintas a las originalmente instaladas. En primer lugar, es necesario saber para qué vamos a utilizar esa fuente: podemos necesitarlas para utilizarlas en nuestro paquete de office de escritorio, para una página web o un blog, para incrustarlas en documentos pdf que generemos o incluso para utilizarlas en aplicaciones o software. Tendremos que tener en cuenta estos usos para saber el tipo de licencia que necesitamos.&lt;/p&gt;
 &lt;p&gt;En &lt;a href=&#34;http://www.fonts.com/&#34;&gt;fonts.com&lt;/a&gt;tenemos muchísimas fuentes con licencias de 500€ pero, si no somos diseñadores gráficos encontraremos todas las fuentes que necesitemos con licencia de libre uso en &lt;a href=&#34;http://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;.&lt;/p&gt;

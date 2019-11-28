@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>customer journey on Mónica Cortiñas</title>
+    <title>Customer journey on Mónica Cortiñas</title>
     <link>/tags/customer-journey/</link>
-    <description>Recent content in customer journey on Mónica Cortiñas</description>
+    <description>Recent content in Customer journey on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
@@ -17,6 +17,15 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/2019_ecra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omni-channel users and omni-channel customers: a segmentation analysis using distribution services</title>
+      <link>/publication/2019_sjm/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_sjm/</guid>
       <description></description>
     </item>
     

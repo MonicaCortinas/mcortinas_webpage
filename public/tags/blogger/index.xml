@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogger on Mónica Cortiñas</title>
+    <title>blogger on Mónica Cortiñas</title>
     <link>/tags/blogger/</link>
-    <description>Recent content in Blogger on Mónica Cortiñas</description>
+    <description>Recent content in blogger on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 17 Jan 2017 08:26:17 +0200</lastBuildDate>
@@ -39,7 +39,7 @@
       <description>
 
 
-&lt;div id=&#34;por-que-un-blog-educativo&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;por-qué-un-blog-educativo&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Por qué un blog educativo?&lt;/h3&gt;
 &lt;p&gt;En la mayoría de universidades españolas, los profesores y estudiantes tenemos acceso a distintas plataformas (&lt;strong&gt;Moodle&lt;/strong&gt;, &lt;strong&gt;Sakai&lt;/strong&gt;…) que nos permiten compartir recursos e información, asignar tareas, enviar correos, corregir exámenes y una infinidad de otras funciones, incluída en muchos casos la creación de blogs. Entonces, ¿por qué utilizar un blog externo para nuestras asignaturas?&lt;/p&gt;
 &lt;p&gt;En primer lugar, no creo que un blog sea un sustituto de las plataformas de contenidos institucionales sino un complemento. Aunque podríamos encontrar herramientas para organizar toda nuestra docencia en una plataforma de blogs, no tiene sentido desaprovechar las prestaciones que tienen los sistemas específicamente diseñados para la organización de curso.&lt;/p&gt;
@@ -58,7 +58,7 @@
 &lt;/ol&gt;
 &lt;p&gt;En próximas entradas hablaré de cómo personalizar estas plantillas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;actualizacion-junio-2019&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;actualización-junio-2019&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;*Actualización Junio 2019&lt;/h2&gt;
 &lt;p&gt;Como puede observarse, en la actualidad he migrado el blog a una alternativa diferente, &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. En una nueva entrada comento las razones de este cambio.&lt;/p&gt;
 &lt;/div&gt;

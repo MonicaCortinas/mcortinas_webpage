@@ -21,7 +21,7 @@
 
 
 &lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
-&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;gráficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -40,7 +40,7 @@
 &lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
 &lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;cómo-integrar-un-gráfico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
 &lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
 &lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
@@ -53,7 +53,7 @@
 &lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
 &lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;modificando-gráficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
 &lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -62,7 +62,7 @@
 &lt;/div&gt;
 &lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;editando-los-gráficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
@@ -70,7 +70,7 @@
 &lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;otras-opciones-librerías-para-gráficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
 &lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
 &lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
@@ -87,7 +87,7 @@
       <description>
 
 
-&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;porqué-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
 &lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
@@ -122,11 +122,11 @@
 &lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Amazon S3&lt;/h2&gt;
 &lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
-&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
 &lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
 &lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
 &lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
@@ -171,7 +171,7 @@
 &lt;iframe src=&#34;https://revealjs.com/#/&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
 &lt;/iframe&gt;
 &lt;p&gt;Navegamos con las teclas o con el ratón, podemos pulsar la tecla F para pasar a pantalla completa, B para poner la pantalla en negro y ESC para ver el esquema de la presentación.&lt;/p&gt;
-&lt;div id=&#34;como-empezar&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;cómo-empezar&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Cómo empezar&lt;/h2&gt;
 &lt;div id=&#34;descarga-de-los-archivos-necesarios&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Descarga de los archivos necesarios&lt;/h3&gt;
@@ -182,7 +182,7 @@
 &lt;p&gt;&lt;img src=&#34;reveal2.png&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;creando-la-presentacion&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;creando-la-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Creando la presentación&lt;/h2&gt;
 &lt;p&gt;Si hacemos dobre click en ese fichero, podemos ver como se abrirá en el navegador y veremos la presentación de ejemplo. El resto de archivos en la carpeta sirven para que el navegador pueda interpretar correctamente el archivo HTML. En general, cuando vamos a hacer una presentación nueva, &lt;strong&gt;debemos copiar toda la carpeta y editar el archivo index.html&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Antes de editar el archivo, es buena idea hacer una copia y renombrarlo por si queremos recuperar el archivo original.&lt;/p&gt;
@@ -311,7 +311,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Existen bastantes opciones para crear presentaciones según este esquema. &lt;a href=&#34;http://www.readerspark.com/top-25-free-html5-css3-presentation-frameworks/&#34;&gt;Aquí&lt;/a&gt; están revisadas la mayoría.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;mi-opcion-reveal.js&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;mi-opción-reveal.js&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Mi opción: Reveal.js&lt;/h4&gt;
 &lt;p&gt;Tras esta exposición, es obvio que no hay una elección óptima para cada usuario. En mi caso, las ventajas de la última opción superan la ligera curva de aprendizaje necesaria para utilizarla, así que me he decantado por ir adaptando mis materiales a una de las opciones en HTML5: &lt;a href=&#34;http://lab.hakim.se/reveal-js/#/&#34;&gt;reveal.js&lt;/a&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_url(&amp;#39;https://revealjs.com/#/&amp;#39;)&lt;/code&gt;&lt;/pre&gt;

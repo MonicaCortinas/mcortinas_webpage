@@ -87,7 +87,7 @@
 &lt;p&gt;Para el texto del documento es importante elegir una fuente que se lea bien en tamaño más reducido y que tenga variedades de peso (cursiva, negrita, light…). He elegido también una fuente sans serif ya que el uso principal va a ser en presentaciones. Dos buenas candidatas aquí pueden ser Open Sans y Roboto, de gran utilización en todo tipo de proyectos web. En mi caso, he optado por &lt;a href=&#34;https://fonts.google.com/specimen/Fira+Sans&#34;&gt;Fira Sans&lt;/a&gt; que tiene también buena legibilidad pero con un poco más de fantasía en algunos caracteres como la &lt;strong&gt;g&lt;/strong&gt; que van bien con la fuente de los títulos.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;fira.png&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;parrafos&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;párrafos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Párrafos&lt;/h2&gt;
 &lt;p&gt;Además de seleccionar las fuentes, es importante definir de forma consistente el estilo de los distintos párrafos, ya que es la uniformidad en los estilos la que hace un documento se perciba como armonioso y profesional. En este caso, he definido cuatro niveles de títulos, combinando distintos pesos y tamaños de la fuente de títulos y dos colores distintos de párrafos para texto de más o menos importancia.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;paragraphs.png&#34; /&gt;&lt;/p&gt;
@@ -204,6 +204,15 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/2019_ecra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omni-channel users and omni-channel customers: a segmentation analysis using distribution services</title>
+      <link>/publication/2019_sjm/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_sjm/</guid>
       <description></description>
     </item>
     
@@ -547,7 +556,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 
 
 &lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
-&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;gráficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -566,7 +575,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
 &lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;cómo-integrar-un-gráfico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
 &lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
 &lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
@@ -579,7 +588,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
 &lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;modificando-gráficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
 &lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -588,7 +597,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;/div&gt;
 &lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;editando-los-gráficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
@@ -596,7 +605,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;otras-opciones-librerías-para-gráficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
 &lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
 &lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
@@ -783,7 +792,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
       <description>
 
 
-&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;porqué-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
 &lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
@@ -818,11 +827,11 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Amazon S3&lt;/h2&gt;
 &lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
-&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
 &lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
 &lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
 &lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
@@ -888,7 +897,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;p&gt;Sin embargo, si buscamos más potencia, &lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt; es mi herramienta favorita. La imagen que abre esta entrada está editada en Canva. Su utilización es totalmente gratuita si incluimos nuestras propias imágenes o parte de las imágenes de su banco y permite crear desde banners hasta posters con múltiples disposiciones.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.picmonkey.com/&#34;&gt;PicMonkey&lt;/a&gt;, que mencionaba en la entrada anterior también es muy bueno en esto.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;graficos-e-infograficos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;gráficos-e-infográficos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Gráficos e Infográficos&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://piktochart.com/&#34;&gt;Piktochart&lt;/a&gt; es la primera herramienta para gráficos que quiero mencionar. Piktochart no solo sirve para hacer gráficos, sino que tiene muchas más opciones, pero es especialmente adecuada para esta tarea:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -920,12 +929,12 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
       <description>
 
 
-&lt;div id=&#34;recursos-graficos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;recursos-gráficos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Recursos gráficos&lt;/h3&gt;
 &lt;p&gt;Ya sea para una entrada en un blog, una presentación con transparencias o una página web, la utilización de imágenes es casi imprescindible.&lt;/p&gt;
 &lt;p&gt;Ahora bien, ¿de dónde sacamos estas imágenes? Más allá de una búsqueda en Google Images, en esta entrada quiero repasar fuentes y recursos para &lt;strong&gt;encontrar imágenes&lt;/strong&gt; atractivas y de calidad y algunas &lt;strong&gt;herramientas de edición&lt;/strong&gt;. En la siguiente entrada repasaré opciones para diseñar &lt;strong&gt;nuestros propios recursos&lt;/strong&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;fuentes-de-imagenes-de-uso-libre&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;fuentes-de-imágenes-de-uso-libre&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fuentes de imágenes de uso libre&lt;/h3&gt;
 &lt;p&gt;Un aspecto fundamental a la hora de utilizar imágenes ajenas es asegurarnos de no estar incumpliendo los derechos de propiedad intelectual de los autores. Por eso, si vamos a utilizar &lt;strong&gt;Google Imágenes&lt;/strong&gt; como buscador, una buena práctica es acostumbrarse a utilizar la opción “Derechos de Uso” dentro de “Herramientas de Búsqueda”:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -954,7 +963,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.freepik.com/free-photos-vectors/love&#34;&gt;Love vector designed by Freepik&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;recursos-de-edicion&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;recursos-de-edición&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Recursos de edición&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Vale, ya tengo mi imagen, pero no es exactamente lo que quiero…&lt;/p&gt;
@@ -1062,7 +1071,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;p&gt;Los mapas conceptuales son una herramienta útil para mostrar a los estudiantes la interrelación entre distintos términos. Podemos, por supuesto, elaborar el mapa en la pizarra pero existen algunas aplicaciones que nos permiten hacerlo directamente en la web de forma colaborativa.&lt;/p&gt;
 &lt;p&gt;Vamos a repasar algunas de ellas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editores-orientados-a-la-creacion-de-imagenes&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;editores-orientados-a-la-creación-de-imágenes&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Editores orientados a la creación de imágenes&lt;/h3&gt;
 &lt;div id=&#34;text2mindmap&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Text2Mindmap&lt;/h4&gt;
@@ -1077,7 +1086,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;p&gt;&lt;a href=&#34;https://www.gliffy.com/&#34;&gt;Gliffy&lt;/a&gt; es una herramienta muy potente para dibujar mapas mentales así como para hacer gráficos de todo tipo. Es totalmente gratuita y está orientada (al igual que Text2Mindmap) a la creación de imágenes, pero es mucho más potente que la primera y permite la inclusión de imágenes y enlaces. Como contrapartida, es más compleja de utilizar y, por tanto, exige dedicarle más tiempo.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editores-orientados-a-la-creacion-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;editores-orientados-a-la-creación-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Editores orientados a la creación de mapas interactivos&lt;/h3&gt;
 &lt;p&gt;Existen otras herramientas cuyo objetivo específico es crear mapas en los que se puede colaborar en tiempo real, por lo que profesor y estudiantes pueden elaborar y modificar los mapas de forma colaborativa. ¿Genial, no? Entre ellas, destacan &lt;a href=&#34;https://www.mindomo.com/&#34;&gt;Mindomo&lt;/a&gt;, &lt;a href=&#34;https://bubbl.us/&#34;&gt;Bubbl.us&lt;/a&gt; o &lt;a href=&#34;https://www.mindmeister.com/&#34;&gt;Mindmeister&lt;/a&gt;. La mala noticia es que en su modalidad gratuita solo permiten guardar tres mapas. La buena es que tienen planes educativos bastante asequibles.&lt;/p&gt;
 &lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; width=&#34;400&#34;&gt;
@@ -1226,7 +1235,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;div id=&#34;fuentes-serif&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fuentes Serif&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;h3 id=&#34;times-y-times-new-roman-son-fuentes-clasicas-serif&#34;&gt;Times y Times New Roman son fuentes clásicas ‘serif’&lt;/h3&gt;
+&lt;h3 id=&#34;times-y-times-new-roman-son-fuentes-clásicas-serif&#34;&gt;Times y Times New Roman son fuentes clásicas ‘serif’&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Las fuentes serif se denominan así porque tienen “serifa” que son esas pequeñas muescas de terminación de los caracteres. Esas terminaciones ayudan a identificar mejor los caracteres cuando la fuente es pequeña e impresa y facilitan por tanto una lectura más rápida y cómoda. En general, en un documento largo que se va a leer fundamentalmente &lt;strong&gt;impreso&lt;/strong&gt; y en el que vamos a utilizar tamaños de fuente pequeños es preferible utilizar una fuente serif. Por ejemplo, en un &lt;strong&gt;artículo académico&lt;/strong&gt; será siempre preferible utilizar este tipo de fuente.&lt;/p&gt;
 &lt;div id=&#34;ejemplos-de-fuentes-serif&#34; class=&#34;section level4&#34;&gt;
@@ -1286,7 +1295,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;div id=&#34;fuentes-sans-serif&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fuentes Sans Serif&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;h3 id=&#34;arial-es-una-de-las-mas-conocidas-fuentes-sans-serif&#34;&gt;Arial es una de las más conocidas fuentes sans serif&lt;/h3&gt;
+&lt;h3 id=&#34;arial-es-una-de-las-más-conocidas-fuentes-sans-serif&#34;&gt;Arial es una de las más conocidas fuentes sans serif&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Las fuentes sans serif no tienen el adorno final de las letras y eso las hace “más limpias” y especialmente legibles en &lt;strong&gt;pantalla&lt;/strong&gt;. Son las fuentes a utilizar si estamos preparando una &lt;strong&gt;presentación&lt;/strong&gt; o en cualquier &lt;strong&gt;proyecto web&lt;/strong&gt;. La fuente sans serif más conocida es Arial y también pertenece a esta familia la última fuente por defecto en Microsoft Office: Calibri.&lt;/p&gt;
 &lt;div id=&#34;otras-fuentes-sans-serif&#34; class=&#34;section level4&#34;&gt;
@@ -1522,7 +1531,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;como-utilizar-fuentes-que-no-estan-preinstaladas-en-el-sistema&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-utilizar-fuentes-que-no-están-preinstaladas-en-el-sistema&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo utilizar fuentes que no están preinstaladas en el sistema?&lt;/h3&gt;
 &lt;p&gt;Para terminar, vamos a comentar cómo podemos utilizar fuentes distintas a las originalmente instaladas. En primer lugar, es necesario saber para qué vamos a utilizar esa fuente: podemos necesitarlas para utilizarlas en nuestro paquete de office de escritorio, para una página web o un blog, para incrustarlas en documentos pdf que generemos o incluso para utilizarlas en aplicaciones o software. Tendremos que tener en cuenta estos usos para saber el tipo de licencia que necesitamos.&lt;/p&gt;
 &lt;p&gt;En &lt;a href=&#34;http://www.fonts.com/&#34;&gt;fonts.com&lt;/a&gt;tenemos muchísimas fuentes con licencias de 500€ pero, si no somos diseñadores gráficos encontraremos todas las fuentes que necesitemos con licencia de libre uso en &lt;a href=&#34;http://www.fontsquirrel.com/&#34;&gt;Font Squirrel&lt;/a&gt;.&lt;/p&gt;
@@ -1597,7 +1606,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;p&gt;Cuando lo que pretendemos es que alguien pueda encontrar estos documentos o consultar todo el material, es necesario además hacer disponible de forma sistemática todo el conjunto de enlaces. Para ello, una primera opción es la creación de un blog.&lt;/p&gt;
 &lt;p&gt;Esta opción nos da la mayor flexibilidad posible ya que la podemos configurar exactamente a nuestro gusto, pero tiene la desventaja de tener una visibilidad relativamente reducida.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;repositorios-publicos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;repositorios-públicos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Repositorios públicos&lt;/h3&gt;
 &lt;p&gt;Si lo que nos interesa es llegar a la mayor audiencia posible, la mejor opción es unirnos a alguna de las plataformas específicamente diseñadas para tal fin. La &lt;strong&gt;más popular&lt;/strong&gt; para el caso de presentaciones es &lt;a href=&#34;http://es.slideshare.net/?ss&#34;&gt;SlideShare&lt;/a&gt; pero no solo podemos subir presentaciones, sino también &lt;strong&gt;videos o cualquier documento en pdf&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Más orientado a documentos y con una larga trayectoria tenemos a &lt;a href=&#34;https://es.scribd.com/upload-document&#34;&gt;Scribd&lt;/a&gt;. En este caso podemos subir incluso libros en formato EPUB y podemos haceros disponibles públicamente o a cambio de un precio que elegimos. &lt;strong&gt;Scribd&lt;/strong&gt; se está transformando en una plataforma de lectura por suscripción mensual, pero sigue siendo una buena plataforma también para contenidos docentes.&lt;/p&gt;
@@ -1717,11 +1726,11 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 
 &lt;p&gt;La mayoría de los docentes echamos de menos tener más tiempo para &lt;strong&gt;formarnos&lt;/strong&gt;. Durante el curso, la presión de las tareas diarias hace que sea complicado invertir el tiempo necesario en realizar cursos de actualización o formación adicional. Sin embargo, tanto para la docencia como para la investigación, el &lt;strong&gt;Long Life Learning&lt;/strong&gt; son tanto una necesidad como, casi siempre, una vocación.&lt;/p&gt;
 &lt;p&gt;El verano puede ser una gran ocasión para darle un empujón a esos intereses o proyectos que durante el año han quedado postergados.&lt;/p&gt;
-&lt;div id=&#34;formacion-online&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;formación-online&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Formación online&lt;/h3&gt;
 &lt;p&gt;La formación online tiene la gran ventaja de que podemos seguirla a nuestro propio ritmo desde cualquier lugar. Las vacaciones son un momento ideal para aprovechar estas posibilidades e introducirnos en temáticas nuevas que nos resulten personalmente atractivas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;formacion-en-lenguajes-web&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;formación-en-lenguajes-web&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Formación en lenguajes web&lt;/h3&gt;
 &lt;p&gt;Para aquellos interesados en herramientas TIC, aprender un poco sobre lenguajes de programación en web puede ser una inversión muy útil, ya que nos facilitarán bastante la vida a la hora de mantener un blog o una web, utilizar software como &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt; o incluso componer mensajes de correo electrónico más atractivos. Hoy os dejo algunos enlaces muy interesantes para aquellos que tengáis interés en estos temas.&lt;/p&gt;
 &lt;div id=&#34;lynda.com&#34; class=&#34;section level4&#34;&gt;
@@ -1767,15 +1776,15 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 
 
 &lt;p&gt;Hoy quiero repasar dos herramientas estupendas para comprobar en tiempo real el progreso en la comprensión de los estudiantes y, al mismo tiempo, animar la participación en clase: &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; y &lt;a href=&#34;https://kahoot.it/#/&#34;&gt;Kahoot&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;si-no-puedes-con-tu-enemigo-unete-a-el-dispositivos-moviles-en-clase&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;si-no-puedes-con-tu-enemigo-únete-a-él-dispositivos-móviles-en-clase&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Si no puedes con tu enemigo, únete a él: dispositivos móviles en clase&lt;/h3&gt;
 &lt;p&gt;Un comentario común entre mis compañeros es la omnipresencia de los smartphones durante las clases. Los estudiantes son incapaces de permanecer desconectados del “Whatsapp” durante una hora y retuercen el cuello para echarle un vistazo furtivo al teléfono escondido debajo de la mesa o en el bolsillo del abrigo. El uso de estas herramientas u otras como la incorporación de &lt;a href=&#34;https://twitter.com/&#34;&gt;Twitter&lt;/a&gt; permite dar un uso más productivo al teléfono y aumenta la implicación de los estudiantes.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;alguien-tiene-algun-ejemplo&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;alguien-tiene-algún-ejemplo&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Alguien tiene algún ejemplo?…&lt;/h3&gt;
 &lt;p&gt;Otro problema común en mi facultad es la falta de participación de los estudiantes en las clases. Aunque los grupos se han reducido, salvo en asignaturas de cursos avanzados, la participación en clase suele ser muy baja y las preguntas abiertas suelen quedar sin respuesta. Normalmente, esta dinámica es muy difícil de cambiar y se retroalimenta así que, pasada la primera semana de clase, estimular la participación es cada vez más complicado. Las respuestas a través del móvil resultan menos comprometidas para los estudiantes y se animan más. Normalmente, al visualizar en pantalla los resultados de las votaciones es más fácil que después se produzca una discusión oral y la participación en los grupos en los que los he utilizado aumenta muchísimo.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;habeis-entendido-esto&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;habéis-entendido-esto&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Habéis entendido esto?&lt;/h3&gt;
 &lt;p&gt;En mi opinión, el mayor potencial de estas herramientas está en su capacidad de monitorizar en tiempo real el aprendizaje de los estudiantes. Con un test en vivo, podemos detectar rápidamente qué conceptos se han comprendido bien y cuales no, de manera que podemos pasar rápidamente sobre los primeros y profundizar en los otros. Nuestra experiencia como docentes nos hace poder tener un diagnóstico previo sobre qué aspectos son más complicados para los estudiantes pero la práctica me ha demostrado que no en todos los grupos los contenidos conflictivos son los mismos. Poder obviar una explicación adicional que sobra para un grupo de estudiantes reduce el aburrimiento y, a la inversa, repasar en el momento una explicación errónea ahorra mucho trabajo posterior.&lt;/p&gt;
 &lt;/div&gt;
@@ -1826,7 +1835,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
       <description>
 
 
-&lt;div id=&#34;finales-de-ano.-2013&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;finales-de-año.-2013&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Finales de año. 2013&lt;/h3&gt;
 &lt;p&gt;Coca Cola es la tercera marca más valiosa del mundo y &lt;strong&gt;la marca de la felicidad&lt;/strong&gt;. Sin embargo, un terremoto está a punto de sacudir su imagen en España. El &lt;a href=&#34;http://www.elperiodico.com/es/noticias/economia/embotelladora-coca-cola-plantea-una-reestructuracion-que-afectara-1200-empleados-2909669&#34;&gt;9 de diciembre de 2013&lt;/a&gt;, Coca-Cola Iberian Partners, que agrupa a las siete embotelladoras de la marca en España, anuncia un ERE que afectaría a 1.200 empleados. La repercusión en medios de comunicación fue inmediata y al mismo tiempo, comenzaron las movilizaciones de trabajadores. Para tratar de contrarestar este efecto, Coca Cola Iberian Partners lanza un comunicado de prensa a toda página en los principales medios, en el que &lt;strong&gt;se desvincula&lt;/strong&gt; de The Coca-Cola Company:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;comunicado.png&#34; /&gt;&lt;/p&gt;
@@ -1854,7 +1863,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;p&gt;&lt;img src=&#34;cocacola4.jpg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;La empresa afirma que &lt;a href=&#34;http://cincodias.com/cincodias/2015/04/15/empresas/1429087632_907339.html&#34;&gt;pretende poner punto y final a la crisis e iniciar una nueva fase&lt;/a&gt; ¿Pero, es suficiente con que la marca proponga pasar página para que lo hagan también sus consumidores?&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;ha-sido-buena-la-estrategia-de-comunicacion-de-coca-cola-durante-la-crisis&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;ha-sido-buena-la-estrategia-de-comunicación-de-coca-cola-durante-la-crisis&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Ha sido buena la estrategia de comunicación de Coca Cola durante la crisis?&lt;/h3&gt;
 &lt;p&gt;Es evidente que la imagen de Coca Cola ha sufrido mucho durante este tiempo y que su estrategia de comunicación no ha sido efectiva contrarestando los efectos negativos. Ahora bien, ¿la estrategia de comunicación ha sido mala? En mi opinión, &lt;strong&gt;no había muchas alternativas&lt;/strong&gt;. ¿Dónde ha estado el &lt;strong&gt;error&lt;/strong&gt;? &lt;a href=&#34;http://www.elmundo.es/economia/2014/02/17/53020bbde2704ebb668b4570.html&#34;&gt;En febrero de 2014&lt;/a&gt; el presidente de Coca Cola España declaraba:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1888,7 +1897,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;li&gt;Servicios de &lt;strong&gt;creencia&lt;/strong&gt;: El nivel de incertidumbre es el mayor de todos ya que para determinados servicios, la evaluación es difícil &lt;strong&gt;incluso después&lt;/strong&gt; de haber recibido el servicio. ¿La reparación que nos han hecho en el coche era realmente necesaria?¿el asesoramiento legal ha sido óptimo?¿cómo hubiera respondido nuestro seguro si hubiéramos tenido un siniestro? En los servicios de creencia, el cliente no está capacitado para asegurar la calidad del servicio, incluso a posteriori.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;canales-de-informacion-en-servicios-de-experiencia-y-creencia&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;canales-de-información-en-servicios-de-experiencia-y-creencia&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Canales de información en servicios de experiencia y creencia&lt;/h3&gt;
 &lt;p&gt;En el trabajo analizamos con datos empíricos las diferencias en la búsqueda de información en los servicios con más incertidumbre para el consumidor: los de experiencia y creencia. ¿Qué fuentes de información pueden utilizar los consumidores?:&lt;/p&gt;
 &lt;table&gt;
@@ -1934,7 +1943,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;li&gt;En los servicios de creencia, las &lt;strong&gt;fuentes offline&lt;/strong&gt; siguen siendo superiores a las online. La experiencia en la oficina todavía proporciona más información a los consumidores que la experiencia online. Detalles como el aspecto de los muebles o la ropa que lleva un abogado proporcionan una &lt;strong&gt;tangibilización&lt;/strong&gt; del servicio difícil de superar con la elección de colores o tipografías de una página web.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;canales-de-contratacion&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;canales-de-contratación&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Canales de contratación&lt;/h3&gt;
 &lt;p&gt;En cuanto a la compra, la &lt;strong&gt;web&lt;/strong&gt; y el &lt;strong&gt;establecimiento físico&lt;/strong&gt; están prácticamente igualados para la contratación de servicios de experiencia. Los canales personales online (redes sociales, chats e e-mail) suponen casi un 5% de la contratación. En servicios de creencia, sin embargo, &lt;strong&gt;casi el 80% de las compras se producen en el establecimiento&lt;/strong&gt;. El canal offline es el preferido en la contratación, especialmente entre aquellos consumidores que ya habían utilizado este canal en la búsqueda de información.&lt;/p&gt;
 &lt;p&gt;El canal offline tiene &lt;strong&gt;un efecto lock-in&lt;/strong&gt; importante en servicios de experiencia y servicios de creencia. Los consumidores que han visitado el establecimiento para buscar información, tienden a contratar en el mismo lugar. Ahora bien, &lt;strong&gt;¿dónde es este lock-in menor, en servicios de experiencia o de creencia?&lt;/strong&gt;&lt;/p&gt;
@@ -1956,7 +1965,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
       <description>
 
 
-&lt;div id=&#34;por-que-un-blog-educativo&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;por-qué-un-blog-educativo&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Por qué un blog educativo?&lt;/h3&gt;
 &lt;p&gt;En la mayoría de universidades españolas, los profesores y estudiantes tenemos acceso a distintas plataformas (&lt;strong&gt;Moodle&lt;/strong&gt;, &lt;strong&gt;Sakai&lt;/strong&gt;…) que nos permiten compartir recursos e información, asignar tareas, enviar correos, corregir exámenes y una infinidad de otras funciones, incluída en muchos casos la creación de blogs. Entonces, ¿por qué utilizar un blog externo para nuestras asignaturas?&lt;/p&gt;
 &lt;p&gt;En primer lugar, no creo que un blog sea un sustituto de las plataformas de contenidos institucionales sino un complemento. Aunque podríamos encontrar herramientas para organizar toda nuestra docencia en una plataforma de blogs, no tiene sentido desaprovechar las prestaciones que tienen los sistemas específicamente diseñados para la organización de curso.&lt;/p&gt;
@@ -1975,7 +1984,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;/ol&gt;
 &lt;p&gt;En próximas entradas hablaré de cómo personalizar estas plantillas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;actualizacion-junio-2019&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;actualización-junio-2019&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;*Actualización Junio 2019&lt;/h2&gt;
 &lt;p&gt;Como puede observarse, en la actualidad he migrado el blog a una alternativa diferente, &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. En una nueva entrada comento las razones de este cambio.&lt;/p&gt;
 &lt;/div&gt;
@@ -2025,7 +2034,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;iframe src=&#34;https://revealjs.com/#/&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
 &lt;/iframe&gt;
 &lt;p&gt;Navegamos con las teclas o con el ratón, podemos pulsar la tecla F para pasar a pantalla completa, B para poner la pantalla en negro y ESC para ver el esquema de la presentación.&lt;/p&gt;
-&lt;div id=&#34;como-empezar&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;cómo-empezar&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Cómo empezar&lt;/h2&gt;
 &lt;div id=&#34;descarga-de-los-archivos-necesarios&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Descarga de los archivos necesarios&lt;/h3&gt;
@@ -2036,7 +2045,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;p&gt;&lt;img src=&#34;reveal2.png&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;creando-la-presentacion&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;creando-la-presentación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Creando la presentación&lt;/h2&gt;
 &lt;p&gt;Si hacemos dobre click en ese fichero, podemos ver como se abrirá en el navegador y veremos la presentación de ejemplo. El resto de archivos en la carpeta sirven para que el navegador pueda interpretar correctamente el archivo HTML. En general, cuando vamos a hacer una presentación nueva, &lt;strong&gt;debemos copiar toda la carpeta y editar el archivo index.html&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Antes de editar el archivo, es buena idea hacer una copia y renombrarlo por si queremos recuperar el archivo original.&lt;/p&gt;
@@ -2101,7 +2110,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
       <description>
 
 
-&lt;div id=&#34;gamificacion&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;gamificación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gamificación&lt;/h2&gt;
 &lt;p&gt;En los últimos tiempos se está imponiendo un nuevo “palabro”: gamificación, entendida como la utilización de técnicas propias del juego lúdico para el aprendizaje en entornos profesionales.&lt;/p&gt;
 &lt;p&gt;Las ventajas de la gamificación tienen que ver con la mayor motivación de los participantes, al aumentar el interés en una actividad a priori aburrida.&lt;/p&gt;
@@ -2111,7 +2120,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;h2&gt;Simuladores empresariales&lt;/h2&gt;
 &lt;p&gt;Los simuladores de empresa tienen muchos años de vida. En mi facultad, se vienen utilizando con éxito desde hace 20 años y durante este tiempo hemos podido contrastar su utilidad.&lt;/p&gt;
 &lt;p&gt;En este tipo de simuladores, se presenta a los estudiantes un mercado o industria determinado en el que existen varias empresas. Los estudiantes gestionan una de estas empresas y toman decisiones sobre distintos aspectos del negocio pudiendo observar los resultados de estas decisiones a lo largo de varios periodos.&lt;/p&gt;
-&lt;div id=&#34;ventajas-de-la-utilizacion-de-simuladores&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;ventajas-de-la-utilización-de-simuladores&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Ventajas de la utilización de simuladores&lt;/h3&gt;
 &lt;p&gt;La introducción de estas técnicas en el aula proporciona distintas ventajas:&lt;/p&gt;
 &lt;ul&gt;
@@ -2122,7 +2131,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;que-simulador&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;qué-simulador&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;¿Qué simulador?&lt;/h2&gt;
 &lt;p&gt;Existen multitud de simuladores que podemos utilizar. No es mi propósito en esta entrada describir todos ellos, sino solamente destacar algunas características que, en mi opinión, destacan en aquellos con los que personalmente he tenido experiencia docente. En los últimos años, he utilizado en distintas clases cuatro simuladores: &lt;a href=&#34;http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/&#34;&gt;Markstrat&lt;/a&gt;, &lt;a href=&#34;http://globstrat-academy.com/&#34;&gt;Globstrat&lt;/a&gt;, &lt;a href=&#34;http://ilsworld.com/&#34;&gt;MarketPlace&lt;/a&gt;y &lt;a href=&#34;http://quantrack.net/simuladorquantum.htm&#34;&gt;Quantum&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Dos de ellos, Globstrat y Marketplace, tienen un enfoque de estrategia general, mientras que Markstrat y Quantum de centran más en la estrategia de marketing.&lt;/p&gt;
@@ -2225,7 +2234,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;/ul&gt;
 &lt;p&gt;Existen bastantes opciones para crear presentaciones según este esquema. &lt;a href=&#34;http://www.readerspark.com/top-25-free-html5-css3-presentation-frameworks/&#34;&gt;Aquí&lt;/a&gt; están revisadas la mayoría.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;mi-opcion-reveal.js&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;mi-opción-reveal.js&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Mi opción: Reveal.js&lt;/h4&gt;
 &lt;p&gt;Tras esta exposición, es obvio que no hay una elección óptima para cada usuario. En mi caso, las ventajas de la última opción superan la ligera curva de aprendizaje necesaria para utilizarla, así que me he decantado por ir adaptando mis materiales a una de las opciones en HTML5: &lt;a href=&#34;http://lab.hakim.se/reveal-js/#/&#34;&gt;reveal.js&lt;/a&gt;.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_url(&amp;#39;https://revealjs.com/#/&amp;#39;)&lt;/code&gt;&lt;/pre&gt;

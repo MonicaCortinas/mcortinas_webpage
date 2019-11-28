@@ -30,7 +30,7 @@
 &lt;p&gt;Para el texto del documento es importante elegir una fuente que se lea bien en tamaño más reducido y que tenga variedades de peso (cursiva, negrita, light…). He elegido también una fuente sans serif ya que el uso principal va a ser en presentaciones. Dos buenas candidatas aquí pueden ser Open Sans y Roboto, de gran utilización en todo tipo de proyectos web. En mi caso, he optado por &lt;a href=&#34;https://fonts.google.com/specimen/Fira+Sans&#34;&gt;Fira Sans&lt;/a&gt; que tiene también buena legibilidad pero con un poco más de fantasía en algunos caracteres como la &lt;strong&gt;g&lt;/strong&gt; que van bien con la fuente de los títulos.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;fira.png&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;parrafos&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;párrafos&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Párrafos&lt;/h2&gt;
 &lt;p&gt;Además de seleccionar las fuentes, es importante definir de forma consistente el estilo de los distintos párrafos, ya que es la uniformidad en los estilos la que hace un documento se perciba como armonioso y profesional. En este caso, he definido cuatro niveles de títulos, combinando distintos pesos y tamaños de la fuente de títulos y dos colores distintos de párrafos para texto de más o menos importancia.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;paragraphs.png&#34; /&gt;&lt;/p&gt;

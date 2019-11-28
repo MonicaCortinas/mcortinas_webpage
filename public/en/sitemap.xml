@@ -33,6 +33,22 @@
   </url>
   
   <url>
+    <loc>/en/tags/artificial-intelligence/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/</loc>
     <lastmod>2019-10-23T11:30:00+00:00</lastmod>
     <priority>0</priority>
@@ -107,22 +123,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/artificial-intelligence/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/artificial-intelligence/"
                 />
   </url>
   
@@ -525,22 +525,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/customer-journey/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -553,6 +537,53 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/customer-journey/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/margarita-elorz/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/margarita-elorz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/margarita-elorz/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2019_sjm/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2019_sjm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2019_sjm/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/rafael-cabeza/"
                 />
   </url>
   
@@ -649,22 +680,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/distribution-services/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/margarita-elorz/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/margarita-elorz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/margarita-elorz/"
                 />
   </url>
   
@@ -1936,6 +1951,22 @@
   </url>
   
   <url>
+    <loc>/en/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/agriproducts/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1964,22 +1995,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/consumer-experience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/agriproducts/"
                 />
   </url>
   

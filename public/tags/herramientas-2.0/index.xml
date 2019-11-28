@@ -55,7 +55,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 
 
 &lt;p&gt;Hoy vamos a hablar de algunas herramientas muy útiles para mejorar la visualización de datos. En otros post hemos hablado de &lt;a href=&#34;https://mcrecursosdocentes.blogspot.com.es/2015/04/recursos-visuales-2-nuestro-propio.html&#34;&gt;herramientas de creación de recursos visuales&lt;/a&gt; como &lt;a href=&#34;https://infogram.com/app/#/library&#34;&gt;infogram&lt;/a&gt; y &lt;a href=&#34;https://www.canva.com/es_es/&#34;&gt;canva&lt;/a&gt;. Sin embargo, estos recursos son limitados en cuanto a su potencial para trabajar con bases de datos de cierta complejidad. Hoy quiero presentaros algunas herramientas muy potentes para hacer todo tipo de gráficos animados.&lt;/p&gt;
-&lt;div id=&#34;graficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;gráficos-animados-con-plot.ly&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -74,7 +74,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;iframe frameborder=&#34;0&#34; height=&#34;500&#34; scrolling=&#34;no&#34; src=&#34;//plot.ly/~jtelszasz/230.embed&#34; width=&#34;500&#34;&gt;
 &lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div id=&#34;como-integrar-un-grafico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;cómo-integrar-un-gráfico-creado-en-plot.ly&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Cómo integrar un gráfico creado en plot.ly&lt;/h4&gt;
 &lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
 &lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
@@ -87,7 +87,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;p&gt;Por último, podemos utilizar estos gráficos para integrarlos en un espacio web de cualquier tipo, como este blog. Para eso, utilizaremos la opción “embed” y simplemente pegaremos el código dentro del editor html de nuestro sitio.&lt;/p&gt;
 &lt;p&gt;Plot.ly tiene además de todo esto dos cosas extra que son geniales:&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;modificando-graficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;modificando-gráficos-ya-creados-con-plot.ly&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
 &lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -96,7 +96,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;/div&gt;
 &lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editando-los-graficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
+&lt;div id=&#34;editando-los-gráficos-desde-r-o-python-o-javascript&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Editando los gráficos desde R (o Python, o javascript)&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&#34;Imagen3.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;El acceso gratuito a la interfaz web de plotly no permite guardar los gráficos de forma privada. Sin embargo, existen librerías de plot.ly totalmente gratuitas con las que podemos crear, editar y guardar todo tipo de gráfictos plotly desde R u otros lenguajes como Python. Si, como es mi caso, trabajáis normalmente con R en vuestros proyectos de investigación, la integración es perfecta.&lt;/p&gt;
@@ -104,7 +104,7 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
 &lt;p&gt;Simplemente tenemos que ir a la ventana de “View” en el gráfico, seleccionar la opción “Phyton &amp;amp; R” y obtenemos el código, listo para editarlo de nuestra forma preferida.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;otras-opciones-librerias-para-graficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;otras-opciones-librerías-para-gráficos-en-javascript&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Otras opciones: librerías para gráficos en Javascript&lt;/h3&gt;
 &lt;p&gt;Además de plot.ly existen otras muy buenas opciones para crear gráficos interactivos. Por ejemplo, &lt;a href=&#34;https://www.highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; es una muy buena alternativa, de uso libre para proyectos no comerciales y que tiene la ventaja de tener también un &lt;a href=&#34;https://www.highcharts.com/products/highcharts-editor/&#34;&gt;editor online&lt;/a&gt; muy útil para crear gráficos sin tener que programarlos. Otras opciones interesantes son &lt;a href=&#34;http://gionkunz.github.io/chartist-js/index.html&#34;&gt;Chartist&lt;/a&gt; y &lt;a href=&#34;https://d3js.org/&#34;&gt;D3&lt;/a&gt; aunque en este caso hay que configurar los gráficos directamente en javascript.&lt;/p&gt;
 &lt;p&gt;¿Qué os parecido la entrada?¿Pensáis que estas herramientas son útiles?&lt;/p&gt;
@@ -227,7 +227,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
       <description>
 
 
-&lt;div id=&#34;porque-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;porqué-probar-el-hosting-de-amazon&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Porqué probar el hosting de Amazon&lt;/h2&gt;
 &lt;div id=&#34;el-cambio-en-las-condiciones-de-servicio-de-dropbox&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;El cambio en las condiciones de servicio de Dropbox&lt;/h3&gt;
@@ -262,11 +262,11 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;div id=&#34;amazon-s3&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Amazon S3&lt;/h2&gt;
 &lt;p&gt;El espacio en Amazon S3 se organiza en compartimentos llamados &lt;em&gt;“buckets”&lt;/em&gt;. Cada “bucket” es un contenedor autónomo que podemos gestionar de forma diferente.&lt;/p&gt;
-&lt;div id=&#34;como-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-subimos-los-archivos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo subimos los archivos?&lt;/h3&gt;
 &lt;p&gt;La subida de archivos se gestiona con una consola online en la que con un sencillo sistema tipo “drag and drop” podemos subir los archivos necesarios. También podemos automatizar el proceso operando desde la consola de comandos pero de momento, la interfaz online es suficiente para mi.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;como-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;cómo-se-configura-un-bucket-para-que-funcione-como-una-web&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Cómo se configura un “bucket” para que funcione como una web?&lt;/h3&gt;
 &lt;p&gt;Una vez subidos los archivos, la configuración es sencilla, simplemente hay que asegurarse de que:&lt;/p&gt;
 &lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
@@ -322,7 +322,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;p&gt;Sin embargo, si buscamos más potencia, &lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt; es mi herramienta favorita. La imagen que abre esta entrada está editada en Canva. Su utilización es totalmente gratuita si incluimos nuestras propias imágenes o parte de las imágenes de su banco y permite crear desde banners hasta posters con múltiples disposiciones.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.picmonkey.com/&#34;&gt;PicMonkey&lt;/a&gt;, que mencionaba en la entrada anterior también es muy bueno en esto.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;graficos-e-infograficos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;gráficos-e-infográficos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Gráficos e Infográficos&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://piktochart.com/&#34;&gt;Piktochart&lt;/a&gt; es la primera herramienta para gráficos que quiero mencionar. Piktochart no solo sirve para hacer gráficos, sino que tiene muchas más opciones, pero es especialmente adecuada para esta tarea:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -354,12 +354,12 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
       <description>
 
 
-&lt;div id=&#34;recursos-graficos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;recursos-gráficos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Recursos gráficos&lt;/h3&gt;
 &lt;p&gt;Ya sea para una entrada en un blog, una presentación con transparencias o una página web, la utilización de imágenes es casi imprescindible.&lt;/p&gt;
 &lt;p&gt;Ahora bien, ¿de dónde sacamos estas imágenes? Más allá de una búsqueda en Google Images, en esta entrada quiero repasar fuentes y recursos para &lt;strong&gt;encontrar imágenes&lt;/strong&gt; atractivas y de calidad y algunas &lt;strong&gt;herramientas de edición&lt;/strong&gt;. En la siguiente entrada repasaré opciones para diseñar &lt;strong&gt;nuestros propios recursos&lt;/strong&gt;.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;fuentes-de-imagenes-de-uso-libre&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;fuentes-de-imágenes-de-uso-libre&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Fuentes de imágenes de uso libre&lt;/h3&gt;
 &lt;p&gt;Un aspecto fundamental a la hora de utilizar imágenes ajenas es asegurarnos de no estar incumpliendo los derechos de propiedad intelectual de los autores. Por eso, si vamos a utilizar &lt;strong&gt;Google Imágenes&lt;/strong&gt; como buscador, una buena práctica es acostumbrarse a utilizar la opción “Derechos de Uso” dentro de “Herramientas de Búsqueda”:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -388,7 +388,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.freepik.com/free-photos-vectors/love&#34;&gt;Love vector designed by Freepik&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;recursos-de-edicion&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;recursos-de-edición&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Recursos de edición&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Vale, ya tengo mi imagen, pero no es exactamente lo que quiero…&lt;/p&gt;
@@ -425,7 +425,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;p&gt;Los mapas conceptuales son una herramienta útil para mostrar a los estudiantes la interrelación entre distintos términos. Podemos, por supuesto, elaborar el mapa en la pizarra pero existen algunas aplicaciones que nos permiten hacerlo directamente en la web de forma colaborativa.&lt;/p&gt;
 &lt;p&gt;Vamos a repasar algunas de ellas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editores-orientados-a-la-creacion-de-imagenes&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;editores-orientados-a-la-creación-de-imágenes&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Editores orientados a la creación de imágenes&lt;/h3&gt;
 &lt;div id=&#34;text2mindmap&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;Text2Mindmap&lt;/h4&gt;
@@ -440,7 +440,7 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
 &lt;p&gt;&lt;a href=&#34;https://www.gliffy.com/&#34;&gt;Gliffy&lt;/a&gt; es una herramienta muy potente para dibujar mapas mentales así como para hacer gráficos de todo tipo. Es totalmente gratuita y está orientada (al igual que Text2Mindmap) a la creación de imágenes, pero es mucho más potente que la primera y permite la inclusión de imágenes y enlaces. Como contrapartida, es más compleja de utilizar y, por tanto, exige dedicarle más tiempo.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;editores-orientados-a-la-creacion-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;editores-orientados-a-la-creación-de-mapas-interactivos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Editores orientados a la creación de mapas interactivos&lt;/h3&gt;
 &lt;p&gt;Existen otras herramientas cuyo objetivo específico es crear mapas en los que se puede colaborar en tiempo real, por lo que profesor y estudiantes pueden elaborar y modificar los mapas de forma colaborativa. ¿Genial, no? Entre ellas, destacan &lt;a href=&#34;https://www.mindomo.com/&#34;&gt;Mindomo&lt;/a&gt;, &lt;a href=&#34;https://bubbl.us/&#34;&gt;Bubbl.us&lt;/a&gt; o &lt;a href=&#34;https://www.mindmeister.com/&#34;&gt;Mindmeister&lt;/a&gt;. La mala noticia es que en su modalidad gratuita solo permiten guardar tres mapas. La buena es que tienen planes educativos bastante asequibles.&lt;/p&gt;
 &lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;400&#34; src=&#34;https://www.mindomo.com/mindmap/material-visual-cad2decf2a1d4f9daddc20df6a8af0e7&#34; width=&#34;400&#34;&gt;
@@ -561,7 +561,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;p&gt;Cuando lo que pretendemos es que alguien pueda encontrar estos documentos o consultar todo el material, es necesario además hacer disponible de forma sistemática todo el conjunto de enlaces. Para ello, una primera opción es la creación de un blog.&lt;/p&gt;
 &lt;p&gt;Esta opción nos da la mayor flexibilidad posible ya que la podemos configurar exactamente a nuestro gusto, pero tiene la desventaja de tener una visibilidad relativamente reducida.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;repositorios-publicos&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;repositorios-públicos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Repositorios públicos&lt;/h3&gt;
 &lt;p&gt;Si lo que nos interesa es llegar a la mayor audiencia posible, la mejor opción es unirnos a alguna de las plataformas específicamente diseñadas para tal fin. La &lt;strong&gt;más popular&lt;/strong&gt; para el caso de presentaciones es &lt;a href=&#34;http://es.slideshare.net/?ss&#34;&gt;SlideShare&lt;/a&gt; pero no solo podemos subir presentaciones, sino también &lt;strong&gt;videos o cualquier documento en pdf&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Más orientado a documentos y con una larga trayectoria tenemos a &lt;a href=&#34;https://es.scribd.com/upload-document&#34;&gt;Scribd&lt;/a&gt;. En este caso podemos subir incluso libros en formato EPUB y podemos haceros disponibles públicamente o a cambio de un precio que elegimos. &lt;strong&gt;Scribd&lt;/strong&gt; se está transformando en una plataforma de lectura por suscripción mensual, pero sigue siendo una buena plataforma también para contenidos docentes.&lt;/p&gt;
@@ -603,11 +603,11 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 
 &lt;p&gt;La mayoría de los docentes echamos de menos tener más tiempo para &lt;strong&gt;formarnos&lt;/strong&gt;. Durante el curso, la presión de las tareas diarias hace que sea complicado invertir el tiempo necesario en realizar cursos de actualización o formación adicional. Sin embargo, tanto para la docencia como para la investigación, el &lt;strong&gt;Long Life Learning&lt;/strong&gt; son tanto una necesidad como, casi siempre, una vocación.&lt;/p&gt;
 &lt;p&gt;El verano puede ser una gran ocasión para darle un empujón a esos intereses o proyectos que durante el año han quedado postergados.&lt;/p&gt;
-&lt;div id=&#34;formacion-online&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;formación-online&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Formación online&lt;/h3&gt;
 &lt;p&gt;La formación online tiene la gran ventaja de que podemos seguirla a nuestro propio ritmo desde cualquier lugar. Las vacaciones son un momento ideal para aprovechar estas posibilidades e introducirnos en temáticas nuevas que nos resulten personalmente atractivas.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;formacion-en-lenguajes-web&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;formación-en-lenguajes-web&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Formación en lenguajes web&lt;/h3&gt;
 &lt;p&gt;Para aquellos interesados en herramientas TIC, aprender un poco sobre lenguajes de programación en web puede ser una inversión muy útil, ya que nos facilitarán bastante la vida a la hora de mantener un blog o una web, utilizar software como &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/search/label/Reveal.js&#34;&gt;reveal.js&lt;/a&gt; o incluso componer mensajes de correo electrónico más atractivos. Hoy os dejo algunos enlaces muy interesantes para aquellos que tengáis interés en estos temas.&lt;/p&gt;
 &lt;div id=&#34;lynda.com&#34; class=&#34;section level4&#34;&gt;
@@ -637,15 +637,15 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 
 
 &lt;p&gt;Hoy quiero repasar dos herramientas estupendas para comprobar en tiempo real el progreso en la comprensión de los estudiantes y, al mismo tiempo, animar la participación en clase: &lt;a href=&#34;http://www.socrative.com/&#34;&gt;Socrative&lt;/a&gt; y &lt;a href=&#34;https://kahoot.it/#/&#34;&gt;Kahoot&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;si-no-puedes-con-tu-enemigo-unete-a-el-dispositivos-moviles-en-clase&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;si-no-puedes-con-tu-enemigo-únete-a-él-dispositivos-móviles-en-clase&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Si no puedes con tu enemigo, únete a él: dispositivos móviles en clase&lt;/h3&gt;
 &lt;p&gt;Un comentario común entre mis compañeros es la omnipresencia de los smartphones durante las clases. Los estudiantes son incapaces de permanecer desconectados del “Whatsapp” durante una hora y retuercen el cuello para echarle un vistazo furtivo al teléfono escondido debajo de la mesa o en el bolsillo del abrigo. El uso de estas herramientas u otras como la incorporación de &lt;a href=&#34;https://twitter.com/&#34;&gt;Twitter&lt;/a&gt; permite dar un uso más productivo al teléfono y aumenta la implicación de los estudiantes.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;alguien-tiene-algun-ejemplo&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;alguien-tiene-algún-ejemplo&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Alguien tiene algún ejemplo?…&lt;/h3&gt;
 &lt;p&gt;Otro problema común en mi facultad es la falta de participación de los estudiantes en las clases. Aunque los grupos se han reducido, salvo en asignaturas de cursos avanzados, la participación en clase suele ser muy baja y las preguntas abiertas suelen quedar sin respuesta. Normalmente, esta dinámica es muy difícil de cambiar y se retroalimenta así que, pasada la primera semana de clase, estimular la participación es cada vez más complicado. Las respuestas a través del móvil resultan menos comprometidas para los estudiantes y se animan más. Normalmente, al visualizar en pantalla los resultados de las votaciones es más fácil que después se produzca una discusión oral y la participación en los grupos en los que los he utilizado aumenta muchísimo.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;habeis-entendido-esto&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;habéis-entendido-esto&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;¿Habéis entendido esto?&lt;/h3&gt;
 &lt;p&gt;En mi opinión, el mayor potencial de estas herramientas está en su capacidad de monitorizar en tiempo real el aprendizaje de los estudiantes. Con un test en vivo, podemos detectar rápidamente qué conceptos se han comprendido bien y cuales no, de manera que podemos pasar rápidamente sobre los primeros y profundizar en los otros. Nuestra experiencia como docentes nos hace poder tener un diagnóstico previo sobre qué aspectos son más complicados para los estudiantes pero la práctica me ha demostrado que no en todos los grupos los contenidos conflictivos son los mismos. Poder obviar una explicación adicional que sobra para un grupo de estudiantes reduce el aburrimiento y, a la inversa, repasar en el momento una explicación errónea ahorra mucho trabajo posterior.&lt;/p&gt;
 &lt;/div&gt;
@@ -680,7 +680,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
       <description>
 
 
-&lt;div id=&#34;gamificacion&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;gamificación&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gamificación&lt;/h2&gt;
 &lt;p&gt;En los últimos tiempos se está imponiendo un nuevo “palabro”: gamificación, entendida como la utilización de técnicas propias del juego lúdico para el aprendizaje en entornos profesionales.&lt;/p&gt;
 &lt;p&gt;Las ventajas de la gamificación tienen que ver con la mayor motivación de los participantes, al aumentar el interés en una actividad a priori aburrida.&lt;/p&gt;
@@ -690,7 +690,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;h2&gt;Simuladores empresariales&lt;/h2&gt;
 &lt;p&gt;Los simuladores de empresa tienen muchos años de vida. En mi facultad, se vienen utilizando con éxito desde hace 20 años y durante este tiempo hemos podido contrastar su utilidad.&lt;/p&gt;
 &lt;p&gt;En este tipo de simuladores, se presenta a los estudiantes un mercado o industria determinado en el que existen varias empresas. Los estudiantes gestionan una de estas empresas y toman decisiones sobre distintos aspectos del negocio pudiendo observar los resultados de estas decisiones a lo largo de varios periodos.&lt;/p&gt;
-&lt;div id=&#34;ventajas-de-la-utilizacion-de-simuladores&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;ventajas-de-la-utilización-de-simuladores&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Ventajas de la utilización de simuladores&lt;/h3&gt;
 &lt;p&gt;La introducción de estas técnicas en el aula proporciona distintas ventajas:&lt;/p&gt;
 &lt;ul&gt;
@@ -701,7 +701,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;que-simulador&#34; class=&#34;section level2&#34;&gt;
+&lt;div id=&#34;qué-simulador&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;¿Qué simulador?&lt;/h2&gt;
 &lt;p&gt;Existen multitud de simuladores que podemos utilizar. No es mi propósito en esta entrada describir todos ellos, sino solamente destacar algunas características que, en mi opinión, destacan en aquellos con los que personalmente he tenido experiencia docente. En los últimos años, he utilizado en distintas clases cuatro simuladores: &lt;a href=&#34;http://web.stratxsimulations.com/simulation/strategic-marketing-simulation/&#34;&gt;Markstrat&lt;/a&gt;, &lt;a href=&#34;http://globstrat-academy.com/&#34;&gt;Globstrat&lt;/a&gt;, &lt;a href=&#34;http://ilsworld.com/&#34;&gt;MarketPlace&lt;/a&gt;y &lt;a href=&#34;http://quantrack.net/simuladorquantum.htm&#34;&gt;Quantum&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Dos de ellos, Globstrat y Marketplace, tienen un enfoque de estrategia general, mientras que Markstrat y Quantum de centran más en la estrategia de marketing.&lt;/p&gt;
