@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 11:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Artificial Intelligence</title>
       <link>/tags/artificial-intelligence/</link>
-      <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
+      <pubDate>Tue, 10 Dec 2019 11:30:00 +0000</pubDate>
       
       <guid>/tags/artificial-intelligence/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>e-commerce</title>
       <link>/tags/e-commerce/</link>
-      <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
+      <pubDate>Tue, 10 Dec 2019 11:30:00 +0000</pubDate>
       
       <guid>/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel</title>
+      <link>/tags/omnichannel/</link>
+      <pubDate>Tue, 10 Dec 2019 11:30:00 +0000</pubDate>
+      
+      <guid>/tags/omnichannel/</guid>
       <description></description>
     </item>
     
@@ -107,15 +116,6 @@
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
       <guid>/tags/eyetracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>omnichannel</title>
-      <link>/tags/omnichannel/</link>
-      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/tags/omnichannel/</guid>
       <description></description>
     </item>
     
@@ -237,7 +237,7 @@
     </item>
     
     <item>
-      <title>experimental design</title>
+      <title>Experimental design</title>
       <link>/tags/experimental-design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
@@ -453,7 +453,7 @@
     </item>
     
     <item>
-      <title>blogger</title>
+      <title>Blogger</title>
       <link>/tags/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       

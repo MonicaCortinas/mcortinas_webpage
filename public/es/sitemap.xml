@@ -29,7 +29,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,7 +44,7 @@
   
   <url>
     <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -60,7 +60,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -75,23 +75,13 @@
   </url>
   
   <url>
-    <loc>/talk/2019_mundo/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/2019_mundo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/talk/2019_mundo/"
-                />
+    <loc>/talk/2019_sodena/</loc>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -107,7 +97,7 @@
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -122,7 +112,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -138,7 +128,7 @@
   
   <url>
     <loc>/tags/e-commerce/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -149,6 +139,37 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/e-commerce/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/omnichannel/</loc>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/omnichannel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/omnichannel/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/2019_mundo/</loc>
+    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/2019_mundo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/2019_mundo/"
                 />
   </url>
   
@@ -311,22 +332,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/eyetracking/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/omnichannel/</loc>
-    <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/omnichannel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/omnichannel/"
                 />
   </url>
   
@@ -723,6 +728,22 @@
   </url>
   
   <url>
+    <loc>/tags/experimental-design/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/experimental-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/experimental-design/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/margarita-elorz/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -766,22 +787,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/experimental-design/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/experimental-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/experimental-design/"
                 />
   </url>
   
@@ -1651,11 +1656,6 @@
   </url>
   
   <url>
-    <loc>/post/blogger_primeros_pasos/</loc>
-    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1665,6 +1665,11 @@
     <loc>/tags/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/blogger_primeros_pasos/</loc>
+    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
   </url>
   
   <url>
