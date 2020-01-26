@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,29 @@
     <item>
       <title></title>
       <link>/en/authors/admin/</link>
-      <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/en/authors/admin/</guid>
       <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Margarita Elorz</title>
+      <link>/en/authors/margarita-elorz/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/authors/margarita-elorz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/en/authors/raquel-chocarro/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/authors/raquel-chocarro/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -28,15 +46,6 @@
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
       <guid>/en/authors/arantxa-villanueva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raquel Chocarro</title>
-      <link>/en/authors/raquel-chocarro/</link>
-      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/en/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     
@@ -55,15 +64,6 @@
       <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
       
       <guid>/en/authors/xiaowei-cai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Margarita Elorz</title>
-      <link>/en/authors/margarita-elorz/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/margarita-elorz/</guid>
       <description></description>
     </item>
     
