@@ -75,22 +75,6 @@
   </url>
   
   <url>
-    <loc>/tags/customer-journey/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/customer-journey/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/customer-journey/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/margarita-elorz/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -201,6 +185,22 @@
   </url>
   
   <url>
+    <loc>/tags/customer-journey/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/customer-journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/customer-journey/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/e-commerce/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -249,22 +249,6 @@
   </url>
   
   <url>
-    <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/artificial-intelligence/"
-                />
-  </url>
-  
-  <url>
     <loc>/talk/2019_sodena/</loc>
     <lastmod>2019-12-10T11:30:00+00:00</lastmod>
   </url>
@@ -281,6 +265,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/artificial-intelligence/"
                 />
   </url>
   
@@ -494,13 +494,13 @@
   </url>
   
   <url>
-    <loc>/categories/presentaciones/</loc>
+    <loc>/tags/presentaciones/</loc>
     <lastmod>2019-07-26T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/presentaciones/</loc>
+    <loc>/categories/presentaciones/</loc>
     <lastmod>2019-07-26T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -695,13 +695,13 @@
   </url>
   
   <url>
-    <loc>/categories/web/</loc>
+    <loc>/tags/web/</loc>
     <lastmod>2019-06-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/web/</loc>
+    <loc>/categories/web/</loc>
     <lastmod>2019-06-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -791,22 +791,6 @@
   </url>
   
   <url>
-    <loc>/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -819,6 +803,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/experimental-design/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/rafael-cabeza/"
                 />
   </url>
   
@@ -1176,13 +1176,13 @@
   </url>
   
   <url>
-    <loc>/categories/criptomonedas/</loc>
+    <loc>/tags/criptomonedas/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/criptomonedas/</loc>
+    <loc>/categories/criptomonedas/</loc>
     <lastmod>2018-06-13T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1331,13 +1331,13 @@
   </url>
   
   <url>
-    <loc>/categories/reveal.js/</loc>
+    <loc>/tags/reveal.js/</loc>
     <lastmod>2018-03-28T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/reveal.js/</loc>
+    <loc>/categories/reveal.js/</loc>
     <lastmod>2018-03-28T01:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1656,13 +1656,13 @@
   </url>
   
   <url>
-    <loc>/categories/blogger/</loc>
+    <loc>/tags/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blogger/</loc>
+    <loc>/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1760,13 +1760,13 @@
   </url>
   
   <url>
-    <loc>/categories/fuentes/</loc>
+    <loc>/tags/fuentes/</loc>
     <lastmod>2016-03-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/fuentes/</loc>
+    <loc>/categories/fuentes/</loc>
     <lastmod>2016-03-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1934,13 +1934,13 @@
   </url>
   
   <url>
-    <loc>/categories/aemark-2015/</loc>
+    <loc>/tags/aemark-2015/</loc>
     <lastmod>2015-05-23T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/aemark-2015/</loc>
+    <loc>/categories/aemark-2015/</loc>
     <lastmod>2015-05-23T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1967,13 +1967,13 @@
   </url>
   
   <url>
-    <loc>/categories/servicios/</loc>
+    <loc>/tags/servicios/</loc>
     <lastmod>2015-05-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/servicios/</loc>
+    <loc>/categories/servicios/</loc>
     <lastmod>2015-05-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1984,13 +1984,13 @@
   </url>
   
   <url>
-    <loc>/categories/blogging/</loc>
+    <loc>/tags/blogging/</loc>
     <lastmod>2015-05-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blogging/</loc>
+    <loc>/categories/blogging/</loc>
     <lastmod>2015-05-13T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2147,19 +2147,13 @@
   </url>
   
   <url>
-    <loc>/categories/gamificaci%C3%B3n/</loc>
-    <lastmod>2015-04-18T08:26:17+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/gamificaci%C3%B3n/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/globstrat/</loc>
+    <loc>/categories/gamificaci%C3%B3n/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2171,7 +2165,7 @@
   </url>
   
   <url>
-    <loc>/categories/marketplace/</loc>
+    <loc>/categories/globstrat/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2183,7 +2177,7 @@
   </url>
   
   <url>
-    <loc>/categories/markstrat/</loc>
+    <loc>/categories/marketplace/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2195,7 +2189,7 @@
   </url>
   
   <url>
-    <loc>/categories/quantum/</loc>
+    <loc>/categories/markstrat/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2207,7 +2201,7 @@
   </url>
   
   <url>
-    <loc>/categories/simuladores/</loc>
+    <loc>/categories/quantum/</loc>
     <lastmod>2015-04-18T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2219,18 +2213,24 @@
   </url>
   
   <url>
+    <loc>/categories/simuladores/</loc>
+    <lastmod>2015-04-18T08:26:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/muerte-por-power-point/</loc>
     <lastmod>2015-04-15T08:26:17+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/powerpoint/</loc>
+    <loc>/tags/powerpoint/</loc>
     <lastmod>2015-04-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/powerpoint/</loc>
+    <loc>/categories/powerpoint/</loc>
     <lastmod>2015-04-15T08:26:17+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2467,22 +2467,6 @@
   </url>
   
   <url>
-    <loc>/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/agriproducts/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2511,6 +2495,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/consumer-experience/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/agriproducts/"
                 />
   </url>
   
