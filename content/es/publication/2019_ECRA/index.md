@@ -12,7 +12,7 @@ authors:
 - Arantxa Villanueva
 date: "2019"
 doi: "10.1016/j.elerap.2019.100864"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/PkauYYJwdTQ)'
   focal_point: ""

@@ -14,4 +14,4 @@ type: docs
 weight: 2
 ---
 
- [Manual (en construccción) de la asignatura](https://manualsistemasinfo.netlify.com/)
+ [Manual de la asignatura](https://manualsistemasinfo.netlify.com/)
