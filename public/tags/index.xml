@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grounded theory</title>
+      <link>/tags/grounded-theory/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/grounded-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-game goods</title>
+      <link>/tags/in-game-goods/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/in-game-goods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purchase behaviour</title>
+      <link>/tags/purchase-behaviour/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/purchase-behaviour/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>customer journey</title>
@@ -62,6 +89,51 @@
       <pubDate>Tue, 10 Dec 2019 11:30:00 +0000</pubDate>
       
       <guid>/tags/omnichannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-mean clustering</title>
+      <link>/tags/k-mean-clustering/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/k-mean-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lineal regression</title>
+      <link>/tags/lineal-regression/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lineal-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull-Pull-Mooring (PPM) theory</title>
+      <link>/tags/pull-pull-mooring-ppm-theory/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pull-pull-mooring-ppm-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching from traditional to mobile gaming</title>
+      <link>/tags/switching-from-traditional-to-mobile-gaming/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/switching-from-traditional-to-mobile-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video game player segmentation</title>
+      <link>/tags/video-game-player-segmentation/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/video-game-player-segmentation/</guid>
       <description></description>
     </item>
     
@@ -147,6 +219,33 @@
     </item>
     
     <item>
+      <title>Digital competencies</title>
+      <link>/tags/digital-competencies/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/digital-competencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En curso</title>
+      <link>/tags/en-curso/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/en-curso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Marketing</title>
       <link>/tags/marketing/</link>
       <pubDate>Fri, 26 Jul 2019 08:26:17 +0200</pubDate>
@@ -224,15 +323,6 @@
       <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
       
       <guid>/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>En curso</title>
-      <link>/tags/en-curso/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/en-curso/</guid>
       <description></description>
     </item>
     
@@ -453,7 +543,7 @@
     </item>
     
     <item>
-      <title>Blogger</title>
+      <title>blogger</title>
       <link>/tags/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       

@@ -19,7 +19,7 @@
   
   <url>
     <loc>/en/authors/admin/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -29,6 +29,196 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication_types/3/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/grounded-theory/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/grounded-theory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/grounded-theory/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/in-game-goods/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/in-game-goods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/in-game-goods/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/javier-cebollada/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/javier-cebollada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/javier-cebollada/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication_types/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/purchase-behaviour/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/purchase-behaviour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/purchase-behaviour/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2020_ssrn/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2020_ssrn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2020_ssrn/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/xiaowei-cai/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/xiaowei-cai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/xiaowei-cai/"
                 />
   </url>
   
@@ -49,22 +239,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/authors/margarita-elorz/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -77,22 +251,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/margarita-elorz/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
                 />
   </url>
   
@@ -112,37 +270,6 @@
   </url>
   
   <url>
-    <loc>/en/publication_types/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publication/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/authors/raquel-chocarro/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -155,22 +282,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
                 />
   </url>
   
@@ -235,6 +346,101 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/purchase-task/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2019_ssrn2/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2019_ssrn2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2019_ssrn2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/k-mean-clustering/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/k-mean-clustering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/k-mean-clustering/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/lineal-regression/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/lineal-regression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/lineal-regression/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/pull-pull-mooring-ppm-theory/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/pull-pull-mooring-ppm-theory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/pull-pull-mooring-ppm-theory/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/switching-from-traditional-to-mobile-gaming/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/switching-from-traditional-to-mobile-gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/switching-from-traditional-to-mobile-gaming/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/video-game-player-segmentation/</loc>
+    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/video-game-player-segmentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/video-game-player-segmentation/"
                 />
   </url>
   
@@ -348,6 +554,85 @@
   </url>
   
   <url>
+    <loc>/en/project/digital-competencies/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/project/digital-competencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/digital-competencies/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/digital-competencies/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/digital-competencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/digital-competencies/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/education/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/education/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/en-curso/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/en-curso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/en-curso/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/publication_types/1/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -441,22 +726,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/javier-cebollada/</loc>
-    <lastmod>2019-06-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/javier-cebollada/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/javier-cebollada/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/publication/2019_mkscience/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -468,22 +737,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/2019_mkscience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/xiaowei-cai/</loc>
-    <lastmod>2019-06-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/xiaowei-cai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/xiaowei-cai/"
                 />
   </url>
   
@@ -541,22 +794,6 @@
   </url>
   
   <url>
-    <loc>/en/project/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/recommendation-bots/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -604,22 +841,6 @@
   </url>
   
   <url>
-    <loc>/en/tags/experimental-design/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/experimental-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/experimental-design/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/authors/rafael-cabeza/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -636,18 +857,18 @@
   </url>
   
   <url>
-    <loc>/en/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/en/tags/experimental-design/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication_types/3/"
+                href="/tags/experimental-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/3/"
+                href="/en/tags/experimental-design/"
                 />
   </url>
   
