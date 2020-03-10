@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 15:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,29 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Profesora de Marketing en la Universidad Pública de Navarra.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Gustavo Marcos</title>
+      <link>/authors/gustavo-marcos/</link>
+      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/authors/gustavo-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/authors/raquel-chocarro/</link>
+      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>/authors/raquel-chocarro/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -45,15 +63,6 @@
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/margarita-elorz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raquel Chocarro</title>
-      <link>/authors/raquel-chocarro/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     

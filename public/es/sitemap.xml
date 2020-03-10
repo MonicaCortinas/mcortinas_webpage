@@ -29,7 +29,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,134 @@
                 hreflang="es"
                 href="/authors/admin/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/digital-competencies/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/digital-competencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/digital-competencies/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/gustavo-marcos/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/raquel-chocarro/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/raquel-chocarro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/chatbots/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2020_gkaedutech/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -55,22 +183,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication_types/3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
                 />
   </url>
   
@@ -123,22 +235,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -182,22 +278,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/purchase-behaviour/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
                 />
   </url>
   
@@ -249,6 +329,22 @@
   </url>
   
   <url>
+    <loc>/tags/customer-journey/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/customer-journey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/customer-journey/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/margarita-elorz/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -276,38 +372,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication/2019_sjm/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/raquel-chocarro/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/raquel-chocarro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/customer-journey/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/customer-journey/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/customer-journey/"
                 />
   </url>
   
@@ -362,37 +426,6 @@
   <url>
     <loc>/talk/2019_sodena/</loc>
     <lastmod>2019-12-10T11:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2019-12-10T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/artificial-intelligence/"
-                />
   </url>
   
   <url>
@@ -694,22 +727,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/project/digital-competencies/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/digital-competencies/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/digital-competencies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/digital-competencies/"
                 />
   </url>
   
@@ -1871,11 +1888,6 @@
   </url>
   
   <url>
-    <loc>/post/blogger_primeros_pasos/</loc>
-    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
@@ -1885,6 +1897,11 @@
     <loc>/tags/blogger/</loc>
     <lastmod>2017-01-17T08:26:17+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/blogger_primeros_pasos/</loc>
+    <lastmod>2017-01-17T08:26:17+02:00</lastmod>
   </url>
   
   <url>
@@ -2682,6 +2699,22 @@
   </url>
   
   <url>
+    <loc>/tags/agriproducts/</loc>
+    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/agriproducts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/agriproducts/"
+                />
+  </url>
+  
+  <url>
     <loc>/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2710,22 +2743,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/tags/consumer-experience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/agriproducts/</loc>
-    <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/agriproducts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/agriproducts/"
                 />
   </url>
   
