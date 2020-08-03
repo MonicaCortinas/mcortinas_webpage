@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -35,7 +35,6 @@
   <url>
     <loc>/en/publication_types/3/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -51,7 +50,6 @@
   <url>
     <loc>/en/authors/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -67,7 +65,6 @@
   <url>
     <loc>/en/tags/grounded-theory/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -83,7 +80,6 @@
   <url>
     <loc>/en/tags/in-game-goods/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -99,7 +95,6 @@
   <url>
     <loc>/en/authors/javier-cebollada/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -115,7 +110,6 @@
   <url>
     <loc>/en/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -131,7 +125,6 @@
   <url>
     <loc>/en/publication_types/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -162,7 +155,6 @@
   <url>
     <loc>/en/tags/purchase-behaviour/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -178,7 +170,6 @@
   <url>
     <loc>/en/tags/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -209,7 +200,6 @@
   <url>
     <loc>/en/authors/xiaowei-cai/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -225,7 +215,6 @@
   <url>
     <loc>/en/publication_types/2/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -241,7 +230,6 @@
   <url>
     <loc>/en/tags/customer-journey/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -255,9 +243,23 @@
   </url>
   
   <url>
+    <loc>/en/tags/e-commerce/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/e-commerce/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/margarita-elorz/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -286,41 +288,8 @@
   </url>
   
   <url>
-    <loc>/en/authors/raquel-chocarro/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/raquel-chocarro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/e-commerce/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/e-commerce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/e-commerce/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/omnichannel-strategy/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -336,7 +305,6 @@
   <url>
     <loc>/en/tags/purchase-task/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -346,6 +314,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/purchase-task/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/raquel-chocarro/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/raquel-chocarro/"
                 />
   </url>
   
@@ -367,7 +350,6 @@
   <url>
     <loc>/en/tags/k-mean-clustering/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -383,7 +365,6 @@
   <url>
     <loc>/en/tags/lineal-regression/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -399,7 +380,6 @@
   <url>
     <loc>/en/tags/pull-pull-mooring-ppm-theory/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -415,7 +395,6 @@
   <url>
     <loc>/en/tags/switching-from-traditional-to-mobile-gaming/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -431,7 +410,6 @@
   <url>
     <loc>/en/tags/video-game-player-segmentation/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -447,7 +425,6 @@
   <url>
     <loc>/en/tags/artificial-intelligence/</loc>
     <lastmod>2019-10-23T11:30:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -493,7 +470,6 @@
   <url>
     <loc>/en/authors/arantxa-villanueva/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -509,7 +485,6 @@
   <url>
     <loc>/en/tags/eyetracking/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -525,7 +500,6 @@
   <url>
     <loc>/en/tags/omnichannel/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -571,7 +545,6 @@
   <url>
     <loc>/en/tags/digital-competencies/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -587,7 +560,6 @@
   <url>
     <loc>/en/tags/education/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -603,7 +575,6 @@
   <url>
     <loc>/en/tags/en-curso/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -619,7 +590,6 @@
   <url>
     <loc>/en/project/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -635,7 +605,6 @@
   <url>
     <loc>/en/publication_types/1/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -649,24 +618,8 @@
   </url>
   
   <url>
-    <loc>/en/publication/2019_earcd/</loc>
-    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/2019_earcd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/2019_earcd/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/eye-tracking/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -682,7 +635,6 @@
   <url>
     <loc>/en/tags/visual-attention/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -692,6 +644,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/visual-attention/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2019_earcd/</loc>
+    <lastmod>2019-07-03T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2019_earcd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2019_earcd/"
                 />
   </url>
   
@@ -726,24 +693,8 @@
   </url>
   
   <url>
-    <loc>/en/publication/2019_mkscience/</loc>
-    <lastmod>2019-06-22T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/2019_mkscience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/2019_mkscience/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/mobile-games/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -759,7 +710,6 @@
   <url>
     <loc>/en/tags/videogames/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -769,6 +719,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/videogames/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2019_mkscience/</loc>
+    <lastmod>2019-06-22T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2019_mkscience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2019_mkscience/"
                 />
   </url>
   
@@ -790,13 +755,11 @@
   <url>
     <loc>/en/tags/current/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/en/tags/recommendation-bots/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -812,7 +775,6 @@
   <url>
     <loc>/en/tags/retailing/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -822,6 +784,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/retailing/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/courses/"
                 />
   </url>
   
@@ -841,25 +818,8 @@
   </url>
   
   <url>
-    <loc>/en/authors/rafael-cabeza/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/rafael-cabeza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/rafael-cabeza/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -873,9 +833,23 @@
   </url>
   
   <url>
+    <loc>/en/authors/rafael-cabeza/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/rafael-cabeza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/rafael-cabeza/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/tags/channel-policies/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -891,7 +865,6 @@
   <url>
     <loc>/en/tags/distribution-services/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -907,7 +880,6 @@
   <url>
     <loc>/en/tags/online-retailing/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -923,7 +895,6 @@
   <url>
     <loc>/en/tags/segmentation/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -967,6 +938,21 @@
   </url>
   
   <url>
+    <loc>/en/tags/omnichannel-behavior/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/omnichannel-behavior/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/omnichannel-behavior/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/publication/2019_imrc/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -978,22 +964,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/2019_imrc/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/omnichannel-behavior/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/omnichannel-behavior/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/omnichannel-behavior/"
                 />
   </url>
   
@@ -1020,7 +990,6 @@
   <url>
     <loc>/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1111,7 +1080,6 @@
   <url>
     <loc>/en/authors/mar%C3%ADa-luisa-villanueva/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1127,7 +1095,6 @@
   <url>
     <loc>/en/tags/service-sector/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1156,24 +1123,8 @@
   </url>
   
   <url>
-    <loc>/en/talk/2018_criptocurrencies/</loc>
-    <lastmod>2018-06-15T11:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/talk/2018_criptocurrencies/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/2018_criptocurrencies/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/critocurrency/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1189,7 +1140,6 @@
   <url>
     <loc>/en/tags/digital-economy/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1203,9 +1153,23 @@
   </url>
   
   <url>
+    <loc>/en/talk/2018_criptocurrencies/</loc>
+    <lastmod>2018-06-15T11:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/talk/2018_criptocurrencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/2018_criptocurrencies/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/alberto-iba%C3%B1ez-fernandez/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1236,7 +1200,6 @@
   <url>
     <loc>/en/tags/distintive-competencies/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1252,7 +1215,6 @@
   <url>
     <loc>/en/authors/gyanendra-singh-sisodia/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1268,7 +1230,6 @@
   <url>
     <loc>/en/authors/pedro-reinares-lara/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1284,7 +1245,6 @@
   <url>
     <loc>/en/tags/strategy/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1294,6 +1254,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/strategy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/purchase-path/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/purchase-path/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/purchase-path/"
                 />
   </url>
   
@@ -1309,22 +1284,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/eyetracking-visualattention/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/purchase-path/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/purchase-path/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/purchase-path/"
                 />
   </url>
   
@@ -1361,7 +1320,6 @@
   <url>
     <loc>/en/tags/services-marketing/</loc>
     <lastmod>2017-09-08T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1405,6 +1363,21 @@
   </url>
   
   <url>
+    <loc>/en/tags/e-sports/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/e-sports/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/e-sports/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/project/mobile-games/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1422,7 +1395,6 @@
   <url>
     <loc>/en/tags/mobile-gaming/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1436,25 +1408,8 @@
   </url>
   
   <url>
-    <loc>/en/tags/e-sports/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/e-sports/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/e-sports/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/customer-satisfaction/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1470,7 +1425,6 @@
   <url>
     <loc>/en/tags/intentional-loyalty/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1486,7 +1440,6 @@
   <url>
     <loc>/en/authors/jos%C3%A9-m.-m%C3%BAgica/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1502,7 +1455,6 @@
   <url>
     <loc>/en/tags/online-channels/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1512,6 +1464,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/online-channels/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/private-sales-clubs/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/private-sales-clubs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/private-sales-clubs/"
                 />
   </url>
   
@@ -1531,25 +1498,8 @@
   </url>
   
   <url>
-    <loc>/en/tags/private-sales-clubs/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/private-sales-clubs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/private-sales-clubs/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/quantile-regression/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1565,7 +1515,6 @@
   <url>
     <loc>/en/authors/roger-r.-betancourt/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1596,7 +1545,6 @@
   <url>
     <loc>/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1612,7 +1560,6 @@
   <url>
     <loc>/en/authors/roger-betancourt/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1658,12 +1605,26 @@
   <url>
     <loc>/en/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/en/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/channel-choice-and-management/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/channel-choice-and-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/channel-choice-and-management/"
+                />
   </url>
   
   <url>
@@ -1682,25 +1643,8 @@
   </url>
   
   <url>
-    <loc>/en/tags/channel-choice-and-management/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/channel-choice-and-management/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/channel-choice-and-management/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/maximum-service-limits-of-channels/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1716,7 +1660,6 @@
   <url>
     <loc>/en/tags/online-vs.-offline-retailing/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1732,7 +1675,6 @@
   <url>
     <loc>/en/tags/separability-across-space-and-time/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1778,7 +1720,6 @@
   <url>
     <loc>/en/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1797,33 +1738,28 @@
   </url>
   
   <url>
+    <loc>/en/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/en/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/en/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/en/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/en/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/en/tags/buyer-behaviour/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1839,7 +1775,6 @@
   <url>
     <loc>/en/tags/channel-management/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1870,7 +1805,6 @@
   <url>
     <loc>/en/tags/e-service-quality/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1886,7 +1820,6 @@
   <url>
     <loc>/en/authors/maria-luisa-villanueva/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1917,7 +1850,6 @@
   <url>
     <loc>/en/tags/online-shopping/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1933,7 +1865,6 @@
   <url>
     <loc>/en/tags/other/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1969,7 +1900,6 @@
   <url>
     <loc>/en/tags/channel-choice/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1985,7 +1915,6 @@
   <url>
     <loc>/en/tags/experimentation/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2001,7 +1930,6 @@
   <url>
     <loc>/en/tags/internet/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2017,7 +1945,6 @@
   <url>
     <loc>/en/tags/situational-variables/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2048,7 +1975,6 @@
   <url>
     <loc>/en/tags/consensus/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2064,7 +1990,6 @@
   <url>
     <loc>/en/tags/consumer-response/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2080,7 +2005,6 @@
   <url>
     <loc>/en/tags/experts-influence/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2096,7 +2020,6 @@
   <url>
     <loc>/en/tags/information-complexity/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2112,7 +2035,6 @@
   <url>
     <loc>/en/tags/recommendations/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2128,7 +2050,6 @@
   <url>
     <loc>/en/tags/red-wines/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2174,7 +2095,6 @@
   <url>
     <loc>/en/tags/agriproducts/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2190,7 +2110,6 @@
   <url>
     <loc>/en/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2206,7 +2125,6 @@
   <url>
     <loc>/en/tags/consumer-experience/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2237,7 +2155,6 @@
   <url>
     <loc>/en/tags/asparragous/</loc>
     <lastmod>2012-03-21T11:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2268,7 +2185,6 @@
   <url>
     <loc>/en/tags/entropy/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2284,7 +2200,6 @@
   <url>
     <loc>/en/tags/financial-services/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2315,7 +2230,6 @@
   <url>
     <loc>/en/tags/latent-class-regression/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2331,7 +2245,6 @@
   <url>
     <loc>/en/tags/latent-segmentation/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2347,7 +2260,6 @@
   <url>
     <loc>/en/tags/multi-channel-behavior/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2363,7 +2275,6 @@
   <url>
     <loc>/en/tags/satisfaction-and-loyalty/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2379,7 +2290,6 @@
   <url>
     <loc>/en/tags/structural-equation-models/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2410,7 +2320,6 @@
   <url>
     <loc>/en/tags/brand-choice/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2426,7 +2335,6 @@
   <url>
     <loc>/en/authors/mariya-andreeva/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2442,7 +2350,6 @@
   <url>
     <loc>/en/tags/purchase-frequency/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2458,7 +2365,6 @@
   <url>
     <loc>/en/tags/purchase-incidence/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2474,7 +2380,6 @@
   <url>
     <loc>/en/tags/regularity/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2505,7 +2410,6 @@
   <url>
     <loc>/en/tags/finalizado/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2521,7 +2425,6 @@
   <url>
     <loc>/en/tags/grocery-shopping/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2537,7 +2440,6 @@
   <url>
     <loc>/en/tags/pricing/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2568,7 +2470,6 @@
   <url>
     <loc>/en/tags/choice-analysis/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2584,7 +2485,6 @@
   <url>
     <loc>/en/tags/designation-of-origin/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2600,7 +2500,6 @@
   <url>
     <loc>/en/tags/experience/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2616,7 +2515,6 @@
   <url>
     <loc>/en/tags/objective-knowledge/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2647,7 +2545,6 @@
   <url>
     <loc>/en/tags/brand-choice-problem/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2663,7 +2560,6 @@
   <url>
     <loc>/en/tags/customer-databases/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2679,7 +2575,6 @@
   <url>
     <loc>/en/tags/customer-loyalty-programs/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2725,7 +2620,6 @@
   <url>
     <loc>/en/tags/asparagus/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2756,7 +2650,6 @@
   <url>
     <loc>/en/tags/market-segmentation/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2772,7 +2665,6 @@
   <url>
     <loc>/en/tags/artificial-neural-networks/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2788,7 +2680,6 @@
   <url>
     <loc>/en/tags/choice-models/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2819,7 +2710,6 @@
   <url>
     <loc>/en/tags/multinomial-logit/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2835,7 +2725,6 @@
   <url>
     <loc>/en/tags/scanner-data/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2851,7 +2740,6 @@
   <url>
     <loc>/en/tags/loyalty-cards/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2882,7 +2770,6 @@
   <url>
     <loc>/en/tags/consumer-satisfaction/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2898,7 +2785,6 @@
   <url>
     <loc>/en/tags/productivity/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2929,7 +2815,6 @@
   <url>
     <loc>/en/tags/retailing-services/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2945,7 +2830,6 @@
   <url>
     <loc>/en/tags/store-loyalty/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2961,7 +2845,6 @@
   <url>
     <loc>/en/tags/structural-equation-modelling/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2977,7 +2860,6 @@
   <url>
     <loc>/en/authors/carmen-bern%C3%A9/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2993,7 +2875,6 @@
   <url>
     <loc>/en/tags/occasional-shoppers/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -3009,7 +2890,6 @@
   <url>
     <loc>/en/tags/price-elasticity/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -3025,7 +2905,6 @@
   <url>
     <loc>/en/tags/promotions/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -3041,7 +2920,6 @@
   <url>
     <loc>/en/tags/regular-customers/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -3066,20 +2944,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/2004_irrdcrb/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/courses/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
                 />
   </url>
   

@@ -25,7 +25,7 @@
 &lt;h3&gt;Gráficos Animados con &lt;a href=&#34;https://plot.ly/online-chart-maker/&#34;&gt;plot.ly&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Plot.ly es una herramienta impresionante para hacer gráficos ya que desde una interfaz visual sin necesidad de programar código, podemos crear gráficos espectaculares. En plot.ly, podemos crear una cuenta gratuita que nos permite el acceso a un panel como el que veis en la imagen.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;Imagen1.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;Imagen1.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;En este panel podemos subir datos desde un formato Excel o csv y a partir de ahí empezar a elaborar nuestro gráfico. Para ello, tenemos que seleccionar el tipo de gráfico, entre 22 opciones distintas. Además, podemos seleccionar distintos gráficos para series diferentes y combinarlos en un mismo gráfico. Por ejemplo, cambiando las opciones para el caso de “otros sectores” podríamos tener algo así:&lt;/p&gt;
@@ -45,7 +45,7 @@
 &lt;p&gt;Bueno, ya tenemos nuestro gráfico ¿y ahora qué?&lt;/p&gt;
 &lt;p&gt;Para utilizarlo, tenemos varias opciones. Si queremos usarlo en un documento que va a distribuirse impreso, tendremos que exportarlo a un formato que podemos incrustrar, aunque obviamente en este caso perderemos las opciones de interactividad. Plot.ly permite exportar en formato .png, .pdf, .svg y .eps con lo que tenemos opciones suficientes sea cual sea el editor que utilicemos.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;Imagen5.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;Imagen5.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Si queremos utilizarlo en una presentación, tenemos dos alternativas: incluir en la presentación un link que abra el gráfico en un navegador web o incrustarlo en la propia presentación. En el caso de que utilicemos un software estilo &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/muerte-por-powerpoint.html&#34;&gt;Power Point&lt;/a&gt;siempre tendremos que incluir el link, mientras que si utilizamos software de presentación en &lt;a href=&#34;http://mcrecursosdocentes.blogspot.com.es/2015/04/presentaciones-en-html-con-revealjs.html&#34;&gt;html&lt;/a&gt; podemos utilizar cualquiera de las dos opciones.&lt;/p&gt;
@@ -57,7 +57,7 @@
 &lt;h4&gt;Modificando gráficos ya creados con plot.ly&lt;/h4&gt;
 &lt;p&gt;Aunque el menú contextual es bastante intuitivo, las tremendas posibilidades de plot.ly hacen que a veces sea difícil construir desde cero un determinado gráfico. Lo bueno de esta herramienta es que nos permite navegar por la librería de gráficos públicos, coger uno determinado, copiarlo a nuestra biblioteca y a partir de ahí cargar nuestros propios datos.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;Imagen2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;Imagen2.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Para el ejemplo del cluster que tenemos ahí, podemos utilizar la opción “fork” y tendríamos el gráfico con sus datos originales listo para poder modificarlo. En el caso de este cluster, hay dos gráficos superpuestos, uno con las puntuaciones de los distintos puntos y otro con los centros de cada grupo.&lt;/p&gt;
@@ -104,14 +104,14 @@
 &lt;p&gt;\2. &lt;strong&gt;Barato:&lt;/strong&gt; de momento no me interesa pagar por alojar mis presentaciones&lt;/p&gt;
 &lt;p&gt;\3. &lt;strong&gt;Simple:&lt;/strong&gt; el hecho de alojar la presentación va a ser un trabajo adicional al propio hecho de prepararla y, dado que muchas veces (más de las debidas) suelo ir con el tiempo muy justo, no quiero añadir trabajo adicional.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;En el caso de AWS, la opción gratuita es interesante para este tipo de uso, ya que proporciona 5 GB y un número limitado de solicitudes. Como mis presentaciones no suelen tener provocar solicitudes de descargas masivas, la opción inicial es más que suficiente, así que el requisito “barato” está más que cumplido.&lt;/p&gt;
 &lt;p&gt;Con respecto al requisito “múltiple” tampoco es un problema, ya que podemos tener tantas páginas como queramos siempre que se cumpla el requisito de espacio y de solicitudes.&lt;/p&gt;
 &lt;p&gt;Por último, con respecto a lo simple, inicialmente AWS son un poco intimidantes. En la siguiente imagen vemos un subconjunto de los servicios ofrecidos:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;services.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;services.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;blockquote&gt;
@@ -132,7 +132,7 @@
 &lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
 &lt;p&gt;2.- El bucket está configurado como web estática:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;hosting.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;hosting.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Para configurar este acceso solo es necesario indicar cuál es el archivo “index.html” que contiene el código inicial del sitio.&lt;/p&gt;
@@ -254,7 +254,7 @@
 &lt;p&gt;En mi opinión, depende. ¿Por qué fracasa una presentación? El primer motivo de fracaso es considerar las transparencias simplemente como otra forma de exposición de un documento. Transparencias llenas de texto, con interminables listas de viñetas son una receta segura para los bostezos. Si vamos a utilizar transparencias como apoyo a una presentación oral, no deberíamos incluir en pantalla lo que vamos a contar, ya que si la audiencia está leyendo no puede escucharnos al mismo tiempo. Si lo que pretendemos es distribuir material completo, quizás deberíamos proporcionar a los estudiantes un documento en .pdf en lugar de una colección de transparencias.&lt;/p&gt;
 &lt;p&gt;Una primer solución que todos hemos probado para distinguir una presentación de un documento, es la inclusión de imágenes y efectos visuales.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;bad.jpg&#34; alt=&#34;Imágen de http://unlearningtech.blogspot.com.es/&#34; /&gt;
+&lt;img src=&#34;bad.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Imágen de &lt;a href=&#34;http://unlearningtech.blogspot.com.es/&#34; class=&#34;uri&#34;&gt;http://unlearningtech.blogspot.com.es/&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Sin embargo, esta solución conlleva peligros aún mayores que el simple copia-pega de un documento de texto. En PowerPoint es increíblemente fácil incluir gráficos, imágenes, animaciones y todo tipo de contrastes visuales. La tentación de usar todo su potencial es, a veces, demasiado grande. Una presentación de este tipo dispersa totalmente la atención de la audiencia y no permite seguir la exposición.&lt;/p&gt;

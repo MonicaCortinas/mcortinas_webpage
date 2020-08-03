@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 14 Oct 2019 08:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 17:26:17 +0200</lastBuildDate>
     
 	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigación</title>
+      <link>/categories/investigaci%C3%B3n/</link>
+      <pubDate>Mon, 03 Aug 2020 17:26:17 +0200</pubDate>
+      
+      <guid>/categories/investigaci%C3%B3n/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Escuela de Doctorado</title>
@@ -35,15 +44,6 @@
       <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
       
       <guid>/categories/inteligencia-artificial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigación</title>
-      <link>/categories/investigaci%C3%B3n/</link>
-      <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
-      
-      <guid>/categories/investigaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -84,24 +84,6 @@
     </item>
     
     <item>
-      <title>Herramientas 2.0</title>
-      <link>/categories/herramientas-2.0/</link>
-      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/categories/herramientas-2.0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>/categories/marketing/</link>
-      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
-      
-      <guid>/categories/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>criptomonedas</title>
       <link>/categories/criptomonedas/</link>
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
@@ -116,6 +98,24 @@
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
       
       <guid>/categories/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramientas 2.0</title>
+      <link>/categories/herramientas-2.0/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/categories/herramientas-2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>/categories/marketing/</link>
+      <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
+      
+      <guid>/categories/marketing/</guid>
       <description></description>
     </item>
     
@@ -165,7 +165,7 @@
     </item>
     
     <item>
-      <title>Blogger</title>
+      <title>blogger</title>
       <link>/categories/blogger/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
@@ -179,6 +179,15 @@
       <pubDate>Sun, 13 Mar 2016 08:26:17 +0200</pubDate>
       
       <guid>/categories/fuentes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repositorios</title>
+      <link>/categories/repositorios/</link>
+      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
+      
+      <guid>/categories/repositorios/</guid>
       <description></description>
     </item>
     
@@ -197,15 +206,6 @@
       <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
       
       <guid>/categories/slideshare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>repositorios</title>
-      <link>/categories/repositorios/</link>
-      <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
-      
-      <guid>/categories/repositorios/</guid>
       <description></description>
     </item>
     

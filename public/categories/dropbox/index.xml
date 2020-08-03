@@ -37,14 +37,14 @@
 &lt;p&gt;\2. &lt;strong&gt;Barato:&lt;/strong&gt; de momento no me interesa pagar por alojar mis presentaciones&lt;/p&gt;
 &lt;p&gt;\3. &lt;strong&gt;Simple:&lt;/strong&gt; el hecho de alojar la presentación va a ser un trabajo adicional al propio hecho de prepararla y, dado que muchas veces (más de las debidas) suelo ir con el tiempo muy justo, no quiero añadir trabajo adicional.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;amazonweb2.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;En el caso de AWS, la opción gratuita es interesante para este tipo de uso, ya que proporciona 5 GB y un número limitado de solicitudes. Como mis presentaciones no suelen tener provocar solicitudes de descargas masivas, la opción inicial es más que suficiente, así que el requisito “barato” está más que cumplido.&lt;/p&gt;
 &lt;p&gt;Con respecto al requisito “múltiple” tampoco es un problema, ya que podemos tener tantas páginas como queramos siempre que se cumpla el requisito de espacio y de solicitudes.&lt;/p&gt;
 &lt;p&gt;Por último, con respecto a lo simple, inicialmente AWS son un poco intimidantes. En la siguiente imagen vemos un subconjunto de los servicios ofrecidos:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;services.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;services.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;blockquote&gt;
@@ -65,7 +65,7 @@
 &lt;p&gt;1.- Los archivos en el bucket tienen permisos de acceso público&lt;/p&gt;
 &lt;p&gt;2.- El bucket está configurado como web estática:&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;hosting.png&#34; alt=&#34;img&#34; /&gt;
+&lt;img src=&#34;hosting.png&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;img&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Para configurar este acceso solo es necesario indicar cuál es el archivo “index.html” que contiene el código inicial del sitio.&lt;/p&gt;
