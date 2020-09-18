@@ -90,10 +90,6 @@ defaultContentLanguageInSubdir = true
   name = "Blog"
   url = "#posts"
   weight = 60
-  [[languages.es.menu.main]]
-  name = "Contacto"
-  url = "#contact"
-  weight = 70
   [languages.en]
     contentDir = "content/en"
     languageName = "English"
@@ -114,12 +110,7 @@ defaultContentLanguageInSubdir = true
   name = "Recent Talks"
   url = "talk/"
   weight = 40
-    [[languages.en.menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
-  
-  
+
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
