@@ -1108,21 +1108,6 @@
   </url>
   
   <url>
-    <loc>/en/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/privacy/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/critocurrency/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <xhtml:link
