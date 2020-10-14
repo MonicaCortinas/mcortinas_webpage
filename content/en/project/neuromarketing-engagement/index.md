@@ -5,13 +5,13 @@ image:
   caption: Image by Gerd Altmann in Pixabay 
   focal_point: Smart
 slides: 
-summary: Analysis of emotional processes and attention to audiovisual stimuli. Emotional Films Project.
+summary: "Analysis of emotional processes and attention to audiovisual stimuli. Emotional Films Project."
 tags:
 - e-commerce
 - eye-tracking
 - neuromarketing
 - On-going
-title: Measurement of engagement in audiovisual products. Emotional Films Project
+title: "Measurement of engagement in audiovisual products. Emotional Films Project"
 url_code: ""
 url_pdf: ""
 url_slides: ""
