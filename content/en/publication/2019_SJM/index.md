@@ -15,7 +15,7 @@ authors:
 - Margarita Elorz
 date: "2019"
 doi: "10.1108/SJME-06-2019-0031"
-featured: true
+featured: false
 image:
   focal_point: ""
   preview_only: false
