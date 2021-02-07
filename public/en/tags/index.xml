@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2020</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>/en/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>/en/tags/chatbot/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/en/tags/education/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/education/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grounded theory</title>
@@ -76,60 +103,6 @@
     </item>
     
     <item>
-      <title>K-mean clustering</title>
-      <link>/en/tags/k-mean-clustering/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/k-mean-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lineal regression</title>
-      <link>/en/tags/lineal-regression/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/lineal-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pull-Pull-Mooring (PPM) theory</title>
-      <link>/en/tags/pull-pull-mooring-ppm-theory/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/pull-pull-mooring-ppm-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switching from traditional to mobile gaming</title>
-      <link>/en/tags/switching-from-traditional-to-mobile-gaming/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/switching-from-traditional-to-mobile-gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video game player segmentation</title>
-      <link>/en/tags/video-game-player-segmentation/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/video-game-player-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>/en/tags/artificial-intelligence/</link>
-      <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/en/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>eyetracking</title>
       <link>/en/tags/eyetracking/</link>
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
@@ -153,15 +126,6 @@
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/digital-competencies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>/en/tags/education/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/education/</guid>
       <description></description>
     </item>
     

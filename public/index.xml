@@ -6,10 +6,19 @@
     <description>Recent content on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 17:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publicaciones</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
       
       <guid>/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publicaciones</title>
-      <link>/publication/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
       <description></description>
     </item>
     

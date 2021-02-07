@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 17:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>/tags/chatbot/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/education/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19</title>
@@ -44,15 +71,6 @@
       <pubDate>Mon, 03 Aug 2020 17:26:17 +0200</pubDate>
       
       <guid>/tags/turismo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>/tags/artificial-intelligence/</link>
-      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
-      
-      <guid>/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -147,51 +165,6 @@
     </item>
     
     <item>
-      <title>K-mean clustering</title>
-      <link>/tags/k-mean-clustering/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/k-mean-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lineal regression</title>
-      <link>/tags/lineal-regression/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lineal-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pull-Pull-Mooring (PPM) theory</title>
-      <link>/tags/pull-pull-mooring-ppm-theory/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pull-pull-mooring-ppm-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switching from traditional to mobile gaming</title>
-      <link>/tags/switching-from-traditional-to-mobile-gaming/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/switching-from-traditional-to-mobile-gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video game player segmentation</title>
-      <link>/tags/video-game-player-segmentation/</link>
-      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/video-game-player-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blogs</title>
       <link>/tags/blogs/</link>
       <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
@@ -269,15 +242,6 @@
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
       <guid>/tags/eyetracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>/tags/education/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/education/</guid>
       <description></description>
     </item>
     

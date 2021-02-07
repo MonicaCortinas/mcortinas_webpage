@@ -29,7 +29,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,8 +43,38 @@
   </url>
   
   <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/artificial-intelligence/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,6 +84,141 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/chatbot/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/chatbot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/chatbot/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/education/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/education/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/gustavo-marcos/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/gustavo-marcos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/gustavo-marcos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/raquel-chocarro/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/raquel-chocarro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/2021_erj/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2021_erj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2021_erj/"
                 />
   </url>
   
@@ -93,21 +258,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2020-08-03T17:26:17+02:00</lastmod>
     <xhtml:link
@@ -128,38 +278,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/turismo/</loc>
     <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/artificial-intelligence/</loc>
-    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/artificial-intelligence/"
-                />
   </url>
   
   <url>
@@ -183,11 +303,6 @@
   </url>
   
   <url>
-    <loc>/authors/gustavo-marcos/</loc>
-    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
     <lastmod>2020-03-26T15:00:00+00:00</lastmod>
     <xhtml:link
@@ -203,38 +318,8 @@
   </url>
   
   <url>
-    <loc>/authors/raquel-chocarro/</loc>
-    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/raquel-chocarro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
     <loc>/talk/2020_gkaedutech/</loc>
     <lastmod>2020-03-26T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/3/"
-                />
   </url>
   
   <url>
@@ -283,36 +368,6 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/purchase-behaviour/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -339,21 +394,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication/2020_ssrn/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publication/2021_erj/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/2021_erj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/2021_erj/"
                 />
   </url>
   
@@ -498,96 +538,6 @@
   </url>
   
   <url>
-    <loc>/publication/2019_ssrn2/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/2019_ssrn2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/2019_ssrn2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/k-mean-clustering/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/k-mean-clustering/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/k-mean-clustering/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/lineal-regression/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/lineal-regression/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/lineal-regression/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/pull-pull-mooring-ppm-theory/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/pull-pull-mooring-ppm-theory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/pull-pull-mooring-ppm-theory/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/switching-from-traditional-to-mobile-gaming/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/switching-from-traditional-to-mobile-gaming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/switching-from-traditional-to-mobile-gaming/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/video-game-player-segmentation/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/video-game-player-segmentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/video-game-player-segmentation/"
-                />
-  </url>
-  
-  <url>
     <loc>/talk/2019_mundo/</loc>
     <lastmod>2019-10-23T11:30:00+00:00</lastmod>
     <xhtml:link
@@ -724,21 +674,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/project/digital-competencies/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/education/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/education/"
                 />
   </url>
   
