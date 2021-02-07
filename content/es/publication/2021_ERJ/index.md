@@ -11,7 +11,7 @@ featured: true
 projects:
 - artificial-intelligence
 publication: "Educational Studies"
-publication_short: "SSRN"
+publication_short: "Educational Studies"
 publication_types:
 - "3"
 publishDate: "2019-23-03T00:00:00Z"
