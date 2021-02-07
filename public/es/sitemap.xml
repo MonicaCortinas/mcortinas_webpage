@@ -343,6 +343,21 @@
   </url>
   
   <url>
+    <loc>/publication/2021_erj/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2021_erj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2021_erj/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/xiaowei-cai/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
