@@ -7,7 +7,7 @@ authors:
 - admin
 - Gustavo Marcos
 date: "2021-02-07T00:00:00Z"
-featured: true
+featured: false
 projects:
 - artificial-intelligence
 publication: "Educational Studies"
