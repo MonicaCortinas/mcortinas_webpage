@@ -78,6 +78,21 @@
   </url>
   
   <url>
+    <loc>/en/authors/carmen-berne/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/carmen-berne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/carmen-berne/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/tags/chatbot/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -93,6 +108,21 @@
   </url>
   
   <url>
+    <loc>/en/publication/2021_fip/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2021_fip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2021_fip/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/tags/education/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -104,6 +134,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/education/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/frode-niilssen/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/frode-niilssen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/frode-niilssen/"
                 />
   </url>
   
@@ -134,6 +179,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/natalia-rubio/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/natalia-rubio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/natalia-rubio/"
                 />
   </url>
   
@@ -179,6 +239,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/raquel-chocarro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/retailing/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/retailing/"
                 />
   </url>
   
@@ -724,21 +799,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/recommendation-bots/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/retailing/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/retailing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/retailing/"
                 />
   </url>
   
