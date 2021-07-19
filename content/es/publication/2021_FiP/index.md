@@ -7,7 +7,7 @@ authors:
 - Raquel Chocarro
 - Frode Niilssen
 - Natalia Rubio
-date: "2021-02-07T00:00:00Z"
+date: "2021-07-07T00:00:00Z"
 featured: true
 projects:
 - artificial-intelligence

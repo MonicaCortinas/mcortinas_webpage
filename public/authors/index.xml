@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Profesora de Marketing en la Universidad Pública de Navarra.&lt;/p&gt;
@@ -24,7 +24,7 @@
     <item>
       <title>Carmen Berne</title>
       <link>/authors/carmen-berne/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/carmen-berne/</guid>
       <description></description>
@@ -33,9 +33,27 @@
     <item>
       <title>Frode Niilssen</title>
       <link>/authors/frode-niilssen/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/frode-niilssen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Rubio</title>
+      <link>/authors/natalia-rubio/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/natalia-rubio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/authors/raquel-chocarro/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     
@@ -45,24 +63,6 @@
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/gustavo-marcos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natalia Rubio</title>
-      <link>/authors/natalia-rubio/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/natalia-rubio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raquel Chocarro</title>
-      <link>/authors/raquel-chocarro/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     
