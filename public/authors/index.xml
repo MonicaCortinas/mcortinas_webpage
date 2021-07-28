@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,29 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Profesora de Marketing en la Universidad Pública de Navarra.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Javier Cebollada</title>
+      <link>/authors/javier-cebollada/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/javier-cebollada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Cai</title>
+      <link>/authors/xiaowei-cai/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaowei-cai/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -63,24 +81,6 @@
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/gustavo-marcos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javier Cebollada</title>
-      <link>/authors/javier-cebollada/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/javier-cebollada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaowei Cai</title>
-      <link>/authors/xiaowei-cai/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/xiaowei-cai/</guid>
       <description></description>
     </item>
     

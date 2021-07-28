@@ -19,7 +19,7 @@
   
   <url>
     <loc>/en/authors/admin/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>/en/publication_types/3/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,23 +48,8 @@
   </url>
   
   <url>
-    <loc>/en/tags/artificial-intelligence/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/artificial-intelligence/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/authors/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -78,8 +63,143 @@
   </url>
   
   <url>
+    <loc>/en/publication/2021_ec/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2021_ec/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2021_ec/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/gaming/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/gaming/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/javier-cebollada/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/javier-cebollada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/javier-cebollada/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication_types/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/xiaowei-cai/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/xiaowei-cai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/xiaowei-cai/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/artificial-intelligence/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/carmen-berne/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -89,6 +209,81 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/carmen-berne/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/2021_fip/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/publication/2021_fip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/2021_fip/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/frode-niilssen/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/frode-niilssen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/frode-niilssen/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/natalia-rubio/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/natalia-rubio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/natalia-rubio/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/raquel-chocarro/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/raquel-chocarro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/raquel-chocarro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/retailing/</loc>
+    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/retailing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/retailing/"
                 />
   </url>
   
@@ -108,21 +303,6 @@
   </url>
   
   <url>
-    <loc>/en/publication/2021_fip/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/2021_fip/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/2021_fip/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/education/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -138,21 +318,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/frode-niilssen/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/frode-niilssen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/frode-niilssen/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/authors/gustavo-marcos/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -164,111 +329,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/gustavo-marcos/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/natalia-rubio/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/natalia-rubio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/natalia-rubio/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publication_types/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publication/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/raquel-chocarro/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/raquel-chocarro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/retailing/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/retailing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/retailing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
                 />
   </url>
   
@@ -318,21 +378,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/javier-cebollada/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/javier-cebollada/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/javier-cebollada/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/tags/purchase-behaviour/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -359,21 +404,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/2020_ssrn/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/xiaowei-cai/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/xiaowei-cai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/xiaowei-cai/"
                 />
   </url>
   

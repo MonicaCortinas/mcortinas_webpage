@@ -7,11 +7,11 @@ authors:
 - admin
 - Gustavo Marcos
 date: "2021-02-07T00:00:00Z"
-featured: true
+featured: false
 projects:
 - artificial-intelligence
 publication: "Educational Studies"
-publication_short: "SSRN"
+publication_short: "Educational Studies"
 publication_types:
 - "3"
 publishDate: "2019-23-03T00:00:00Z"

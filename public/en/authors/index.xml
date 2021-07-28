@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/en/authors/admin/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/en/authors/admin/</guid>
       <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
@@ -23,9 +23,27 @@
     </item>
     
     <item>
+      <title>Javier Cebollada</title>
+      <link>/en/authors/javier-cebollada/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/authors/javier-cebollada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Cai</title>
+      <link>/en/authors/xiaowei-cai/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/authors/xiaowei-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carmen Berne</title>
       <link>/en/authors/carmen-berne/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/en/authors/carmen-berne/</guid>
       <description></description>
@@ -34,9 +52,27 @@
     <item>
       <title>Frode Niilssen</title>
       <link>/en/authors/frode-niilssen/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/en/authors/frode-niilssen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Rubio</title>
+      <link>/en/authors/natalia-rubio/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/authors/natalia-rubio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/en/authors/raquel-chocarro/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     
@@ -46,42 +82,6 @@
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/en/authors/gustavo-marcos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natalia Rubio</title>
-      <link>/en/authors/natalia-rubio/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/natalia-rubio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raquel Chocarro</title>
-      <link>/en/authors/raquel-chocarro/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/raquel-chocarro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javier Cebollada</title>
-      <link>/en/authors/javier-cebollada/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/javier-cebollada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaowei Cai</title>
-      <link>/en/authors/xiaowei-cai/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/xiaowei-cai/</guid>
       <description></description>
     </item>
     
