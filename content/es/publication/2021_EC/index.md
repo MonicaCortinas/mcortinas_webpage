@@ -6,7 +6,7 @@ authors:
 - admin
 - Javier Cebollada
 date: "2021-07-27T00:00:00Z"
-featured: true
+featured: false
 projects:
 - mobile-games
 publication: "Entertainment Computing"
