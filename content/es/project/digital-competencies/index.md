@@ -8,7 +8,7 @@ summary: Análisis de las competencias digitales del docentes en el marco Digico
 tags:
 - Digital competencies
 - Education
-- En curso
+- Finalizado
 title: Competencias Digitales del Profesorado
 url_project: "https://fpdigitalnavarra.netlify.com/about/"
 url_code: ""

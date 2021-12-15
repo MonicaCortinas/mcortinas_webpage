@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>/en/tags/artificial-intelligence/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile gaming</title>
+      <link>/en/tags/mobile-gaming/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/tags/mobile-gaming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaming</title>
@@ -18,15 +36,6 @@
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>/en/tags/artificial-intelligence/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -148,11 +157,11 @@
     </item>
     
     <item>
-      <title>En curso</title>
-      <link>/en/tags/en-curso/</link>
+      <title>Finalizado</title>
+      <link>/en/tags/finalizado/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/en-curso/</guid>
+      <guid>/en/tags/finalizado/</guid>
       <description></description>
     </item>
     
@@ -333,15 +342,6 @@
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/e-sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile gaming</title>
-      <link>/en/tags/mobile-gaming/</link>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/mobile-gaming/</guid>
       <description></description>
     </item>
     
@@ -729,15 +729,6 @@
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>/en/tags/regularity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finalizado</title>
-      <link>/en/tags/finalizado/</link>
-      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/finalizado/</guid>
       <description></description>
     </item>
     
