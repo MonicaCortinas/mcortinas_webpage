@@ -6,7 +6,7 @@ authors:
 - Cebollada, Javier
 - admin
 date: "2021-12-15T00:00:00Z"
-featured: true
+featured: false
 projects:
 - mobile-games
 publication: "International Journal of Human-Computer Studies"
