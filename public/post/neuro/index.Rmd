@@ -1,0 +1,24 @@
+---
+authors:
+- admin
+categories: [Investigación, ]
+date: 2022-03-06T08:26:17+02:00
+draft: false
+featured: false
+image:
+  caption: "Vista dorsal del encéfalo de cordero"
+  focal_point: "Center"
+projects: []
+subtitle: "Con las manos en la masa (cerebral)"
+title: "Aprendiendo principios de neurociencia"
+tags: [Investigación, ]
+---
+
+En las líneas de investigación en atención y emoción que estamos trabajando en los últimos proyectos, he echado en falta unos mejores fundamentos básicos en fisiología del sistema nervioso y el cerebro y neurociencia, así que estoy relacionando un curso sumamente interesante ofertado en la UPNA, dentro del [Máster Propio en Cultura Científica](https://www.unavarra.es/fundacionuniversidadsociedad/formacion/titulos-propios-de-la-universidad/humanidades-ciencias-sociales-educacion?seccion=padm&contentId=241894). El curso se llama [Introducción a la Neurociencia](http://www.unavarra.es/digitalAssets/155/155495_100000Curso-en-Introduccion-a-la-neurociencia.pdf), impartido por José Ramón Alonso, Catedrático de la Universidad de Salamanca. 
+
+
+### Formación online
+
+ La formación online tiene la gran ventaja de que podemos seguirla a nuestro propio ritmo desde cualquier lugar. Las vacaciones son un momento ideal para aprovechar estas posibilidades e introducirnos en temáticas nuevas que nos resulten personalmente atractivas.
+
+### Formación en lenguajes web
