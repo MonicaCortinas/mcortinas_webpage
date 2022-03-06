@@ -29,7 +29,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,96 @@
                 rel="alternate"
                 hreflang="es"
                 href="/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/neuro/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/investigaci%C3%B3n/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/investigaci%C3%B3n/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-06T08:26:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/tags/"
                 />
   </url>
   
@@ -88,21 +178,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/cai-xiaowei/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -148,21 +223,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -189,21 +249,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/"
                 />
   </url>
   
@@ -433,53 +478,13 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/covid-19/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/investigaci%C3%B3n/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/investigaci%C3%B3n/</loc>
     <lastmod>2020-08-03T17:26:17+02:00</lastmod>
   </url>
   
   <url>
     <loc>/post/credence/</loc>
     <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-08-03T17:26:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/post/"
-                />
   </url>
   
   <url>
