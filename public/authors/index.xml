@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Sun, 06 Mar 2022 08:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2022 15:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,38 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 06 Mar 2022 08:26:17 +0200</pubDate>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Profesora de Marketing en la Universidad Pública de Navarra.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Alvaro Saavedra</title>
+      <link>/authors/alvaro-saavedra/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>/authors/alvaro-saavedra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Rubio</title>
+      <link>/authors/natalia-rubio/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>/authors/natalia-rubio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raquel Chocarro</title>
+      <link>/authors/raquel-chocarro/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>/authors/raquel-chocarro/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -72,24 +99,6 @@
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/frode-niilssen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natalia Rubio</title>
-      <link>/authors/natalia-rubio/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/natalia-rubio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raquel Chocarro</title>
-      <link>/authors/raquel-chocarro/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/raquel-chocarro/</guid>
       <description></description>
     </item>
     
