@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grocery shopping on Mónica Cortiñas</title>
-    <link>/tags/grocery-shopping/</link>
+    <link>https://monicacortinas.net/tags/grocery-shopping/</link>
     <description>Recent content in Grocery shopping on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Tue, 27 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/grocery-shopping/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/tags/grocery-shopping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Retailing strategy</title>
-      <link>/project/retailers-strategy/</link>
+      <link>https://monicacortinas.net/project/retailers-strategy/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/project/retailers-strategy/</guid>
+      <guid>https://monicacortinas.net/project/retailers-strategy/</guid>
       <description>&lt;p&gt;En este proyecto exploramos aspectos relevantes para la gestión de servicios, precios, surtido y promociones en distribución minorista.&lt;/p&gt;
 </description>
     </item>

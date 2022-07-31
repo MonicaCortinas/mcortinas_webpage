@@ -2,230 +2,239 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Mónica Cortiñas</title>
-    <link>/en/authors/</link>
+    <link>https://monicacortinas.net/en/authors/</link>
     <description>Recent content in Authors on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
+    <lastBuildDate>Tue, 12 Jul 2022 15:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/en/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/en/authors/admin/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://monicacortinas.net/en/authors/admin/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>/en/authors/admin/</guid>
+      <guid>https://monicacortinas.net/en/authors/admin/</guid>
       <description>&lt;p&gt;Marketing Professor at Public University of Navarre (Spain)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Cai, Xiaowei</title>
-      <link>/en/authors/cai-xiaowei/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Alvaro Saavedra</title>
+      <link>https://monicacortinas.net/en/authors/alvaro-saavedra/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>/en/authors/cai-xiaowei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cebollada, Javier</title>
-      <link>/en/authors/cebollada-javier/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/cebollada-javier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javier Cebollada</title>
-      <link>/en/authors/javier-cebollada/</link>
-      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/javier-cebollada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaowei Cai</title>
-      <link>/en/authors/xiaowei-cai/</link>
-      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/xiaowei-cai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carmen Berne</title>
-      <link>/en/authors/carmen-berne/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/carmen-berne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Frode Niilssen</title>
-      <link>/en/authors/frode-niilssen/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/frode-niilssen/</guid>
+      <guid>https://monicacortinas.net/en/authors/alvaro-saavedra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalia Rubio</title>
-      <link>/en/authors/natalia-rubio/</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://monicacortinas.net/en/authors/natalia-rubio/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>/en/authors/natalia-rubio/</guid>
+      <guid>https://monicacortinas.net/en/authors/natalia-rubio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raquel Chocarro</title>
-      <link>/en/authors/raquel-chocarro/</link>
+      <link>https://monicacortinas.net/en/authors/raquel-chocarro/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/raquel-chocarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cai, Xiaowei</title>
+      <link>https://monicacortinas.net/en/authors/cai-xiaowei/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/cai-xiaowei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cebollada, Javier</title>
+      <link>https://monicacortinas.net/en/authors/cebollada-javier/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/cebollada-javier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Cebollada</title>
+      <link>https://monicacortinas.net/en/authors/javier-cebollada/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/javier-cebollada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowei Cai</title>
+      <link>https://monicacortinas.net/en/authors/xiaowei-cai/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/xiaowei-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen Berne</title>
+      <link>https://monicacortinas.net/en/authors/carmen-berne/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/raquel-chocarro/</guid>
+      <guid>https://monicacortinas.net/en/authors/carmen-berne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frode Niilssen</title>
+      <link>https://monicacortinas.net/en/authors/frode-niilssen/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/frode-niilssen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gustavo Marcos</title>
-      <link>/en/authors/gustavo-marcos/</link>
+      <link>https://monicacortinas.net/en/authors/gustavo-marcos/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/gustavo-marcos/</guid>
+      <guid>https://monicacortinas.net/en/authors/gustavo-marcos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Margarita Elorz</title>
-      <link>/en/authors/margarita-elorz/</link>
+      <link>https://monicacortinas.net/en/authors/margarita-elorz/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/margarita-elorz/</guid>
+      <guid>https://monicacortinas.net/en/authors/margarita-elorz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arantxa Villanueva</title>
-      <link>/en/authors/arantxa-villanueva/</link>
+      <link>https://monicacortinas.net/en/authors/arantxa-villanueva/</link>
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
-      <guid>/en/authors/arantxa-villanueva/</guid>
+      <guid>https://monicacortinas.net/en/authors/arantxa-villanueva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rafael Cabeza</title>
-      <link>/en/authors/rafael-cabeza/</link>
+      <link>https://monicacortinas.net/en/authors/rafael-cabeza/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/rafael-cabeza/</guid>
+      <guid>https://monicacortinas.net/en/authors/rafael-cabeza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>María Luisa Villanueva</title>
-      <link>/en/authors/mar%C3%ADa-luisa-villanueva/</link>
+      <link>https://monicacortinas.net/en/authors/mar%C3%ADa-luisa-villanueva/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/mar%C3%ADa-luisa-villanueva/</guid>
+      <guid>https://monicacortinas.net/en/authors/mar%C3%ADa-luisa-villanueva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alberto Ibañez Fernandez</title>
-      <link>/en/authors/alberto-iba%C3%B1ez-fernandez/</link>
+      <link>https://monicacortinas.net/en/authors/alberto-iba%C3%B1ez-fernandez/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/alberto-iba%C3%B1ez-fernandez/</guid>
+      <guid>https://monicacortinas.net/en/authors/alberto-iba%C3%B1ez-fernandez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gyanendra Singh Sisodia</title>
-      <link>/en/authors/gyanendra-singh-sisodia/</link>
+      <link>https://monicacortinas.net/en/authors/gyanendra-singh-sisodia/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/gyanendra-singh-sisodia/</guid>
+      <guid>https://monicacortinas.net/en/authors/gyanendra-singh-sisodia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedro Reinares Lara</title>
-      <link>/en/authors/pedro-reinares-lara/</link>
+      <link>https://monicacortinas.net/en/authors/pedro-reinares-lara/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/pedro-reinares-lara/</guid>
+      <guid>https://monicacortinas.net/en/authors/pedro-reinares-lara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>José M. Múgica</title>
-      <link>/en/authors/jos%C3%A9-m.-m%C3%BAgica/</link>
+      <link>https://monicacortinas.net/en/authors/jos%C3%A9-m.-m%C3%BAgica/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/jos%C3%A9-m.-m%C3%BAgica/</guid>
+      <guid>https://monicacortinas.net/en/authors/jos%C3%A9-m.-m%C3%BAgica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roger R. Betancourt</title>
-      <link>/en/authors/roger-r.-betancourt/</link>
+      <link>https://monicacortinas.net/en/authors/roger-r.-betancourt/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/roger-r.-betancourt/</guid>
+      <guid>https://monicacortinas.net/en/authors/roger-r.-betancourt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>José Miguel Múgica</title>
-      <link>/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</link>
+      <link>https://monicacortinas.net/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</link>
       <pubDate>Fri, 09 Sep 2016 11:00:00 +0000</pubDate>
       
-      <guid>/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</guid>
+      <guid>https://monicacortinas.net/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roger Betancourt</title>
-      <link>/en/authors/roger-betancourt/</link>
+      <link>https://monicacortinas.net/en/authors/roger-betancourt/</link>
       <pubDate>Fri, 09 Sep 2016 11:00:00 +0000</pubDate>
       
-      <guid>/en/authors/roger-betancourt/</guid>
+      <guid>https://monicacortinas.net/en/authors/roger-betancourt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria Luisa Villanueva</title>
-      <link>/en/authors/maria-luisa-villanueva/</link>
+      <link>https://monicacortinas.net/en/authors/maria-luisa-villanueva/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/maria-luisa-villanueva/</guid>
+      <guid>https://monicacortinas.net/en/authors/maria-luisa-villanueva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mariya Andreeva</title>
-      <link>/en/authors/mariya-andreeva/</link>
+      <link>https://monicacortinas.net/en/authors/mariya-andreeva/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/mariya-andreeva/</guid>
+      <guid>https://monicacortinas.net/en/authors/mariya-andreeva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carmen Berné</title>
-      <link>/en/authors/carmen-bern%C3%A9/</link>
+      <link>https://monicacortinas.net/en/authors/carmen-bern%C3%A9/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/authors/carmen-bern%C3%A9/</guid>
+      <guid>https://monicacortinas.net/en/authors/carmen-bern%C3%A9/</guid>
       <description></description>
     </item>
     

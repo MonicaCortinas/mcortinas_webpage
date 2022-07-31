@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herramientas 2.0 on Mónica Cortiñas</title>
-    <link>/tags/herramientas-2.0/</link>
+    <link>https://monicacortinas.net/tags/herramientas-2.0/</link>
     <description>Recent content in Herramientas 2.0 on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Mon, 14 Oct 2019 08:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/tags/herramientas-2.0/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/tags/herramientas-2.0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jornadas Doctorales INARBE: Seminario Inteligencia Artificial y Marketing</title>
-      <link>/post/seminarioai/</link>
+      <link>https://monicacortinas.net/post/seminarioai/</link>
       <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
       
-      <guid>/post/seminarioai/</guid>
+      <guid>https://monicacortinas.net/post/seminarioai/</guid>
       <description>
 
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>Criptomonedas: ¿milagro tecnológico, inversión financiera o moda pasajera?</title>
-      <link>/post/cripto/</link>
+      <link>https://monicacortinas.net/post/cripto/</link>
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
       
-      <guid>/post/cripto/</guid>
+      <guid>https://monicacortinas.net/post/cripto/</guid>
       <description>
 
 
@@ -47,10 +47,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Gráficos Interactivos: dando vida a los números</title>
-      <link>/post/plotly/</link>
+      <link>https://monicacortinas.net/post/plotly/</link>
       <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
       
-      <guid>/post/plotly/</guid>
+      <guid>https://monicacortinas.net/post/plotly/</guid>
       <description>
 
 
@@ -114,10 +114,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Data Science Specialization in Coursera</title>
-      <link>/post/verano2/</link>
+      <link>https://monicacortinas.net/post/verano2/</link>
       <pubDate>Thu, 17 Aug 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/verano2/</guid>
+      <guid>https://monicacortinas.net/post/verano2/</guid>
       <description>
 
 
@@ -220,10 +220,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Probando el hosting de Amazon S3</title>
-      <link>/post/aws/</link>
+      <link>https://monicacortinas.net/post/aws/</link>
       <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/aws/</guid>
+      <guid>https://monicacortinas.net/post/aws/</guid>
       <description>
 
 
@@ -299,10 +299,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Recursos para presentaciones y blogs (II) </title>
-      <link>/post/recursosgraficos2/</link>
+      <link>https://monicacortinas.net/post/recursosgraficos2/</link>
       <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/recursosgraficos2/</guid>
+      <guid>https://monicacortinas.net/post/recursosgraficos2/</guid>
       <description>
 
 
@@ -347,10 +347,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Recursos para presentaciones y blogs (I) </title>
-      <link>/post/recursosgraficos/</link>
+      <link>https://monicacortinas.net/post/recursosgraficos/</link>
       <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/recursosgraficos/</guid>
+      <guid>https://monicacortinas.net/post/recursosgraficos/</guid>
       <description>
 
 
@@ -413,10 +413,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Mapas Conceptuales</title>
-      <link>/post/mapas_conceptuales/</link>
+      <link>https://monicacortinas.net/post/mapas_conceptuales/</link>
       <pubDate>Sun, 16 Oct 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/mapas_conceptuales/</guid>
+      <guid>https://monicacortinas.net/post/mapas_conceptuales/</guid>
       <description>
 
 
@@ -456,10 +456,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>¡Mis apuntes, mi tesoro!</title>
-      <link>/post/treasure/</link>
+      <link>https://monicacortinas.net/post/treasure/</link>
       <pubDate>Fri, 16 Sep 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/treasure/</guid>
+      <guid>https://monicacortinas.net/post/treasure/</guid>
       <description>
 
 
@@ -539,10 +539,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Repositorios para material docente</title>
-      <link>/post/repositorio/</link>
+      <link>https://monicacortinas.net/post/repositorio/</link>
       <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/repositorio/</guid>
+      <guid>https://monicacortinas.net/post/repositorio/</guid>
       <description>
 
 
@@ -573,10 +573,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Visualizando los temas de investigación</title>
-      <link>/post/nube_research/</link>
+      <link>https://monicacortinas.net/post/nube_research/</link>
       <pubDate>Tue, 01 Sep 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/nube_research/</guid>
+      <guid>https://monicacortinas.net/post/nube_research/</guid>
       <description>
 
 
@@ -594,10 +594,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Verano: ¿Cuándo si no?</title>
-      <link>/post/verano/</link>
+      <link>https://monicacortinas.net/post/verano/</link>
       <pubDate>Sat, 15 Aug 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/verano/</guid>
+      <guid>https://monicacortinas.net/post/verano/</guid>
       <description>
 
 
@@ -629,10 +629,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Gamificación (2). Recursos para dinamizar la clase</title>
-      <link>/post/gaming2/</link>
+      <link>https://monicacortinas.net/post/gaming2/</link>
       <pubDate>Sat, 30 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/gaming2/</guid>
+      <guid>https://monicacortinas.net/post/gaming2/</guid>
       <description>
 
 
@@ -673,10 +673,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Gamificación: Simuladores de empresa. ¡3, 2, 1 Fight!</title>
-      <link>/post/simuladores/</link>
+      <link>https://monicacortinas.net/post/simuladores/</link>
       <pubDate>Sat, 18 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/simuladores/</guid>
+      <guid>https://monicacortinas.net/post/simuladores/</guid>
       <description>
 
 

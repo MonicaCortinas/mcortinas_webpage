@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mónica Cortiñas</title>
-    <link>/en/</link>
+    <link>https://monicacortinas.net/en/</link>
     <description>Recent content on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
+    <lastBuildDate>Tue, 12 Jul 2022 15:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Publications</title>
-      <link>/en/publication/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://monicacortinas.net/en/talk/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>/en/publication/</guid>
+      <guid>https://monicacortinas.net/en/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/en/talk/</link>
-      <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://monicacortinas.net/en/publication/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/en/talk/</guid>
+      <guid>https://monicacortinas.net/en/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/en/project/</link>
+      <link>https://monicacortinas.net/en/project/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/project/</guid>
+      <guid>https://monicacortinas.net/en/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>/en/courses/</link>
+      <link>https://monicacortinas.net/en/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/en/courses/</guid>
+      <guid>https://monicacortinas.net/en/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/en/post/</link>
+      <link>https://monicacortinas.net/en/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/post/</guid>
+      <guid>https://monicacortinas.net/en/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/en/slides/</link>
+      <link>https://monicacortinas.net/en/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/slides/</guid>
+      <guid>https://monicacortinas.net/en/slides/</guid>
       <description></description>
     </item>
     

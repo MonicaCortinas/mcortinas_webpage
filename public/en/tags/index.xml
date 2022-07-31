@@ -2,958 +2,967 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mónica Cortiñas</title>
-    <link>/en/tags/</link>
+    <link>https://monicacortinas.net/en/tags/</link>
     <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
+    <lastBuildDate>Tue, 12 Jul 2022 15:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>/en/tags/artificial-intelligence/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://monicacortinas.net/en/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>/en/tags/artificial-intelligence/</guid>
+      <guid>https://monicacortinas.net/en/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chatbots</title>
+      <link>https://monicacortinas.net/en/tags/chatbots/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/chatbots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile gaming</title>
-      <link>/en/tags/mobile-gaming/</link>
+      <link>https://monicacortinas.net/en/tags/mobile-gaming/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/mobile-gaming/</guid>
+      <guid>https://monicacortinas.net/en/tags/mobile-gaming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaming</title>
-      <link>/en/tags/gaming/</link>
+      <link>https://monicacortinas.net/en/tags/gaming/</link>
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/gaming/</guid>
+      <guid>https://monicacortinas.net/en/tags/gaming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retailing</title>
-      <link>/en/tags/retailing/</link>
+      <link>https://monicacortinas.net/en/tags/retailing/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/retailing/</guid>
+      <guid>https://monicacortinas.net/en/tags/retailing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chatbot</title>
-      <link>/en/tags/chatbot/</link>
+      <link>https://monicacortinas.net/en/tags/chatbot/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/chatbot/</guid>
+      <guid>https://monicacortinas.net/en/tags/chatbot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>/en/tags/education/</link>
+      <link>https://monicacortinas.net/en/tags/education/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grounded theory</title>
-      <link>/en/tags/grounded-theory/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/grounded-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-game goods</title>
-      <link>/en/tags/in-game-goods/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/in-game-goods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Purchase behaviour</title>
-      <link>/en/tags/purchase-behaviour/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/purchase-behaviour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Customer journey</title>
-      <link>/en/tags/customer-journey/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/customer-journey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>e-commerce</title>
-      <link>/en/tags/e-commerce/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>omnichannel strategy</title>
-      <link>/en/tags/omnichannel-strategy/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/omnichannel-strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>purchase task</title>
-      <link>/en/tags/purchase-task/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/purchase-task/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eyetracking</title>
-      <link>/en/tags/eyetracking/</link>
-      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/en/tags/eyetracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Omnichannel</title>
-      <link>/en/tags/omnichannel/</link>
-      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
-      
-      <guid>/en/tags/omnichannel/</guid>
+      <guid>https://monicacortinas.net/en/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital competencies</title>
-      <link>/en/tags/digital-competencies/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <link>https://monicacortinas.net/en/tags/digital-competencies/</link>
+      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
       
-      <guid>/en/tags/digital-competencies/</guid>
+      <guid>https://monicacortinas.net/en/tags/digital-competencies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounded theory</title>
+      <link>https://monicacortinas.net/en/tags/grounded-theory/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/grounded-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-game goods</title>
+      <link>https://monicacortinas.net/en/tags/in-game-goods/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/in-game-goods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purchase behaviour</title>
+      <link>https://monicacortinas.net/en/tags/purchase-behaviour/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/purchase-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer journey</title>
+      <link>https://monicacortinas.net/en/tags/customer-journey/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/customer-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>https://monicacortinas.net/en/tags/e-commerce/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel strategy</title>
+      <link>https://monicacortinas.net/en/tags/omnichannel-strategy/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/omnichannel-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purchase task</title>
+      <link>https://monicacortinas.net/en/tags/purchase-task/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/purchase-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eyetracking</title>
+      <link>https://monicacortinas.net/en/tags/eyetracking/</link>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/eyetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnichannel</title>
+      <link>https://monicacortinas.net/en/tags/omnichannel/</link>
+      <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/omnichannel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finalizado</title>
-      <link>/en/tags/finalizado/</link>
+      <link>https://monicacortinas.net/en/tags/finalizado/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/finalizado/</guid>
+      <guid>https://monicacortinas.net/en/tags/finalizado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eye-tracking</title>
-      <link>/en/tags/eye-tracking/</link>
+      <link>https://monicacortinas.net/en/tags/eye-tracking/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
-      <guid>/en/tags/eye-tracking/</guid>
+      <guid>https://monicacortinas.net/en/tags/eye-tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visual attention</title>
-      <link>/en/tags/visual-attention/</link>
+      <link>https://monicacortinas.net/en/tags/visual-attention/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
-      <guid>/en/tags/visual-attention/</guid>
+      <guid>https://monicacortinas.net/en/tags/visual-attention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile games</title>
-      <link>/en/tags/mobile-games/</link>
+      <link>https://monicacortinas.net/en/tags/mobile-games/</link>
       <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
       
-      <guid>/en/tags/mobile-games/</guid>
+      <guid>https://monicacortinas.net/en/tags/mobile-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>videogames</title>
-      <link>/en/tags/videogames/</link>
+      <link>https://monicacortinas.net/en/tags/videogames/</link>
       <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
       
-      <guid>/en/tags/videogames/</guid>
+      <guid>https://monicacortinas.net/en/tags/videogames/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current</title>
-      <link>/en/tags/current/</link>
+      <link>https://monicacortinas.net/en/tags/current/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/current/</guid>
+      <guid>https://monicacortinas.net/en/tags/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendation bots</title>
-      <link>/en/tags/recommendation-bots/</link>
+      <link>https://monicacortinas.net/en/tags/recommendation-bots/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/recommendation-bots/</guid>
+      <guid>https://monicacortinas.net/en/tags/recommendation-bots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental design</title>
-      <link>/en/tags/experimental-design/</link>
+      <link>https://monicacortinas.net/en/tags/experimental-design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/experimental-design/</guid>
+      <guid>https://monicacortinas.net/en/tags/experimental-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel Policies</title>
-      <link>/en/tags/channel-policies/</link>
+      <link>https://monicacortinas.net/en/tags/channel-policies/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/channel-policies/</guid>
+      <guid>https://monicacortinas.net/en/tags/channel-policies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution services</title>
-      <link>/en/tags/distribution-services/</link>
+      <link>https://monicacortinas.net/en/tags/distribution-services/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/distribution-services/</guid>
+      <guid>https://monicacortinas.net/en/tags/distribution-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Retailing</title>
-      <link>/en/tags/online-retailing/</link>
+      <link>https://monicacortinas.net/en/tags/online-retailing/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/online-retailing/</guid>
+      <guid>https://monicacortinas.net/en/tags/online-retailing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation</title>
-      <link>/en/tags/segmentation/</link>
+      <link>https://monicacortinas.net/en/tags/segmentation/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/segmentation/</guid>
+      <guid>https://monicacortinas.net/en/tags/segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnichannel behavior</title>
-      <link>/en/tags/omnichannel-behavior/</link>
+      <link>https://monicacortinas.net/en/tags/omnichannel-behavior/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/omnichannel-behavior/</guid>
+      <guid>https://monicacortinas.net/en/tags/omnichannel-behavior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Service sector</title>
-      <link>/en/tags/service-sector/</link>
+      <link>https://monicacortinas.net/en/tags/service-sector/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/service-sector/</guid>
+      <guid>https://monicacortinas.net/en/tags/service-sector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>critocurrency</title>
-      <link>/en/tags/critocurrency/</link>
+      <link>https://monicacortinas.net/en/tags/critocurrency/</link>
       <pubDate>Fri, 15 Jun 2018 11:00:00 +0000</pubDate>
       
-      <guid>/en/tags/critocurrency/</guid>
+      <guid>https://monicacortinas.net/en/tags/critocurrency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>digital economy</title>
-      <link>/en/tags/digital-economy/</link>
+      <link>https://monicacortinas.net/en/tags/digital-economy/</link>
       <pubDate>Fri, 15 Jun 2018 11:00:00 +0000</pubDate>
       
-      <guid>/en/tags/digital-economy/</guid>
+      <guid>https://monicacortinas.net/en/tags/digital-economy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distintive Competencies</title>
-      <link>/en/tags/distintive-competencies/</link>
+      <link>https://monicacortinas.net/en/tags/distintive-competencies/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/distintive-competencies/</guid>
+      <guid>https://monicacortinas.net/en/tags/distintive-competencies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategy</title>
-      <link>/en/tags/strategy/</link>
+      <link>https://monicacortinas.net/en/tags/strategy/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/strategy/</guid>
+      <guid>https://monicacortinas.net/en/tags/strategy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>purchase path</title>
-      <link>/en/tags/purchase-path/</link>
+      <link>https://monicacortinas.net/en/tags/purchase-path/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/purchase-path/</guid>
+      <guid>https://monicacortinas.net/en/tags/purchase-path/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services marketing</title>
-      <link>/en/tags/services-marketing/</link>
+      <link>https://monicacortinas.net/en/tags/services-marketing/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
-      <guid>/en/tags/services-marketing/</guid>
+      <guid>https://monicacortinas.net/en/tags/services-marketing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>e-sports</title>
-      <link>/en/tags/e-sports/</link>
+      <link>https://monicacortinas.net/en/tags/e-sports/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/e-sports/</guid>
+      <guid>https://monicacortinas.net/en/tags/e-sports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Customer satisfaction</title>
-      <link>/en/tags/customer-satisfaction/</link>
+      <link>https://monicacortinas.net/en/tags/customer-satisfaction/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/customer-satisfaction/</guid>
+      <guid>https://monicacortinas.net/en/tags/customer-satisfaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intentional loyalty</title>
-      <link>/en/tags/intentional-loyalty/</link>
+      <link>https://monicacortinas.net/en/tags/intentional-loyalty/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/intentional-loyalty/</guid>
+      <guid>https://monicacortinas.net/en/tags/intentional-loyalty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online channels</title>
-      <link>/en/tags/online-channels/</link>
+      <link>https://monicacortinas.net/en/tags/online-channels/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/online-channels/</guid>
+      <guid>https://monicacortinas.net/en/tags/online-channels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private sales clubs</title>
-      <link>/en/tags/private-sales-clubs/</link>
+      <link>https://monicacortinas.net/en/tags/private-sales-clubs/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/private-sales-clubs/</guid>
+      <guid>https://monicacortinas.net/en/tags/private-sales-clubs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantile regression</title>
-      <link>/en/tags/quantile-regression/</link>
+      <link>https://monicacortinas.net/en/tags/quantile-regression/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/quantile-regression/</guid>
+      <guid>https://monicacortinas.net/en/tags/quantile-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/en/tags/academic/</link>
+      <link>https://monicacortinas.net/en/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/academic/</guid>
+      <guid>https://monicacortinas.net/en/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel choice and management</title>
-      <link>/en/tags/channel-choice-and-management/</link>
+      <link>https://monicacortinas.net/en/tags/channel-choice-and-management/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/channel-choice-and-management/</guid>
+      <guid>https://monicacortinas.net/en/tags/channel-choice-and-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximum service limits of channels</title>
-      <link>/en/tags/maximum-service-limits-of-channels/</link>
+      <link>https://monicacortinas.net/en/tags/maximum-service-limits-of-channels/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/maximum-service-limits-of-channels/</guid>
+      <guid>https://monicacortinas.net/en/tags/maximum-service-limits-of-channels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online vs. offline retailing</title>
-      <link>/en/tags/online-vs.-offline-retailing/</link>
+      <link>https://monicacortinas.net/en/tags/online-vs.-offline-retailing/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/online-vs.-offline-retailing/</guid>
+      <guid>https://monicacortinas.net/en/tags/online-vs.-offline-retailing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separability across space and time</title>
-      <link>/en/tags/separability-across-space-and-time/</link>
+      <link>https://monicacortinas.net/en/tags/separability-across-space-and-time/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/separability-across-space-and-time/</guid>
+      <guid>https://monicacortinas.net/en/tags/separability-across-space-and-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/en/tags/plot/</link>
+      <link>https://monicacortinas.net/en/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/en/tags/plot/</guid>
+      <guid>https://monicacortinas.net/en/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/en/tags/r-markdown/</link>
+      <link>https://monicacortinas.net/en/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/en/tags/r-markdown/</guid>
+      <guid>https://monicacortinas.net/en/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/en/tags/regression/</link>
+      <link>https://monicacortinas.net/en/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/en/tags/regression/</guid>
+      <guid>https://monicacortinas.net/en/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buyer behaviour</title>
-      <link>/en/tags/buyer-behaviour/</link>
+      <link>https://monicacortinas.net/en/tags/buyer-behaviour/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/buyer-behaviour/</guid>
+      <guid>https://monicacortinas.net/en/tags/buyer-behaviour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel management</title>
-      <link>/en/tags/channel-management/</link>
+      <link>https://monicacortinas.net/en/tags/channel-management/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/channel-management/</guid>
+      <guid>https://monicacortinas.net/en/tags/channel-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-service quality</title>
-      <link>/en/tags/e-service-quality/</link>
+      <link>https://monicacortinas.net/en/tags/e-service-quality/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/e-service-quality/</guid>
+      <guid>https://monicacortinas.net/en/tags/e-service-quality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online shopping</title>
-      <link>/en/tags/online-shopping/</link>
+      <link>https://monicacortinas.net/en/tags/online-shopping/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/online-shopping/</guid>
+      <guid>https://monicacortinas.net/en/tags/online-shopping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>/en/tags/other/</link>
+      <link>https://monicacortinas.net/en/tags/other/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/other/</guid>
+      <guid>https://monicacortinas.net/en/tags/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Channel choice</title>
-      <link>/en/tags/channel-choice/</link>
+      <link>https://monicacortinas.net/en/tags/channel-choice/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/channel-choice/</guid>
+      <guid>https://monicacortinas.net/en/tags/channel-choice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimentation</title>
-      <link>/en/tags/experimentation/</link>
+      <link>https://monicacortinas.net/en/tags/experimentation/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/experimentation/</guid>
+      <guid>https://monicacortinas.net/en/tags/experimentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>/en/tags/internet/</link>
+      <link>https://monicacortinas.net/en/tags/internet/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/internet/</guid>
+      <guid>https://monicacortinas.net/en/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Situational variables</title>
-      <link>/en/tags/situational-variables/</link>
+      <link>https://monicacortinas.net/en/tags/situational-variables/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/situational-variables/</guid>
+      <guid>https://monicacortinas.net/en/tags/situational-variables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consensus</title>
-      <link>/en/tags/consensus/</link>
+      <link>https://monicacortinas.net/en/tags/consensus/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/consensus/</guid>
+      <guid>https://monicacortinas.net/en/tags/consensus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consumer response</title>
-      <link>/en/tags/consumer-response/</link>
+      <link>https://monicacortinas.net/en/tags/consumer-response/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/consumer-response/</guid>
+      <guid>https://monicacortinas.net/en/tags/consumer-response/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experts&#39; influence</title>
-      <link>/en/tags/experts-influence/</link>
+      <link>https://monicacortinas.net/en/tags/experts-influence/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/experts-influence/</guid>
+      <guid>https://monicacortinas.net/en/tags/experts-influence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information complexity</title>
-      <link>/en/tags/information-complexity/</link>
+      <link>https://monicacortinas.net/en/tags/information-complexity/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/information-complexity/</guid>
+      <guid>https://monicacortinas.net/en/tags/information-complexity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendations</title>
-      <link>/en/tags/recommendations/</link>
+      <link>https://monicacortinas.net/en/tags/recommendations/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/recommendations/</guid>
+      <guid>https://monicacortinas.net/en/tags/recommendations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Red wines</title>
-      <link>/en/tags/red-wines/</link>
+      <link>https://monicacortinas.net/en/tags/red-wines/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/red-wines/</guid>
+      <guid>https://monicacortinas.net/en/tags/red-wines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agriproducts</title>
-      <link>/en/tags/agriproducts/</link>
+      <link>https://monicacortinas.net/en/tags/agriproducts/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/agriproducts/</guid>
+      <guid>https://monicacortinas.net/en/tags/agriproducts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brands</title>
-      <link>/en/tags/brands/</link>
+      <link>https://monicacortinas.net/en/tags/brands/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/brands/</guid>
+      <guid>https://monicacortinas.net/en/tags/brands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consumer Experience</title>
-      <link>/en/tags/consumer-experience/</link>
+      <link>https://monicacortinas.net/en/tags/consumer-experience/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/consumer-experience/</guid>
+      <guid>https://monicacortinas.net/en/tags/consumer-experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asparragous</title>
-      <link>/en/tags/asparragous/</link>
+      <link>https://monicacortinas.net/en/tags/asparragous/</link>
       <pubDate>Wed, 21 Mar 2012 11:00:00 +0000</pubDate>
       
-      <guid>/en/tags/asparragous/</guid>
+      <guid>https://monicacortinas.net/en/tags/asparragous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy</title>
-      <link>/en/tags/entropy/</link>
+      <link>https://monicacortinas.net/en/tags/entropy/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/entropy/</guid>
+      <guid>https://monicacortinas.net/en/tags/entropy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Financial services</title>
-      <link>/en/tags/financial-services/</link>
+      <link>https://monicacortinas.net/en/tags/financial-services/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/financial-services/</guid>
+      <guid>https://monicacortinas.net/en/tags/financial-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent class regression</title>
-      <link>/en/tags/latent-class-regression/</link>
+      <link>https://monicacortinas.net/en/tags/latent-class-regression/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/latent-class-regression/</guid>
+      <guid>https://monicacortinas.net/en/tags/latent-class-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent segmentation</title>
-      <link>/en/tags/latent-segmentation/</link>
+      <link>https://monicacortinas.net/en/tags/latent-segmentation/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/latent-segmentation/</guid>
+      <guid>https://monicacortinas.net/en/tags/latent-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-channel behavior</title>
-      <link>/en/tags/multi-channel-behavior/</link>
+      <link>https://monicacortinas.net/en/tags/multi-channel-behavior/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/multi-channel-behavior/</guid>
+      <guid>https://monicacortinas.net/en/tags/multi-channel-behavior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Satisfaction and loyalty</title>
-      <link>/en/tags/satisfaction-and-loyalty/</link>
+      <link>https://monicacortinas.net/en/tags/satisfaction-and-loyalty/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/satisfaction-and-loyalty/</guid>
+      <guid>https://monicacortinas.net/en/tags/satisfaction-and-loyalty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structural equation models</title>
-      <link>/en/tags/structural-equation-models/</link>
+      <link>https://monicacortinas.net/en/tags/structural-equation-models/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/structural-equation-models/</guid>
+      <guid>https://monicacortinas.net/en/tags/structural-equation-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brand choice</title>
-      <link>/en/tags/brand-choice/</link>
+      <link>https://monicacortinas.net/en/tags/brand-choice/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/brand-choice/</guid>
+      <guid>https://monicacortinas.net/en/tags/brand-choice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purchase frequency</title>
-      <link>/en/tags/purchase-frequency/</link>
+      <link>https://monicacortinas.net/en/tags/purchase-frequency/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/purchase-frequency/</guid>
+      <guid>https://monicacortinas.net/en/tags/purchase-frequency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purchase incidence</title>
-      <link>/en/tags/purchase-incidence/</link>
+      <link>https://monicacortinas.net/en/tags/purchase-incidence/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/purchase-incidence/</guid>
+      <guid>https://monicacortinas.net/en/tags/purchase-incidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regularity</title>
-      <link>/en/tags/regularity/</link>
+      <link>https://monicacortinas.net/en/tags/regularity/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/regularity/</guid>
+      <guid>https://monicacortinas.net/en/tags/regularity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grocery shopping</title>
-      <link>/en/tags/grocery-shopping/</link>
+      <link>https://monicacortinas.net/en/tags/grocery-shopping/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/grocery-shopping/</guid>
+      <guid>https://monicacortinas.net/en/tags/grocery-shopping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pricing</title>
-      <link>/en/tags/pricing/</link>
+      <link>https://monicacortinas.net/en/tags/pricing/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/pricing/</guid>
+      <guid>https://monicacortinas.net/en/tags/pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choice analysis</title>
-      <link>/en/tags/choice-analysis/</link>
+      <link>https://monicacortinas.net/en/tags/choice-analysis/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/choice-analysis/</guid>
+      <guid>https://monicacortinas.net/en/tags/choice-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designation of origin</title>
-      <link>/en/tags/designation-of-origin/</link>
+      <link>https://monicacortinas.net/en/tags/designation-of-origin/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/designation-of-origin/</guid>
+      <guid>https://monicacortinas.net/en/tags/designation-of-origin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/en/tags/experience/</link>
+      <link>https://monicacortinas.net/en/tags/experience/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/experience/</guid>
+      <guid>https://monicacortinas.net/en/tags/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Objective knowledge</title>
-      <link>/en/tags/objective-knowledge/</link>
+      <link>https://monicacortinas.net/en/tags/objective-knowledge/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/objective-knowledge/</guid>
+      <guid>https://monicacortinas.net/en/tags/objective-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brand choice problem</title>
-      <link>/en/tags/brand-choice-problem/</link>
+      <link>https://monicacortinas.net/en/tags/brand-choice-problem/</link>
       <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/brand-choice-problem/</guid>
+      <guid>https://monicacortinas.net/en/tags/brand-choice-problem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Customer databases</title>
-      <link>/en/tags/customer-databases/</link>
+      <link>https://monicacortinas.net/en/tags/customer-databases/</link>
       <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/customer-databases/</guid>
+      <guid>https://monicacortinas.net/en/tags/customer-databases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Customer loyalty programs</title>
-      <link>/en/tags/customer-loyalty-programs/</link>
+      <link>https://monicacortinas.net/en/tags/customer-loyalty-programs/</link>
       <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/customer-loyalty-programs/</guid>
+      <guid>https://monicacortinas.net/en/tags/customer-loyalty-programs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asparagus</title>
-      <link>/en/tags/asparagus/</link>
+      <link>https://monicacortinas.net/en/tags/asparagus/</link>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/asparagus/</guid>
+      <guid>https://monicacortinas.net/en/tags/asparagus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market segmentation</title>
-      <link>/en/tags/market-segmentation/</link>
+      <link>https://monicacortinas.net/en/tags/market-segmentation/</link>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/market-segmentation/</guid>
+      <guid>https://monicacortinas.net/en/tags/market-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial neural networks</title>
-      <link>/en/tags/artificial-neural-networks/</link>
+      <link>https://monicacortinas.net/en/tags/artificial-neural-networks/</link>
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/artificial-neural-networks/</guid>
+      <guid>https://monicacortinas.net/en/tags/artificial-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choice models</title>
-      <link>/en/tags/choice-models/</link>
+      <link>https://monicacortinas.net/en/tags/choice-models/</link>
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/choice-models/</guid>
+      <guid>https://monicacortinas.net/en/tags/choice-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multinomial logit</title>
-      <link>/en/tags/multinomial-logit/</link>
+      <link>https://monicacortinas.net/en/tags/multinomial-logit/</link>
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/multinomial-logit/</guid>
+      <guid>https://monicacortinas.net/en/tags/multinomial-logit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scanner data</title>
-      <link>/en/tags/scanner-data/</link>
+      <link>https://monicacortinas.net/en/tags/scanner-data/</link>
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/scanner-data/</guid>
+      <guid>https://monicacortinas.net/en/tags/scanner-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loyalty cards</title>
-      <link>/en/tags/loyalty-cards/</link>
+      <link>https://monicacortinas.net/en/tags/loyalty-cards/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/loyalty-cards/</guid>
+      <guid>https://monicacortinas.net/en/tags/loyalty-cards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consumer satisfaction</title>
-      <link>/en/tags/consumer-satisfaction/</link>
+      <link>https://monicacortinas.net/en/tags/consumer-satisfaction/</link>
       <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/consumer-satisfaction/</guid>
+      <guid>https://monicacortinas.net/en/tags/consumer-satisfaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>/en/tags/productivity/</link>
+      <link>https://monicacortinas.net/en/tags/productivity/</link>
       <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/productivity/</guid>
+      <guid>https://monicacortinas.net/en/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retailing services</title>
-      <link>/en/tags/retailing-services/</link>
+      <link>https://monicacortinas.net/en/tags/retailing-services/</link>
       <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/retailing-services/</guid>
+      <guid>https://monicacortinas.net/en/tags/retailing-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Store loyalty</title>
-      <link>/en/tags/store-loyalty/</link>
+      <link>https://monicacortinas.net/en/tags/store-loyalty/</link>
       <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/store-loyalty/</guid>
+      <guid>https://monicacortinas.net/en/tags/store-loyalty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structural equation modelling</title>
-      <link>/en/tags/structural-equation-modelling/</link>
+      <link>https://monicacortinas.net/en/tags/structural-equation-modelling/</link>
       <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/structural-equation-modelling/</guid>
+      <guid>https://monicacortinas.net/en/tags/structural-equation-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Occasional shoppers</title>
-      <link>/en/tags/occasional-shoppers/</link>
+      <link>https://monicacortinas.net/en/tags/occasional-shoppers/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/occasional-shoppers/</guid>
+      <guid>https://monicacortinas.net/en/tags/occasional-shoppers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Price elasticity</title>
-      <link>/en/tags/price-elasticity/</link>
+      <link>https://monicacortinas.net/en/tags/price-elasticity/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/price-elasticity/</guid>
+      <guid>https://monicacortinas.net/en/tags/price-elasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promotions</title>
-      <link>/en/tags/promotions/</link>
+      <link>https://monicacortinas.net/en/tags/promotions/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/promotions/</guid>
+      <guid>https://monicacortinas.net/en/tags/promotions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regular customers</title>
-      <link>/en/tags/regular-customers/</link>
+      <link>https://monicacortinas.net/en/tags/regular-customers/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/regular-customers/</guid>
+      <guid>https://monicacortinas.net/en/tags/regular-customers/</guid>
       <description></description>
     </item>
     

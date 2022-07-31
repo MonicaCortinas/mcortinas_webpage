@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chatbots on Mónica Cortiñas</title>
+    <link>https://monicacortinas.net/en/tags/chatbots/</link>
+    <description>Recent content in chatbots on Mónica Cortiñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
+    <lastBuildDate>Tue, 12 Jul 2022 15:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://monicacortinas.net/en/tags/chatbots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emotional response of virtual assistants as an added value of an interactive product</title>
+      <link>https://monicacortinas.net/en/talk/2022_airsi/</link>
+      <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/talk/2022_airsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Tienen los profesores intención de usar asistentes virtuales? Efecto moderador del nivel de competencias digitales y edad del profesor</title>
+      <link>https://monicacortinas.net/en/talk/2020_gkaedutech/</link>
+      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/talk/2020_gkaedutech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

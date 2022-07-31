@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Mónica Cortiñas</title>
-    <link>/en/courses/</link>
+    <link>https://monicacortinas.net/en/courses/</link>
     <description>Recent content in Courses on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="/en/courses/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/en/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overview</title>
-      <link>/en/courses/example/</link>
+      <link>https://monicacortinas.net/en/courses/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/courses/example/</guid>
+      <guid>https://monicacortinas.net/en/courses/example/</guid>
       <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
 &lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;

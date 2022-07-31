@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reveal.js on Mónica Cortiñas</title>
-    <link>/categories/reveal.js/</link>
+    <link>https://monicacortinas.net/categories/reveal.js/</link>
     <description>Recent content in Reveal.js on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Wed, 28 Mar 2018 01:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/categories/reveal.js/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/categories/reveal.js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gráficos Interactivos: dando vida a los números</title>
-      <link>/post/plotly/</link>
+      <link>https://monicacortinas.net/post/plotly/</link>
       <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
       
-      <guid>/post/plotly/</guid>
+      <guid>https://monicacortinas.net/post/plotly/</guid>
       <description>
 
 
@@ -80,10 +80,10 @@
     
     <item>
       <title>Probando el hosting de Amazon S3</title>
-      <link>/post/aws/</link>
+      <link>https://monicacortinas.net/post/aws/</link>
       <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/aws/</guid>
+      <guid>https://monicacortinas.net/post/aws/</guid>
       <description>
 
 
@@ -159,10 +159,10 @@
     
     <item>
       <title>Presentaciones en HTML con Reveal.js</title>
-      <link>/post/presentaciones-con-reveal/</link>
+      <link>https://monicacortinas.net/post/presentaciones-con-reveal/</link>
       <pubDate>Sun, 26 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/presentaciones-con-reveal/</guid>
+      <guid>https://monicacortinas.net/post/presentaciones-con-reveal/</guid>
       <description>
 
 
@@ -240,10 +240,10 @@
     
     <item>
       <title>Muerte por power point</title>
-      <link>/post/muerte-por-power-point/</link>
+      <link>https://monicacortinas.net/post/muerte-por-power-point/</link>
       <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/muerte-por-power-point/</guid>
+      <guid>https://monicacortinas.net/post/muerte-por-power-point/</guid>
       <description>
 
 

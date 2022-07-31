@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gustavo Marcos on Mónica Cortiñas</title>
-    <link>/en/authors/gustavo-marcos/</link>
+    <link>https://monicacortinas.net/en/authors/gustavo-marcos/</link>
     <description>Recent content in Gustavo Marcos on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/en/authors/gustavo-marcos/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/en/authors/gustavo-marcos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teachers’ attitudes towards chatbots in education: a technology acceptance model approach considering the effect of social language, bot proactiveness, and users’ characteristics</title>
-      <link>/en/publication/2021_erj/</link>
+      <link>https://monicacortinas.net/en/publication/2021_erj/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/en/publication/2021_erj/</guid>
+      <guid>https://monicacortinas.net/en/publication/2021_erj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Tienen los profesores intención de usar asistentes virtuales? Efecto moderador del nivel de competencias digitales y edad del profesor</title>
+      <link>https://monicacortinas.net/en/talk/2020_gkaedutech/</link>
+      <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/talk/2020_gkaedutech/</guid>
       <description></description>
     </item>
     

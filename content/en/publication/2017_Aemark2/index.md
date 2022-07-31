@@ -1,7 +1,6 @@
 ---
 abstract: 
 authors:
-authors:
 - admin
 - Raquel Chocarro
 - María Luisa Villanueva

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dropbox on Mónica Cortiñas</title>
-    <link>/categories/dropbox/</link>
+    <link>https://monicacortinas.net/categories/dropbox/</link>
     <description>Recent content in Dropbox on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Mon, 03 Jul 2017 08:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/categories/dropbox/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/categories/dropbox/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Probando el hosting de Amazon S3</title>
-      <link>/post/aws/</link>
+      <link>https://monicacortinas.net/post/aws/</link>
       <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/aws/</guid>
+      <guid>https://monicacortinas.net/post/aws/</guid>
       <description>
 
 
@@ -92,10 +92,10 @@
     
     <item>
       <title>Repositorios para material docente</title>
-      <link>/post/repositorio/</link>
+      <link>https://monicacortinas.net/post/repositorio/</link>
       <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/repositorio/</guid>
+      <guid>https://monicacortinas.net/post/repositorio/</guid>
       <description>
 
 

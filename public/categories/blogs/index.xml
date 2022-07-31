@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Mónica Cortiñas</title>
-    <link>/categories/blogs/</link>
+    <link>https://monicacortinas.net/categories/blogs/</link>
     <description>Recent content in Blogs on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Mon, 15 May 2017 08:26:17 +0200</lastBuildDate>
     
-	    <atom:link href="/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recursos para presentaciones y blogs (II) </title>
-      <link>/post/recursosgraficos2/</link>
+      <link>https://monicacortinas.net/post/recursosgraficos2/</link>
       <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/recursosgraficos2/</guid>
+      <guid>https://monicacortinas.net/post/recursosgraficos2/</guid>
       <description>
 
 
@@ -61,10 +61,10 @@
     
     <item>
       <title>Recursos para presentaciones y blogs (I) </title>
-      <link>/post/recursosgraficos/</link>
+      <link>https://monicacortinas.net/post/recursosgraficos/</link>
       <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/recursosgraficos/</guid>
+      <guid>https://monicacortinas.net/post/recursosgraficos/</guid>
       <description>
 
 
@@ -127,10 +127,10 @@
     
     <item>
       <title>Primeros pasos en blogger</title>
-      <link>/post/blogger_primeros_pasos/</link>
+      <link>https://monicacortinas.net/post/blogger_primeros_pasos/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/blogger_primeros_pasos/</guid>
+      <guid>https://monicacortinas.net/post/blogger_primeros_pasos/</guid>
       <description>
 
 
@@ -146,10 +146,10 @@
     
     <item>
       <title>Repositorios para material docente</title>
-      <link>/post/repositorio/</link>
+      <link>https://monicacortinas.net/post/repositorio/</link>
       <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/repositorio/</guid>
+      <guid>https://monicacortinas.net/post/repositorio/</guid>
       <description>
 
 
@@ -180,10 +180,10 @@
     
     <item>
       <title>El uso de blogs para materias no presenciales</title>
-      <link>/post/blogs_nopresenciales/</link>
+      <link>https://monicacortinas.net/post/blogs_nopresenciales/</link>
       <pubDate>Mon, 15 Jun 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/blogs_nopresenciales/</guid>
+      <guid>https://monicacortinas.net/post/blogs_nopresenciales/</guid>
       <description>
 
 

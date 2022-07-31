@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mónica Cortiñas</title>
-    <link>/authors/admin/</link>
+    <link>https://monicacortinas.net/authors/admin/</link>
     <description>Recent content on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Tue, 12 Jul 2022 15:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emotional response of virtual assistants as an added value of an interactive product</title>
-      <link>/talk/2022_airsi/</link>
+      <link>https://monicacortinas.net/talk/2022_airsi/</link>
       <pubDate>Tue, 12 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>/talk/2022_airsi/</guid>
+      <guid>https://monicacortinas.net/talk/2022_airsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aprendiendo principios de neurociencia</title>
-      <link>/post/neuro/</link>
+      <link>https://monicacortinas.net/post/neuro/</link>
       <pubDate>Sun, 06 Mar 2022 08:26:17 +0200</pubDate>
       
-      <guid>/post/neuro/</guid>
+      <guid>https://monicacortinas.net/post/neuro/</guid>
       <description>
-&lt;script src=&#34;/post/neuro/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://monicacortinas.net/post/neuro/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;En las líneas de investigación en atención y emoción que estamos trabajando en los últimos proyectos, he echado en falta unos mejores fundamentos básicos en fisiología del sistema nervioso y el cerebro y neurociencia, así que estoy relacionando un curso sumamente interesante ofertado en la UPNA, dentro del &lt;a href=&#34;https://www.unavarra.es/fundacionuniversidadsociedad/formacion/titulos-propios-de-la-universidad/humanidades-ciencias-sociales-educacion?seccion=padm&amp;amp;contentId=241894&#34;&gt;Máster Propio en Cultura Científica&lt;/a&gt;. El curso se llama &lt;a href=&#34;http://www.unavarra.es/digitalAssets/155/155495_100000Curso-en-Introduccion-a-la-neurociencia.pdf&#34;&gt;Introducción a la Neurociencia&lt;/a&gt;, impartido por José Ramón Alonso, Catedrático de la Universidad de Salamanca.&lt;/p&gt;
@@ -40,7 +40,7 @@
 &lt;div id=&#34;a-primera-vista-giros-y-surcos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;A primera vista: giros y surcos&lt;/h3&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/neuro/Imagen1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://monicacortinas.net/img/neuro/Imagen1.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;em&gt;Primeros pasos&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Una vez me hice con el cerebro en la carnicería (dos mejor que uno, para prevenir), lo primero que hice fue cocer unos minutos las dos piezas para que fueran más fáciles de manejar. Como se puede observar en la vista dorsal posterior, lo primero que llama la atención es lo notorio de los giros y surcos en la corteza, especialmente por el cambio de color.&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;div id=&#34;el-cortex-cerebral&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;El cortex cerebral&lt;/h3&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/neuro/Imagen2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://monicacortinas.net/img/neuro/Imagen2.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;em&gt;Vistas externas&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;En segundo lugar, repasamos toda la parte exterior. En las dos piezas el cerebelo quedó desconectado del cerebro tras la cocción y bastante deshecho, aí que no he podido observar esa parte en detalle. El cerebro, sin embargo, quedó compacto de manera que se podía manejar con relativa facilidad. En la imagen están las tres vistas (dorsal, ventral y lateral) y se puede observar toda la corteza, con sus lóbulos (frontales, parietales, temporales y occipitales). La cisura interhemisférica, que divide los dos hemisferios cerebrales se observa muy bien también en la vista ventral.&lt;/p&gt;
@@ -56,7 +56,7 @@
 &lt;div id=&#34;vista-interior&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Vista interior&lt;/h3&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/neuro/Imagen3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://monicacortinas.net/img/neuro/Imagen3.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;em&gt;Vista interior&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Una vez repasada la capa externa, llegamos a la disección para ver el interior. Esta parte me ha supuesto un reto importante, porque me ha resultado complicado distinguir algunas de las estructuras. Por ejemplo, no he conseguido localizar el hipotálamo y no estoy del todo segura de que la posición que he marcado para el tálamo sea la correcta.&lt;/p&gt;
@@ -70,55 +70,55 @@
     
     <item>
       <title>A grounded theory approach to understanding in-game goods purchase</title>
-      <link>/publication/2022_plos-one/</link>
+      <link>https://monicacortinas.net/publication/2022_plos-one/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2022_plos-one/</guid>
+      <guid>https://monicacortinas.net/publication/2022_plos-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-report measure of dispositional flow experience in the video game context: Conceptualisation and scale development</title>
-      <link>/publication/2022_ijhcs/</link>
+      <link>https://monicacortinas.net/publication/2022_ijhcs/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2022_ijhcs/</guid>
+      <guid>https://monicacortinas.net/publication/2022_ijhcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From traditional gaming to mobile gaming: Video game players&#39; switching behaviour</title>
-      <link>/publication/2021_ec/</link>
+      <link>https://monicacortinas.net/publication/2021_ec/</link>
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2021_ec/</guid>
+      <guid>https://monicacortinas.net/publication/2021_ec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editorial Note: Research Topic The Impact of AI-Enabled Technologies in E-commerce and Omnichannel Retailing.</title>
-      <link>/publication/2021_fip/</link>
+      <link>https://monicacortinas.net/publication/2021_fip/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2021_fip/</guid>
+      <guid>https://monicacortinas.net/publication/2021_fip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teachers’ attitudes towards chatbots in education: a technology acceptance model approach considering the effect of social language, bot proactiveness, and users’ characteristics</title>
-      <link>/publication/2021_erj/</link>
+      <link>https://monicacortinas.net/publication/2021_erj/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2021_erj/</guid>
+      <guid>https://monicacortinas.net/publication/2021_erj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La seguridad sanitaria como atributo de creencia en el sector turístico</title>
-      <link>/post/credence/</link>
+      <link>https://monicacortinas.net/post/credence/</link>
       <pubDate>Mon, 03 Aug 2020 17:26:17 +0200</pubDate>
       
-      <guid>/post/credence/</guid>
+      <guid>https://monicacortinas.net/post/credence/</guid>
       <description>
 
 
@@ -154,55 +154,55 @@
     
     <item>
       <title>¿Tienen los profesores intención de usar asistentes virtuales? Efecto moderador del nivel de competencias digitales y edad del profesor</title>
-      <link>/talk/2020_gkaedutech/</link>
+      <link>https://monicacortinas.net/talk/2020_gkaedutech/</link>
       <pubDate>Thu, 26 Mar 2020 15:00:00 +0000</pubDate>
       
-      <guid>/talk/2020_gkaedutech/</guid>
+      <guid>https://monicacortinas.net/talk/2020_gkaedutech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videogame players&#39; purchase behaviour of different types of in-game goods</title>
-      <link>/publication/2020_ssrn/</link>
+      <link>https://monicacortinas.net/publication/2020_ssrn/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2020_ssrn/</guid>
+      <guid>https://monicacortinas.net/publication/2020_ssrn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omni-channel users and omni-channel customers: a segmentation analysis using distribution services</title>
-      <link>/publication/2019_sjm/</link>
+      <link>https://monicacortinas.net/publication/2019_sjm/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_sjm/</guid>
+      <guid>https://monicacortinas.net/publication/2019_sjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Innovación en marketing y canales de distribución para negocios B2C.</title>
-      <link>/talk/2019_sodena/</link>
+      <link>https://monicacortinas.net/talk/2019_sodena/</link>
       <pubDate>Tue, 10 Dec 2019 11:30:00 +0000</pubDate>
       
-      <guid>/talk/2019_sodena/</guid>
+      <guid>https://monicacortinas.net/talk/2019_sodena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marketing en la era de Alexa: Cómo la Inteligencia Artificial está cambiando las relaciones entre consumidores y empresas.</title>
-      <link>/talk/2019_mundo/</link>
+      <link>https://monicacortinas.net/talk/2019_mundo/</link>
       <pubDate>Wed, 23 Oct 2019 11:30:00 +0000</pubDate>
       
-      <guid>/talk/2019_mundo/</guid>
+      <guid>https://monicacortinas.net/talk/2019_mundo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jornadas Doctorales INARBE: Seminario Inteligencia Artificial y Marketing</title>
-      <link>/post/seminarioai/</link>
+      <link>https://monicacortinas.net/post/seminarioai/</link>
       <pubDate>Mon, 14 Oct 2019 08:26:17 +0200</pubDate>
       
-      <guid>/post/seminarioai/</guid>
+      <guid>https://monicacortinas.net/post/seminarioai/</guid>
       <description>
 
 
@@ -216,19 +216,19 @@
     
     <item>
       <title>¿En qué se fijan los consumidores en un establecimiento online?: Un estudio de eye-tracking del área de producto.</title>
-      <link>/talk/2019_aemark/</link>
+      <link>https://monicacortinas.net/talk/2019_aemark/</link>
       <pubDate>Wed, 11 Sep 2019 11:30:00 +0000</pubDate>
       
-      <guid>/talk/2019_aemark/</guid>
+      <guid>https://monicacortinas.net/talk/2019_aemark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hoja de estilos web y power point</title>
-      <link>/post/style-guide/</link>
+      <link>https://monicacortinas.net/post/style-guide/</link>
       <pubDate>Fri, 26 Jul 2019 08:26:17 +0200</pubDate>
       
-      <guid>/post/style-guide/</guid>
+      <guid>https://monicacortinas.net/post/style-guide/</guid>
       <description>
 
 
@@ -275,46 +275,46 @@
     
     <item>
       <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
-      <link>/publication/2019_earcd/</link>
+      <link>https://monicacortinas.net/publication/2019_earcd/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_earcd/</guid>
+      <guid>https://monicacortinas.net/publication/2019_earcd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What attention is paid to the elements in an online retailing store?: An Eye-Tracking study of the product area</title>
-      <link>/talk/2019_earcd/</link>
+      <link>https://monicacortinas.net/talk/2019_earcd/</link>
       <pubDate>Wed, 03 Jul 2019 11:30:00 +0000</pubDate>
       
-      <guid>/talk/2019_earcd/</guid>
+      <guid>https://monicacortinas.net/talk/2019_earcd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image, Brand and Price Info: do they always matter the same? </title>
-      <link>/publication/2019_denver/</link>
+      <link>https://monicacortinas.net/publication/2019_denver/</link>
       <pubDate>Thu, 27 Jun 2019 13:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_denver/</guid>
+      <guid>https://monicacortinas.net/publication/2019_denver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are the Factors that Drive Traditional Videogame Players to Play Mobile Games?</title>
-      <link>/publication/2019_mkscience/</link>
+      <link>https://monicacortinas.net/publication/2019_mkscience/</link>
       <pubDate>Sat, 22 Jun 2019 13:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_mkscience/</guid>
+      <guid>https://monicacortinas.net/publication/2019_mkscience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nueva web</title>
-      <link>/post/new-site/</link>
+      <link>https://monicacortinas.net/post/new-site/</link>
       <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
       
-      <guid>/post/new-site/</guid>
+      <guid>https://monicacortinas.net/post/new-site/</guid>
       <description>
 
 
@@ -343,109 +343,109 @@
     
     <item>
       <title>Attention to Online Channels across the Path to Purchase: An Eye-Tracking Study</title>
-      <link>/publication/2019_ecra/</link>
+      <link>https://monicacortinas.net/publication/2019_ecra/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_ecra/</guid>
+      <guid>https://monicacortinas.net/publication/2019_ecra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Do My Channels Provide to My Customers? Omni-Channel Customers versus Mono-channel Customers and the Impact of Distribution Services</title>
-      <link>/publication/2019_ssrn/</link>
+      <link>https://monicacortinas.net/publication/2019_ssrn/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_ssrn/</guid>
+      <guid>https://monicacortinas.net/publication/2019_ssrn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnichannel Behaviour: Definitions and Covariables</title>
-      <link>/talk/2019_imrc/</link>
+      <link>https://monicacortinas.net/talk/2019_imrc/</link>
       <pubDate>Thu, 28 Mar 2019 15:00:00 +0000</pubDate>
       
-      <guid>/talk/2019_imrc/</guid>
+      <guid>https://monicacortinas.net/talk/2019_imrc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnichannel Behaviour: Definitions and Covariables</title>
-      <link>/publication/2019_imrc/</link>
+      <link>https://monicacortinas.net/publication/2019_imrc/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019_imrc/</guid>
+      <guid>https://monicacortinas.net/publication/2019_imrc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnichannel Behaviour: Definitions and Covariables</title>
-      <link>/talk/2018_uam/</link>
+      <link>https://monicacortinas.net/talk/2018_uam/</link>
       <pubDate>Wed, 28 Nov 2018 16:00:00 +0000</pubDate>
       
-      <guid>/talk/2018_uam/</guid>
+      <guid>https://monicacortinas.net/talk/2018_uam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concurso Acceso Cuerpos Docentes Universitarios.</title>
-      <link>/talk/2018_concursoacceso/</link>
+      <link>https://monicacortinas.net/talk/2018_concursoacceso/</link>
       <pubDate>Thu, 08 Nov 2018 15:00:00 +0000</pubDate>
       
-      <guid>/talk/2018_concursoacceso/</guid>
+      <guid>https://monicacortinas.net/talk/2018_concursoacceso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are the Factors that Drive Traditional Videogame Players to Play Mobile Games?</title>
-      <link>/publication/2018_aemark2/</link>
+      <link>https://monicacortinas.net/publication/2018_aemark2/</link>
       <pubDate>Sat, 22 Sep 2018 13:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_aemark2/</guid>
+      <guid>https://monicacortinas.net/publication/2018_aemark2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uso del canal online en función del proceso de compra: Un estudio mediante análisis de fijación de la mirada</title>
-      <link>/publication/2018_aemark1/</link>
+      <link>https://monicacortinas.net/publication/2018_aemark1/</link>
       <pubDate>Wed, 05 Sep 2018 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_aemark1/</guid>
+      <guid>https://monicacortinas.net/publication/2018_aemark1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uso del canal online en función del proceso de compra: Un estudio mediante análisis de fijación de la mirada</title>
-      <link>/talk/2018_aemark/</link>
+      <link>https://monicacortinas.net/talk/2018_aemark/</link>
       <pubDate>Wed, 05 Sep 2018 11:00:00 +0000</pubDate>
       
-      <guid>/talk/2018_aemark/</guid>
+      <guid>https://monicacortinas.net/talk/2018_aemark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different channels for different services: information sources for services with search, experience and credence attributes</title>
-      <link>/publication/2018_sij/</link>
+      <link>https://monicacortinas.net/publication/2018_sij/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_sij/</guid>
+      <guid>https://monicacortinas.net/publication/2018_sij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monedas digitales; economía digital e IVA</title>
-      <link>/talk/2018_criptocurrencies/</link>
+      <link>https://monicacortinas.net/talk/2018_criptocurrencies/</link>
       <pubDate>Fri, 15 Jun 2018 11:00:00 +0000</pubDate>
       
-      <guid>/talk/2018_criptocurrencies/</guid>
+      <guid>https://monicacortinas.net/talk/2018_criptocurrencies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Criptomonedas: ¿milagro tecnológico, inversión financiera o moda pasajera?</title>
-      <link>/post/cripto/</link>
+      <link>https://monicacortinas.net/post/cripto/</link>
       <pubDate>Wed, 13 Jun 2018 01:26:17 +0200</pubDate>
       
-      <guid>/post/cripto/</guid>
+      <guid>https://monicacortinas.net/post/cripto/</guid>
       <description>
 
 
@@ -459,19 +459,19 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Distinctive competencies and competency-based management in regulated sectors: A methodological proposal applied to the pharmaceutical retail sector in Spain</title>
-      <link>/publication/2018_jrcs/</link>
+      <link>https://monicacortinas.net/publication/2018_jrcs/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018_jrcs/</guid>
+      <guid>https://monicacortinas.net/publication/2018_jrcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gráficos Interactivos: dando vida a los números</title>
-      <link>/post/plotly/</link>
+      <link>https://monicacortinas.net/post/plotly/</link>
       <pubDate>Wed, 28 Mar 2018 01:26:17 +0200</pubDate>
       
-      <guid>/post/plotly/</guid>
+      <guid>https://monicacortinas.net/post/plotly/</guid>
       <description>
 
 
@@ -535,10 +535,10 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>¿Qué distingue a una farmacia de otra?</title>
-      <link>/post/jrcs/</link>
+      <link>https://monicacortinas.net/post/jrcs/</link>
       <pubDate>Sun, 28 Jan 2018 01:26:17 +0200</pubDate>
       
-      <guid>/post/jrcs/</guid>
+      <guid>https://monicacortinas.net/post/jrcs/</guid>
       <description>
 
 
@@ -563,46 +563,46 @@ Espero que os resulten de interés. ¿Alguien más trabajando en estos temas? Si
     
     <item>
       <title>Omnichannel Behaviour: Definitions and Covariables</title>
-      <link>/talk/2017_uv/</link>
+      <link>https://monicacortinas.net/talk/2017_uv/</link>
       <pubDate>Fri, 27 Oct 2017 10:00:00 +0000</pubDate>
       
-      <guid>/talk/2017_uv/</guid>
+      <guid>https://monicacortinas.net/talk/2017_uv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distintos canales para distintos servicios: Fuentes de Información en Servicios de Búsqueda, Experiencia y Creencia</title>
-      <link>/publication/2017_aemark2/</link>
+      <link>https://monicacortinas.net/publication/2017_aemark2/</link>
       <pubDate>Fri, 08 Sep 2017 13:00:00 +0000</pubDate>
       
-      <guid>/publication/2017_aemark2/</guid>
+      <guid>https://monicacortinas.net/publication/2017_aemark2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnichannel behavior: Definitions and covariables</title>
-      <link>/publication/2017_aemark1/</link>
+      <link>https://monicacortinas.net/publication/2017_aemark1/</link>
       <pubDate>Fri, 08 Sep 2017 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2017_aemark1/</guid>
+      <guid>https://monicacortinas.net/publication/2017_aemark1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnichannel behavior: Definitions and covariables</title>
-      <link>/talk/2017_aemark/</link>
+      <link>https://monicacortinas.net/talk/2017_aemark/</link>
       <pubDate>Fri, 08 Sep 2017 11:00:00 +0000</pubDate>
       
-      <guid>/talk/2017_aemark/</guid>
+      <guid>https://monicacortinas.net/talk/2017_aemark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science Specialization in Coursera</title>
-      <link>/post/verano2/</link>
+      <link>https://monicacortinas.net/post/verano2/</link>
       <pubDate>Thu, 17 Aug 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/verano2/</guid>
+      <guid>https://monicacortinas.net/post/verano2/</guid>
       <description>
 
 
@@ -705,10 +705,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Probando el hosting de Amazon S3</title>
-      <link>/post/aws/</link>
+      <link>https://monicacortinas.net/post/aws/</link>
       <pubDate>Mon, 03 Jul 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/aws/</guid>
+      <guid>https://monicacortinas.net/post/aws/</guid>
       <description>
 
 
@@ -784,10 +784,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Recursos para presentaciones y blogs (II) </title>
-      <link>/post/recursosgraficos2/</link>
+      <link>https://monicacortinas.net/post/recursosgraficos2/</link>
       <pubDate>Mon, 15 May 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/recursosgraficos2/</guid>
+      <guid>https://monicacortinas.net/post/recursosgraficos2/</guid>
       <description>
 
 
@@ -832,10 +832,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Recursos para presentaciones y blogs (I) </title>
-      <link>/post/recursosgraficos/</link>
+      <link>https://monicacortinas.net/post/recursosgraficos/</link>
       <pubDate>Fri, 28 Apr 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/recursosgraficos/</guid>
+      <guid>https://monicacortinas.net/post/recursosgraficos/</guid>
       <description>
 
 
@@ -898,10 +898,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Private Sales Clubs: A 21st Century Distribution Channel</title>
-      <link>/post/jim2017/</link>
+      <link>https://monicacortinas.net/post/jim2017/</link>
       <pubDate>Sat, 11 Feb 2017 01:26:17 +0200</pubDate>
       
-      <guid>/post/jim2017/</guid>
+      <guid>https://monicacortinas.net/post/jim2017/</guid>
       <description>
 
 
@@ -913,29 +913,33 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Private Sales Clubs: A 21st Century Distribution Channel</title>
-      <link>/publication/2017_jim/</link>
+      <link>https://monicacortinas.net/publication/2017_jim/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017_jim/</guid>
+      <guid>https://monicacortinas.net/publication/2017_jim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of distribution services in omnichannel segmentation</title>
-      <link>/publication/2017_mktrends/</link>
+      <link>https://monicacortinas.net/publication/2017_mktrends/</link>
       <pubDate>Thu, 26 Jan 2017 13:00:00 +0000</pubDate>
       
-      <guid>/publication/2017_mktrends/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <guid>https://monicacortinas.net/publication/2017_mktrends/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;i class=&#34;fas fa-trophy&#34;&gt;&lt;/i&gt; Best Paper Award
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Primeros pasos en blogger</title>
-      <link>/post/blogger_primeros_pasos/</link>
+      <link>https://monicacortinas.net/post/blogger_primeros_pasos/</link>
       <pubDate>Tue, 17 Jan 2017 08:26:17 +0200</pubDate>
       
-      <guid>/post/blogger_primeros_pasos/</guid>
+      <guid>https://monicacortinas.net/post/blogger_primeros_pasos/</guid>
       <description>
 
 
@@ -951,10 +955,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Nuevo artículo: Channel Choice in the 21st Century: The Hidden Role of Distribution Services</title>
-      <link>/post/jim2016/</link>
+      <link>https://monicacortinas.net/post/jim2016/</link>
       <pubDate>Sun, 11 Dec 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/jim2016/</guid>
+      <guid>https://monicacortinas.net/post/jim2016/</guid>
       <description>
 
 
@@ -965,10 +969,10 @@ is to fart into my computer and have you taste it in the hero offices&amp;quot;&
     
     <item>
       <title>Mapas Conceptuales</title>
-      <link>/post/mapas_conceptuales/</link>
+      <link>https://monicacortinas.net/post/mapas_conceptuales/</link>
       <pubDate>Sun, 16 Oct 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/mapas_conceptuales/</guid>
+      <guid>https://monicacortinas.net/post/mapas_conceptuales/</guid>
       <description>
 
 
@@ -1008,10 +1012,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>¡Mis apuntes, mi tesoro!</title>
-      <link>/post/treasure/</link>
+      <link>https://monicacortinas.net/post/treasure/</link>
       <pubDate>Fri, 16 Sep 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/treasure/</guid>
+      <guid>https://monicacortinas.net/post/treasure/</guid>
       <description>
 
 
@@ -1091,28 +1095,28 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>The Role of Distribution Services in Multichannel and Omnichannel Behavior</title>
-      <link>/publication/2016_aemark/</link>
+      <link>https://monicacortinas.net/publication/2016_aemark/</link>
       <pubDate>Fri, 09 Sep 2016 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2016_aemark/</guid>
+      <guid>https://monicacortinas.net/publication/2016_aemark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Distribution Services in Multichannel and Omnichannel Behavior</title>
-      <link>/publication/2016_multichannelmarketing/</link>
+      <link>https://monicacortinas.net/publication/2016_multichannelmarketing/</link>
       <pubDate>Fri, 20 May 2016 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2016_multichannelmarketing/</guid>
+      <guid>https://monicacortinas.net/publication/2016_multichannelmarketing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Island of Research</title>
-      <link>/post/islandofresearch/</link>
+      <link>https://monicacortinas.net/post/islandofresearch/</link>
       <pubDate>Thu, 05 May 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/islandofresearch/</guid>
+      <guid>https://monicacortinas.net/post/islandofresearch/</guid>
       <description>
 
 
@@ -1123,10 +1127,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Fuentes tipográficas</title>
-      <link>/post/fuentes/</link>
+      <link>https://monicacortinas.net/post/fuentes/</link>
       <pubDate>Sun, 13 Mar 2016 08:26:17 +0200</pubDate>
       
-      <guid>/post/fuentes/</guid>
+      <guid>https://monicacortinas.net/post/fuentes/</guid>
       <description>
 
 
@@ -1186,7 +1190,7 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th&gt;&lt;img src=&#34;/latinmodernroman.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://monicacortinas.net/latinmodernroman.png&#34; alt=&#34;img&#34; /&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1481,19 +1485,19 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Channel Choice in the 21st Century: The Hidden Role of Distribution Services</title>
-      <link>/publication/2016_jim/</link>
+      <link>https://monicacortinas.net/publication/2016_jim/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016_jim/</guid>
+      <guid>https://monicacortinas.net/publication/2016_jim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repositorios para material docente</title>
-      <link>/post/repositorio/</link>
+      <link>https://monicacortinas.net/post/repositorio/</link>
       <pubDate>Sun, 15 Nov 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/repositorio/</guid>
+      <guid>https://monicacortinas.net/post/repositorio/</guid>
       <description>
 
 
@@ -1524,10 +1528,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Cierre Congreso Aemark2015</title>
-      <link>/post/aemark2015_cierre/</link>
+      <link>https://monicacortinas.net/post/aemark2015_cierre/</link>
       <pubDate>Wed, 30 Sep 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/aemark2015_cierre/</guid>
+      <guid>https://monicacortinas.net/post/aemark2015_cierre/</guid>
       <description>
 
 
@@ -1571,28 +1575,28 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Creación de sarisfacción y lealtad en nuevos canales: Private Sales Clubs</title>
-      <link>/publication/2015_aemark1/</link>
+      <link>https://monicacortinas.net/publication/2015_aemark1/</link>
       <pubDate>Mon, 07 Sep 2015 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2015_aemark1/</guid>
+      <guid>https://monicacortinas.net/publication/2015_aemark1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fuentes de información y compra en los servicios de experiencia y creencia</title>
-      <link>/publication/2015_aemark2/</link>
+      <link>https://monicacortinas.net/publication/2015_aemark2/</link>
       <pubDate>Mon, 07 Sep 2015 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2015_aemark2/</guid>
+      <guid>https://monicacortinas.net/publication/2015_aemark2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizando los temas de investigación</title>
-      <link>/post/nube_research/</link>
+      <link>https://monicacortinas.net/post/nube_research/</link>
       <pubDate>Tue, 01 Sep 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/nube_research/</guid>
+      <guid>https://monicacortinas.net/post/nube_research/</guid>
       <description>
 
 
@@ -1610,10 +1614,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Customer heterogenity in the development of e-loyalty</title>
-      <link>/post/jrim/</link>
+      <link>https://monicacortinas.net/post/jrim/</link>
       <pubDate>Sun, 30 Aug 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/jrim/</guid>
+      <guid>https://monicacortinas.net/post/jrim/</guid>
       <description>
 
 
@@ -1623,10 +1627,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Verano: ¿Cuándo si no?</title>
-      <link>/post/verano/</link>
+      <link>https://monicacortinas.net/post/verano/</link>
       <pubDate>Sat, 15 Aug 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/verano/</guid>
+      <guid>https://monicacortinas.net/post/verano/</guid>
       <description>
 
 
@@ -1658,10 +1662,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>El uso de blogs para materias no presenciales</title>
-      <link>/post/blogs_nopresenciales/</link>
+      <link>https://monicacortinas.net/post/blogs_nopresenciales/</link>
       <pubDate>Mon, 15 Jun 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/blogs_nopresenciales/</guid>
+      <guid>https://monicacortinas.net/post/blogs_nopresenciales/</guid>
       <description>
 
 
@@ -1674,10 +1678,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Gamificación (2). Recursos para dinamizar la clase</title>
-      <link>/post/gaming2/</link>
+      <link>https://monicacortinas.net/post/gaming2/</link>
       <pubDate>Sat, 30 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/gaming2/</guid>
+      <guid>https://monicacortinas.net/post/gaming2/</guid>
       <description>
 
 
@@ -1718,10 +1722,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>XXVII Congreso de Marketing Aemark 2015</title>
-      <link>/post/congreso-aemark2015/</link>
+      <link>https://monicacortinas.net/post/congreso-aemark2015/</link>
       <pubDate>Sat, 23 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/congreso-aemark2015/</guid>
+      <guid>https://monicacortinas.net/post/congreso-aemark2015/</guid>
       <description>
 
 
@@ -1734,10 +1738,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Imagen de marca, posicionamiento social y RSC</title>
-      <link>/post/cocacola-espania/</link>
+      <link>https://monicacortinas.net/post/cocacola-espania/</link>
       <pubDate>Fri, 15 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/cocacola-espania/</guid>
+      <guid>https://monicacortinas.net/post/cocacola-espania/</guid>
       <description>
 
 
@@ -1782,10 +1786,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Nuevos canales para servicios</title>
-      <link>/post/new_channels/</link>
+      <link>https://monicacortinas.net/post/new_channels/</link>
       <pubDate>Fri, 15 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/new_channels/</guid>
+      <guid>https://monicacortinas.net/post/new_channels/</guid>
       <description>
 
 
@@ -1864,10 +1868,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Blogs educativos: Blogger o Wordpress</title>
-      <link>/post/blogger-o-wordpress/</link>
+      <link>https://monicacortinas.net/post/blogger-o-wordpress/</link>
       <pubDate>Wed, 13 May 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/blogger-o-wordpress/</guid>
+      <guid>https://monicacortinas.net/post/blogger-o-wordpress/</guid>
       <description>
 
 
@@ -1899,19 +1903,19 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Customer heterogenity in the development of e-loyalty</title>
-      <link>/publication/2015_jrim/</link>
+      <link>https://monicacortinas.net/publication/2015_jrim/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2015_jrim/</guid>
+      <guid>https://monicacortinas.net/publication/2015_jrim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentaciones en HTML con Reveal.js</title>
-      <link>/post/presentaciones-con-reveal/</link>
+      <link>https://monicacortinas.net/post/presentaciones-con-reveal/</link>
       <pubDate>Sun, 26 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/presentaciones-con-reveal/</guid>
+      <guid>https://monicacortinas.net/post/presentaciones-con-reveal/</guid>
       <description>
 
 
@@ -1989,10 +1993,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Gamificación: Simuladores de empresa. ¡3, 2, 1 Fight!</title>
-      <link>/post/simuladores/</link>
+      <link>https://monicacortinas.net/post/simuladores/</link>
       <pubDate>Sat, 18 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/simuladores/</guid>
+      <guid>https://monicacortinas.net/post/simuladores/</guid>
       <description>
 
 
@@ -2049,10 +2053,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Muerte por power point</title>
-      <link>/post/muerte-por-power-point/</link>
+      <link>https://monicacortinas.net/post/muerte-por-power-point/</link>
       <pubDate>Wed, 15 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/muerte-por-power-point/</guid>
+      <guid>https://monicacortinas.net/post/muerte-por-power-point/</guid>
       <description>
 
 
@@ -2143,10 +2147,10 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>Presentación</title>
-      <link>/post/presentacion/2015-04-09-presentacion/</link>
+      <link>https://monicacortinas.net/post/presentacion/2015-04-09-presentacion/</link>
       <pubDate>Thu, 09 Apr 2015 08:26:17 +0200</pubDate>
       
-      <guid>/post/presentacion/2015-04-09-presentacion/</guid>
+      <guid>https://monicacortinas.net/post/presentacion/2015-04-09-presentacion/</guid>
       <description>&lt;p&gt;Hace aproximadamente un año que, junto con mis compañeros en el MUDE, abrimos &lt;a href=&#34;http://mudeupna.blogspot.com.es/&#34;&gt;nuestro primer blog&lt;/a&gt; en Blogger. Durante este tiempo, he podido comprobar la utilidad de los blogs como herramientas docentes de coordinación con los estudiantes y los estoy utilizado con éxito para otras tareas y asignaturas.&lt;/p&gt;
 &lt;p&gt;En este proceso, he utilizado infinidad de recursos online: foros de discusión, páginas web y blogs, muchos blogs. Estas fuentes online también me han ayudado muchísimo para introducir cambios docentes tanto en metodología como en herramientas.&lt;/p&gt;
 &lt;p&gt;Hasta el momento he sido principalmente &amp;ldquo;consumidora&amp;rdquo; de información pero creo que es hora de contribuir, aunque sea un poquito, con esa gran comunidad de educadores.&lt;/p&gt;
@@ -2156,146 +2160,150 @@ Your browser does not support frames. View this &lt;a href=&#34;https://www.mind
     
     <item>
       <title>The Impact of Market Environments on Marketing Relationships</title>
-      <link>/publication/2014_ijms/</link>
+      <link>https://monicacortinas.net/publication/2014_ijms/</link>
       <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2014_ijms/</guid>
+      <guid>https://monicacortinas.net/publication/2014_ijms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Situational variables in online versus offline channel choice</title>
-      <link>/publication/2013_ecra/</link>
+      <link>https://monicacortinas.net/publication/2013_ecra/</link>
       <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2013_ecra/</guid>
+      <guid>https://monicacortinas.net/publication/2013_ecra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of expert opinion in consumer perception of wines</title>
-      <link>/publication/2013_ijwbr/</link>
+      <link>https://monicacortinas.net/publication/2013_ijwbr/</link>
       <pubDate>Wed, 27 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2013_ijwbr/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <guid>https://monicacortinas.net/publication/2013_ijwbr/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;i class=&#34;fas fa-trophy&#34;&gt;&lt;/i&gt; Outstanding Paper Award 2013
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title> Estudio influencia del conocimiento de la categoría de producto. El caso del espárrago (de Navarra)</title>
-      <link>/publication/2012_granada/</link>
+      <link>https://monicacortinas.net/publication/2012_granada/</link>
       <pubDate>Wed, 21 Mar 2012 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2012_granada/</guid>
+      <guid>https://monicacortinas.net/publication/2012_granada/</guid>
       <description></description>
     </item>
     
     <item>
       <title> The Impact of Market Environments on Marketing Relationships</title>
-      <link>/publication/2011_iberoamerican/</link>
+      <link>https://monicacortinas.net/publication/2011_iberoamerican/</link>
       <pubDate>Mon, 05 Dec 2011 11:00:00 +0000</pubDate>
       
-      <guid>/publication/2011_iberoamerican/</guid>
+      <guid>https://monicacortinas.net/publication/2011_iberoamerican/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneity of Outcome in the Consumer Evaluation of the Retail Encounter: A Post-hoc Segmentation Analysis in Structural Equation Models</title>
-      <link>/publication/2010_esic/</link>
+      <link>https://monicacortinas.net/publication/2010_esic/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2010_esic/</guid>
+      <guid>https://monicacortinas.net/publication/2010_esic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding multi-channel banking customers</title>
-      <link>/publication/2010_jbr/</link>
+      <link>https://monicacortinas.net/publication/2010_jbr/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2010_jbr/</guid>
+      <guid>https://monicacortinas.net/publication/2010_jbr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of Purchase Regularity and Purchase Frequency in Price and Discount Sensitivity</title>
-      <link>/publication/2010_jmt/</link>
+      <link>https://monicacortinas.net/publication/2010_jmt/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2010_jmt/</guid>
+      <guid>https://monicacortinas.net/publication/2010_jmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of product category knowledge on consumer use of extrinsic cues - A study involving agrifood products</title>
-      <link>/publication/2009_fqp/</link>
+      <link>https://monicacortinas.net/publication/2009_fqp/</link>
       <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2009_fqp/</guid>
+      <guid>https://monicacortinas.net/publication/2009_fqp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The use of loyalty-cards databases: Differences in regular price and discount sensitivity in the brand choice decision between card and non-card holders</title>
-      <link>/publication/2008_jrcs/</link>
+      <link>https://monicacortinas.net/publication/2008_jrcs/</link>
       <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2008_jrcs/</guid>
+      <guid>https://monicacortinas.net/publication/2008_jrcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The demand for and the supply of distribution services: A basis for the analysis of customer satisfaction in retailing</title>
-      <link>/publication/2007_qme/</link>
+      <link>https://monicacortinas.net/publication/2007_qme/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2007_qme/</guid>
+      <guid>https://monicacortinas.net/publication/2007_qme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La importancia del atributo origen en la elección de productos agroalimentarios. El caso del espárrago de Navarra</title>
-      <link>/publication/2007_earn/</link>
+      <link>https://monicacortinas.net/publication/2007_earn/</link>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2007_earn/</guid>
+      <guid>https://monicacortinas.net/publication/2007_earn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El Problema De Elección De Marca en una Categoría Compleja: Aplicación de una Red Neuronal Artificial</title>
-      <link>/publication/2006_esic/</link>
+      <link>https://monicacortinas.net/publication/2006_esic/</link>
       <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2006_esic/</guid>
+      <guid>https://monicacortinas.net/publication/2006_esic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loyalty cards: Are retailers ignoring non-card-holder behaviour?</title>
-      <link>/publication/2005_erd/</link>
+      <link>https://monicacortinas.net/publication/2005_erd/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2005_erd/</guid>
+      <guid>https://monicacortinas.net/publication/2005_erd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retail Store Loyalty Management via an Analysis of Heterogeneity of the Service Elements</title>
-      <link>/publication/2004_irrdcra/</link>
+      <link>https://monicacortinas.net/publication/2004_irrdcra/</link>
       <pubDate>Sat, 13 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2004_irrdcra/</guid>
+      <guid>https://monicacortinas.net/publication/2004_irrdcra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Use of a Retail Store Database for Brand Choice Analysis</title>
-      <link>/publication/2004_irrdcrb/</link>
+      <link>https://monicacortinas.net/publication/2004_irrdcrb/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2004_irrdcrb/</guid>
+      <guid>https://monicacortinas.net/publication/2004_irrdcrb/</guid>
       <description></description>
     </item>
     

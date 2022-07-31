@@ -3,3022 +3,3082 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/courses/example/example1/</loc>
+    <loc>https://monicacortinas.net/en/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/courses/example/</loc>
+    <loc>https://monicacortinas.net/en/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/courses/example/example2/</loc>
+    <loc>https://monicacortinas.net/en/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/authors/admin/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/authors/admin/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/admin/"
+                href="https://monicacortinas.net/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/admin/"
+                href="https://monicacortinas.net/en/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/3/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/authors/alvaro-saavedra/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication_types/3/"
+                href="https://monicacortinas.net/authors/alvaro-saavedra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/3/"
+                href="https://monicacortinas.net/en/authors/alvaro-saavedra/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2022_plos-one/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/tags/artificial-intelligence/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2022_plos-one/"
+                href="https://monicacortinas.net/tags/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2022_plos-one/"
+                href="https://monicacortinas.net/en/tags/artificial-intelligence/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/artificial-intelligence/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/authors/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/artificial-intelligence/"
+                href="https://monicacortinas.net/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/artificial-intelligence/"
+                href="https://monicacortinas.net/en/authors/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/tags/chatbots/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/"
+                href="https://monicacortinas.net/tags/chatbots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://monicacortinas.net/en/tags/chatbots/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/cai-xiaowei/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/talk/2022_airsi/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/cai-xiaowei/"
+                href="https://monicacortinas.net/talk/2022_airsi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/cai-xiaowei/"
+                href="https://monicacortinas.net/en/talk/2022_airsi/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/cebollada-javier/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/cebollada-javier/"
+                href="https://monicacortinas.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/cebollada-javier/"
+                href="https://monicacortinas.net/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/mobile-gaming/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/authors/natalia-rubio/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/mobile-gaming/"
+                href="https://monicacortinas.net/authors/natalia-rubio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/mobile-gaming/"
+                href="https://monicacortinas.net/en/authors/natalia-rubio/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/authors/raquel-chocarro/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/"
+                href="https://monicacortinas.net/authors/raquel-chocarro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://monicacortinas.net/en/authors/raquel-chocarro/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/talk/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication_types/"
+                href="https://monicacortinas.net/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://monicacortinas.net/en/talk/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <loc>https://monicacortinas.net/en/tags/</loc>
+    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/"
+                href="https://monicacortinas.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="https://monicacortinas.net/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://monicacortinas.net/en/publication_types/3/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/"
+                href="https://monicacortinas.net/publication_types/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://monicacortinas.net/en/publication_types/3/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2022_ijhcs/</loc>
+    <loc>https://monicacortinas.net/en/publication/2022_plos-one/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication/2022_plos-one/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication/2022_plos-one/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/authors/cai-xiaowei/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/cai-xiaowei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/cai-xiaowei/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/authors/cebollada-javier/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/cebollada-javier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/cebollada-javier/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/tags/mobile-gaming/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/mobile-gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/mobile-gaming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication_types/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication/2022_ijhcs/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2022_ijhcs/"
+                href="https://monicacortinas.net/publication/2022_ijhcs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2022_ijhcs/"
+                href="https://monicacortinas.net/en/publication/2022_ijhcs/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2021_ec/</loc>
+    <loc>https://monicacortinas.net/en/publication/2021_ec/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2021_ec/"
+                href="https://monicacortinas.net/publication/2021_ec/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2021_ec/"
+                href="https://monicacortinas.net/en/publication/2021_ec/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/gaming/</loc>
+    <loc>https://monicacortinas.net/en/tags/gaming/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/gaming/"
+                href="https://monicacortinas.net/tags/gaming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/gaming/"
+                href="https://monicacortinas.net/en/tags/gaming/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/javier-cebollada/</loc>
+    <loc>https://monicacortinas.net/en/authors/javier-cebollada/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/javier-cebollada/"
+                href="https://monicacortinas.net/authors/javier-cebollada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/javier-cebollada/"
+                href="https://monicacortinas.net/en/authors/javier-cebollada/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/xiaowei-cai/</loc>
+    <loc>https://monicacortinas.net/en/authors/xiaowei-cai/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/xiaowei-cai/"
+                href="https://monicacortinas.net/authors/xiaowei-cai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/xiaowei-cai/"
+                href="https://monicacortinas.net/en/authors/xiaowei-cai/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/carmen-berne/</loc>
+    <loc>https://monicacortinas.net/en/authors/carmen-berne/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/carmen-berne/"
+                href="https://monicacortinas.net/authors/carmen-berne/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/carmen-berne/"
+                href="https://monicacortinas.net/en/authors/carmen-berne/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2021_fip/</loc>
+    <loc>https://monicacortinas.net/en/publication/2021_fip/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2021_fip/"
+                href="https://monicacortinas.net/publication/2021_fip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2021_fip/"
+                href="https://monicacortinas.net/en/publication/2021_fip/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/frode-niilssen/</loc>
+    <loc>https://monicacortinas.net/en/authors/frode-niilssen/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/frode-niilssen/"
+                href="https://monicacortinas.net/authors/frode-niilssen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/frode-niilssen/"
+                href="https://monicacortinas.net/en/authors/frode-niilssen/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/natalia-rubio/</loc>
+    <loc>https://monicacortinas.net/en/tags/retailing/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/natalia-rubio/"
+                href="https://monicacortinas.net/tags/retailing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/natalia-rubio/"
+                href="https://monicacortinas.net/en/tags/retailing/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/raquel-chocarro/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/authors/raquel-chocarro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/raquel-chocarro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/retailing/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/tags/retailing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/retailing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/chatbot/</loc>
+    <loc>https://monicacortinas.net/en/tags/chatbot/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/chatbot/"
+                href="https://monicacortinas.net/tags/chatbot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/chatbot/"
+                href="https://monicacortinas.net/en/tags/chatbot/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/education/</loc>
+    <loc>https://monicacortinas.net/en/tags/education/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/education/"
+                href="https://monicacortinas.net/tags/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/education/"
+                href="https://monicacortinas.net/en/tags/education/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/gustavo-marcos/</loc>
+    <loc>https://monicacortinas.net/en/authors/gustavo-marcos/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/gustavo-marcos/"
+                href="https://monicacortinas.net/authors/gustavo-marcos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/gustavo-marcos/"
+                href="https://monicacortinas.net/en/authors/gustavo-marcos/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2021_erj/</loc>
+    <loc>https://monicacortinas.net/en/publication/2021_erj/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2021_erj/"
+                href="https://monicacortinas.net/publication/2021_erj/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2021_erj/"
+                href="https://monicacortinas.net/en/publication/2021_erj/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/grounded-theory/</loc>
+    <loc>https://monicacortinas.net/en/tags/digital-competencies/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/digital-competencies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/digital-competencies/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/talk/2020_gkaedutech/</loc>
+    <lastmod>2020-03-26T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/talk/2020_gkaedutech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/talk/2020_gkaedutech/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/tags/grounded-theory/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/grounded-theory/"
+                href="https://monicacortinas.net/tags/grounded-theory/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/grounded-theory/"
+                href="https://monicacortinas.net/en/tags/grounded-theory/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/in-game-goods/</loc>
+    <loc>https://monicacortinas.net/en/tags/in-game-goods/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/in-game-goods/"
+                href="https://monicacortinas.net/tags/in-game-goods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/in-game-goods/"
+                href="https://monicacortinas.net/en/tags/in-game-goods/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/purchase-behaviour/</loc>
+    <loc>https://monicacortinas.net/en/tags/purchase-behaviour/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/purchase-behaviour/"
+                href="https://monicacortinas.net/tags/purchase-behaviour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/purchase-behaviour/"
+                href="https://monicacortinas.net/en/tags/purchase-behaviour/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2020_ssrn/</loc>
+    <loc>https://monicacortinas.net/en/publication/2020_ssrn/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2020_ssrn/"
+                href="https://monicacortinas.net/publication/2020_ssrn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2020_ssrn/"
+                href="https://monicacortinas.net/en/publication/2020_ssrn/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication_types/2/</loc>
+    <loc>https://monicacortinas.net/en/publication_types/2/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication_types/2/"
+                href="https://monicacortinas.net/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/2/"
+                href="https://monicacortinas.net/en/publication_types/2/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/customer-journey/</loc>
+    <loc>https://monicacortinas.net/en/tags/customer-journey/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/customer-journey/"
+                href="https://monicacortinas.net/tags/customer-journey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/customer-journey/"
+                href="https://monicacortinas.net/en/tags/customer-journey/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/e-commerce/</loc>
+    <loc>https://monicacortinas.net/en/tags/e-commerce/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/e-commerce/"
+                href="https://monicacortinas.net/tags/e-commerce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/e-commerce/"
+                href="https://monicacortinas.net/en/tags/e-commerce/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/margarita-elorz/</loc>
+    <loc>https://monicacortinas.net/en/authors/margarita-elorz/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/margarita-elorz/"
+                href="https://monicacortinas.net/authors/margarita-elorz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/margarita-elorz/"
+                href="https://monicacortinas.net/en/authors/margarita-elorz/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_sjm/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_sjm/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_sjm/"
+                href="https://monicacortinas.net/publication/2019_sjm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_sjm/"
+                href="https://monicacortinas.net/en/publication/2019_sjm/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/omnichannel-strategy/</loc>
+    <loc>https://monicacortinas.net/en/tags/omnichannel-strategy/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/omnichannel-strategy/"
+                href="https://monicacortinas.net/tags/omnichannel-strategy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/omnichannel-strategy/"
+                href="https://monicacortinas.net/en/tags/omnichannel-strategy/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/purchase-task/</loc>
+    <loc>https://monicacortinas.net/en/tags/purchase-task/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/purchase-task/"
+                href="https://monicacortinas.net/tags/purchase-task/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/purchase-task/"
+                href="https://monicacortinas.net/en/tags/purchase-task/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2019_mundo/</loc>
+    <loc>https://monicacortinas.net/en/talk/2019_mundo/</loc>
     <lastmod>2019-10-23T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2019_mundo/"
+                href="https://monicacortinas.net/talk/2019_mundo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2019_mundo/"
+                href="https://monicacortinas.net/en/talk/2019_mundo/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/</loc>
-    <lastmod>2019-10-23T11:30:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/arantxa-villanueva/</loc>
+    <loc>https://monicacortinas.net/en/authors/arantxa-villanueva/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/arantxa-villanueva/"
+                href="https://monicacortinas.net/authors/arantxa-villanueva/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/arantxa-villanueva/"
+                href="https://monicacortinas.net/en/authors/arantxa-villanueva/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/eyetracking/</loc>
+    <loc>https://monicacortinas.net/en/tags/eyetracking/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/eyetracking/"
+                href="https://monicacortinas.net/tags/eyetracking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/eyetracking/"
+                href="https://monicacortinas.net/en/tags/eyetracking/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/omnichannel/</loc>
+    <loc>https://monicacortinas.net/en/tags/omnichannel/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/omnichannel/"
+                href="https://monicacortinas.net/tags/omnichannel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/omnichannel/"
+                href="https://monicacortinas.net/en/tags/omnichannel/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2019_aemark/</loc>
+    <loc>https://monicacortinas.net/en/talk/2019_aemark/</loc>
     <lastmod>2019-09-11T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2019_aemark/"
+                href="https://monicacortinas.net/talk/2019_aemark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2019_aemark/"
+                href="https://monicacortinas.net/en/talk/2019_aemark/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/digital-competencies/</loc>
+    <loc>https://monicacortinas.net/en/project/digital-competencies/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/digital-competencies/"
+                href="https://monicacortinas.net/project/digital-competencies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/digital-competencies/"
+                href="https://monicacortinas.net/en/project/digital-competencies/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/digital-competencies/</loc>
+    <loc>https://monicacortinas.net/en/tags/finalizado/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/digital-competencies/"
+                href="https://monicacortinas.net/tags/finalizado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/digital-competencies/"
+                href="https://monicacortinas.net/en/tags/finalizado/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/finalizado/</loc>
+    <loc>https://monicacortinas.net/en/project/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/finalizado/"
+                href="https://monicacortinas.net/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/finalizado/"
+                href="https://monicacortinas.net/en/project/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publication_types/1/</loc>
+    <loc>https://monicacortinas.net/en/publication_types/1/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication_types/1/"
+                href="https://monicacortinas.net/publication_types/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/1/"
+                href="https://monicacortinas.net/en/publication_types/1/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/eye-tracking/</loc>
+    <loc>https://monicacortinas.net/en/tags/eye-tracking/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/eye-tracking/"
+                href="https://monicacortinas.net/tags/eye-tracking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/eye-tracking/"
+                href="https://monicacortinas.net/en/tags/eye-tracking/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/visual-attention/</loc>
+    <loc>https://monicacortinas.net/en/tags/visual-attention/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/visual-attention/"
+                href="https://monicacortinas.net/tags/visual-attention/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/visual-attention/"
+                href="https://monicacortinas.net/en/tags/visual-attention/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_earcd/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_earcd/</loc>
     <lastmod>2019-07-03T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_earcd/"
+                href="https://monicacortinas.net/publication/2019_earcd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_earcd/"
+                href="https://monicacortinas.net/en/publication/2019_earcd/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2019_earcd/</loc>
+    <loc>https://monicacortinas.net/en/talk/2019_earcd/</loc>
     <lastmod>2019-07-03T11:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2019_earcd/"
+                href="https://monicacortinas.net/talk/2019_earcd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2019_earcd/"
+                href="https://monicacortinas.net/en/talk/2019_earcd/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_denver/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_denver/</loc>
     <lastmod>2019-06-27T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_denver/"
+                href="https://monicacortinas.net/publication/2019_denver/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_denver/"
+                href="https://monicacortinas.net/en/publication/2019_denver/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/mobile-games/</loc>
+    <loc>https://monicacortinas.net/en/tags/mobile-games/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/mobile-games/"
+                href="https://monicacortinas.net/tags/mobile-games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/mobile-games/"
+                href="https://monicacortinas.net/en/tags/mobile-games/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/videogames/</loc>
+    <loc>https://monicacortinas.net/en/tags/videogames/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/videogames/"
+                href="https://monicacortinas.net/tags/videogames/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/videogames/"
+                href="https://monicacortinas.net/en/tags/videogames/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_mkscience/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_mkscience/</loc>
     <lastmod>2019-06-22T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_mkscience/"
+                href="https://monicacortinas.net/publication/2019_mkscience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_mkscience/"
+                href="https://monicacortinas.net/en/publication/2019_mkscience/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/artificial-intelligence/</loc>
+    <loc>https://monicacortinas.net/en/project/artificial-intelligence/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/artificial-intelligence/"
+                href="https://monicacortinas.net/project/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/artificial-intelligence/"
+                href="https://monicacortinas.net/en/project/artificial-intelligence/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/current/</loc>
+    <loc>https://monicacortinas.net/en/tags/current/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/recommendation-bots/</loc>
+    <loc>https://monicacortinas.net/en/tags/recommendation-bots/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/recommendation-bots/"
+                href="https://monicacortinas.net/tags/recommendation-bots/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/recommendation-bots/"
+                href="https://monicacortinas.net/en/tags/recommendation-bots/"
                 />
   </url>
   
   <url>
-    <loc>/en/courses/</loc>
+    <loc>https://monicacortinas.net/en/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/courses/"
+                href="https://monicacortinas.net/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/courses/"
+                href="https://monicacortinas.net/en/courses/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_ecra/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_ecra/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_ecra/"
+                href="https://monicacortinas.net/publication/2019_ecra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_ecra/"
+                href="https://monicacortinas.net/en/publication/2019_ecra/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/experimental-design/</loc>
+    <loc>https://monicacortinas.net/en/tags/experimental-design/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/experimental-design/"
+                href="https://monicacortinas.net/tags/experimental-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/experimental-design/"
+                href="https://monicacortinas.net/en/tags/experimental-design/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/rafael-cabeza/</loc>
+    <loc>https://monicacortinas.net/en/authors/rafael-cabeza/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/rafael-cabeza/"
+                href="https://monicacortinas.net/authors/rafael-cabeza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/rafael-cabeza/"
+                href="https://monicacortinas.net/en/authors/rafael-cabeza/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/channel-policies/</loc>
+    <loc>https://monicacortinas.net/en/tags/channel-policies/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/channel-policies/"
+                href="https://monicacortinas.net/tags/channel-policies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/channel-policies/"
+                href="https://monicacortinas.net/en/tags/channel-policies/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/distribution-services/</loc>
+    <loc>https://monicacortinas.net/en/tags/distribution-services/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/distribution-services/"
+                href="https://monicacortinas.net/tags/distribution-services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/distribution-services/"
+                href="https://monicacortinas.net/en/tags/distribution-services/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/online-retailing/</loc>
+    <loc>https://monicacortinas.net/en/tags/online-retailing/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/online-retailing/"
+                href="https://monicacortinas.net/tags/online-retailing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/online-retailing/"
+                href="https://monicacortinas.net/en/tags/online-retailing/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/segmentation/</loc>
+    <loc>https://monicacortinas.net/en/tags/segmentation/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/segmentation/"
+                href="https://monicacortinas.net/tags/segmentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/segmentation/"
+                href="https://monicacortinas.net/en/tags/segmentation/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_ssrn/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_ssrn/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_ssrn/"
+                href="https://monicacortinas.net/publication/2019_ssrn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_ssrn/"
+                href="https://monicacortinas.net/en/publication/2019_ssrn/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2019_imrc/</loc>
+    <loc>https://monicacortinas.net/en/talk/2019_imrc/</loc>
     <lastmod>2019-03-28T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2019_imrc/"
+                href="https://monicacortinas.net/talk/2019_imrc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2019_imrc/"
+                href="https://monicacortinas.net/en/talk/2019_imrc/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/omnichannel-behavior/</loc>
+    <loc>https://monicacortinas.net/en/tags/omnichannel-behavior/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/omnichannel-behavior/"
+                href="https://monicacortinas.net/tags/omnichannel-behavior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/omnichannel-behavior/"
+                href="https://monicacortinas.net/en/tags/omnichannel-behavior/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2019_imrc/</loc>
+    <loc>https://monicacortinas.net/en/publication/2019_imrc/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2019_imrc/"
+                href="https://monicacortinas.net/publication/2019_imrc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2019_imrc/"
+                href="https://monicacortinas.net/en/publication/2019_imrc/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/jupyter/</loc>
+    <loc>https://monicacortinas.net/en/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/post/</loc>
+    <loc>https://monicacortinas.net/en/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/post/"
+                href="https://monicacortinas.net/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/"
+                href="https://monicacortinas.net/en/post/"
                 />
   </url>
   
   <url>
-    <loc>/en/slides/</loc>
+    <loc>https://monicacortinas.net/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/slides/"
+                href="https://monicacortinas.net/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/slides/"
+                href="https://monicacortinas.net/en/slides/"
                 />
   </url>
   
   <url>
-    <loc>/en/slides/example/</loc>
+    <loc>https://monicacortinas.net/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/slides/example/"
+                href="https://monicacortinas.net/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/slides/example/"
+                href="https://monicacortinas.net/en/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2018_uam/</loc>
+    <loc>https://monicacortinas.net/en/talk/2018_uam/</loc>
     <lastmod>2018-11-28T16:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2018_uam/"
+                href="https://monicacortinas.net/talk/2018_uam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2018_uam/"
+                href="https://monicacortinas.net/en/talk/2018_uam/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2018_concursoacceso/</loc>
+    <loc>https://monicacortinas.net/en/talk/2018_concursoacceso/</loc>
     <lastmod>2018-11-08T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2018_concursoacceso/"
+                href="https://monicacortinas.net/talk/2018_concursoacceso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2018_concursoacceso/"
+                href="https://monicacortinas.net/en/talk/2018_concursoacceso/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2018_aemark/</loc>
+    <loc>https://monicacortinas.net/en/talk/2018_aemark/</loc>
     <lastmod>2018-09-05T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2018_aemark/"
+                href="https://monicacortinas.net/talk/2018_aemark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2018_aemark/"
+                href="https://monicacortinas.net/en/talk/2018_aemark/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2018_sij/</loc>
+    <loc>https://monicacortinas.net/en/publication/2018_sij/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2018_sij/"
+                href="https://monicacortinas.net/publication/2018_sij/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2018_sij/"
+                href="https://monicacortinas.net/en/publication/2018_sij/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/mar%C3%ADa-luisa-villanueva/</loc>
+    <loc>https://monicacortinas.net/en/authors/mar%C3%ADa-luisa-villanueva/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/mar%C3%ADa-luisa-villanueva/"
+                href="https://monicacortinas.net/authors/mar%C3%ADa-luisa-villanueva/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/mar%C3%ADa-luisa-villanueva/"
+                href="https://monicacortinas.net/en/authors/mar%C3%ADa-luisa-villanueva/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/service-sector/</loc>
+    <loc>https://monicacortinas.net/en/tags/service-sector/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/service-sector/"
+                href="https://monicacortinas.net/tags/service-sector/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/service-sector/"
+                href="https://monicacortinas.net/en/tags/service-sector/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/critocurrency/</loc>
+    <loc>https://monicacortinas.net/en/tags/critocurrency/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/critocurrency/"
+                href="https://monicacortinas.net/tags/critocurrency/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/critocurrency/"
+                href="https://monicacortinas.net/en/tags/critocurrency/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/digital-economy/</loc>
+    <loc>https://monicacortinas.net/en/tags/digital-economy/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/digital-economy/"
+                href="https://monicacortinas.net/tags/digital-economy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/digital-economy/"
+                href="https://monicacortinas.net/en/tags/digital-economy/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2018_criptocurrencies/</loc>
+    <loc>https://monicacortinas.net/en/talk/2018_criptocurrencies/</loc>
     <lastmod>2018-06-15T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2018_criptocurrencies/"
+                href="https://monicacortinas.net/talk/2018_criptocurrencies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2018_criptocurrencies/"
+                href="https://monicacortinas.net/en/talk/2018_criptocurrencies/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/alberto-iba%C3%B1ez-fernandez/</loc>
+    <loc>https://monicacortinas.net/en/authors/alberto-iba%C3%B1ez-fernandez/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/alberto-iba%C3%B1ez-fernandez/"
+                href="https://monicacortinas.net/authors/alberto-iba%C3%B1ez-fernandez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/alberto-iba%C3%B1ez-fernandez/"
+                href="https://monicacortinas.net/en/authors/alberto-iba%C3%B1ez-fernandez/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2018_jrcs/</loc>
+    <loc>https://monicacortinas.net/en/publication/2018_jrcs/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2018_jrcs/"
+                href="https://monicacortinas.net/publication/2018_jrcs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2018_jrcs/"
+                href="https://monicacortinas.net/en/publication/2018_jrcs/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/distintive-competencies/</loc>
+    <loc>https://monicacortinas.net/en/tags/distintive-competencies/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/distintive-competencies/"
+                href="https://monicacortinas.net/tags/distintive-competencies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/distintive-competencies/"
+                href="https://monicacortinas.net/en/tags/distintive-competencies/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/gyanendra-singh-sisodia/</loc>
+    <loc>https://monicacortinas.net/en/authors/gyanendra-singh-sisodia/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/gyanendra-singh-sisodia/"
+                href="https://monicacortinas.net/authors/gyanendra-singh-sisodia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/gyanendra-singh-sisodia/"
+                href="https://monicacortinas.net/en/authors/gyanendra-singh-sisodia/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/pedro-reinares-lara/</loc>
+    <loc>https://monicacortinas.net/en/authors/pedro-reinares-lara/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/pedro-reinares-lara/"
+                href="https://monicacortinas.net/authors/pedro-reinares-lara/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/pedro-reinares-lara/"
+                href="https://monicacortinas.net/en/authors/pedro-reinares-lara/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/strategy/</loc>
+    <loc>https://monicacortinas.net/en/tags/strategy/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/strategy/"
+                href="https://monicacortinas.net/tags/strategy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/strategy/"
+                href="https://monicacortinas.net/en/tags/strategy/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/purchase-path/</loc>
+    <loc>https://monicacortinas.net/en/tags/purchase-path/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/purchase-path/"
+                href="https://monicacortinas.net/tags/purchase-path/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/purchase-path/"
+                href="https://monicacortinas.net/en/tags/purchase-path/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/eyetracking-visualattention/</loc>
+    <loc>https://monicacortinas.net/en/project/eyetracking-visualattention/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/eyetracking-visualattention/"
+                href="https://monicacortinas.net/project/eyetracking-visualattention/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/eyetracking-visualattention/"
+                href="https://monicacortinas.net/en/project/eyetracking-visualattention/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2017_uv/</loc>
+    <loc>https://monicacortinas.net/en/talk/2017_uv/</loc>
     <lastmod>2017-10-27T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2017_uv/"
+                href="https://monicacortinas.net/talk/2017_uv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2017_uv/"
+                href="https://monicacortinas.net/en/talk/2017_uv/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2017_aemark2/</loc>
+    <loc>https://monicacortinas.net/en/publication/2017_aemark2/</loc>
     <lastmod>2017-09-08T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2017_aemark2/"
+                href="https://monicacortinas.net/publication/2017_aemark2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2017_aemark2/"
+                href="https://monicacortinas.net/en/publication/2017_aemark2/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/services-marketing/</loc>
+    <loc>https://monicacortinas.net/en/tags/services-marketing/</loc>
     <lastmod>2017-09-08T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/services-marketing/"
+                href="https://monicacortinas.net/tags/services-marketing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/services-marketing/"
+                href="https://monicacortinas.net/en/tags/services-marketing/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2017_aemark1/</loc>
+    <loc>https://monicacortinas.net/en/publication/2017_aemark1/</loc>
     <lastmod>2017-09-08T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2017_aemark1/"
+                href="https://monicacortinas.net/publication/2017_aemark1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2017_aemark1/"
+                href="https://monicacortinas.net/en/publication/2017_aemark1/"
                 />
   </url>
   
   <url>
-    <loc>/en/talk/2017_aemark/</loc>
+    <loc>https://monicacortinas.net/en/talk/2017_aemark/</loc>
     <lastmod>2017-09-08T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/talk/2017_aemark/"
+                href="https://monicacortinas.net/talk/2017_aemark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/2017_aemark/"
+                href="https://monicacortinas.net/en/talk/2017_aemark/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/e-sports/</loc>
+    <loc>https://monicacortinas.net/en/tags/e-sports/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/e-sports/"
+                href="https://monicacortinas.net/tags/e-sports/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/e-sports/"
+                href="https://monicacortinas.net/en/tags/e-sports/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/mobile-games/</loc>
+    <loc>https://monicacortinas.net/en/project/mobile-games/</loc>
     <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/mobile-games/"
+                href="https://monicacortinas.net/project/mobile-games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/mobile-games/"
+                href="https://monicacortinas.net/en/project/mobile-games/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/customer-satisfaction/</loc>
+    <loc>https://monicacortinas.net/en/tags/customer-satisfaction/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/customer-satisfaction/"
+                href="https://monicacortinas.net/tags/customer-satisfaction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/customer-satisfaction/"
+                href="https://monicacortinas.net/en/tags/customer-satisfaction/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/intentional-loyalty/</loc>
+    <loc>https://monicacortinas.net/en/tags/intentional-loyalty/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/intentional-loyalty/"
+                href="https://monicacortinas.net/tags/intentional-loyalty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/intentional-loyalty/"
+                href="https://monicacortinas.net/en/tags/intentional-loyalty/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/jos%C3%A9-m.-m%C3%BAgica/</loc>
+    <loc>https://monicacortinas.net/en/authors/jos%C3%A9-m.-m%C3%BAgica/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/jos%C3%A9-m.-m%C3%BAgica/"
+                href="https://monicacortinas.net/authors/jos%C3%A9-m.-m%C3%BAgica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/jos%C3%A9-m.-m%C3%BAgica/"
+                href="https://monicacortinas.net/en/authors/jos%C3%A9-m.-m%C3%BAgica/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/online-channels/</loc>
+    <loc>https://monicacortinas.net/en/tags/online-channels/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/online-channels/"
+                href="https://monicacortinas.net/tags/online-channels/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/online-channels/"
+                href="https://monicacortinas.net/en/tags/online-channels/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/private-sales-clubs/</loc>
+    <loc>https://monicacortinas.net/en/tags/private-sales-clubs/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/private-sales-clubs/"
+                href="https://monicacortinas.net/tags/private-sales-clubs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/private-sales-clubs/"
+                href="https://monicacortinas.net/en/tags/private-sales-clubs/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2017_jim/</loc>
+    <loc>https://monicacortinas.net/en/publication/2017_jim/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2017_jim/"
+                href="https://monicacortinas.net/publication/2017_jim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2017_jim/"
+                href="https://monicacortinas.net/en/publication/2017_jim/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/quantile-regression/</loc>
+    <loc>https://monicacortinas.net/en/tags/quantile-regression/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/quantile-regression/"
+                href="https://monicacortinas.net/tags/quantile-regression/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/quantile-regression/"
+                href="https://monicacortinas.net/en/tags/quantile-regression/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/roger-r.-betancourt/</loc>
+    <loc>https://monicacortinas.net/en/authors/roger-r.-betancourt/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/roger-r.-betancourt/"
+                href="https://monicacortinas.net/authors/roger-r.-betancourt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/roger-r.-betancourt/"
+                href="https://monicacortinas.net/en/authors/roger-r.-betancourt/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2017_mktrends/</loc>
+    <loc>https://monicacortinas.net/en/publication/2017_mktrends/</loc>
     <lastmod>2017-01-26T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2017_mktrends/"
+                href="https://monicacortinas.net/publication/2017_mktrends/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2017_mktrends/"
+                href="https://monicacortinas.net/en/publication/2017_mktrends/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</loc>
+    <loc>https://monicacortinas.net/en/authors/jos%C3%A9-miguel-m%C3%BAgica/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/jos%C3%A9-miguel-m%C3%BAgica/"
+                href="https://monicacortinas.net/authors/jos%C3%A9-miguel-m%C3%BAgica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/jos%C3%A9-miguel-m%C3%BAgica/"
+                href="https://monicacortinas.net/en/authors/jos%C3%A9-miguel-m%C3%BAgica/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/roger-betancourt/</loc>
+    <loc>https://monicacortinas.net/en/authors/roger-betancourt/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/roger-betancourt/"
+                href="https://monicacortinas.net/authors/roger-betancourt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/roger-betancourt/"
+                href="https://monicacortinas.net/en/authors/roger-betancourt/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2016_aemark/</loc>
+    <loc>https://monicacortinas.net/en/publication/2016_aemark/</loc>
     <lastmod>2016-09-09T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2016_aemark/"
+                href="https://monicacortinas.net/publication/2016_aemark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2016_aemark/"
+                href="https://monicacortinas.net/en/publication/2016_aemark/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2016_multichannelmarketing/</loc>
+    <loc>https://monicacortinas.net/en/publication/2016_multichannelmarketing/</loc>
     <lastmod>2016-05-20T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2016_multichannelmarketing/"
+                href="https://monicacortinas.net/publication/2016_multichannelmarketing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2016_multichannelmarketing/"
+                href="https://monicacortinas.net/en/publication/2016_multichannelmarketing/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/academic/</loc>
+    <loc>https://monicacortinas.net/en/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/post/getting-started/</loc>
+    <loc>https://monicacortinas.net/en/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/channel-choice-and-management/</loc>
+    <loc>https://monicacortinas.net/en/tags/channel-choice-and-management/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/channel-choice-and-management/"
+                href="https://monicacortinas.net/tags/channel-choice-and-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/channel-choice-and-management/"
+                href="https://monicacortinas.net/en/tags/channel-choice-and-management/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2016_jim/</loc>
+    <loc>https://monicacortinas.net/en/publication/2016_jim/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2016_jim/"
+                href="https://monicacortinas.net/publication/2016_jim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2016_jim/"
+                href="https://monicacortinas.net/en/publication/2016_jim/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/maximum-service-limits-of-channels/</loc>
+    <loc>https://monicacortinas.net/en/tags/maximum-service-limits-of-channels/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/maximum-service-limits-of-channels/"
+                href="https://monicacortinas.net/tags/maximum-service-limits-of-channels/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/maximum-service-limits-of-channels/"
+                href="https://monicacortinas.net/en/tags/maximum-service-limits-of-channels/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/online-vs.-offline-retailing/</loc>
+    <loc>https://monicacortinas.net/en/tags/online-vs.-offline-retailing/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/online-vs.-offline-retailing/"
+                href="https://monicacortinas.net/tags/online-vs.-offline-retailing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/online-vs.-offline-retailing/"
+                href="https://monicacortinas.net/en/tags/online-vs.-offline-retailing/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/separability-across-space-and-time/</loc>
+    <loc>https://monicacortinas.net/en/tags/separability-across-space-and-time/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/separability-across-space-and-time/"
+                href="https://monicacortinas.net/tags/separability-across-space-and-time/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/separability-across-space-and-time/"
+                href="https://monicacortinas.net/en/tags/separability-across-space-and-time/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2015_aemark1/</loc>
+    <loc>https://monicacortinas.net/en/publication/2015_aemark1/</loc>
     <lastmod>2015-09-07T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2015_aemark1/"
+                href="https://monicacortinas.net/publication/2015_aemark1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2015_aemark1/"
+                href="https://monicacortinas.net/en/publication/2015_aemark1/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2015_aemark2/</loc>
+    <loc>https://monicacortinas.net/en/publication/2015_aemark2/</loc>
     <lastmod>2015-09-07T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2015_aemark2/"
+                href="https://monicacortinas.net/publication/2015_aemark2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2015_aemark2/"
+                href="https://monicacortinas.net/en/publication/2015_aemark2/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://monicacortinas.net/en/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/categories/"
+                href="https://monicacortinas.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://monicacortinas.net/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://monicacortinas.net/en/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/plot/</loc>
+    <loc>https://monicacortinas.net/en/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/categories/r/</loc>
+    <loc>https://monicacortinas.net/en/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/r-markdown/</loc>
+    <loc>https://monicacortinas.net/en/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/regression/</loc>
+    <loc>https://monicacortinas.net/en/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/buyer-behaviour/</loc>
+    <loc>https://monicacortinas.net/en/tags/buyer-behaviour/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/buyer-behaviour/"
+                href="https://monicacortinas.net/tags/buyer-behaviour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/buyer-behaviour/"
+                href="https://monicacortinas.net/en/tags/buyer-behaviour/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/channel-management/</loc>
+    <loc>https://monicacortinas.net/en/tags/channel-management/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/channel-management/"
+                href="https://monicacortinas.net/tags/channel-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/channel-management/"
+                href="https://monicacortinas.net/en/tags/channel-management/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2015_jrim/</loc>
+    <loc>https://monicacortinas.net/en/publication/2015_jrim/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2015_jrim/"
+                href="https://monicacortinas.net/publication/2015_jrim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2015_jrim/"
+                href="https://monicacortinas.net/en/publication/2015_jrim/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/e-service-quality/</loc>
+    <loc>https://monicacortinas.net/en/tags/e-service-quality/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/e-service-quality/"
+                href="https://monicacortinas.net/tags/e-service-quality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/e-service-quality/"
+                href="https://monicacortinas.net/en/tags/e-service-quality/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/maria-luisa-villanueva/</loc>
+    <loc>https://monicacortinas.net/en/authors/maria-luisa-villanueva/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/maria-luisa-villanueva/"
+                href="https://monicacortinas.net/authors/maria-luisa-villanueva/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/maria-luisa-villanueva/"
+                href="https://monicacortinas.net/en/authors/maria-luisa-villanueva/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/omnichannel-behavior/</loc>
+    <loc>https://monicacortinas.net/en/project/omnichannel-behavior/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/omnichannel-behavior/"
+                href="https://monicacortinas.net/project/omnichannel-behavior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/omnichannel-behavior/"
+                href="https://monicacortinas.net/en/project/omnichannel-behavior/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/online-shopping/</loc>
+    <loc>https://monicacortinas.net/en/tags/online-shopping/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/online-shopping/"
+                href="https://monicacortinas.net/tags/online-shopping/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/online-shopping/"
+                href="https://monicacortinas.net/en/tags/online-shopping/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/other/</loc>
+    <loc>https://monicacortinas.net/en/tags/other/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/project/services-marketing/</loc>
+    <loc>https://monicacortinas.net/en/project/services-marketing/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/services-marketing/"
+                href="https://monicacortinas.net/project/services-marketing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/services-marketing/"
+                href="https://monicacortinas.net/en/project/services-marketing/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2014_ijms/</loc>
+    <loc>https://monicacortinas.net/en/publication/2014_ijms/</loc>
     <lastmod>2014-01-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2014_ijms/"
+                href="https://monicacortinas.net/publication/2014_ijms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2014_ijms/"
+                href="https://monicacortinas.net/en/publication/2014_ijms/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/channel-choice/</loc>
+    <loc>https://monicacortinas.net/en/tags/channel-choice/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/channel-choice/"
+                href="https://monicacortinas.net/tags/channel-choice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/channel-choice/"
+                href="https://monicacortinas.net/en/tags/channel-choice/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/experimentation/</loc>
+    <loc>https://monicacortinas.net/en/tags/experimentation/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/experimentation/"
+                href="https://monicacortinas.net/tags/experimentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/experimentation/"
+                href="https://monicacortinas.net/en/tags/experimentation/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/internet/</loc>
+    <loc>https://monicacortinas.net/en/tags/internet/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/internet/"
+                href="https://monicacortinas.net/tags/internet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/internet/"
+                href="https://monicacortinas.net/en/tags/internet/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/situational-variables/</loc>
+    <loc>https://monicacortinas.net/en/tags/situational-variables/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/situational-variables/"
+                href="https://monicacortinas.net/tags/situational-variables/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/situational-variables/"
+                href="https://monicacortinas.net/en/tags/situational-variables/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2013_ecra/</loc>
+    <loc>https://monicacortinas.net/en/publication/2013_ecra/</loc>
     <lastmod>2013-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2013_ecra/"
+                href="https://monicacortinas.net/publication/2013_ecra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2013_ecra/"
+                href="https://monicacortinas.net/en/publication/2013_ecra/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/consensus/</loc>
+    <loc>https://monicacortinas.net/en/tags/consensus/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/consensus/"
+                href="https://monicacortinas.net/tags/consensus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/consensus/"
+                href="https://monicacortinas.net/en/tags/consensus/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/consumer-response/</loc>
+    <loc>https://monicacortinas.net/en/tags/consumer-response/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/consumer-response/"
+                href="https://monicacortinas.net/tags/consumer-response/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/consumer-response/"
+                href="https://monicacortinas.net/en/tags/consumer-response/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/experts-influence/</loc>
+    <loc>https://monicacortinas.net/en/tags/experts-influence/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/experts-influence/"
+                href="https://monicacortinas.net/tags/experts-influence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/experts-influence/"
+                href="https://monicacortinas.net/en/tags/experts-influence/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/information-complexity/</loc>
+    <loc>https://monicacortinas.net/en/tags/information-complexity/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/information-complexity/"
+                href="https://monicacortinas.net/tags/information-complexity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/information-complexity/"
+                href="https://monicacortinas.net/en/tags/information-complexity/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/recommendations/</loc>
+    <loc>https://monicacortinas.net/en/tags/recommendations/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/recommendations/"
+                href="https://monicacortinas.net/tags/recommendations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/recommendations/"
+                href="https://monicacortinas.net/en/tags/recommendations/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/red-wines/</loc>
+    <loc>https://monicacortinas.net/en/tags/red-wines/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/red-wines/"
+                href="https://monicacortinas.net/tags/red-wines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/red-wines/"
+                href="https://monicacortinas.net/en/tags/red-wines/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2013_ijwbr/</loc>
+    <loc>https://monicacortinas.net/en/publication/2013_ijwbr/</loc>
     <lastmod>2013-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2013_ijwbr/"
+                href="https://monicacortinas.net/publication/2013_ijwbr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2013_ijwbr/"
+                href="https://monicacortinas.net/en/publication/2013_ijwbr/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/agricultural-marketing/</loc>
+    <loc>https://monicacortinas.net/en/project/agricultural-marketing/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/agricultural-marketing/"
+                href="https://monicacortinas.net/project/agricultural-marketing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/agricultural-marketing/"
+                href="https://monicacortinas.net/en/project/agricultural-marketing/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/agriproducts/</loc>
+    <loc>https://monicacortinas.net/en/tags/agriproducts/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/agriproducts/"
+                href="https://monicacortinas.net/tags/agriproducts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/agriproducts/"
+                href="https://monicacortinas.net/en/tags/agriproducts/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/brands/</loc>
+    <loc>https://monicacortinas.net/en/tags/brands/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/brands/"
+                href="https://monicacortinas.net/tags/brands/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/brands/"
+                href="https://monicacortinas.net/en/tags/brands/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/consumer-experience/</loc>
+    <loc>https://monicacortinas.net/en/tags/consumer-experience/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/consumer-experience/"
+                href="https://monicacortinas.net/tags/consumer-experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/consumer-experience/"
+                href="https://monicacortinas.net/en/tags/consumer-experience/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2012_granada/</loc>
+    <loc>https://monicacortinas.net/en/publication/2012_granada/</loc>
     <lastmod>2012-03-21T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2012_granada/"
+                href="https://monicacortinas.net/publication/2012_granada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2012_granada/"
+                href="https://monicacortinas.net/en/publication/2012_granada/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/asparragous/</loc>
+    <loc>https://monicacortinas.net/en/tags/asparragous/</loc>
     <lastmod>2012-03-21T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/asparragous/"
+                href="https://monicacortinas.net/tags/asparragous/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/asparragous/"
+                href="https://monicacortinas.net/en/tags/asparragous/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2011_iberoamerican/</loc>
+    <loc>https://monicacortinas.net/en/publication/2011_iberoamerican/</loc>
     <lastmod>2011-12-05T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2011_iberoamerican/"
+                href="https://monicacortinas.net/publication/2011_iberoamerican/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2011_iberoamerican/"
+                href="https://monicacortinas.net/en/publication/2011_iberoamerican/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/entropy/</loc>
+    <loc>https://monicacortinas.net/en/tags/entropy/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/entropy/"
+                href="https://monicacortinas.net/tags/entropy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/entropy/"
+                href="https://monicacortinas.net/en/tags/entropy/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/financial-services/</loc>
+    <loc>https://monicacortinas.net/en/tags/financial-services/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/financial-services/"
+                href="https://monicacortinas.net/tags/financial-services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/financial-services/"
+                href="https://monicacortinas.net/en/tags/financial-services/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2010_esic/</loc>
+    <loc>https://monicacortinas.net/en/publication/2010_esic/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2010_esic/"
+                href="https://monicacortinas.net/publication/2010_esic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2010_esic/"
+                href="https://monicacortinas.net/en/publication/2010_esic/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/latent-class-regression/</loc>
+    <loc>https://monicacortinas.net/en/tags/latent-class-regression/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/latent-class-regression/"
+                href="https://monicacortinas.net/tags/latent-class-regression/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/latent-class-regression/"
+                href="https://monicacortinas.net/en/tags/latent-class-regression/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/latent-segmentation/</loc>
+    <loc>https://monicacortinas.net/en/tags/latent-segmentation/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/latent-segmentation/"
+                href="https://monicacortinas.net/tags/latent-segmentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/latent-segmentation/"
+                href="https://monicacortinas.net/en/tags/latent-segmentation/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/multi-channel-behavior/</loc>
+    <loc>https://monicacortinas.net/en/tags/multi-channel-behavior/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/multi-channel-behavior/"
+                href="https://monicacortinas.net/tags/multi-channel-behavior/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/multi-channel-behavior/"
+                href="https://monicacortinas.net/en/tags/multi-channel-behavior/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/satisfaction-and-loyalty/</loc>
+    <loc>https://monicacortinas.net/en/tags/satisfaction-and-loyalty/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/satisfaction-and-loyalty/"
+                href="https://monicacortinas.net/tags/satisfaction-and-loyalty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/satisfaction-and-loyalty/"
+                href="https://monicacortinas.net/en/tags/satisfaction-and-loyalty/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/structural-equation-models/</loc>
+    <loc>https://monicacortinas.net/en/tags/structural-equation-models/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/structural-equation-models/"
+                href="https://monicacortinas.net/tags/structural-equation-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/structural-equation-models/"
+                href="https://monicacortinas.net/en/tags/structural-equation-models/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2010_jbr/</loc>
+    <loc>https://monicacortinas.net/en/publication/2010_jbr/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2010_jbr/"
+                href="https://monicacortinas.net/publication/2010_jbr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2010_jbr/"
+                href="https://monicacortinas.net/en/publication/2010_jbr/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/brand-choice/</loc>
+    <loc>https://monicacortinas.net/en/tags/brand-choice/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/brand-choice/"
+                href="https://monicacortinas.net/tags/brand-choice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/brand-choice/"
+                href="https://monicacortinas.net/en/tags/brand-choice/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/mariya-andreeva/</loc>
+    <loc>https://monicacortinas.net/en/authors/mariya-andreeva/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/mariya-andreeva/"
+                href="https://monicacortinas.net/authors/mariya-andreeva/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/mariya-andreeva/"
+                href="https://monicacortinas.net/en/authors/mariya-andreeva/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/purchase-frequency/</loc>
+    <loc>https://monicacortinas.net/en/tags/purchase-frequency/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/purchase-frequency/"
+                href="https://monicacortinas.net/tags/purchase-frequency/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/purchase-frequency/"
+                href="https://monicacortinas.net/en/tags/purchase-frequency/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/purchase-incidence/</loc>
+    <loc>https://monicacortinas.net/en/tags/purchase-incidence/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/purchase-incidence/"
+                href="https://monicacortinas.net/tags/purchase-incidence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/purchase-incidence/"
+                href="https://monicacortinas.net/en/tags/purchase-incidence/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/regularity/</loc>
+    <loc>https://monicacortinas.net/en/tags/regularity/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/regularity/"
+                href="https://monicacortinas.net/tags/regularity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/regularity/"
+                href="https://monicacortinas.net/en/tags/regularity/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2010_jmt/</loc>
+    <loc>https://monicacortinas.net/en/publication/2010_jmt/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2010_jmt/"
+                href="https://monicacortinas.net/publication/2010_jmt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2010_jmt/"
+                href="https://monicacortinas.net/en/publication/2010_jmt/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/grocery-shopping/</loc>
+    <loc>https://monicacortinas.net/en/tags/grocery-shopping/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/grocery-shopping/"
+                href="https://monicacortinas.net/tags/grocery-shopping/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/grocery-shopping/"
+                href="https://monicacortinas.net/en/tags/grocery-shopping/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/pricing/</loc>
+    <loc>https://monicacortinas.net/en/tags/pricing/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/pricing/"
+                href="https://monicacortinas.net/tags/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/pricing/"
+                href="https://monicacortinas.net/en/tags/pricing/"
                 />
   </url>
   
   <url>
-    <loc>/en/project/retailers-strategy/</loc>
+    <loc>https://monicacortinas.net/en/project/retailers-strategy/</loc>
     <lastmod>2010-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/project/retailers-strategy/"
+                href="https://monicacortinas.net/project/retailers-strategy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/retailers-strategy/"
+                href="https://monicacortinas.net/en/project/retailers-strategy/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/choice-analysis/</loc>
+    <loc>https://monicacortinas.net/en/tags/choice-analysis/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/choice-analysis/"
+                href="https://monicacortinas.net/tags/choice-analysis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/choice-analysis/"
+                href="https://monicacortinas.net/en/tags/choice-analysis/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/designation-of-origin/</loc>
+    <loc>https://monicacortinas.net/en/tags/designation-of-origin/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/designation-of-origin/"
+                href="https://monicacortinas.net/tags/designation-of-origin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/designation-of-origin/"
+                href="https://monicacortinas.net/en/tags/designation-of-origin/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/experience/</loc>
+    <loc>https://monicacortinas.net/en/tags/experience/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/experience/"
+                href="https://monicacortinas.net/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/experience/"
+                href="https://monicacortinas.net/en/tags/experience/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/objective-knowledge/</loc>
+    <loc>https://monicacortinas.net/en/tags/objective-knowledge/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/objective-knowledge/"
+                href="https://monicacortinas.net/tags/objective-knowledge/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/objective-knowledge/"
+                href="https://monicacortinas.net/en/tags/objective-knowledge/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2009_fqp/</loc>
+    <loc>https://monicacortinas.net/en/publication/2009_fqp/</loc>
     <lastmod>2009-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2009_fqp/"
+                href="https://monicacortinas.net/publication/2009_fqp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2009_fqp/"
+                href="https://monicacortinas.net/en/publication/2009_fqp/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/brand-choice-problem/</loc>
+    <loc>https://monicacortinas.net/en/tags/brand-choice-problem/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/brand-choice-problem/"
+                href="https://monicacortinas.net/tags/brand-choice-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/brand-choice-problem/"
+                href="https://monicacortinas.net/en/tags/brand-choice-problem/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/customer-databases/</loc>
+    <loc>https://monicacortinas.net/en/tags/customer-databases/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/customer-databases/"
+                href="https://monicacortinas.net/tags/customer-databases/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/customer-databases/"
+                href="https://monicacortinas.net/en/tags/customer-databases/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/customer-loyalty-programs/</loc>
+    <loc>https://monicacortinas.net/en/tags/customer-loyalty-programs/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/customer-loyalty-programs/"
+                href="https://monicacortinas.net/tags/customer-loyalty-programs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/customer-loyalty-programs/"
+                href="https://monicacortinas.net/en/tags/customer-loyalty-programs/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2008_jrcs/</loc>
+    <loc>https://monicacortinas.net/en/publication/2008_jrcs/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2008_jrcs/"
+                href="https://monicacortinas.net/publication/2008_jrcs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2008_jrcs/"
+                href="https://monicacortinas.net/en/publication/2008_jrcs/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2007_qme/</loc>
+    <loc>https://monicacortinas.net/en/publication/2007_qme/</loc>
     <lastmod>2007-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2007_qme/"
+                href="https://monicacortinas.net/publication/2007_qme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2007_qme/"
+                href="https://monicacortinas.net/en/publication/2007_qme/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/asparagus/</loc>
+    <loc>https://monicacortinas.net/en/tags/asparagus/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/asparagus/"
+                href="https://monicacortinas.net/tags/asparagus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/asparagus/"
+                href="https://monicacortinas.net/en/tags/asparagus/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2007_earn/</loc>
+    <loc>https://monicacortinas.net/en/publication/2007_earn/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2007_earn/"
+                href="https://monicacortinas.net/publication/2007_earn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2007_earn/"
+                href="https://monicacortinas.net/en/publication/2007_earn/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/market-segmentation/</loc>
+    <loc>https://monicacortinas.net/en/tags/market-segmentation/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/market-segmentation/"
+                href="https://monicacortinas.net/tags/market-segmentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/market-segmentation/"
+                href="https://monicacortinas.net/en/tags/market-segmentation/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/artificial-neural-networks/</loc>
+    <loc>https://monicacortinas.net/en/tags/artificial-neural-networks/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/artificial-neural-networks/"
+                href="https://monicacortinas.net/tags/artificial-neural-networks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/artificial-neural-networks/"
+                href="https://monicacortinas.net/en/tags/artificial-neural-networks/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/choice-models/</loc>
+    <loc>https://monicacortinas.net/en/tags/choice-models/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/choice-models/"
+                href="https://monicacortinas.net/tags/choice-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/choice-models/"
+                href="https://monicacortinas.net/en/tags/choice-models/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2006_esic/</loc>
+    <loc>https://monicacortinas.net/en/publication/2006_esic/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2006_esic/"
+                href="https://monicacortinas.net/publication/2006_esic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2006_esic/"
+                href="https://monicacortinas.net/en/publication/2006_esic/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/multinomial-logit/</loc>
+    <loc>https://monicacortinas.net/en/tags/multinomial-logit/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/multinomial-logit/"
+                href="https://monicacortinas.net/tags/multinomial-logit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/multinomial-logit/"
+                href="https://monicacortinas.net/en/tags/multinomial-logit/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/scanner-data/</loc>
+    <loc>https://monicacortinas.net/en/tags/scanner-data/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/scanner-data/"
+                href="https://monicacortinas.net/tags/scanner-data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/scanner-data/"
+                href="https://monicacortinas.net/en/tags/scanner-data/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/loyalty-cards/</loc>
+    <loc>https://monicacortinas.net/en/tags/loyalty-cards/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/loyalty-cards/"
+                href="https://monicacortinas.net/tags/loyalty-cards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/loyalty-cards/"
+                href="https://monicacortinas.net/en/tags/loyalty-cards/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2005_erd/</loc>
+    <loc>https://monicacortinas.net/en/publication/2005_erd/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2005_erd/"
+                href="https://monicacortinas.net/publication/2005_erd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2005_erd/"
+                href="https://monicacortinas.net/en/publication/2005_erd/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/consumer-satisfaction/</loc>
+    <loc>https://monicacortinas.net/en/tags/consumer-satisfaction/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/consumer-satisfaction/"
+                href="https://monicacortinas.net/tags/consumer-satisfaction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/consumer-satisfaction/"
+                href="https://monicacortinas.net/en/tags/consumer-satisfaction/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/productivity/</loc>
+    <loc>https://monicacortinas.net/en/tags/productivity/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/productivity/"
+                href="https://monicacortinas.net/tags/productivity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/productivity/"
+                href="https://monicacortinas.net/en/tags/productivity/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2004_irrdcra/</loc>
+    <loc>https://monicacortinas.net/en/publication/2004_irrdcra/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2004_irrdcra/"
+                href="https://monicacortinas.net/publication/2004_irrdcra/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2004_irrdcra/"
+                href="https://monicacortinas.net/en/publication/2004_irrdcra/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/retailing-services/</loc>
+    <loc>https://monicacortinas.net/en/tags/retailing-services/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/retailing-services/"
+                href="https://monicacortinas.net/tags/retailing-services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/retailing-services/"
+                href="https://monicacortinas.net/en/tags/retailing-services/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/store-loyalty/</loc>
+    <loc>https://monicacortinas.net/en/tags/store-loyalty/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/store-loyalty/"
+                href="https://monicacortinas.net/tags/store-loyalty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/store-loyalty/"
+                href="https://monicacortinas.net/en/tags/store-loyalty/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/structural-equation-modelling/</loc>
+    <loc>https://monicacortinas.net/en/tags/structural-equation-modelling/</loc>
     <lastmod>2004-11-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/structural-equation-modelling/"
+                href="https://monicacortinas.net/tags/structural-equation-modelling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/structural-equation-modelling/"
+                href="https://monicacortinas.net/en/tags/structural-equation-modelling/"
                 />
   </url>
   
   <url>
-    <loc>/en/authors/carmen-bern%C3%A9/</loc>
+    <loc>https://monicacortinas.net/en/authors/carmen-bern%C3%A9/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/authors/carmen-bern%C3%A9/"
+                href="https://monicacortinas.net/authors/carmen-bern%C3%A9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/carmen-bern%C3%A9/"
+                href="https://monicacortinas.net/en/authors/carmen-bern%C3%A9/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/occasional-shoppers/</loc>
+    <loc>https://monicacortinas.net/en/tags/occasional-shoppers/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/occasional-shoppers/"
+                href="https://monicacortinas.net/tags/occasional-shoppers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/occasional-shoppers/"
+                href="https://monicacortinas.net/en/tags/occasional-shoppers/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/price-elasticity/</loc>
+    <loc>https://monicacortinas.net/en/tags/price-elasticity/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/price-elasticity/"
+                href="https://monicacortinas.net/tags/price-elasticity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/price-elasticity/"
+                href="https://monicacortinas.net/en/tags/price-elasticity/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/promotions/</loc>
+    <loc>https://monicacortinas.net/en/tags/promotions/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/promotions/"
+                href="https://monicacortinas.net/tags/promotions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/promotions/"
+                href="https://monicacortinas.net/en/tags/promotions/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/regular-customers/</loc>
+    <loc>https://monicacortinas.net/en/tags/regular-customers/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/tags/regular-customers/"
+                href="https://monicacortinas.net/tags/regular-customers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/regular-customers/"
+                href="https://monicacortinas.net/en/tags/regular-customers/"
                 />
   </url>
   
   <url>
-    <loc>/en/publication/2004_irrdcrb/</loc>
+    <loc>https://monicacortinas.net/en/publication/2004_irrdcrb/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/publication/2004_irrdcrb/"
+                href="https://monicacortinas.net/publication/2004_irrdcrb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/2004_irrdcrb/"
+                href="https://monicacortinas.net/en/publication/2004_irrdcrb/"
                 />
   </url>
   

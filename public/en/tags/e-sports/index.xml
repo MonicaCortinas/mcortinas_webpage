@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>e-sports on Mónica Cortiñas</title>
-    <link>/en/tags/e-sports/</link>
+    <link>https://monicacortinas.net/en/tags/e-sports/</link>
     <description>Recent content in e-sports on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Mónica Cortiñas &amp;copy; 2021</copyright>
+    <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
     <lastBuildDate>Sat, 27 May 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/en/tags/e-sports/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://monicacortinas.net/en/tags/e-sports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mobile and traditional videogames</title>
-      <link>/en/project/mobile-games/</link>
+      <link>https://monicacortinas.net/en/project/mobile-games/</link>
       <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/project/mobile-games/</guid>
+      <guid>https://monicacortinas.net/en/project/mobile-games/</guid>
       <description>&lt;p&gt;In this ongoing project, in which a doctoral thesis is being developed, we analyze the relationship and the differences between the consumption of video games on mobile platforms and traditional platforms.&lt;/p&gt;
 </description>
     </item>
