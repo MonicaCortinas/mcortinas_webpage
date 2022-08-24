@@ -1,18 +1,10 @@
 ---
 authors:
 - admin
-bio: 
-education:
-  courses:
-  - course: Doctorado en Administración y Dirección de Empresas
-    institution: Universidad Pública de Navarra
-    year: 2003
-  - course: Licenciatura en Administración y Dirección de Empresas
-    institution: Universidad Pública de Navarra
-    year: 1996  
 email: "mcortinas@unavarra.es"
 interests:
-- <i class="fas fa-shopping-cart"></i> Comercio Electrónico 
+- <i class="fas fa-shopping-cart"></i> Marketing 
+- <i class="fas fa-at"></i> Comercio Electrónico 
 - <i class="fas fa-digital-tachograph"></i> Nuevas tecnologías 
 - <i class="fas fa-chalkboard"></i> Innovación docente 
 - <i class="fab fa-r-project"></i> Programadora aficionada
@@ -21,7 +13,6 @@ name: Mónica Cortiñas
 organizations:
 - name: Universidad Pública de Navarra
   url: "http://www.unavarra.es/"
-role: Profesora de Marketing
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Profesora de Marketing en la Universidad Pública de Navarra.
+Profesora Titular Comercialización e Investigación de Mercados
