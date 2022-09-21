@@ -6,7 +6,7 @@ authors:
 - Cebollada, Javier
 - admin
 date: "2022-01-29T00:00:00Z"
-featured: true
+featured: false
 projects:
 - mobile-games
 publication: "PLOS ONE"

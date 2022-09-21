@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://monicacortinas.net/en/authors/admin/</loc>
-    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -29,6 +29,171 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://monicacortinas.net/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication_types/3/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/tags/artificial-intelligence/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/authors/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/authors/cai-xiaowei/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/cai-xiaowei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/cai-xiaowei/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/authors/cebollada-javier/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/cebollada-javier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/cebollada-javier/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication/2022_jrcs/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication/2022_jrcs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication/2022_jrcs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/tags/mobile-gaming/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/mobile-gaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/mobile-gaming/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication_types/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/publication/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/en/tags/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/"
                 />
   </url>
   
@@ -44,36 +209,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://monicacortinas.net/en/authors/alvaro-saavedra/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/tags/artificial-intelligence/</loc>
-    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/artificial-intelligence/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/authors/</loc>
-    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/authors/"
                 />
   </url>
   
@@ -104,21 +239,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://monicacortinas.net/en/talk/2022_airsi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/</loc>
-    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/"
                 />
   </url>
   
@@ -168,36 +288,6 @@
   </url>
   
   <url>
-    <loc>https://monicacortinas.net/en/tags/</loc>
-    <lastmod>2022-07-12T15:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/publication_types/3/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/publication_types/3/"
-                />
-  </url>
-  
-  <url>
     <loc>https://monicacortinas.net/en/publication/2022_plos-one/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -209,81 +299,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://monicacortinas.net/en/publication/2022_plos-one/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/authors/cai-xiaowei/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/authors/cai-xiaowei/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/authors/cai-xiaowei/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/authors/cebollada-javier/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/authors/cebollada-javier/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/authors/cebollada-javier/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/tags/mobile-gaming/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/mobile-gaming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/mobile-gaming/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/publication_types/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/en/publication/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/publication/"
                 />
   </url>
   
