@@ -6,13 +6,13 @@ authors:
 - Cebollada, Javier
 - admin
 date: "2022-09-20T00:00:00Z"
-featured: true
+featured: false
 projects:
 - mobile-games
 publication: "Journal of Retailing and Consumer Services"
 publication_short: "JRCS"
 publication_types:
-- "3"
+- "2"
 publishDate: "2022-29-01T00:00:00Z"
 tags:
 - Mobile gaming
