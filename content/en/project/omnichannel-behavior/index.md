@@ -5,13 +5,13 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 slides: 
-summary: What does omnichannel behavior mean? What implications does it have for retailers?
+summary: ¿Qué significa el comportamiento omnicanal?¿Qué implicaciones tiene?
 tags:
 - Omnichannel behavior
 - e-commerce
 - Online shopping
 - Customer journey
-- Current
+- Finalizado
 title: Omnichannel behavior
 url_code: ""
 url_pdf: ""
@@ -19,4 +19,4 @@ url_slides: ""
 url_video: ""
 ---
 
-The so-called omnichannel phenomenon has had an exponential growth in the last decade. In this project we explore how we can characterize it and what implications it has for retailing strategy.
+El denominado fenómeno omnicanal ha tenido un crecimiento exponencial en la última década. En este proyecto exploramos cómo podemos caracterizarlo y qué implicaciones tiene para la estrategia en retailing.

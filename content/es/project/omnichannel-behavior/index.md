@@ -11,7 +11,7 @@ tags:
 - e-commerce
 - Online shopping
 - Customer journey
-- En curso
+- Finalizado
 title: Omnichannel behavior
 url_code: ""
 url_pdf: ""

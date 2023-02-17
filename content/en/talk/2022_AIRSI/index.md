@@ -17,6 +17,7 @@ location: "Zaragoza, Spain"
 math: true
 projects:
 - artificial-intelligence
+- affective-computing
 publishDate: "2022-07-12T00:00:00Z"
 links:
 - name: AIRSI 2022

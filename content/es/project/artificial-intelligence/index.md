@@ -1,5 +1,5 @@
 ---
-date: "2019-06-06T00:00:00Z"
+date: "2019-12-06T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Franck V. on Unsplash
@@ -23,3 +23,7 @@ El desarrollo de la inteligencia artificial está teniendo un impacto important�
 
 En este proyecto estamos trabajando en desarrollar las implicaciones del desarrollo de la inteligencia artificial para el marketing y el retailing, especialmente en el ámbito del e-commerce.
 
+Dos subproyectos en este ámbito en los que participo como Investigadora Principal están siendo financiados por la Agencia Estatal de Investigación:
+
+- [Proyecto Aimark 2020-2024](https://sites.google.com/view/aimark/home) PID2019-108554RB-I00 financiado por MCIN/ AEI/10.13039/501100011033/ 
+- [Proyecto INAVI 2022-2024](https://sites.google.com/view/pted/home) TED2021-129513B-C21 financiado por MCIN/ AEI/10.13039/501100011033/ 

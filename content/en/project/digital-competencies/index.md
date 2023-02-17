@@ -23,14 +23,14 @@ Con este proyecto pretendemos contribuir al diagnóstico y la mejora de las **co
 
 En concreto, pretendemos colaborar respondiendo a las siguientes preguntas:
 
-- \- ¿Cuál es el **grado** de competencia digital en los y las docentes?
-- \- ¿Existen **diferencias** por **género**?, ¿y por **edad**?
-- \- ¿Existen diferencias según el **nivel de enseñanza**?
+- ¿Cuál es el **grado** de competencia digital en los y las docentes?
+- ¿Existen **diferencias** por **género**?, ¿y por **edad**?
+- ¿Existen diferencias según el **nivel de enseñanza**?
 
 ### Aportaciones
 
 Con este proyecto esperamos realizar aportaciones relevantes para tres grupos de interés de la sociedad navarra:
 
-- \- El departamento de Educación del Gobierno de Navarra al poder **adaptar la oferta formativa** a las necesidades concretas del profesorado y tomar decisiones en política de formación inicial y a lo largo de la carrera profesional del profesorado más acertadas.
-- \- El profesorado, **mejorando el perfil profesional** de los y las docentes para la era digital y, consecuentemente,
-- \- Los y las estudiantes al aumentar la **calidad de la educación** más acorde con la sociedad digital. Además, en este último grupo de interés se espera contribuir en el “refuerzo de las competencias digitales del alumnado” que se propone en el Plan Estratégico de Formación Profesional de Navarra (2017-2020).
+- El departamento de Educación del Gobierno de Navarra al poder **adaptar la oferta formativa** a las necesidades concretas del profesorado y tomar decisiones en política de formación inicial y a lo largo de la carrera profesional del profesorado más acertadas.
+- El profesorado, **mejorando el perfil profesional** de los y las docentes para la era digital y, consecuentemente,
+- Los y las estudiantes al aumentar la **calidad de la educación** más acorde con la sociedad digital. Además, en este último grupo de interés se espera contribuir en el “refuerzo de las competencias digitales del alumnado” que se propone en el Plan Estratégico de Formación Profesional de Navarra (2017-2020).

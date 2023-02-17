@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Mónica Cortiñas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://monicacortinas.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,99 @@
     <item>
       <title>Artificial Intelligence</title>
       <link>https://monicacortinas.net/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>https://monicacortinas.net/tags/e-commerce/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Interaction</title>
+      <link>https://monicacortinas.net/tags/emotional-interaction/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/emotional-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En curso</title>
+      <link>https://monicacortinas.net/tags/en-curso/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/en-curso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuromarketing</title>
+      <link>https://monicacortinas.net/tags/neuromarketing/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/neuromarketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation bots</title>
+      <link>https://monicacortinas.net/tags/recommendation-bots/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/recommendation-bots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer journey</title>
+      <link>https://monicacortinas.net/tags/customer-journey/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/customer-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental design</title>
+      <link>https://monicacortinas.net/tags/experimental-design/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/experimental-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eye-tracking</title>
+      <link>https://monicacortinas.net/tags/eye-tracking/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omnichannel strategy</title>
+      <link>https://monicacortinas.net/tags/omnichannel-strategy/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/omnichannel-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purchase task</title>
+      <link>https://monicacortinas.net/tags/purchase-task/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/tags/purchase-task/</guid>
       <description></description>
     </item>
     
@@ -147,42 +237,6 @@
     </item>
     
     <item>
-      <title>Customer journey</title>
-      <link>https://monicacortinas.net/tags/customer-journey/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/customer-journey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>e-commerce</title>
-      <link>https://monicacortinas.net/tags/e-commerce/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>omnichannel strategy</title>
-      <link>https://monicacortinas.net/tags/omnichannel-strategy/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/omnichannel-strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>purchase task</title>
-      <link>https://monicacortinas.net/tags/purchase-task/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/purchase-task/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>omnichannel</title>
       <link>https://monicacortinas.net/tags/omnichannel/</link>
       <pubDate>Tue, 10 Dec 2019 11:30:00 +0000</pubDate>
@@ -309,15 +363,6 @@
     </item>
     
     <item>
-      <title>eye-tracking</title>
-      <link>https://monicacortinas.net/tags/eye-tracking/</link>
-      <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/eye-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>visual attention</title>
       <link>https://monicacortinas.net/tags/visual-attention/</link>
       <pubDate>Wed, 03 Jul 2019 13:00:00 +0000</pubDate>
@@ -350,33 +395,6 @@
       <pubDate>Mon, 17 Jun 2019 08:26:17 +0200</pubDate>
       
       <guid>https://monicacortinas.net/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>En curso</title>
-      <link>https://monicacortinas.net/tags/en-curso/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/en-curso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommendation bots</title>
-      <link>https://monicacortinas.net/tags/recommendation-bots/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/recommendation-bots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experimental design</title>
-      <link>https://monicacortinas.net/tags/experimental-design/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/tags/experimental-design/</guid>
       <description></description>
     </item>
     
