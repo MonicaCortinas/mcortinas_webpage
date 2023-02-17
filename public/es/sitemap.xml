@@ -30,6 +30,16 @@
   <url>
     <loc>https://monicacortinas.net/project/affective-computing/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/project/affective-computing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/project/affective-computing/"
+                />
   </url>
   
   <url>
@@ -65,11 +75,31 @@
   <url>
     <loc>https://monicacortinas.net/tags/emotional-interaction/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/emotional-interaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/emotional-interaction/"
+                />
   </url>
   
   <url>
     <loc>https://monicacortinas.net/tags/en-curso/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/en-curso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/en-curso/"
+                />
   </url>
   
   <url>
@@ -90,6 +120,16 @@
   <url>
     <loc>https://monicacortinas.net/tags/neuromarketing/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/neuromarketing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/neuromarketing/"
+                />
   </url>
   
   <url>

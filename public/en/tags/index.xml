@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2022</copyright>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://monicacortinas.net/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://monicacortinas.net/en/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-commerce</title>
+      <link>https://monicacortinas.net/en/tags/e-commerce/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Interaction</title>
+      <link>https://monicacortinas.net/en/tags/emotional-interaction/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/emotional-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En curso</title>
+      <link>https://monicacortinas.net/en/tags/en-curso/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/en-curso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuromarketing</title>
+      <link>https://monicacortinas.net/en/tags/neuromarketing/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/neuromarketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation bots</title>
+      <link>https://monicacortinas.net/en/tags/recommendation-bots/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/recommendation-bots/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Customer journey</title>
@@ -18,15 +72,6 @@
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/tags/customer-journey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>e-commerce</title>
-      <link>https://monicacortinas.net/en/tags/e-commerce/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/en/tags/e-commerce/</guid>
       <description></description>
     </item>
     
@@ -63,15 +108,6 @@
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/tags/purchase-task/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://monicacortinas.net/en/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/en/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -220,24 +256,6 @@
     </item>
     
     <item>
-      <title>Current</title>
-      <link>https://monicacortinas.net/en/tags/current/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/en/tags/current/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommendation bots</title>
-      <link>https://monicacortinas.net/en/tags/recommendation-bots/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/en/tags/recommendation-bots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Channel Policies</title>
       <link>https://monicacortinas.net/en/tags/channel-policies/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -324,6 +342,15 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current</title>
+      <link>https://monicacortinas.net/en/tags/current/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/current/</guid>
       <description></description>
     </item>
     
