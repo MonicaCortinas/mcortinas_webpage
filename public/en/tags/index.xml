@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2023</copyright>
-    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://monicacortinas.net/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Artificial Intelligence</title>
       <link>https://monicacortinas.net/en/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/tags/artificial-intelligence/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>e-commerce</title>
       <link>https://monicacortinas.net/en/tags/e-commerce/</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAPAs</title>
+      <link>https://monicacortinas.net/en/tags/vapas/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/tags/vapas/</guid>
       <description></description>
     </item>
     

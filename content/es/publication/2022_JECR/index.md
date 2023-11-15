@@ -6,7 +6,7 @@ authors:
 - admin
 - Villanueva, Arantxa
 date: "2022-11-29T00:00:00Z"
-featured: true
+featured: false
 projects:
 - [eyetracking-visualattention ]
 publication: "Journal of Electronic Commerce Research"
