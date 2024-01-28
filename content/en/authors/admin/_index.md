@@ -41,4 +41,4 @@ user_groups:
 - Visitors
 ---
 
-Marketing Professor 
+Full Professor of Marketing

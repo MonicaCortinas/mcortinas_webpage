@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Profesora Titular Comercialización e Investigación de Mercados
+Catedrática en el área de Comercialización e Investigación de Mercados
