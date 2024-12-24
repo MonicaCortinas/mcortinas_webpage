@@ -1,11 +1,11 @@
 ---
 authors:
 - admin
-email: "mcortinas@unavarra.es"
+email: "monica.cortinas@unavarra.es"
 interests:
 - <i class="fas fa-shopping-cart"></i> Marketing 
-- <i class="fas fa-at"></i> Comercio Electrónico 
-- <i class="fas fa-digital-tachograph"></i> Nuevas tecnologías 
+- <i class="fas fa-at"></i> Comportamiento del Consumidor 
+- <i class="fas fa-digital-tachograph"></i> Inteligencia Artificial 
 - <i class="fas fa-chalkboard"></i> Innovación docente 
 - <i class="fab fa-r-project"></i> Programadora aficionada
 
@@ -16,7 +16,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mcortinas@unavarra.es'
+  link: 'mailto:monica.cortinas@unavarra.es'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MonicaCortinas
@@ -32,9 +32,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MonicaCortinas
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/mcortinasu/ 
   
 superuser: true
 user_groups:
@@ -42,4 +39,8 @@ user_groups:
 - Visitors
 ---
 
-Catedrática en el área de Comercialización e Investigación de Mercados
+Bienvenido a mi página personal.<br>
+Soy Mónica Cortiñas, Catedrática de Comercialización e Investigación de Mercados en la Universidad Pública de Navarra. 
+Mis pasiones incluyen investigar sobre marketing digital, inteligencia artificial y comportamiento del consumidor, en esta página puedes encontrar mis proyectos y publicaciones. 
+Además, combino mi labor investigadora y docente con la dirección del Área de Planificación Estratégica en la UPNA.
+

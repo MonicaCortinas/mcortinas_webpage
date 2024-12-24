@@ -4,7 +4,7 @@ authors:
 email: "mcortinas@unavarra.es"
 interests:
 - <i class="fas fa-shopping-cart"></i> Marketing 
-- <i class="fas fa-at"></i> e-commerce 
+- <i class="fas fa-at"></i> Artificial Intelligence 
 - <i class="fas fa-digital-tachograph"></i> Information technology 
 - <i class="fas fa-chalkboard"></i> Teaching innovation 
 - <i class="fab fa-r-project"></i> Amateur programmer
@@ -16,7 +16,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mcortinas@unavarra.es'
+  link: 'mailto:monica.cortinas@unavarra.es'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MonicaCortinas
@@ -32,13 +32,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MonicaCortinas
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/mcortinasu/ 
+
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Full Professor of Marketing
+I’m Mónica Cortiñas, Full Professor of Marketing at the Public University of Navarra.<br>
+My passions include researching digital marketing, artificial intelligence, and consumer behavior, areas where I’ve published over 30 scientific articles. I also combine my teaching duties with leading the Strategic Planning Area at UPNA.
