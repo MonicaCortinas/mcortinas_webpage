@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://monicacortinas.net/authors/admin/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,7 +44,7 @@
   
   <url>
     <loc>https://monicacortinas.net/publication_types/2/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,6 +54,186 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://monicacortinas.net/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/authors/arce-marta/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/arce-marta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/arce-marta/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/tags/artificial-intelligence/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/artificial-intelligence/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/authors/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/authors/chocarro-raquel/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/chocarro-raquel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/chocarro-raquel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/tags/e-commerce/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/e-commerce/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/publication/2025_jrcs/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication/2025_jrcs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication/2025_jrcs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/authors/marcos-matas-gustavo/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/authors/marcos-matas-gustavo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/authors/marcos-matas-gustavo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/publication/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/publication_types/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/tags/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://monicacortinas.net/tags/vapas/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monicacortinas.net/en/tags/vapas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monicacortinas.net/tags/vapas/"
                 />
   </url>
   
@@ -73,141 +253,6 @@
   </url>
   
   <url>
-    <loc>https://monicacortinas.net/authors/arce-marta/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/authors/arce-marta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/authors/arce-marta/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/tags/artificial-intelligence/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/artificial-intelligence/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/authors/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/tags/e-commerce/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/e-commerce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/e-commerce/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/publication/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/publication_types/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/tags/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/tags/vapas/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/tags/vapas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/tags/vapas/"
-                />
-  </url>
-  
-  <url>
     <loc>https://monicacortinas.net/publication/2023_jrim/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -219,21 +264,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://monicacortinas.net/publication/2023_jrim/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://monicacortinas.net/authors/chocarro-raquel/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monicacortinas.net/en/authors/chocarro-raquel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monicacortinas.net/authors/chocarro-raquel/"
                 />
   </url>
   

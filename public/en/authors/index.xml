@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Mónica Cortiñas &amp;copy; 2025</copyright>
-    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://monicacortinas.net/en/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://monicacortinas.net/en/authors/admin/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/authors/admin/</guid>
       <description>&lt;p&gt;I’m Mónica Cortiñas, Full Professor of Marketing at the Public University of Navarra.&lt;br&gt;
@@ -24,18 +24,9 @@ My passions include researching digital marketing, artificial intelligence, and 
     </item>
     
     <item>
-      <title>Alzate, Miriam</title>
-      <link>https://monicacortinas.net/en/authors/alzate-miriam/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://monicacortinas.net/en/authors/alzate-miriam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Arce, Marta</title>
       <link>https://monicacortinas.net/en/authors/arce-marta/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/authors/arce-marta/</guid>
       <description></description>
@@ -44,9 +35,27 @@ My passions include researching digital marketing, artificial intelligence, and 
     <item>
       <title>Chocarro, Raquel</title>
       <link>https://monicacortinas.net/en/authors/chocarro-raquel/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://monicacortinas.net/en/authors/chocarro-raquel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos-Matas, Gustavo</title>
+      <link>https://monicacortinas.net/en/authors/marcos-matas-gustavo/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/marcos-matas-gustavo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alzate, Miriam</title>
+      <link>https://monicacortinas.net/en/authors/alzate-miriam/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monicacortinas.net/en/authors/alzate-miriam/</guid>
       <description></description>
     </item>
     

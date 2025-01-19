@@ -23,7 +23,7 @@ authors:
 - Arce, Marta
 - admin
 date: "2023-10-23T00:00:00Z"
-featured: true
+featured: false
 projects:
 - artificial-intelligence
 publication: "Journal of Research in Interactive Marketing"
