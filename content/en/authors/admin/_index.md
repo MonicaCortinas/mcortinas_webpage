@@ -39,5 +39,5 @@ user_groups:
 - Visitors
 ---
 
-I’m Mónica Cortiñas, Full Professor of Marketing at the Public University of Navarra.<br>
-My passions include researching digital marketing, artificial intelligence, and consumer behavior, areas where I’ve published over 30 scientific articles. I also combine my teaching duties with leading the Strategic Planning Area at UPNA.
+I am Mónica Cortiñas, Professor of Marketing and Market Research and Vicerector of Quality, Economics and Strategy at the Public University of Navarra. <br>
+My passions include research on digital marketing, artificial intelligence and consumer behavior, on this page you can find information about our team's projects and publications. 

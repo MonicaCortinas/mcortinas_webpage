@@ -40,7 +40,7 @@ user_groups:
 ---
 
 Bienvenido a mi página personal.<br>
-Soy Mónica Cortiñas, Catedrática de Comercialización e Investigación de Mercados en la Universidad Pública de Navarra. 
-Mis pasiones incluyen investigar sobre marketing digital, inteligencia artificial y comportamiento del consumidor, en esta página puedes encontrar mis proyectos y publicaciones. 
-Además, combino mi labor investigadora y docente con la dirección del Área de Planificación Estratégica en la UPNA.
+Soy Mónica Cortiñas, Catedrática de Comercialización e Investigación de Mercados y Vicerrectora de Calidad, Economía y Estrategia en la Universidad Pública de Navarra. 
+Mis pasiones incluyen investigar sobre marketing digital, inteligencia artificial y comportamiento del consumidor, en esta página puedes encontrar información sobre los proyectos y publicaciones de nuestro equipo. 
+
 
